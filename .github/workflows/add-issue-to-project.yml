@@ -1,0 +1,17 @@
+name: Adds all open issues to project board
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add issue to AIHPI project board
+        uses: actions/add-to-project@v0.3.0
+        with:
+          project-url: https://github.com/orgs/aihpi/projects/3
+          github-token: ${{ secrets.ADD_ISSUE_TO_PROJECT }}
