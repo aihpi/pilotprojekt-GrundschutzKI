@@ -1,0 +1,9 @@
+[project]
+name = "pilotprojekt-grundschutzki"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "lxml>=6.0.2",
+    "pymupdf>=1.26.7",
+]
