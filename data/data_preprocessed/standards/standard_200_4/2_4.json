@@ -1,0 +1,21 @@
+{
+  "id": "2_4",
+  "header": "2.4 Abgrenzung und Synergien",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.4",
+      "title": "Abgrenzung und Synergien"
+    }
+  ],
+  "content": "Wie bereits in Kapitel 1.2 Zielsetzung dargestellt, tragen eine Reihe von Themen und \nManagementsystemen dazu bei, eine organisatorische Resilienz aufzubauen. In diesem \nSinne ist es auch nicht zielführend, ein BCMS als Insellösung zu betrachten, sondern es \nbedarf einer Gesamtsicherheitsstrategie, in der alle wesentlichen Themen zur organisato­\nrischen Resilienz zusammen betrachtet werden. Ein BCMS sollte im Rahmen einer sol­\nchen Gesamtsicherheitsstrategie in der Institution etabliert werden. Zusammen mit den \nnachfolgend aufgeführten Managementsystemen und Sicherheitsthemen trägt das BCM \nmaßgeblich dazu bei, die Institution resilient gegenüber den unterschiedlichsten Arten \nvon Risiken, Ausfall- und Schadensszenarien zu machen.\n\nDie größten thematischen Überschneidungspunkte besitzt das BCM zu den Manage­\nmentsystemen und Disziplinen ISMS, ITSCM, Krisenmanagement und Outsourcing. Diese \nManagementsysteme werden für den Aufbau und Betrieb eines BCMS jedoch nicht vo­\nrausgesetzt.\n\nDie nachfolgenden Kapitel erläutern die wesentlichen Gemeinsamkeiten und Unter­\nschiede zwischen den aufgeführten Managementsystemen. Diese Informationen werden \nin den weiteren Kapiteln dieses Standards um Synergieboxen ergänzt (siehe hierzu auch \nKapitel 1.3 Anwendungsweise). Synergieboxen zeigen auf, welche konkreten Möglich­\nkeiten bestehen, um die Arbeit mit den angrenzenden Managementsystemen und Dis­\nziplinen zu erleichtern oder abzustimmen.",
+  "pages": {
+    "start": 29,
+    "end": 29
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

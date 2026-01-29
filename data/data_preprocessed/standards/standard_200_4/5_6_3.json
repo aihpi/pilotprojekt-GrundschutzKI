@@ -1,0 +1,31 @@
+{
+  "id": "5_6_3",
+  "header": "5.6.3 Festlegung eines Stabsraums (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.6",
+      "title": "Herstellung der Fähigkeit zur Stabsarbeit (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.6.3",
+      "title": "Festlegung eines Stabsraums (R+AS)"
+    }
+  ],
+  "content": "Eskaliert ein Ereignis zu einem Notfall, werden die Mitglieder des Stabes umgehend in­\nformiert und treffen sich an einem zuvor festgelegten Ort, dem Stabsraum. Der Stabs­\nraum dient dem Stab als Arbeitsumgebung, an die besondere Anforderungen gestellt \nwerden, die im Nachfolgenden näher erläutert werden.",
+  "pages": {
+    "start": 132,
+    "end": 133
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

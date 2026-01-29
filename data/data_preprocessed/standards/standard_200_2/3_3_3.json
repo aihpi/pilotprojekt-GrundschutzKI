@@ -1,0 +1,31 @@
+{
+  "id": "3_3_3",
+  "header": "3.3.3 Standard-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.3",
+      "title": "Entscheidung für Vorgehensweise"
+    },
+    {
+      "level": 3,
+      "number": "3.3.3",
+      "title": "Standard-Absicherung"
+    }
+  ],
+  "content": "Die Standard-Absicherung entspricht im Wesentlichen der klassischen IT-Grundschutz-Vorgehenswei­\nse nach BSI-Standard 100-2. Mit der Standard-Absicherung kann eine Institution umfassend und tief-\ngehend abgesichert werden. Dies sollte grundsätzlich das Ziel jeglicher Anwendung des IT-Grund­\nschutzes sein, auch wenn zuvor zunächst eine der beiden bereits genannten anderen Vorgehenswei­\nsen gewählt wurde. Ein direkter Einstieg in den Sicherheitsprozess mit der Standard-Absicherung ist \nempfehlenswert, wenn für die Institution die folgenden Punkte überwiegend zutreffen:\n\n•  Die Institution arbeitet bereits mit dem IT-Grundschutz.\n\n•  Es wurden schon Sicherheitskonzepte nach IT-Grundschutz oder ISO 27001 erstellt.\n\n•  Die Umsetzung von Informationssicherheit hat in der Institution bereits einen ausreichenden Rei­\nfegrad erreicht, sodass in wesentlichen Bereichen bereits Sicherheitsmaßnahmen vorhanden sind \nund keine grundlegende Erst-Absicherung mehr notwendig ist.\n\n•  Es besteht kein Handlungsbedarf, einzelne Geschäftsprozesse vordringlich abzusichern, die ein \ndeutlich höheres Gefährdungspotenzial bezüglich der Informationssicherheit besitzen (vergleiche \nKern-Absicherung).\n\n•  DieInstitutionhatkeineAssets,derenDiebstahl,ZerstörungoderKompromittierungeinen unmittelbar \nexistenzbedrohenden Schaden nach sich ziehen könnte und die daher vorrangig abgesichert werden \nsollten.\n\n•  Sicherheitsvorfälle, die wahrnehmbar die Aufgabenerfüllung beeinträchtigen, Geld kosten oder \nanderweitig erkennbaren Schaden verursachen, sind für die Institution nicht akzeptabel, auch \nwenn sie noch keinen existenzbedrohenden Schaden verursachen.\n\nDie Standard-Absicherung ist die Vorgehensweise, die grundsätzlich angestrebt werden sollte, um alle \nBereiche einer Institution angemessen und umfassend zu schützen. Auch für eine angestrebte Zerti­\nfizierung des Informationsverbunds nach ISO 27001 ist diese Vorgehensweise (bzw. die Kern-Absi­\ncherung) die erforderliche Grundlage.",
+  "pages": {
+    "start": 30,
+    "end": 30
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

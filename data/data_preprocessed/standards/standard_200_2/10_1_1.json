@@ -1,0 +1,26 @@
+{
+  "id": "10_1_1",
+  "header": "10.1.1 Überprüfung anhand von Kennzahlen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "10.1.1",
+      "title": "Überprüfung anhand von Kennzahlen"
+    }
+  ],
+  "content": "Kennzahlen werden in der Informationssicherheit eingesetzt, um den IS-Prozess bzw. Teilaspekte da­\nvon messbar zu machen. Sie dienen dazu, den Prozess zu optimieren und Güte, Effizienz und Effek­\ntivität der vorhandenen Sicherheitsmaßnahmen zu überprüfen.\n\nMessungen und Kennzahlen dienen häufig der Kommunikation mit dem Management und können \ndem Informationssicherheitsmanagement wertvolle Argumentationshilfen liefern. Daher ist es wich­\ntig, Messwerkzeuge so auszuwählen und durchgeführte Messungen so aufzubereiten, dass sie in das \nstrategische Umfeld der eigenen Institution passen.\n\nKennzahlen zu ermitteln, bedeutet immer auch Aufwand. Dieser sollte in einer vernünftigen Relation \nzu den erhofften bzw. erzielten Ergebnissen stehen. Kennzahlen haben eine begrenzte Aussagekraft, \nda damit einzelne, meist wenige Bereiche der Informationssicherheit punktuell beleuchtet werden, \nnämlich meist diejenigen, in denen sich leicht Messwerte erzielen lassen. Dies betrifft im Allgemeinen \ndie technische Sicherheit, bei der über Sensoren automatisiert Messwerte zurückgemeldet werden \nkönnen, und andere, leicht quantifizierbare Aussagen, wie z. B.\n\n• Anzahl der erkannten Schadsoftware-Muster,\n\n• Anzahl der installierten Sicherheitspatches,\n\n• Dauer der Systemausfälle,\n\n• Anzahl der durchgeführten Sicherheitsschulungen.\n\nKennzahlen lassen sich immer unterschiedlich interpretieren, wichtig ist daher, dass im Vorfeld klar ist, \nwelches Ziel mit Messungen verfolgt wird und wie und mit welchem Aufwand dies erreicht werden \nsoll. Gegen dieses Ziel kann dann gemessen werden.",
+  "pages": {
+    "start": 165,
+    "end": 165
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

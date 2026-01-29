@@ -1,0 +1,26 @@
+{
+  "id": "8_1_6",
+  "header": "8.1.6 Erhebung der ICS-Systeme",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.6",
+      "title": "Erhebung der ICS-Systeme"
+    }
+  ],
+  "content": "In Institutionen mit Produktion und Fertigung müssen auch die industriellen Steuerungssysteme (ICS), \ndie von der Institution eingesetzt werden, erhoben werden.\n\nOftmals werden in der Produktion und Fertigung neben IT-Systemen noch eine Reihe weiterer Geräte \neingesetzt. Alle ICS-Geräte sollten entsprechend erfasst werden.\n\nIm ICS-Bereich gibt es Arbeitsplatz-PCs, die auch hier zu Gruppen zusammengefasst werden sollten. \nOftmals sind diese PCs mit den gleichen Anwendungen wie die der Büroumgebung ausgestattet.\n\nDarüber hinaus sind auf einigen PCs spezielle Anwendungen installiert. Zu vielen PC-Arbeitsplätzen \ngehört ein Drucker und neben der Standardperipherie (Maus, Tastatur) werden weitere periphere \nEndgeräte (z. B. Handscanner) eingesetzt, die mit den Arbeitsplatz-PCs direkt verbunden sind. Bei \nallen peripheren Endgeräten müssen die Kommunikationsverbindungen (z. B. Bluetooth) ebenfalls \nberücksichtigt werden.\n\nIm Bereich der Produktion und Fertigung werden weitere Endgeräte eingesetzt. Für die industrielle \nSteuerung gibt es spezielle Endgeräte, z. B. Geräte mit speicherprogrammierbaren Steuerungen \n(SPSen), WLAN-Module für Industriemaschinen, selbstfahrende Gabelstapler (Flurfahrzeuge).\n\nBei der Erfassung der ICS-Systeme sollten folgende Informationen vermerkt werden, die für die nach­\nfolgenden Schritte erforderlich sind:\n\n•  eine eindeutige Bezeichnung der ICS-Systeme bzw. der jeweiligen Gerätegruppe (die Anzahl der \nGeräte in den Gruppen sollte ebenfalls vermerkt sein),\n\n•  Beschreibung (Typ und Funktion),\n\n•  Plattform (z. B. Betriebssystem, Art der (Netz-)Anbindung),\n\n•  Aufstellungsort der Geräte (z. B. Gebäude, Halle, Raum)\n\n•  Status der ICS-Systeme (in Betrieb, im Test, in Planung) und\n\n•  Verantwortliche für den Betrieb der ICS-Systeme.\n\nBSI-Standard 200-2\n\nBeispiel: RECPLAST GmbH\n\nIn der folgenden Tabelle sind Beispiele für ICS-Systeme aufgelistet:\n\nA.1 Strukturanalyse der RECPLAST GmbH\n\nBezeich­\nnung \nBeschreibung des Zielobjektes /\nder Gruppe der Zielobjekte \nPlattform /\nBaustein \nOrt \nGebäude \nRaum \nAnzahl \nStatus \nBenutzer \nVerantwortlich /\nAdministrator\n\nS100\n\nSPS:\nDie Maschinensteuerung für die Pro­\nduktionsanlagen wird über die SPS\nprogrammiert. \nSPS \nBonn \nBeuel \nProduk­\ntion \n3 \nin Betrieb \nHaustechnik \nHaustechnik\n\nS101\n\nSCADA:\nDas Computersystem ermöglicht die\nÜberwachung der Produktionsprozes­\nse \nSCADA / HMI \nBonn \nBeuel \nProdukti­\nonshalle \n1 \nin Betrieb \nAlle Mitarbeiter \nHaustechnik\n\nS103\n\nServer für Betriebsdatenerfassung:\nDer Server wird für die Anwendung\nBDE benötigt. Dieser Server ist mit\nden Produtionsanlagen verbunden. \nServer \nunter \nUnix \nBonn \nBeuel \nServer­\nraum \n1 \nin Betrieb \nAlle Mitarbeiter \nIT-Betrieb\n\nAbbildung 17: Auszug aus der Strukturanalyse der RECPLAST GmbH (ICS-Systeme)",
+  "pages": {
+    "start": 95,
+    "end": 97
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

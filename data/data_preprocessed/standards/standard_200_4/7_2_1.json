@@ -1,0 +1,31 @@
+{
+  "id": "7_2_1",
+  "header": "7.2.1 Identifizierung zeitkritischer Geschäftsprozesse (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "7.2",
+      "title": "Durchführung der BIA (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "7.2.1",
+      "title": "Identifizierung zeitkritischer Geschäftsprozesse (R+AS)"
+    }
+  ],
+  "content": "### Bewertung des Schadenspotenzials von Geschäftsprozessen\n\nDas Schadenspotenzial jedes Geschäftsprozesses im GP-Umfang muss anhand der defi­\nnierten Schadensszenarien und Schadenskategorien über verschiedene Zeithorizonte \nhinweg bewertet werden. Dies sollte von den Kontaktpersonen für die Geschäftsprozes­\nse, d. h. von Prozesszuständigen oder Prozessfachleuten durchgeführt werden, da diese \nden Prozess am besten bewerten können und auch die nötige Information bezüglich ei­\nnes Notbetriebs kennen. Je nach Bedarf können weitere Wissenstragende hinzugezogen \nwerden, um das finanzielle Schadenspotenzial zu bewerten, z. B. das Controlling. Für die \nBewertung kann auf die Leitfrage der BIA zurückgegriffen werden, die z. B. in der Work­\nshop-Präsentation oder in der BIA-Anweisung dokumentiert wurde (siehe 7.1.5 Vorberei­\ntung der BIA-Hilfsmittel (R+AS)).\n\nTabelle 18 zeigt beispielhaft eine Bewertung des Schadenspotenzials für einen Ge­\nschäftsprozess anhand der verschiedenen Schadensszenarien. Hierzu werden die BIA-\nParameter zugrunde gelegt, die in der Vorbereitung der BIA im Kapitel 7.1.2 Festlegung \nder BIA-Parameter und betrachteten Zeithorizonte (R+AS) erläutert wurden.\n\nBeispiel: Bewertung des Schadenspotenzials des Geschäftsprozesses „Kund­\nschaftsanfragen bearbeiten“ anhand verschiedener Schadensszenarien\n\nLeitfrage: Wenn der Geschäftsprozess „Kundschaftsanfragen bearbeiten“ ausfällt, \nmit welchem Schadenspotenzial [1 (gering), 2 (mittel), 3 (hoch), 4 (sehr hoch)] ist bei \neinem Ausfall bis zu [24 Stunden, 3 Tage, 7 Tage, 14 Tage, 30 Tage] zu rechnen?\n\nSchadensszenario \n24  \nStunden",
+  "pages": {
+    "start": 175,
+    "end": 176
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

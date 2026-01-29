@@ -1,0 +1,26 @@
+{
+  "id": "10_3",
+  "header": "10.3 Auswahl der BC-Strategien durch die Institutionsleitung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "10.3",
+      "title": "Auswahl der BC-Strategien durch die Institutionsleitung (AS)"
+    }
+  ],
+  "content": "Sofern zeitkritische Prozesse durch Dienstleistungsunternehmen oder in Lieferketten er­\nbracht werden, müssen BC-Strategien ausgewählt werden, die eine angemessene Leis­\ntungserbringung im Notfall sicherstellen. Hierzu ist es empfehlenswert, die weitreichen­\nden Erläuterungen in dem Hilfsmittel Vorschläge zu BC-Strategien zu berücksichtigen. \nDort wird näher erläutert, welche Auswirkungen je nach gewählter BC-Strategie auf un­\nterschiedliche Phasen des PDCA-Zyklus im BCMS bestehen.\n\nDie Institutionsleitung kann sich entscheiden, je Ressourcenkategorie eine oder mehrere \nBC-Strategien auszuwählen, verschiedene BC-Strategien zu kombinieren oder eine eige­\nne BC-Strategie auszuwählen.\n\nBeispiel\n\nDie Ressourcenkategorie „Gebäude und Infrastrukturen“ wird in die beiden Teilkate­\ngorien Bürogebäude und Produktionsgebäude unterteilt. Die Institutionsleitung ent­\nscheidet sich, die Bürogebäude durch folgende BC-Strategien abzusichern:\n\n• \nMitarbeitende, die mobil arbeiten können, sollen mit entsprechender Technik \nausgestattet werden, um im Falle eines Gebäudeausfalls zu Hause arbeiten zu \nkönnen.\n\n• \nFalls kein „Mobiles Arbeiten“ möglich ist, verdrängen Mitarbeitende mit zeitkriti­\nschen Aufgaben andere Mitarbeitende ohne zeitkritische Aufgaben von ihrem \nArbeitsplatz.\n\nDie Produktion innerhalb der Produktionsgebäude kann im Falle eines Gebäudeaus­\nfalls nicht verlagert werden. Auch können die eingesetzten Maschinen aufgrund der \nhohen Investitionskosten nicht redundant vorgehalten werden. Die Institutionslei­\ntung entscheidet sich, die Produktionsgebäude soweit durch Vorsorgemaßnahmen \nabzusichern, dass die Eintrittshäufigkeit eines Ausfalls auf ein akzeptables Niveau \ngesenkt und das verbleibende Restrisiko durch die Institutionsleitung übernommen \nwird. Als Vorsorgemaßmaßnahmen werden zusätzlich zu den rechtlich verbindlichen \nMaßnahmen, z. B. Brandschutz, weitere Maßnahmen, z. B. eine Netzersatzanlage, \ninstalliert.\n\nNachdem die BC-Strategien durch die Institutionsleitung ausgewählt und freigegeben \nwurden, sollte diese Entscheidung dokumentiert werden. Die dokumentierte Entschei­\ndung ist der Auftrag an den oder die BCB, einen Umsetzungsplan zu erstellen. Sollte aus \nSicht der Institutionsleitung keine der vorgeschlagenen BC-Strategien ausreichend wirk­\nsam oder angemessen erscheinen, kann sie den oder die BCB auch damit beauftragen, \nneue BC-Strategien zu entwickeln. Sind auch die neu entwickelten BC-Strategien aus ih­\nrer Sicht unwirksam oder unangemessen, kann sich die Institutionsleitung auch dazu \nentscheiden, keine BC-Strategie umzusetzen. Dies kann etwa der Fall sein, wenn das Ri­\nsiko oder der mögliche Schaden ausgefallener Ressourcen oder Geschäftsprozesse die \nAufwände der BC-Strategien aus Sicht der Institutionsleitung nicht rechtfertigen würden. \nIn diesem Fall muss die Institutionsleitung das Restrisiko übernehmen, solange es keine \nregulatorischen oder gesetzlichen Verpflichtungen gibt, die dies verbieten. Das jeweilige",
+  "pages": {
+    "start": 219,
+    "end": 220
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

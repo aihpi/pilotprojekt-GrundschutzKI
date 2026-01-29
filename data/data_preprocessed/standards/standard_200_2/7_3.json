@@ -1,0 +1,26 @@
+{
+  "id": "7_3",
+  "header": "7.3 Identifikation und Festlegung der kritischen Assets (Kronjuwelen)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.3",
+      "title": "Identifikation und Festlegung der kritischen Assets (Kronjuwelen)"
+    }
+  ],
+  "content": "Als Kronjuwelen werden diejenigen Geschäftsprozesse und die Informationen bezeichnet, die am \nwichtigsten für den Erhalt der Institution sind. Es ist wichtig, die mögliche Menge der schützenswerten \nDaten gezielt einzugrenzen.\n\nZu den kritischen Assets gehören üblicherweise:\n\n•  Informationen, die wesentlich zur erfolgreichen Durchführung von essenziellen Geschäftsprozes­\nsen sind.\n\n•  Informationen und Geschäftsprozesse, die ein deutlich erhöhtes Gefährdungspotenzial bezüglich \nder Informationssicherheit innehaben. Dies betrifft Vertraulichkeit, Integrität und Verfügbarkeit.\n\n•  Informationen und Geschäftsprozesse, deren Diebstahl, Zerstörung, Kompromittierung oder Be­\neinträchtigung einen existenzbedrohenden Schaden für die Institution bedeutet und die vorrangig \ngeschützt werden sollen.\n\nDie folgenden weiteren Charakteristika für Kronjuwelen helfen bei der Identifikation und Eingren­\nzung der kritischen Assets:\n\n•  Als Kronjuwelen werden Informationen oder Geschäftsprozesse bezeichnet, nicht Dienstleistun­\ngen, Anwendungen, IT-Systeme oder ähnliche Objekte.\n\n•  Die Menge der Informationen und Geschäftsprozesse mit deutlich erhöhtem Schutzbedarf ist über­\nschaubar bzw. umfasst nur einen kleinen Anteil aller Geschäftsprozesse der Institution. Nur wenige \nAssets ragen in ihrer Bedeutung für die Fachaufgaben bzw. Geschäftstätigkeit deutlich aus der \nMasse heraus und können einen großen Schaden für die Institution verursachen.\n\n•  Kronjuwelen können auch in Formen vorliegen, die nicht auf den ersten Blick offensichtlich sind: \ndies mögen einzelne Dateien, Datensammlungen, strukturierte oder unstrukturierte Informatio­\nnen bis hin zu handschriftlichen Notizen oder Gesprächen sein, kann aber auch das Wissen und die \nFähigkeiten einzelner Mitarbeiter betreffen.\n\n•  Kronjuwelen sind häufig die Informationen, für die es wünschenswert erscheint, das vorhandene \nKlassifikationsschema um noch höhere Kategorien zu erweitern.\n\n•  Es ist davon auszugehen, dass der Schutzbedarf der Kronjuwelen und aller damit verknüpften \nRessourcen im Informationsverbund mindestens als „hoch“ einzuordnen ist.",
+  "pages": {
+    "start": 70,
+    "end": 71
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

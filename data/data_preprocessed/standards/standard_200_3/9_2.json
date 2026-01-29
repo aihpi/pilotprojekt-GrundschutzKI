@@ -1,0 +1,21 @@
+{
+  "id": "9_2",
+  "header": "9.2 Moderation der Risikoanalyse",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "9.2",
+      "title": "Moderation der Risikoanalyse"
+    }
+  ],
+  "content": "Für eine Risikoanalyse müssen Fachverantwortliche bzw. Experten für die jeweils betrachteten Zielob­\njekte miteinbezogen werden. In der Praxis hat es sich bewährt, hierzu besser mehrere kurze als eine \nlange Sitzung mit allen beteiligten Mitarbeitern durchzuführen. Es sollten Informationssicherheitsbe­\nauftragte, Fachverantwortliche, Administratoren und Benutzer des jeweils betrachteten Zielobjekts \nund gegebenenfalls auch externe Sachverständige daran teilnehmen.\n\nEs sollte ein Moderator benannt werden. Der Arbeitsauftrag an die Teilnehmer sollte klar formuliert \nsein und die Zeit für die Sitzungen begrenzt werden.\n\nDamit die für die jeweiligen Schritte der Risikoanalyse notwendigen Beschlüsse direkt konsolidiert \nwerden können, z. B. zu Risikoakzeptanz, Kosten und Umsetzbarkeit, sollte (zumindest gegen Ende) \nein Vertreter der Leitungsebene anwesend sein.\n\nDas Team sollte nicht zu groß sein (bewährt haben sich vier bis acht Personen). Es sollte im Team eine \nausreichende Expertise für alle Aspekte des betrachteten Bereichs vorhanden sein:\n\n•  Der Moderator sollte schon an Risikoanalysen teilgenommen haben, sodass er die Vorgehensweise \nkennt.\n\n•  Die Besprechung sollte unter Rahmenbedingungen stattfinden, die ein ungestörtes Arbeiten er­\nmöglichen, da eine hohe Konzentration erforderlich ist.\n\n•  Der Analysebereich sollte klar abgegrenzt werden.\n\n•  Es muss ein klarer Maßstab für die Bewertung von Risiken festgelegt werden, damit alle Risiken mit \ndemselben Niveau behandelt werden und die ergriffenen Maßnahmen vergleichbar und nachvoll­\nziehbar sind.\n\nBSI-Standard 200-3\n\n•  Alle Teilnehmer sollten den groben Rahmen der Risikoanalyse und des betrachteten Bereichs ken­\nnen, sodass sie sich vorab Gedanken machen konnten über Gefährdungen, Schadensauswirkun­\ngen und Maßnahmen. Dazu gehört auch, dass sie die zum betrachteten Bereich gehörenden Ob­\njekte kennen wie auch die zugehörigen Geschäftsprozesse, Hintergründe, Einbettung in die Orga­\nnisation und die Technik sowie technische Grundlagen.\n\n•  Alle Gefährdungen, die Teilnehmern einfallen, sollten auch genannt und diskutiert werden. Es ist \nAufgabe des Moderators, dafür zu sorgen, dass bei den Diskussionen die Ergebnisfindung nicht \naus den Augen verloren wird.\n\n•  Detailfragen, die eine besondere Expertise erfordern, sollten im Vorfeld vorbereitet werden. Ein­\nzelne Punkte können auch im Anschluss geklärt werden.\n\n•  Es sollte ein Ergebnisbericht erstellt werden. Da viele potenzielle Angriffspunkte diskutiert wurden, \nsollten die Unterlagen vertraulich behandelt werden.\n\nFür die Durchführung jeder Risikoanalyse sollte es klare zeitliche Vorgaben geben. Erfahrungen \nzeigen, dass die Resultate umso besser werden, je systematischer und konzentrierter vorgegangen \nwird, nicht je länger es dauert. Auch eine Risikoanalyse für komplexe Sachverhalte ist normaler­\nweise an einem Tag zu schaffen. Wenn der betrachtete Bereich zu umfangreich ist, sollte er in \nTeilbereiche aufgeteilt werden. Auch bei einer Risikoanalyse sollte die 80:20-Regel beachtet wer-\nden. Da ohnehin nicht jeder mögliche Sachverhalt betrachtet werden kann, sollten immer die am \nwahrscheinlichsten Gefährdungen und die plausibelsten Lösungen im Vordergrund stehen. Wenn \nesoterische Gefährdungen diskutiert werden, also solche, die extrem selten und hochgradig un­\nwahrscheinlich sind, ist das ein Zeichen, dass die erforderliche Konzentration nicht mehr gegeben \nist.",
+  "pages": {
+    "start": 49,
+    "end": 50
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

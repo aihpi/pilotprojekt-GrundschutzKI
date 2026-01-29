@@ -1,0 +1,26 @@
+{
+  "id": "10_2",
+  "header": "10.2 Der Sicherheitsprozess nach IT-Grundschutz",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "10.2",
+      "title": "Der Sicherheitsprozess nach IT-Grundschutz"
+    }
+  ],
+  "content": "Alle gängigen Methoden, Best Practices und Standards zum Management von Informationssicherheit \nunterscheiden sich kaum in den Ausführungen, die sich mit dem Sicherheitsprozess oder den Aufga­\nben des leitenden Managements beschäftigen. Die größten Unterschiede bestehen in der Art und\n\nWeise, wie ein Sicherheitskonzept konkret erstellt wird, also bei der Ausgestaltung der Risikobeurtei­\nlung und der Auswahl der Sicherheitsmaßnahmen. Aus diesem Grund wird an dieser Stelle das grund­\nsätzliche Vorgehen bei der Erstellung eines Sicherheitskonzepts nach IT-Grundschutz dargestellt.",
+  "pages": {
+    "start": 40,
+    "end": 41
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4_8",
+  "header": "4.8 Leitlinie BCMS (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.8",
+      "title": "Leitlinie BCMS (R+AS)"
+    }
+  ],
+  "content": "Die Leitlinie BCMS (engl. BC Policy) bildet den verbindlichen Rahmen und Auftrag zum \nAufbau und Betrieb des BCMS. Sie ist das ranghöchste Dokument im gesamten BCMS \nund führt auf strategischer Ebene die Ziele des BCMS auf. Durch die Leitlinie BCMS fi­\nxiert die Institutionsleitung ihre Selbstverpflichtung zur Einführung des BCMS und betont \ndamit den Stellenwert des BCM innerhalb der Institution. Üblicherweise bereitet der oder \ndie BCB die Leitlinie BCMS vor. Das Dokument kann anhand der Dokumentvorlage Leit­\nlinie BCMS aus den Hilfsmitteln erstellt werden. Die Vorlage beinhaltet bereits mögliche \nTextbausteine als Vorschläge.\n\nSofern bereits Managementsysteme mittels einer Leitlinie in der Organisation fixiert \nwurden, beispielsweise ein ISMS nach BSI-Standard 200-2, so kann die Struktur die­\nser Leitlinie als Vorlage genutzt werden.",
+  "pages": {
+    "start": 91,
+    "end": 92
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

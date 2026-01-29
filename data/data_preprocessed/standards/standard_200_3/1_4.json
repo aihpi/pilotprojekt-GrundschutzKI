@@ -1,0 +1,21 @@
+{
+  "id": "1_4",
+  "header": "1.4 Adressatenkreis",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.4",
+      "title": "Adressatenkreis"
+    }
+  ],
+  "content": "Dieses Dokument richtet sich an Sicherheitsverantwortliche, -beauftragte, -experten, -berater und \nalle Interessierten, die mit dem Management von oder der Durchführung von Risikoanalysen für die \nInformationssicherheit betraut sind.\n\nDieser Standard bietet sich an, wenn Unternehmen oder Behörden bereits erfolgreich mit der \nIT-Grundschutz-Methodik gemäß BSI-Standard 200-2 (siehe [BSI2]) arbeiten und möglichst direkt eine \nRisikoanalyse an die IT-Grundschutz-Analyse anschließen möchten. Abhängig von den Rahmenbedin­\ngungen einer Institution und der Art des Informationsverbunds kann es jedoch zweckmäßig sein, \nalternativ zum BSI-Standard 200-3 ein anderes etabliertes Verfahren oder eine angepasste Methodik \nfür die Analyse von Informationsrisiken zu verwenden.",
+  "pages": {
+    "start": 8,
+    "end": 8
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

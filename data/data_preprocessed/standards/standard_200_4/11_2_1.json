@@ -1,0 +1,31 @@
+{
+  "id": "11_2_1",
+  "header": "11.2.1 Festlegung übergreifender Maßnahmen (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.2",
+      "title": "Erstellung der GFPs (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "11.2.1",
+      "title": "Festlegung übergreifender Maßnahmen (R+AS)"
+    }
+  ],
+  "content": "Die Festlegung übergreifender Maßnahmen beinhaltet alle übergreifenden Aspekte, die \nnicht dazu dienen, die Geschäftsfortführung einzelner Geschäftsprozesse zu regeln. Die­\nse werden im Nachfolgenden beschrieben.\n\nIn einem ersten Schritt muss die Organisationseinheit beschreiben, wie die relevanten \nMitarbeitenden im Falle eines Notfalls alarmiert und informiert werden, nachdem \nder GFP durch den Stab formal aktiviert wurde. Die Organisationseinheit kann sich hierzu \nan den Erläuterungen des Kapitels 5.2.3 Alarmierung der BAO (R+AS) ausrichten und \nden festgelegten Alarmierungs- und Eskalationspfad für die Organisationseinheit fort­\nschreiben. Hierzu wird empfohlen, für die Organisationseinheit intern festzulegen,\n\n• \nwelche Personen bzw. Funktionen in Kenntnis gesetzt werden sollen,\n\n• \nüber welche Kommunikationsmittel die Alarmierung im Notfall erfolgen soll sowie\n\n• \nwelche weiteren Schritte sich aus der Alarmierung ergeben.\n\nAS\n\nZu alarmierende Kontaktpersonen können Mitglieder des Bewältigungsteams, weitere \nMitarbeitende, externe Fachleute oder externe Stellen sein. Die Kontaktlisten können als \nAnhang zum GFP hinterlegt werden, um personenbezogene oder vertrauliche Kontakt­\ndaten ihrem Schutzbedarf entsprechend ablegen zu können.\n\nInnerhalb des Kapitels 5.5.1 Konstituierung und Auflösung der BAO (AS) ist beschrieben, \nnach welchen Kriterien GFPs durch den Stab aktiviert werden. Innerhalb dieses Ab­\nschnitts im GFP werden diese Kriterien aufgegriffen und konkretisiert.\n\nFür die Dauer des Notfalls kann es notwendig sein, allen oder einzelnen Mitarbeitenden \nim Geltungsbereich des GFP besondere Rechte und Pflichten zuzuteilen. Diese be­\nschreiben etwa, welche gesonderten Zuständigkeiten und Zugangs-, Zutritts- und Zu­\ngriffs-Rechte Mitarbeitenden im Notfall zugeteilt werden. Gesonderte Rechte umfassen \nauch solche im Rahmen von Freigabeprozessen oder Führungsaufgaben. Die gesonder­\nten Rechte gelten von dem Zeitpunkt an, ab dem der GFP aktiviert wurde bis zu dem \nZeitpunkt, an dem der Notfall deeskaliert wird.\n\nFallen Geschäftsprozesse innerhalb des Geltungsbereichs des GFPs aus, können beson­\ndere Melde- und Berichtspflichten an interne und externe Stellen bestehen. Diese \nMeldepflichten sollten innerhalb des GFP dokumentiert werden, sofern sie von denen \ndes Normalbetriebs abweichen und nur für die Dauer des Notfalls gelten. Die besonde­\nren Melde- und Berichtspflichten richten sich sowohl an interne als auch externe Inte-\nressengruppen. Hierunter fallen etwa andere Organisationseinheiten der Institution,  \nAufsichtsbehörden, Kunden und Kundinnen sowie dienstleistende und zuliefernde Insti­\ntutionen, die für die Dauer des Notfalls gesondert informiert werden. Dies kann bei­\nspielsweise häufigere Meldungen oder Berichte umfassen oder gesonderte Inhalte der \nMeldungen. Es ist empfehlenswert, folgende Informationen zu beschreiben:\n\n• \nStelle, an die gemeldet oder berichtet werden soll\n\n• \nRolle, die melden oder berichten soll\n\n• \nMedium, über das gemeldet oder berichtet werden soll\n\n• \nInhalt, der gemeldet oder berichtet werden soll\n\n• \nZeitpunkt oder Häufigkeit, zu dem oder in der gemeldet oder berichtet werden soll\n\nAnhand der BIA wurden im Aufbau- und Standard-BCMS bereits zeitkriti­\nsche Prozessabhängigkeiten identifiziert. Falls es wichtig ist, zeitliche Rei­\nhenfolgen einzuhalten, in denen voneinander abhängige Geschäftsprozesse \nin einem Notbetrieb anlaufen, sollten diese im GFP dokumentiert oder refe­\nrenziert werden.",
+  "pages": {
+    "start": 228,
+    "end": 229
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

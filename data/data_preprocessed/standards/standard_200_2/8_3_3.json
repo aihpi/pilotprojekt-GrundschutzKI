@@ -1,0 +1,26 @@
+{
+  "id": "8_3_3",
+  "header": "8.3.3 Reihenfolge der Baustein-Umsetzung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.3.3",
+      "title": "Reihenfolge der Baustein-Umsetzung"
+    }
+  ],
+  "content": "Um grundlegende Risiken abzudecken und eine ganzheitliche Informationssicherheit aufzubauen, \nmüssen die essenziellen Sicherheitsanforderungen frühzeitig erfüllt und entsprechende Sicherheits­\nmaßnahmen umgesetzt werden. Daher wird im IT-Grundschutz eine Reihenfolge für die umzusetzen­\nden Bausteine vorgeschlagen.\n\nIm IT-Grundschutz-Kompendium ist im Kapitel Schichtenmodell und Modellierung beschrieben, wann \nein einzelner Baustein sinnvollerweise eingesetzt werden soll und auf welche Zielobjekte er anzuwen­\nden ist. Außerdem sind die Bausteine danach gekennzeichnet, ob sie vor- oder nachrangig umgesetzt \nwerden sollten.\n\n•  R1: Diese Bausteine sollten vorrangig umgesetzt werden, da sie die Grundlage für einen effektiven \nSicherheitsprozess bilden.\n\n•  R2: Diese Bausteine sollten als Nächstes umgesetzt werden, da sie in wesentlichen Teilen des In­\nformationsverbunds für nachhaltige Sicherheit erforderlich sind.\n\nBSI-Standard 200-2\n\n•  R3: Diese Bausteine werden zur Erreichung des angestrebten Sicherheitsniveaus ebenfalls benötigt \nund müssen umgesetzt werden, es wird aber empfohlen, diese erst nach den anderen Bausteinen \nzu betrachten\n\nMit R1 sind die Bausteine gekennzeichnet, die notwendig sind, um ein grundlegendes Sicherheitsge­\nrüst zu erreichen. Es handelt sich um die Bausteine der Bereiche\n\n•  ISMS Managementsysteme für Informationssicherheit,\n\n•  ORP Organisation und Personal,\n\n•  OPS.1.1 Kern-IT-Betrieb.\n\nDie im zweiten und dritten Schritt umzusetzenden Bausteine (R2 und R3) finden sich in allen anderen \nSchichten des IT-Grundschutz-Kompendiums.\n\nDiese Kennzeichnung zeigt nur die sinnvolle zeitliche Reihenfolge für die Umsetzung der Anforderun­\ngen des jeweiligen Bausteins auf und stellt keine Gewichtung der Bausteine untereinander dar. \nGrundsätzlich müssen alle für den jeweiligen Informationsverbund relevanten Bausteine des IT-Grund­\nschutz-Kompendiums umgesetzt werden.\n\nDie Kennzeichnung der Bausteine stellt außerdem nur eine Empfehlung dar, in welcher Reihenfolge \ndie verschiedenen Bausteine sinnvoll umgesetzt werden könnten. Jede Institution kann hier eine da­\nvon abweichende, für sich sinnvolle Reihenfolge festlegen.",
+  "pages": {
+    "start": 137,
+    "end": 138
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

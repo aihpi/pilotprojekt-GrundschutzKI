@@ -1,0 +1,31 @@
+{
+  "id": "5_2_4",
+  "header": "5.2.4 Informationsfluss und Meldewege",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "5.2",
+      "title": "Informationsfluss im Informationssicherheitsprozess"
+    },
+    {
+      "level": 3,
+      "number": "5.2.4",
+      "title": "Informationsfluss und Meldewege"
+    }
+  ],
+  "content": "Über die verschiedenen Aktivitäten im Rahmen des Sicherheitsmanagements müssen alle Betroffenen \nzeitnah informiert werden. Allerdings ist es auch nicht sinnvoll, Detailinformationen über den Sicher­\nheitsprozess beliebig zu streuen. Daher muss geklärt sein, welche Personen mit welchen internen und \nexternen Stellen wann über welche Details des Sicherheitsprozesses kommunizieren. Zudem muss \nfestgelegt werden, welche Kommunikationskanäle für die jeweiligen Ansprechpartner genutzt und \nwie diese geschützt werden.\n\nFür die Aufrechterhaltung des Informationssicherheitsprozesses ist die zeitnahe Aktualisierung der \nMeldewege und der Festlegungen für den Informationsfluss von elementarer Bedeutung. Darüber \nhinaus bieten die Ergebnisse aus durchgeführten Übungen, Tests und Audits auch eine nützliche \nGrundlage für die Verbesserung des Informationsflusses.\n\nGrundsätzliche Festlegungen zum Informationsfluss und zu den Meldewegen in Bezug auf den Infor­\nmationssicherheitsprozess sollten in einer entsprechenden Richtlinie dokumentiert und von der Lei­\ntungsebene verabschiedet werden. In der Richtlinie zum Informationsfluss und zu den Meldewegen \nsollten insbesondere die für den Informationssicherheitsprozess kritischen Informationsflüsse geregelt \nwerden. Dabei ist zwischen Hol- und Bringschuld zu unterscheiden.\n\nNutzung von Synergieeffekten für den Informationsfluss\n\nViele Institutionen haben bereits Prozesse für die Bereitstellung von Dienstleistungen oder den IT-Be­\ntrieb definiert. Häufig gelingt es, Synergieeffekte zu nutzen und Aspekte der Informationssicherheit in \nbereits bestehende Prozesse einzugliedern. Beispielsweise könnten Meldewege für IT-Sicherheitsvor­\nfälle in den IT-Betrieb integriert werden oder die Kapazitätsplanung um Aspekte der Notfallvorsorge \nerweitert werden.\n\nViele Informationen, die aus Sicherheitsgründen erhoben werden, können auch zu anderen Zwecken \ngenutzt werden. Ebenso haben Sicherheitsmaßnahmen auch andere positive Nebeneffekte, beson­\nders die Optimierung von Prozessen zahlt sich aus. Beispielsweise sind die Bestimmung von Informa­\ntionseigentümern oder die Einstufung von Informationen nach einheitlichen Bewertungskriterien für \nviele Bereiche einer Institution relevant. Ein Überblick über die Abhängigkeit der Geschäftsprozesse \nvon IT- bzw. ICS-Systemen und Anwendungen ist ebenfalls nicht nur für das Sicherheitsmanagement\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 59,
+    "end": 60
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

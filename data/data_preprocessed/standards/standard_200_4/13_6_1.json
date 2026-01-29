@@ -1,0 +1,31 @@
+{
+  "id": "13_6_1",
+  "header": "13.6.1 Vorbereitung einer Stabsübung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.6",
+      "title": "Stabsübung (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.6.1",
+      "title": "Vorbereitung einer Stabsübung"
+    }
+  ],
+  "content": "### Letzte Vorbereitungen\n\nDie Vorbereitungsphase ist dann abgeschlossen, wenn sichergestellt ist, dass die gesteck­\nten Übungsziele realistisch erreicht werden können und die Übung damit ermöglicht \nwird. Die hierfür notwendigen Aktivitäten ergeben sich typischerweise aus den vorheri­\ngen Schritten.\n\nBeispiel\n\nSicherstellen, dass der Raum am Übungstag verfügbar ist und über die notwendige \nAusstattung verfügt\n\n• \nFrühzeitig alle Beteiligten einladen (bei angekündigten Übungen)\n\n• \nPrüfung der Aktualität von Dokumenten des Notfallhandbuchs, die während der \nÜbung verwendet werden sollen\n\n• \nVorbereitung einer Kurzpräsentation, um in die Besonderheiten der Übung ein­\nzuführen (z. B. die Regeln zur Kommunikation nach außen oder der Appell, das \nÜbungsszenario nicht infrage zu stellen)\n\n• \nPrüfung, ob die vorgesehenen Übenden ausreichend geschult sind, um ihre Rol­\nle in der Übung wahrzunehmen (z. B. anhand von Schulungsnachweisen)\n\n• \nVorbereitung der Einlagen (z. B. als Präsentation, als E-Mails, als Skript zum Vor­\nlesen oder als gedruckte Handouts)\n\n• \nPrüfung, ob die eingesetzte Technik funktionsfähig ist (z. B. Beamer, Telefone \netc.)\n\n• \nLogistische Vorbereitung der Übung (z. B. die Verpflegung während der Übung \noder die Unterbringung von Teilnehmenden)\n\n• \nDurchführung von Briefings mit allen Teilnehmenden der Übung\n\nEs ist empfehlenswert, dass der Übungsautor oder die -autorin bis zum Übungstag wie­\nderkehrend prüft, ob eventuell andere Ereignisse die Durchführung der Übung beeinflus­\nsen oder sogar verhindern können.",
+  "pages": {
+    "start": 270,
+    "end": 275
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

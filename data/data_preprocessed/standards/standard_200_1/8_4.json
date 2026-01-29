@@ -1,0 +1,26 @@
+{
+  "id": "8_4",
+  "header": "8.4 Kontinuierliche Verbesserung des Sicherheitskonzepts",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "8.4",
+      "title": "Kontinuierliche Verbesserung des Sicherheitskonzepts"
+    }
+  ],
+  "content": "Die regelmäßige Überprüfung des Sicherheitskonzepts dient dazu, erkannte Fehler und Schwachstel­\nlen abzustellen und die Sicherheitsmaßnahmen in Bezug auf Effizienz zu optimieren.\n\nEin wichtiger Punkt ist die Verbesserung der Praxistauglichkeit von technischen Maßnahmen und or­\nganisatorischen Abläufen, um die Akzeptanz der Sicherheitsmaßnahmen zu erhöhen. Ebenso sollten \ndie Formulierungen geeigneter Sicherheitsmaßnahmen immer wieder auch hinsichtlich ihrer Nach­\nvollziehbarkeit und Verständlichkeit beurteilt und gegebenenfalls modifiziert werden.\n\nDer erfolgreiche Aufbau und Betrieb eines ISMS ist keine einfache Aufgabe. Wenn diese erfolgreich \ndurchgeführt wurde, bietet es sich an, dies auch nach innen und außen zu dokumentieren und die \nerfolgreichen Bemühungen um Informationssicherheit transparent zu machen. Dies kann sowohl ge­\ngenüber Kunden als auch gegenüber Geschäftspartnern als Qualitätsmerkmal dienen und somit \ndurchaus auch zu einem Wettbewerbsvorteil führen. Aber auch Behörden können diesen Mechanis­\nmus nutzen, um das Vertrauen der Bürger in die Sicherheit ihrer Geschäftsprozesse und die zugehö­\nrige IT – insbesondere im Bereich E-Government – zu verbessern. Ein weiterer Grund, um eine Zerti­\nfizierung anzustreben, kann sich aus Compliance-Gründen ergeben, also um nachzuweisen, dass \neinschlägige Gesetze oder vertragliche Anforderungen erfüllt werden. Darüber hinaus ergibt sich \nhäufig ein „passiver“ Nutzen, da andere Institutionen ein ISMS-Zertifikat heranziehen können, um \nsich über den Sicherheitszustand bei potenziellen Partnern zu informieren.\n\nDie ISO/IEC 27001 ist die grundlegende Norm, auf deren Basis ein ISMS zertifiziert werden kann. Sie \nsieht ein zweistufiges Zertifizierungsverfahren vor: Hierbei werden die Zertifikate durch unabhängige \nZertifizierungsstellen erteilt. Der Erteilung eines Zertifikates geht eine Überprüfung durch einen qua­\nlifizierten Auditor voraus.\n\nDamit die Ergebnisse der Zertifizierungsaudits wiederholbar und reproduzierbar sind, werden erfah­\nrene und geschulte Auditoren benötigt. Daher müssen Auditoren nachweisen, dass sie über das er­\nforderliche Fachwissen verfügen und das vorgegebene Schema kennen und einhalten. All dies erfolgt \nauf der Basis weiterer ISO-Normen, um die hohe Qualität und Nachvollziehbarkeit von Zertifikaten \nsicherzustellen.\n\nDie Standard- und die Kern-Absicherung des IT-Grundschutzes bilden die Anforderungen der ISO/IEC \n27001 ab. Daher besteht auch die Möglichkeit, sich die erfolgreiche Umsetzung des IT-Grundschutzes \nmit dem Aufbau eines ISMS durch das BSI zertifizieren zu lassen. Das BSI hat ein Zertifizierungsschema \nfür Informationssicherheit entwickelt, dass die Anforderungen an Managementsysteme für die Infor­\nmationssicherheit aus der ISO/IEC 27001 berücksichtigt. Das IT-Grundschutz-Kompendium bildet den \nPrüfkatalog für die Zertifizierung nach ISO/IEC 27001. Diese wird deshalb als ISO 27001-Zertifizierung \nauf der Basis des IT-Grundschutzes bezeichnet. Das IT-Grundschutz-Kompendium als Prüfkatalog wird \nvom BSI (im Gegensatz zu anderen Zertifizierungsstellen) kostenfrei zur Verfügung gestellt.\n\nGrundlage für die Vergabe eines ISO 27001-Zertifikats auf der Basis des IT-Grundschutzes ist die \nDurchführung eines Audits durch einen externen, beim BSI zertifizierten Auditor. Das Ergebnis des \nAudits ist ein Auditbericht, der der Zertifizierungsstelle vorgelegt wird, die dann wiederum über die \nVergabe des ISO 27001-Zertifikats auf der Basis des IT-Grundschutzes entscheidet.\n\nWeitere Informationen zur Zertifizierung nach ISO/IEC 27001 finden sich auf der Website des BSI \n(siehe [ZERT]).",
+  "pages": {
+    "start": 38,
+    "end": 40
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

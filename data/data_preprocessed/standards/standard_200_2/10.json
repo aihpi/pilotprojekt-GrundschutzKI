@@ -1,0 +1,21 @@
+{
+  "id": "10",
+  "header": "10 Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit"
+    }
+  ],
+  "content": "Rückmeldungen über Fehler und Schwachstellen in den Prozessen kommen im Allgemeinen nicht nur \nvon der Informationssicherheitsorganisation oder der Revision, sondern auch von Mitarbeitern, Ge­\nschäftspartnern, Kunden oder Partnern. Die Institution muss daher eine wirksame Vorgehensweise \nfestlegen, um mit Beschwerden und anderen Rückmeldungen von Internen und Externen umzuge­\nhen. Beschwerden von Kunden oder Mitarbeitern können dabei auch ein Indikator für Unzufrieden­\nheit sein. Es sollte möglichst bereits entstehender Unzufriedenheit entgegengewirkt werden, da bei \nzufriedenen Mitarbeitern die Gefahr von fahrlässigen oder vorsätzlichen Handlungen, die den Betrieb \nstören könnten, geringer ist.\n\nEs muss daher ein klar definiertes Verfahren und eindeutig festgelegte Kompetenzen für den Umgang \nmit Beschwerden und für die Rückmeldung von Problemen an die zuständige Instanz geben. So sollte \nauf Beschwerden schnellstmöglich geantwortet werden, damit die Hinweisgeber sich auch ernst ge­\nnommen fühlen. Die gemeldeten Probleme müssen bewertet und der Handlungsbedarf eingeschätzt \nwerden. Die Institution muss daraufhin angemessene Korrekturmaßnahmen zur Beseitigung der Ur­\nsachen von Fehlern ergreifen, um deren erneutes Auftreten zu verhindern.\n\nFortentwicklung des ISMS\n\nAuch das ISMS muss kontinuierlich weiterentwickelt werden und an neue Erkenntnisse, die sich bei­\nspielsweise aus der Überprüfung des Informationssicherheitsprozesses ergeben haben können, ange­\npasst werden.\n\nErweiterung der gewählten Vorgehensweise\n\nBei Einstieg in den Sicherheitsprozess hat die Leitung der Institution sich für eine Vorgehensweise \nentschieden, um auf Basis von IT-Grundschutz oder auch anderen Methoden ein bestimmtes Sicher­\nheitsniveau für einen definierten Geltungsbereich zu erreichen. Wenn diese Vorgehensweise umge­\nsetzt und die Phase der Aufrechterhaltung und kontinuierlichen Verbesserung der Informationssicher­\nheit erreicht wurde, muss überlegt werden, ob\n\n•  die gewählte Vorgehensweise ergänzt werden soll (beispielsweise von Basis- auf Standard-Absi­\ncherung) und/oder\n\n•  der Geltungsbereich erweitert werden soll (beispielsweise von Kern-Absicherung eines einge­\ngrenzten Bereiches auf einen größeren Informationsverbund).\n\nZiel sollte es sein, langfristig alle Bereiche der Institution auf ein ganzheitliches Sicherheitsniveau zu \nheben, das mindestens Standard-Absicherung umfasst.",
+  "pages": {
+    "start": 169,
+    "end": 169
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

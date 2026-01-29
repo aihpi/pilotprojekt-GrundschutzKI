@@ -1,0 +1,26 @@
+{
+  "id": "6_3",
+  "header": "6.3 IT-Grundschutz-Check für Basis-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "6.3",
+      "title": "IT-Grundschutz-Check für Basis-Absicherung"
+    }
+  ],
+  "content": "Schon bevor eine IT-Grundschutz-Vorgehensweise ausgewählt wurde, wurden während der Vorar­\nbeiten in der Erstaufnahme (siehe Kapitel 3.2.4 Ersterfassung der Prozesse, Anwendungen und IT-Sys­\nteme) die geschäftskritischen Informationen und Kernprozesse der Institution ermittelt und die be­\ntroffenen Anwendungen, IT-Systeme, Netze und Räume erfasst. Der betrachtete Informationsver­\nbund \nwurde \nmithilfe \nder \nvorhandenen \nBausteine \naus \ndem \nIT-Grundschutz-Kompendium \nnachgebildet. Die Auswahl und Priorisierung der IT-Grundschutz-Bausteine (wie im vorherigen Kapitel \nbeschrieben) wird nun als Prüfplan benutzt, um anhand eines Soll-Ist-Vergleichs herauszufinden, wel­\nche Basis-Anforderungen ausreichend oder nur unzureichend erfüllt sind.\n\nBei dem hier anzuwendenden IT-Grundschutz-Check für die Basis-Absicherung müssen lediglich die \nBasis-Anforderungen erfüllt sein. Für eine Standard- oder Kern-Absicherung ist innerhalb dieser Vor­\ngehensweisen ein separater IT-Grundschutz-Check durchzuführen, bei dem die Standard-Anforde­\nrungen der betreffenden Bausteine hinzukommen. Um Mehraufwände zu vermeiden und Synergie­\neffekte erzielen zu können, sollten die Ergebnisse des für die Basis-Absicherung durchzuführenden \nIT-Grundschutz-Checks so aufbereitet sein, dass sie direkt in die Standard- oder Kern-Absicherung \nintegriert werden können.\n\nUnabhängig von der IT-Grundschutz-Vorgehensweise besteht der IT-Grundschutz-Check aus drei un­\nterschiedlichen Schritten. Im ersten Schritt werden die organisatorischen Vorbereitungen getroffen, \ninsbesondere die relevanten Ansprechpartner für den Soll-Ist-Vergleich werden ausgewählt. Im zwei­\nten Schritt wird der eigentliche Soll-Ist-Vergleich mittels Interviews und Stichproben durchgeführt. Im \nletzten Schritt werden die erzielten Ergebnisse des Soll-Ist-Vergleichs einschließlich der erhobenen \nBegründungen dokumentiert.\n\nOrganisatorische Vorarbeiten für den IT-Grundschutz-Check\n\nZunächst sollten alle hausinternen Papiere, die die sicherheitsrelevanten Abläufe regeln, gesichtet \nwerden. Diese Dokumente können bei der Ermittlung des Umsetzungsgrades hilfreich sein.\n\nDie geeigneten Interviewpartner müssen identifiziert werden. Für jeden Baustein, der für die Model­\nlierung des Informationsverbunds herangezogen wurde, sollte ein Hauptansprechpartner festgelegt \nwerden. Bei den Anforderungen in den Bausteinen werden die Rollen genannt, die für die Umsetzung \nder Anforderungen zuständig sind. Hieraus können die geeigneten Ansprechpartner für die jeweilige \nThematik in der Institution identifiziert werden. Für die Bausteine der Schicht APP (Anwendungen) \nsind dies beispielsweise die Betreuer der einzelnen Anwendungen.\n\nAls Nächstes sollte festgestellt werden, ob und in welchem Umfang externe Stellen an der Ermittlung \ndes Umsetzungsstatus beteiligt werden müssen. Dies kann beispielsweise bei Firmen, die Teile von \nGeschäftsprozessen oder des IT-Betriebes als outgesourcte Dienstleistungen übernehmen, erforder­\nlich sein.",
+  "pages": {
+    "start": 64,
+    "end": 65
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

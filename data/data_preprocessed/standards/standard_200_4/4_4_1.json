@@ -1,0 +1,31 @@
+{
+  "id": "4_4_1",
+  "header": "4.4.1 Dokumentenstruktur (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.4",
+      "title": "Dokumentation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.4.1",
+      "title": "Dokumentenstruktur (R+AS)"
+    }
+  ],
+  "content": "### Dokumente zur Reaktion\n\nDas Notfallhandbuch (engl. Business Continuity Plans, bzw. BC-Plans) stellt das zentrale \nErgebnisobjekt dar, das alle für einen Not- oder Krisenfall relevanten Ergebnisobjekte al­\nler Prozessschritte bündelt. Es beinhaltet alle Informationen zur Notfallbewältigung. Die \nInhalte des Notfallhandbuchs können je nach Größe und Komplexität der Institution in \nverschiedene Dokumente unterteilt sein. Es ist zielführend, das Notfallhandbuch anhand \nder Zielgruppen zu unterteilen und so Dokumente auf strategischer, taktischer und ope­\n\nrativer Ebene voneinander zu trennen. So kann bei einem Schadensereignis schneller auf \ndie relevante Information zugegriffen werden.\n\nEin Notfallhandbuch und die damit einhergehenden Notfallmaßnahmen sowie eine ar­\nbeitsfähige BAO sind das zentrale Ergebnis eines BCMS, da sie zusammen eine Instituti­\non zur Geschäftsfortführung in einem Schadensfall befähigen.\n\nHinweis\n\nDie in diesem Standard verwendete Dokumentenstruktur und die Bezeichnungen \nder Dokumente, beispielsweise Notfallhandbuch oder Notfallvorsorgekonzept, sowie \ndie Dokumentenarten sind nicht bindend und können institutionsspezifisch festge­\nlegt werden. Eine eigenständig entwickelte Dokumentenstruktur sollte jedoch die \nnotwendigen Inhalte aller Dokumente, die in diesem Standard benannt sind, wider­\nspiegeln.\n\nIn der BCM-Dokumentation sind zahlreiche schützenswerte Informationen der Institution \nenthalten. Um einen Verlust oder die unbeabsichtigte Veröffentlichung von schützens­\nwerten Informationen zu verhindern, muss jedes Dokument hinsichtlich Verfügbarkeit, \nVertraulichkeit und Integrität angemessen geschützt werden. Hierzu sollte in jedem Do­\nkument selbst der Schutzbedarf dokumentiert werden (siehe 4.4.2 Festlegung von Do­\nkumentinformationen (AS)). Insbesondere innerhalb des Notfallhandbuchs und der in \nihm referenzierten Dokumente werden oftmals interne oder vertrauliche Informationen \ndokumentiert. Für diese Dokumente sollte die Zielgruppe auf wenige bestimmte Perso­\nnen begrenzt werden. Zusätzlich muss für alle im Notfall benötigten Dokumente sicher­\ngestellt werden, dass diese im Notfall und in der Krise auch für die jeweiligen Zielgrup­\npen verfügbar sind. Dies beinhaltet auch die im Notfallhandbuch referenzierten Doku­\nmente.\n\nWeitere Informationen zur Klassifizierung von Informationen können dem BSI-Standard \n200-2, Kapitel 5.1 entnommen werden. Ferner muss für alle Dokumente des BCMS si­\nchergestellt werden, dass keine veralteten Versionen produktiv eingesetzt werden.",
+  "pages": {
+    "start": 82,
+    "end": 85
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

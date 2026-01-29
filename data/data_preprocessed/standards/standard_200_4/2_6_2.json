@@ -1,0 +1,26 @@
+{
+  "id": "2_6_2",
+  "header": "2.6.2 Übersicht über den BCMS-Prozess",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.6",
+      "title": "BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)"
+    },
+    {
+      "level": 3,
+      "number": "2.6.2",
+      "title": "Übersicht über den BCMS-Prozess"
+    }
+  ],
+  "content": "Das vorliegende Kapitel gibt eine grundlegende Übersicht über den BCM-Prozess, der \nsich an den einzelnen Phasen des PDCA-Zyklus orientiert (siehe Abbildung 10).\n\nAbbildung 10: PDCA-Struktur des BCMS-Prozesses\n\nDie einzelnen Phasen teilen sich in unterschiedliche BCMS-Prozessschritte auf, die in der \nnachfolgenden Übersicht in Abbildung 11 dargestellt werden. Abbildung 11 bezieht sich \nauf das Standard-BCMS, da dieses alle Schritte beinhaltet, um ein vollständiges, ange­\nmessenes und interessengruppengerechtes BCMS zu etablieren. Reaktiv- und Aufbau-\nBCMS weichen in gewissen Prozessschritten von dieser Übersicht ab. Dies ist im Folgen­\nden sowohl in der Abbildung 11 als auch in den Beschreibungen der Prozessschritte ent­\nsprechend gekennzeichnet. Nach allen Prozessschritten sind die weiteren Kapitel dieses \nStandards strukturiert.",
+  "pages": {
+    "start": 43,
+    "end": 45
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

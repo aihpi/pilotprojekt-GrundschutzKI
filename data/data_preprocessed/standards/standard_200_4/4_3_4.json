@@ -1,0 +1,31 @@
+{
+  "id": "4_3_4",
+  "header": "4.3.4 BC-Gremium (optional) (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.3",
+      "title": "Definition der BC-Aufbauorganisation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.3.4",
+      "title": "BC-Gremium (optional) (R+AS)"
+    }
+  ],
+  "content": "Sofern zusätzlich zur Rolle BCB weitere Rollen etabliert werden, die verschiedene Teil­\naufgaben im BCM wahrnehmen, sollten diese Tätigkeiten aufeinander abgestimmt wer­\nden. Dazu kann beispielsweise ein BC-Gremium aufgebaut werden, das dem kontinuier­\nlichen Austausch zwischen den verschiedenen Rollen dient.\n\nSynergiepotenzial\n\nGibt es in der Institution bereits ein Gremium oder mehrere Gremien, die sich mit  \nSicherheitsfragen oder Fragen der Risikosteuerung in der Institution auseinanderset­\nzen, dann können die Aufgaben dieser Gremien um die BCM-spezifischen Aspekte \nerweitert werden.\n\nInsbesondere wenn bereits ein ISMS nach BSI-Standard 200-2 vorliegt, kann das BC-\nGremium mit dem IS-Koordinierungsausschuss kombiniert werden. Ein gemeinsames \nGremium kann gebildet werden, dessen Teilnehmendenkreis situativ um die BCM-\nRollen erweitert wird. Die Agenda der Gremiensitzungen kann jeweils entsprechend\n\nAS\n\nangepasst werden. Alternativ kann auch eine gegenseitige Vertretung in den jewei­\nligen Gremien eingerichtet werden.",
+  "pages": {
+    "start": 80,
+    "end": 81
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

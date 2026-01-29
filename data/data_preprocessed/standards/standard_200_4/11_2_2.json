@@ -1,0 +1,31 @@
+{
+  "id": "11_2_2",
+  "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.2",
+      "title": "Erstellung der GFPs (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "11.2.2",
+      "title": "Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)"
+    }
+  ],
+  "content": "### Fallunterscheidung für unterschiedlich schwere Ausfälle\n\nEs kann hilfreich sein, die zeitkritischen Ressourcen gemäß BIA innerhalb eines GFP an­\nhand unterschiedlich schwerer Ausfallszenarien zu betrachten.\n\nBeispiel\n\nEin Gebäudeausfall kann den Ausfall eines gesamten Standortes, eines einzelnen \nGebäudes oder lediglich einzelner Gebäudeteile bedeuten.\n\nJe nach Schweregrad des Ereignisses kann es sinnvoll sein, unterschiedliche Notfall­\nmaßnahmen zu treffen. Bei dem gesamten Ausfall eines Standortes könnte es z. B. \nnotwendig sein, sämtliche Tätigkeiten oder eine vorhandene Produktion an eine \nAusweichlokation zu verlagern. Fallen hingegen nur einzelne Gebäudeteile aus, \nkann die Verlagerung der Arbeitsplätze oder der Produktion innerhalb des Gebäudes \noder Standortes ausreichen.\n\nNicht alle Notfallmaßnahmen müssen neu dokumentiert werden, falls diese bereits leicht \nverständlich in anderen Dokumenten beschrieben sind. Wenn bereits zutreffende Pro­\nzessbeschreibungen oder Arbeitsanweisungen der AAO existieren, kann auf die entspre­\nchenden Textstellen in den bestehenden Dokumenten verwiesen werden. Um schnell auf \ndiese Textstellen zugreifen zu können, sollten alle im GFP aufgeführten Dokumente am \nEnde des GFP noch einmal in einer Gesamtliste namentlich aufgeführt werden. Zusätz­\nlich sollten je Dokument der jeweils relevante Abschnitt sowie der Ablageort referenziert \nwerden. Es muss auch sichergestellt werden, dass die Ablageorte dem Schutzbedarf der \nDokumente entsprechen und die Dokumente gleichzeitig im Notfall zugänglich sind.\n\nSchwachstellen und Verbesserungsbedarfe, die innerhalb der Geschäftsfortführungspla­\nnung identifiziert werden, sowie getroffene Annahmen und Lücken, die sich aus der Na­\ntur des Reaktiv-BCMS ergeben, müssen an die Rolle BCB gemeldet werden. Diese muss \ndie identifizierten Lücken und Schwachstellen sowie Annahmen und Verbesserungsbe­\ndarfe in einem Maßnahmenplan vorhalten (siehe 15.2 Ableitung von Korrektur- und \nVerbesserungsmaßnahmen (R+AS)). Dadurch kann sichergestellt werden, dass keine As­\npekte verloren gehen und alle in einem Aufbau- oder Standard-BCMS wieder aufgegrif­\nfen und behandelt werden.",
+  "pages": {
+    "start": 229,
+    "end": 237
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

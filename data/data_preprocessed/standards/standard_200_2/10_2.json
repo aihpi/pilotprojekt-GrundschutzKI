@@ -1,0 +1,26 @@
+{
+  "id": "10_2",
+  "header": "10.2 Eignung der Informationssicherheitsstrategie",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit"
+    },
+    {
+      "level": 2,
+      "number": "10.2",
+      "title": "Eignung der Informationssicherheitsstrategie"
+    }
+  ],
+  "content": "Um den Informationssicherheitsprozess erfolgreich steuern und lenken zu können, muss die Leitungs­\nebene einen Überblick darüber haben, inwieweit die Sicherheitsziele mithilfe der eingesetzten Sicher­\nheitsstrategie tatsächlich erreicht werden konnten.\n\nAktualität von Sicherheitszielen, Rahmenbedingungen und Sicherheitskonzeption\n\nBezüglich einer längeren Perspektive ist es auch notwendig, die gesetzten Sicherheitsziele und Rah­\nmenbedingungen zu überprüfen. Gerade in schnelllebigen Branchen ist eine entsprechende Anpas­\nsung der Sicherheitsleitlinie und der Sicherheitsstrategie von elementarer Bedeutung.\n\nAuch betriebliche Änderungen (z. B. Einsatz neuer IT-Systeme, Umzug), organisatorische Änderungen \n(z. B. Outsourcing) und Änderungen gesetzlicher Anforderungen müssen schon bei ihrer Planungs­\nphase mit in die Sicherheitskonzeption einbezogen werden. Die Sicherheitskonzeption und die dazu­\ngehörige Dokumentation muss nach jeder relevanten Änderung aktualisiert werden. Dies muss auch \nim Änderungsprozess der Institution berücksichtigt werden. Dafür muss der Informationssicherheits­\nprozess in das Änderungsmanagement der Institution integriert werden.\n\nWirtschaftlichkeitsbetrachtung\n\nDie Wirtschaftlichkeit der Sicherheitsstrategie und die spezifischen Sicherheitsmaßnahmen sollten \nkonstant unter Beobachtung stehen. Es ist zu prüfen, ob die tatsächlich angefallenen Kosten den \nursprünglich geplanten Kosten entsprechen oder ob alternativ andere, ressourcenschonendere Si­\ncherheitsmaßnahmen eingesetzt werden können. Ebenso ist es wichtig, regelmäßig den Nutzen der \nvorhandenen Sicherheitsmaßnahmen herauszuarbeiten.",
+  "pages": {
+    "start": 168,
+    "end": 169
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

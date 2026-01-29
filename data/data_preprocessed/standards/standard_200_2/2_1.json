@@ -1,0 +1,26 @@
+{
+  "id": "2_1",
+  "header": "2.1 Ganzheitliches Konzept",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "2.1",
+      "title": "Ganzheitliches Konzept"
+    }
+  ],
+  "content": "Um zu einem bedarfsgerechten Sicherheitsniveau für alle Geschäftsprozesse, Informationen und auch \nder IT-Systeme einer Institution zu kommen, ist allerdings mehr als das bloße Anschaffen von Viren­\nschutzprogrammen, Firewalls oder Datensicherungssystemen notwendig. Ein ganzheitliches Konzept \nist wichtig. Dazu gehört vor allem ein funktionierendes und in die Institution integriertes Sicherheits­\nmanagement. Informationssicherheitsmanagement (oder kurz: IS-Management) ist jener Teil des all­\ngemeinen Risikomanagements, der die Vertraulichkeit, Integrität und Verfügbarkeit von Informatio­\nnen, Geschäftsprozessen, Anwendungen und IT-Systemen gewährleisten soll. Dabei handelt es sich \num einen kontinuierlichen Prozess, dessen Strategien und Konzepte ständig auf ihre Leistungsfähig­\nkeit und Wirksamkeit zu überprüfen und bei Bedarf fortzuschreiben sind.\n\nInformationssicherheit ist nicht nur eine Frage der Technik, sondern hängt in erheblichem Maße von \nden organisatorischen und personellen Rahmenbedingungen ab. Der IT-Grundschutz trägt dem Gan­\nzen Rechnung, indem er über die auf dem Stand der Technik basierenden Bausteine sowohl techni­\nsche als auch nicht technische Sicherheitsanforderungen für typische Geschäftsbereiche, Anwendun­\ngen und Systeme beschreibt. Im Vordergrund stehen dabei praxisnahe und handlungsorientierte Si­\ncherheitsanforderungen mit dem Ziel, die Einstiegshürde in den Sicherheitsprozess so niedrig wie \nmöglich zu halten und hochkomplexe Vorgehensweisen zu vermeiden.\n\nUnter dem Dach des IT-Grundschutzes werden mit der Basis-, der Standard- und der Kern-Absiche­\nrung verschiedene Vorgehensweisen angeboten, um den Institutionen je nach Art und Größe passen­\nde Instrumente zum Schutz ihrer Informationsverbünde an die Hand zu geben.",
+  "pages": {
+    "start": 11,
+    "end": 11
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

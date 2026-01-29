@@ -1,0 +1,31 @@
+{
+  "id": "6_2_1",
+  "header": "6.2.1 Modellierung nach IT-Grundschutz",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "6.2",
+      "title": "Auswahl und Priorisierung für die Basis-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "6.2.1",
+      "title": "Modellierung nach IT-Grundschutz"
+    }
+  ],
+  "content": "Um einen im Allgemeinen komplexen Informationsverbund nach IT-Grundschutz zu modellieren, \nmüssen die passenden Bausteine des IT-Grundschutz-Kompendiums ausgewählt und umgesetzt wer­\nden. Um die Auswahl zu erleichtern, sind die Bausteine im IT-Grundschutz-Kompendium zunächst in \nprozess- und systemorientierte Bausteine aufgeteilt. Ein Überblick über die Struktur des IT-Grund­",
+  "pages": {
+    "start": 62,
+    "end": 63
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

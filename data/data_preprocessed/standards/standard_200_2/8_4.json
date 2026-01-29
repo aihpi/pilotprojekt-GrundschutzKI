@@ -1,0 +1,26 @@
+{
+  "id": "8_4",
+  "header": "8.4 IT-Grundschutz-Check",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "8.4",
+      "title": "IT-Grundschutz-Check"
+    }
+  ],
+  "content": "Für die nachfolgenden Betrachtungen wird vorausgesetzt, dass für einen ausgewählten Informations­\nverbund folgende Teile des Sicherheitskonzepts nach IT-Grundschutz erstellt wurden:\n\nAnhand der Strukturanalyse des Informationsverbunds wurde eine Übersicht über die vorhandenen \nGeschäftsprozesse, die IT und deren Vernetzung, die unterstützten Anwendungen und die Räum­\nlichkeiten erstellt. Darauf aufbauend wurde anschließend die Schutzbedarfsfeststellung durchge­\nführt, deren Ergebnis eine Übersicht über den Schutzbedarf der Geschäftsprozesse, Anwendungen, \nIT-Systeme, der genutzten Räume und der Kommunikationsverbindungen ist. Mithilfe dieser Infor­\nmationen wurde die Modellierung des Informationsverbunds nach IT-Grundschutz durchgeführt. \nDas Ergebnis war eine Abbildung des betrachteten Informationsverbunds auf Bausteine des \nIT-Grundschutzes.\n\nDie Modellierung nach IT-Grundschutz wird nun als Prüfplan benutzt, um anhand eines Soll-Ist-Ver­\ngleichs herauszufinden, welche Anforderungen ausreichend oder nur unzureichend erfüllt wurden.\n\nDieses Kapitel beschreibt, wie bei der Durchführung des IT-Grundschutz-Checks vorgegangen wer­\nden sollte. Der IT-Grundschutz-Check besteht aus drei unterschiedlichen Schritten. Im ersten Schritt \nwerden die organisatorischen Vorbereitungen getroffen, insbesondere die relevanten Ansprech­\npartner für den Soll-Ist-Vergleich ausgewählt. Im zweiten Schritt wird der eigentliche Soll-Ist-Ver­\ngleich mittels Interviews und stichprobenartiger Kontrolle durchgeführt. Im letzten Schritt werden \ndie erzielten Ergebnisse des Soll-Ist-Vergleichs einschließlich der erhobenen Begründungen doku­\nmentiert.\n\nNachfolgend werden die Schritte des IT-Grundschutz-Checks detailliert beschrieben.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 145,
+    "end": 146
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

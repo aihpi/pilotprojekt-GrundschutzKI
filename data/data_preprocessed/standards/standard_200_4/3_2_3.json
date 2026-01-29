@@ -1,0 +1,26 @@
+{
+  "id": "3_2_3",
+  "header": "3.2.3 Abzusichernder Zeitraum durch ein BCMS (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "3.2.3",
+      "title": "Abzusichernder Zeitraum durch ein BCMS (R+AS)"
+    }
+  ],
+  "content": "Wesentlich für die Zielsetzung ist auch die Frage, wie lange der Geschäftsbetrieb durch \ndas BCMS abgesichert werden soll, d. h. wie lange die Geschäftsfortführung im Scha­\ndensfall gewährleistet werden soll (abzusichernder Zeitraum). Tendenziell kann davon\n\nR\n\nausgegangen werden, dass die Maßnahmen im BCM umso komplexer und damit auch \nteurer werden, desto länger ein Ausfall des Geschäftsbetriebs abgesichert und über­\nbrückt werden soll. Im selben Maße steigt jedoch auch die Resilienz der Institution gegen \nlängere Ausfälle, denn je länger der abzusichernde Zeitraum gewählt wird, desto mehr \nGeschäftsprozesse werden für gewöhnlich abgesichert. Notfälle, die länger als der vom \nBCMS abgesicherte Zeitraum andauern, führen typischerweise dazu, dass ergänzende \nMaßnahmen aus dem Krisenmanagement aktiviert werden. Der abzusichernde Zeitraum \nmuss für die Institution individuell festgelegt werden, da dieser stark von unterschiedli­\nchen Gegebenheiten abhängt, z. B. von\n\n• \nder Risikobereitschaft der Institution (Je kürzer der abzusichernde Zeitraum gewählt \nwird, desto eher muss das Krisenmanagement aktiviert werden.),\n\n• \ndem Zeitraum, über den die Institution ohne Umsätze überlebensfähig ist,\n\n• \ndem Reifegrad des BCMS,\n\n• \nden vorhandenen oder avisierten Ressourcen des BCMS,\n\n• \nder Art und Komplexität des Geschäftszwecks der Institution,\n\n• \nder Vielfältigkeit und der Verteilung der Geschäftsprozesse über mehrere Standorte,\n\n• \ndem Abhängigkeitsverhältnis des Geschäftsbetriebs von Dritten,\n\n• \ndem Umfang und der Detailtiefe der Anforderungen an die Institution sowie\n\n• \nbranchenspezifischen Vorgaben.\n\nIn der Praxis ist ein Zeitraum von 14 bis 30 Tagen üblich. Mehrwöchige Ausfälle bzw. \nNotfälle sind nicht unrealistisch, sondern kommen in der Praxis durchaus vor. In der Re­\ngel ist jedoch auch gleichzeitig eine Wiederherstellung vieler Ressourcen binnen weniger \nWochen möglich, abgesehen von Großschadensereignissen wie kompletten Gebäude­\nzerstörungen. Die Institution wird durch ein BCMS in die Lage versetzt, über den abzusi­\nchernden Zeitraum grundsätzlich handlungsfähig zu bleiben. Falls absehbar ist, dass ein \nAusfall diesen Zeitraum überschreitet, ist es innerhalb der vom BCM häufig abgesicher­\nten 14 bis 30 Tage oft noch möglich, weiterführende Notfallmaßnahmen zu planen und \numzusetzen. Der abzusichernde Zeitraum im BCM sollte regelmäßig auf seine Angemes­\nsenheit überprüft und falls erforderlich angepasst werden.\n\nBaut eine Institution ihr BCM erst in einem Reaktiv-BCMS auf und unter­\nliegt keinen besonderen Anforderungen, dann ist es möglicherweise zu­\nnächst akzeptabel, einen kürzeren Zeitraum zu wählen.\n\nBeispiel\n\nDie Leitung eines mittelständischen Unternehmens ohne Vorerfahrung im BCM legt \nfür sich fest, dass der Ausfall des Geschäftsbetriebs für einen gesamten Monat die \nfinanziellen Rücklagen des Unternehmens aufbrauchen würde. Gleichzeitig wird den \nagilen Problemlösungsfähigkeiten der Belegschaft und dem guten Netzwerk aus Ge­\nschäftspartnern, Geschäftspartnerinnen und Dienstleistungsunternehmen vertraut.",
+  "pages": {
+    "start": 54,
+    "end": 56
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

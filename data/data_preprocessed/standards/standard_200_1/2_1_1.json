@@ -1,0 +1,26 @@
+{
+  "id": "2_1_1",
+  "header": "2.1.1 ISO-Normen zur Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.1",
+      "title": "Überblick über Normen und Standards zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "2.1.1",
+      "title": "ISO-Normen zur Informationssicherheit"
+    }
+  ],
+  "content": "Innerhalb der internationalen Normungsorganisationen ISO und IEC werden die Normen zur Informa­\ntionssicherheit in der 2700x-Reihe zusammengeführt, die stetig wächst. International werden diese \nNormen als Standards bezeichnet. Ein Teil dieser internationalen Standards liegt auch in Übersetzun­\ngen als DIN-Normen vor.\n\nDie wesentlichen Normen der ISO-/IEC-2700x-Reihe sind:\n\nISO/IEC 27000 (Information security management systems – Overview and vocabulary) \nDiese Norm gibt einen Überblick über Managementsysteme für Informationssicherheit (ISMS) und \nüber die Zusammenhänge der verschiedenen Normen der ISO-/IEC-2700x-Familie. Hier finden sich \naußerdem die grundlegenden Begriffe und Definitionen für ISMS.\n\nISO/IEC 27001 (Information security management systems – Requirements) \nDie ISO-Norm 27001 ist eine internationale Norm zum Management von Informationssicherheit, die \nauch eine Zertifizierung ermöglicht. ISO/IEC 27001 gibt auf ca. neun Seiten normative Vorgaben zur \nEinführung, dem Betrieb und der Verbesserung eines dokumentierten Informationssicherheitsmana­\ngementsystems. In einem normativen Anhang werden mehr als 100 Maßnahmen (Controls) aufge­\nführt, die unter Berücksichtigung der relevanten Risiken ausgewählt werden sollten. Die Leser erhal­\nten allerdings keine Hilfe im Hinblick auf die Umsetzung in der Praxis.\n\nBisher orientierten sich die Anforderungen der ISO/IEC 27001 an einem Lebenszyklusmodell, das nach \nder englischen Benennung der einzelnen Phasen („Plan“, „Do“, „Check“, „Act“) auch als PDCA-Zy­\nklus bezeichnet wird. Um mit dem Annex SL (Leitfaden für die Entwicklung und Überarbeitung von \nISO-Normen für Managementsysteme) kompatibel zu sein, ist bei der Überarbeitung der ISO/IEC \n27001 auf eine explizite Nennung des PDCA-Zyklus verzichtet worden. Dadurch soll deutlich gemacht \nwerden, dass die Reihenfolge der einzelnen Anforderungen in der Norm keinen Rückschluss auf deren \njeweilige Wichtigkeit oder die Reihenfolge ihrer Umsetzung gibt. Alle Aktivitäten zum Aufbau und \nBetrieb eines ISMS lassen sich jedoch weiterhin nach dem PDCA-Zyklus durchführen.\n\nISO/IEC 27002 (Code of practice for information security controls) \nDiese Norm unterstützt bei der Auswahl und Umsetzung der in der ISO/IEC 27001 beschriebenen \nMaßnahmen, um ein funktionierendes Sicherheitsmanagement aufzubauen und in der Institution \nzu verankern. Die dafür geeigneten Sicherheitsmaßnahmen werden auf den 90 Seiten der Norm ISO/ \nIEC 27002 beschrieben. Die Empfehlungen sind in erster Linie für die Management-Ebene gedacht \nund enthalten daher kaum konkrete technische Hinweise. Die Umsetzung der Sicherheitsempfehlun­\ngen der ISO/IEC 27002 ist eine von vielen Möglichkeiten, die Anforderungen der ISO-Norm 27001 zu \nerfüllen.\n\nISO/IEC 27004 (Monitoring, measurement, analysis and evaluation) \nDie ISO-Norm 27004 behandelt die Bewertung der Umsetzung und der Wirksamkeit eines ISMS an­\nhand verschiedener Kenngrößen.\n\nISO/IEC 27005 (Information security risk management) \nDiese Norm enthält Rahmenempfehlungen zum Risikomanagement für Informationssicherheit. Unter \nanderem unterstützt sie bei der Umsetzung der Anforderungen aus ISO/IEC 27001. Hierbei wird al­\nlerdings keine spezifische Methode für das Risikomanagement vorgegeben. Diese Norm basiert wie­\nderum wesentlich auf der Norm ISO/IEC 31000 Risk management – Principles and guidelines on im­",
+  "pages": {
+    "start": 9,
+    "end": 10
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

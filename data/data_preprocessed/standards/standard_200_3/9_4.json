@@ -1,0 +1,21 @@
+{
+  "id": "9_4",
+  "header": "9.4 Zusammenspiel mit ISO/IEC 31000",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "9.4",
+      "title": "Zusammenspiel mit ISO/IEC 31000"
+    }
+  ],
+  "content": "In den internationalen Normen zum Risikomanagement und zur Risikobeurteilung, insbesondere der \nISO/IEC 31000, werden einige Begriffe anders belegt, als es im deutschen Sprachraum üblich ist. In der \nnachfolgenden Tabelle sind die wesentlichen Begriffe aus ISO/IEC 31000 und dem BSI-Standard 200-3 \neinander gegenübergestellt. Diese Gegenüberstellung dient der Zuordnung der Begriffe der ISO \n31000 zu den Begriffen der BSI-Standards 200-2 und 200-3 (siehe Abbildung 7).\n\nISO/IEC 31000 und IT-Grundschutz\n\nISO/IEC 31000:2009 \nIT-Grundschutz\n\nEstablishing the Context, Kapitel 5.3 \nBSI-Standard 200-1 (siehe [BSI1]), \nManagementprinzipien, Kapitel 4 \nPlanung des Sicherheitsprozesses, Kapitel 7.1 \nBSI-Standard 200-2 \nInitiierung des Sicherheitsprozesses, Kapitel 3\n\nRisk Assessment, Kapitel 5.4 \n•Risk Identification \n•Risk Analysis \n•Risk Evaluation\n\nBSI-Standard 200-3 Risikobeurteilung, Kapitel 1 \n•Erstellung einer Gefährdungsübersicht \n•Risikoeinschätzung \n•Risikobewertung\n\nRisk Identification, Kapitel 5.4.2 \nBSI-Standard 200-3 \nErstellung einer Gefährdungsübersicht, Kapitel 4\n\nRisk Analysis, Kapitel 5.4.3 \nBSI-Standard 200-3 \nRisikoeinschätzung, Kapitel 5.1\n\nRisk Evaluation, Kapitel 5.4.4 \nBSI-Standard 200-3, Risikobewertung, Kapitel 5.2\n\nRisk Treatment, Kapitel 5.5 \nBSI-Standard 200-3, Risikobehandlung, Kapitel 6\n\nCommunication and Consultation, Kapitel \n5.2\n\nBSI-Standard 200-1, Kommunikation und Wissen, \nKapitel 4.2 \nBSI-Standard 200-2 \nInformationsfluss im Informationssicherheitsprozess, \nKapitel 5.2\n\nBSI-Standard 200-3\n\nMonitoring and Review, Kapitel 5.6 \nBSI-Standard 200-1 \nAufrechterhaltung der Informationssicherheit, Kapi­\ntel 7.4 Kontinuierliche Verbesserung der Informati­\nonssicherheit, Kapitel 7.5 \nBSI-Standard 200-2 \nAufrechterhaltung und kontinuierliche Verbesserung \nder Informationssicherheit, Kapitel 10 \nBSI-Standard 200-3 \nRisiken unter Beobachtung, Kapitel 6.2\n\nTabelle 11: Gegenfberstellung der Begriffe aus ISO/IEC 31000 und dem BSI-Standard 200-3\n\nAbbildung 7: Sicherheitsprozess nach BSI-Standard 200-2 und Risikomanagementprozess nach ISO/IEC 31000\n\nBSI-Standard 200-3\n\n[27005] \nISO/IEC 27005:2011, International Organization for Standardization (Hrsg.), Informati­\non technology – Security techniques – Information security risk management, ISO/IEC \nJTC 1/SC 27, 2011\n\n[31000] \nISO/IEC 31000:2009, International Organization for Standardization (Hrsg.), Risk ma­\nnagement – Principles and guidelines, ISO/TC 262, 2009\n\n[31010] \nISO 31000:2009, International Organization for Standardization (Hrsg.), Risk manage­\nment – Risk assessment techniques, ISO/TC 262, 2009\n\n[BSI1] \nManagementsysteme für Informationssicherheit (ISMS), BSI-Standard 200-1, Version \n1.0, Oktober 2017, https://www.bsi.bund.de/grundschutz\n\n[BSI2] \nIT-Grundschutz-Methodik, \nBSI-Standard \n200-2, \nhttps://www.bsi.bund.de/grundschutz\n\nVersion \n1.0, \nOktober \n2017,\n\n[BSI4] \nNotfallmanagement, \nBSI-Standard \n100-4, \nhttps://www.bsi.bund.de/grundschutz\n\nVersion \n1.0, \nNovember \n2008,\n\n[GSK] \nIT-Grundschutz-Kompendium, BSI, jährlich neu, \nhttps://www.bsi.bund.de/grundschutz\n\n[ISACA] \nLeitfaden ISO 31000 in der IT mit Vergleich zu anderen Standards, ISACA German \nChapter e.V. und Risk Management Association e.V., Juni 2014, \nhttps://www.isaca.de/sites/pf7360fd2c1.dev.team-wd.de/files/attache­\nments/2014_11_isaca-leitfadenanwendungderiso31000inderit.pdf\n\n[Koenigs] \nIT-Risikomanagement mit System – Praxisorientiertes Management von Informationssi­\ncherheit und IT-Risiken, Hans-Peter Koenigs, Springer, 2013\n\n[NIST800-30] Guide for Conducting Risk Assessments, NIST Special Publication 800-30, September\n\n2012, http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf\n\n[SHB] \nIT-Sicherheitshandbuch – Handbuch für die sichere Anwendung der Informationstech­\nnik, BSI, Version 1.0, März 1992, Bundesdruckerei",
+  "pages": {
+    "start": 51,
+    "end": 54
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

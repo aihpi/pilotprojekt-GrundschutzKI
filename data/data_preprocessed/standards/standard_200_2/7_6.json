@@ -1,0 +1,26 @@
+{
+  "id": "7_6",
+  "header": "7.6 Modellierung: Auswahl und Anpassung von Anforderungen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.6",
+      "title": "Modellierung: Auswahl und Anpassung von Anforderungen"
+    }
+  ],
+  "content": "Die Voraussetzung für die Anwendung des IT-Grundschutz-Kompendiums auf einen Informationsver­\nbund sind detaillierte Unterlagen über seine Struktur und den Schutzbedarf der darin enthaltenen \nZielobjekte. Diese Informationen sollten über die zuvor beschriebenen Arbeitsschritte ermittelt wer­\nden. Um geeignete Sicherheitsmaßnahmen für den vorliegenden Informationsverbund identifizieren \nzu können, müssen anschließend die Bausteine des IT-Grundschutz-Kompendiums auf die Zielobjekte \nund Teilbereiche abgebildet werden.\n\nDieser Vorgang der Modellierung wird in Kapitel 8.3 näher erörtert.\n\nBSI-Standard 200-2\n\nDer IT-Grundschutz-Check ist ein Organisationsinstrument, das einen schnellen Überblick über das \nvorhandene Sicherheitsniveau bietet. Mithilfe von Interviews wird der Status quo eines bestehenden \n(nach dem IT-Grundschutz modellierten) Informationsverbunds in Bezug auf den Grad der Erfüllung \nder Sicherheitsanforderungen des IT-Grundschutzes ermittelt. Als Ergebnis liegt ein Katalog vor, in \ndem für jede relevante Anforderung der Erfüllungsstatus „ja“, „teilweise“, „nein“ oder „entbehrlich“ \n(mit Begründung, nicht möglich bei Basis-Anforderungen) erfasst ist. Durch die Identifizierung von \nnoch nicht oder nur teilweise erfüllten Anforderungen werden Verbesserungsmöglichkeiten für die \nSicherheit der betrachteten Geschäftsprozesse und der Informationstechnik aufgezeigt.\n\nKapitel 8.4 beschreibt einen Aktionsplan für die Durchführung eines IT-Grundschutz-Checks. Dabei \nwird sowohl den organisatorischen Aspekten als auch den fachlichen Anforderungen bei der Projekt­\ndurchführung Rechnung getragen.",
+  "pages": {
+    "start": 73,
+    "end": 74
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

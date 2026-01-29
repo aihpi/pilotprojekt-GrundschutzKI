@@ -1,0 +1,26 @@
+{
+  "id": "7_5",
+  "header": "7.5 Kontinuierliche Verbesserung der Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "7.5",
+      "title": "Kontinuierliche Verbesserung der Informationssicherheit"
+    }
+  ],
+  "content": "Die Überprüfung des Sicherheitsprozesses dient letztendlich dessen Verbesserung. Die Ergebnisse \nsollten vor diesem Hintergrund dazu genutzt werden, die Wirksamkeit und Effizienz der gewählten \nSicherheitsstrategie zu beurteilen und eventuell anzupassen. Auch bei Veränderungen der Sicher­\nheitsziele oder der Rahmenbedingungen muss die Sicherheitsstrategie überarbeitet werden.",
+  "pages": {
+    "start": 31,
+    "end": 32
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

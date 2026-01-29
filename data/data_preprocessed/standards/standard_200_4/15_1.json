@@ -1,0 +1,26 @@
+{
+  "id": "15_1",
+  "header": "15.1 Vorbereitung eines BCM-Maßnahmenplans (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "14",
+      "title": "Leistungsüberprüfung und Berichterstattung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "15.1",
+      "title": "Vorbereitung eines BCM-Maßnahmenplans (R+AS)"
+    }
+  ],
+  "content": "Um den Gesamtüberblick über alle Korrektur- und Verbesserungsmaßnahmen zu behal­\nten und diese leichter steuern zu können, sollte der oder die BCB eine Dokumentvorlage \nfür einen BCM-Maßnahmenplan vorbereiten. Die wesentlichen Inhalte eines BCM-\nMaßnahmenplans werden im folgenden Beispiel veranschaulicht und im Kapitel 15.2 Ab­\nleitung von Korrektur- und Verbesserungsmaßnahmen (R+AS) näher beschrieben. Falls \nnicht das Hilfsmittel Dokumentvorlage BCM-Maßnahmenplan benutzt wird, sollten die \naufgeführten Punkte in der Dokumentvorlage berücksichtigt werden:\n\nBeispiel\n\nEindeutige Kennung der \nMaßnahme\n\nBCM-Korrektur-0001a \nBCM-Korrektur-0001b\n\nKorrekturbedarf oder \nVerbesserungsbedarf\n\nIm Rahmen der durchge­\nführten Übungen und Tests \nwurde festgestellt, dass die \nGeschäftsfortführungspläne \nder Organisationseinheiten \nBürgerbüro und IT-Help \nDesk weder vollständig noch \naktuell waren. So fehlten \nzeitkritische Ressourcen aus \ndem Soll-Ist-Vergleich und \nes wurde auf nicht länger \nbestehende Dokumente \nverwiesen.\n\nSiehe BCM-Korrektur-0001a \nMitarbeitende sind nicht in die \nBearbeitung von Geschäftsfort­\nführungsplänen eingewiesen \nworden.\n\nUrsache \nGrund für die BCM-Korrek-\ntur-0001a ist, dass die zu­\nständigen Mitarbeitenden \nnicht in die Bearbeitung von \nGeschäftsfortführungsplä­\nnen eingewiesen worden \nsind.\n\nUrsache hierfür ist, dass diese \nMitarbeitenden sich nicht im \nSchulungs- und Sensibilisie­\nrungsplan befanden. Grund \nhierfür ist, dass diese dem oder \nder BCB nicht als neue Mitarbei­\ntende gemeldet wurden. Mit \nder Organisationseinheit Perso­\nnal wurde bislang kein Mel­\ndeprozess definiert für den Fall, \ndass Mitarbeitende die Organi­\nsationseinheit wechseln oder die \nInstitution verlassen.\n\nVorgesehene Korrektur- \noder Verbesserungs­\nmaßnahme\n\nZur kurzfristigen Behand­\nlung der Abweichung wer­\nden die Geschäftsfortfüh­\nrungspläne gemeinsam mit \nden BCKs aktualisiert und im \nRahmen einer Planbespre­\nchung erneut geübt. (Maß­\nnahmen zur langfristigen \nBehandlung siehe BCM-\nKorrektur-0001b)\n\nUm die Abweichung langfristig \nabzustellen, soll der Prozess für \nWechsel von Mitarbeitenden \nund Benennung von BCM-\nRolleninhabenden gemeinsam \nmit der Organisationseinheit \nPersonal überarbeitet und ent­\nsprechende Kontrollmechanis­\nmen entwickelt werden.\n\nZuständige Stelle(n) \nBCB, BCKs  \nOrganisationseinheit Personal\n\nFestgelegte Priorität \nHoch – Mittel – Gering \nHoch – Mittel – Gering\n\nGeplanter Fertigstel­\nlungstermin\n\n16.08.2022 \n(Heute + 2 Wochen)\n\n31.12.2023\n\nNotwendige Ressourcen Verfügbarkeit der zuständi­\n\ngen \nBCKs und der zuständigen \nMitarbeitenden\n\nVerfügbarkeit der Mitarbeiten­\nden der Organisationseinheit \nPersonal\n\nUmsetzungsstatus \nOffen – in Umsetzung – ab­\ngeschlossen –  \nabgeschlossen und Wirk­\nsamkeit geprüft\n\nOffen – in Umsetzung – abge­\nschlossen –  \nabgeschlossen und Wirksamkeit \ngeprüft\n\nUmsetzungsdetails \n01.08.: Maßnahme freige­\ngeben durch BCB \n14.08.: GFP wurden aktuali­\nsiert.\n\n01.08.: Maßnahme freigegeben \ndurch BCB\n\nTabelle 45: Struktur des BCM-Maßnahmenplans am Beispiel einer fiktiven Abwei­\nchung",
+  "pages": {
+    "start": 301,
+    "end": 303
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

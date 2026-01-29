@@ -1,0 +1,26 @@
+{
+  "id": "5_2",
+  "header": "5.2 Informationsfluss im Informationssicherheitsprozess",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "5.2",
+      "title": "Informationsfluss im Informationssicherheitsprozess"
+    }
+  ],
+  "content": "sinnvoll. Zum Beispiel kann dadurch häufig auch eine exakte Zuordnung von IT-Kosten, die oftmals als \nGemeinkosten umgelegt werden, auf einzelne Geschäftsprozesse oder Produkte erfolgen.\n\nAktionspunkte zu 5.2 Informationsfluss im Informationssicherheitsprozess\n\n•  Grundsätzliche Festlegungen zum Informationsfluss und zu den Meldewegen in Bezug auf den \nInformationssicherheitsprozess in einer entsprechenden Richtlinie dokumentieren und der Lei­\ntungsebene zur Verabschiedung vorlegen\n\n•  Leitungsebene über die Ergebnisse von Überprüfungen und den Status des Informationssicher­\nheitsprozesses informieren\n\n•  Gegebenenfalls Entscheidungen über erforderliche Korrekturmaßnahmen einholen\n\n•  Alle Teilaspekte des gesamten Informationssicherheitsprozesses nachvollziehbar dokumentieren \nund die Dokumentation auf dem aktuellen Stand halten\n\n•  Bei Bedarf die Qualität der Dokumentation bewerten und gegebenenfalls nachbessern oder ak­\ntualisieren\n\n•  Meldewege, die den Informationssicherheitsprozess betreffen, auf dem aktuellen Stand halten\n\n•  Synergien zwischen dem Informationssicherheitsprozess und anderen Managementprozessen \nausfindig machen",
+  "pages": {
+    "start": 60,
+    "end": 61
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

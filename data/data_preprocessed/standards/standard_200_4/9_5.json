@@ -1,0 +1,26 @@
+{
+  "id": "9_5",
+  "header": "9.5 Risikobewertung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "30",
+      "title": "Tage"
+    },
+    {
+      "level": 2,
+      "number": "9.5",
+      "title": "Risikobewertung (AS)"
+    }
+  ],
+  "content": "Durch die Institution müssen die identifizierten Risiken hinsichtlich ihres weiteren Hand­\nlungsbedarfs bewertet werden. Wie in Abbildung 41 dargestellt, können verschiedene \nRisikokategorien anhand einer Risikomatrix festgelegt werden (siehe BSI-Standard 200-3, \nKapitel 5.2 Risikobewertung). In diesem Standard wurde bewusst ein vom BSI-Standard \n200-3 abweichendes Beispiel gewählt, um eine weitere Möglichkeit darzustellen. Es ist \njedoch sehr sinnvoll, beim ISMS und BCM die gleichen Kategorien zugrunde zu legen.\n\nAbbildung 41: Beispiel einer Risikomatrix\n\nTabelle 32 enthält einen BCM-spezifischen Vorschlag zur Definition der verschiedenen \nRisikokategorien aus Abbildung 41 angelehnt an den BSI-Standard 200-3.\n\nBeispiel\n\nRisikokategorien \nErläuterung\n\ngering\n\nDie Vorsorge- und Notfallmaßnahmen sowie die bereits umgesetzten \nBC-Lösungen bieten einen ausreichenden Schutz. In der Praxis ist es \nüblich, geringe Risiken zu akzeptieren und die Gefährdung dennoch \nzu beobachten.\n\nmittel \nDie Vorsorge- und Notfallmaßnahmen sowie die bereits umgesetzten \nBC-Lösungen reichen möglicherweise nicht aus.\n\nhoch\n\nDie Vorsorge- und Notfallmaßnahmen sowie die bereits umgesetzten \nBC-Lösungen bieten keinen ausreichenden Schutz vor der jeweili­\ngen Gefährdung, z. B. weil die RTA nicht ausreichend ist.\n\nTabelle 32: Definition der Risikokategorien\n\nHinweis\n\nEs ist empfehlenswert, die Risikobewertung anhand einer Risikomatrix in Kategorien \neinzuteilen, z. B. in die drei Kategorien geringe, mittlere und hohe Risiken. Daraus \nkann die weitere Behandlung von Risiken abgeleitet werden. In der Praxis hat es sich \nbewährt, geringe Risiken zu akzeptieren, mittlere Risiken fallweise auf ihren\n\nHandlungsbedarf zu untersuchen und hohe Risiken unbedingt einer weiteren Risi­\nkobehandlung zu unterziehen, z. B. durch risikoreduzierende Maßnahmen.",
+  "pages": {
+    "start": 205,
+    "end": 207
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

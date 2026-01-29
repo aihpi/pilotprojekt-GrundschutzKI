@@ -1,0 +1,26 @@
+{
+  "id": "13_9",
+  "header": "13.9 Funktionstest (R optional +AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.9",
+      "title": "Funktionstest (R optional +AS)"
+    }
+  ],
+  "content": "Funktionstests, auch funktionale Tests genannt, sind in vielen Institutionen bereits fester \nBestandteil des Qualitätssicherungsprozesses, z. B. in der Software- oder Systementwick­\nlung. Es existieren unterschiedliche Definitionen zum Begriff Funktionstest. In diesem \nStandard wird der Begriff weit gefasst und schließt alle Tests mit ein, in denen funktiona­\nle Anforderungen auf systematischem Wege geprüft werden.\n\nIn einem Funktionstest werden die vorhandenen Vorsorgemaßnahmen, Notfallpläne und \ndamit verbundenen Notfallmaßnahmen dahingehend überprüft, ob diese wie vorgese­\nhen funktionieren. Anhand von Funktionstests sollte systematisch und, wenn vertretbar, \nrealitätsnah überprüft werden, ob die Inhalte in der Betriebsdokumentation und den \nNotfallplänen verständlich, vollständig und fachlich richtig sind. Zudem kann verifiziert \nwerden, ob die im Notfallplan enthaltenen Zeitvorgaben eingehalten werden können.\n\nBeispiele für Funktionstests\n\n• \nEine Auswahl von Mitarbeitenden einer Fachabteilung an einen Auswahlort ver­\nlagern und dort arbeiten lassen. (Szenario Standortausfall) \n• \nGeschäftsvorgänge anhand der Schritte, die im Geschäftsfortführungsplan be­\nschrieben sind, durch eine Person einer anderen Abteilung erledigen lassen. \n(Szenario Personalausfall) \n• \nTemporär ein vorhandenes alternatives Dienstleistungsunternehmen nutzen. \n(Szenario Ausfall eines Dienstleistungsunternehmens) \n• \nMehrere untereinander abhängige Ausweichserver und alternative Netzverbin­\ndungen in Betrieb nehmen. (Szenario IT-Ausfall) \n• \nVorhandene IT-Wiederanlaufpläne und -Maßnahmen ausführen. \n• \nDen Anlauf und Betrieb eines Notstromaggregats in der vorgegebenen Zeit \nüberprüfen, eventuell auch für eine längere Dauer.\n\nFunktionstests dienen insbesondere dazu, die RTA bestimmen und nachweisen zu \nkönnen. Dabei ist es nicht notwendig, bei jedem Test den kompletten Notfallbewäl­\ntigungsprozess zu simulieren. Aufwand und Kosten einer kompletten Überprüfung \nsind unter Berücksichtigung des tatsächlichen Risikos oft nicht angemessen. Statt­\ndessen ist es häufig ausreichend\n\n• \nsich auf die zeitkritischen Aspekte des Notfallplans zu konzentrieren sowie\n\n• \nTeilaspekte des Notfallplans in aufeinander aufbauenden Stufen zu testen.",
+  "pages": {
+    "start": 281,
+    "end": 282
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

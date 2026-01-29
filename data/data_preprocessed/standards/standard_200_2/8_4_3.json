@@ -1,0 +1,26 @@
+{
+  "id": "8_4_3",
+  "header": "8.4.3 Dokumentation der Ergebnisse",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.4.3",
+      "title": "Dokumentation der Ergebnisse"
+    }
+  ],
+  "content": "Die Ergebnisse des IT-Grundschutz-Checks sollten so dokumentiert werden, dass sie für alle Beteilig­\nten nachvollziehbar sind und als Grundlage für die Umsetzungsplanung der defizitären Anforderun­\ngen und Maßnahmen genutzt werden können. Der Dokumentationsaufwand sollte nicht unter­\nschätzt werden. Daher sollten geeignete Hilfsmittel genutzt werden, die bei der Erstellung und Ak­\ntualisierung aller im Sicherheitsprozess erforderlichen Dokumente unterstützen.\n\nDies können zum einen geeignete IT-Grundschutz-Tools sein, also Anwendungen, die die gesamte \nVorgehensweise nach IT-Grundschutz unterstützen, beginnend bei der Stammdatenerfassung, über \ndie Schutzbedarfsfeststellung, die Risikoanalyse sowie den Soll-Ist-Vergleich (IT-Grundschutz-Check) \nbis hin zur Erfüllung der Anforderungen. Hierdurch ergeben sich komfortable Möglichkeiten zur Aus­\nwertung und Revision der Ergebnisse, z. B. die Suche nach bestimmten Einträgen, die Generierung \nvon Reports, Kostenauswertungen sowie Statistikfunktionen.\n\nDes Weiteren stehen als Hilfsmittel zum IT-Grundschutz Formulare zur Verfügung. Zu jedem Baustein \ndes IT-Grundschutz-Kompendiums gibt es eine Datei, in der tabellarisch für jede Anforderung des \nBausteins die Ergebnisse des Soll-Ist-Vergleichs erfasst werden können.\n\nZur Dokumentation des IT-Grundschutz-Checks sollten erfasst werden:\n\n•  Die Nummer und die Bezeichnung des Objektes oder Gruppe von Objekten, der der Baustein bei \nder Modellierung zugeordnet wurde,\n\n•  der Standort der zugeordneten Objekte bzw. Gruppe von Objekten,\n\n•  das Erfassungsdatum und der Name des Erfassers und\n\n•  die befragten Ansprechpartner.\n\nDie eigentlichen Ergebnisse des Soll-Ist-Vergleichs sollten tabellarisch erfasst werden. Dabei sollten zu \njeder Anforderung des jeweiligen Bausteins folgende Informationen festgehalten werden:\n\n•  Umsetzungsgrad (entbehrlich/ja/teilweise/nein) \nDer im Interview ermittelte Umsetzungsstatus der jeweiligen Anforderung ist zu erfassen. Im Hin­\nblick auf eine mögliche Zertifizierung sollte zudem festgehalten werden, durch welche Maßnah­\nmen die Anforderungen konkret erfüllt werden.\n\nBSI-Standard 200-2\n\n•  Umsetzung bis . . . \nEin solches Feld ist sinnvoll, auch wenn es während eines IT-Grundschutz-Checks im Allgemeinen \nnicht ausgefüllt wird. Es dient als Platzhalter, um in der Realisierungsplanung an dieser Stelle zu \ndokumentieren, bis zu welchem Termin die Anforderung vollständig umgesetzt sein soll.\n\n•  Verantwortliche \nFalls es bei der Durchführung des Soll-Ist-Vergleichs eindeutig ist, welche Mitarbeiter für die voll­\nständige Umsetzung einer defizitären Anforderung oder Maßnahme verantwortlich sind, sollte das \nnamentlich in diesem Feld dokumentiert werden. Falls die Verantwortung nicht eindeutig erkenn­\nbar ist, sollte das Feld frei gelassen werden. Im Zuge der späteren Realisierungsplanung ist dann ein \nVerantwortlicher zu bestimmen, dessen Name hier eingetragen werden kann.\n\n•  Bemerkungen/Begründungen \nEin solches Feld ist wichtig, um getroffene Entscheidungen später nachvollziehen zu können, bei­\nspielsweise für die Zertifizierung. Bei Anforderungen, deren Umsetzung entbehrlich erscheint, ist \nhier die Begründung zu nennen. Bei Anforderungen, die noch nicht oder nur teilweise umgesetzt \nsind, sollte in diesem Feld dokumentiert werden, welche Maßnahmen noch umgesetzt werden \nmüssen. In dieses Feld sollten auch alle anderen Bemerkungen eingetragen werden, die bei der \nBeseitigung von Defiziten hilfreich oder im Zusammenhang mit der Anforderung zu berücksichti­\ngen sind.\n\n•  Defizite/Kostenschätzung \nFür Anforderungen, die nicht oder nur teilweise erfüllt wurden, ist das damit verbundene Risiko in \ngeeigneter Form zu ermitteln und zu dokumentieren. Dies ist beispielsweise für Audits und Zerti­\nfizierungen wichtig. Bei solchen Maßnahmen sollte außerdem geschätzt werden, welchen finan­\nziellen und personellen Aufwand die Beseitigung der Defizite erfordert.\n\nAktionspunkte zu 8.4.3 Dokumentation der Ergebnisse\n\n• Stamminformationen über jedes Zielobjekt erfassen\n\n• Informationen zum IT-Grundschutz-Check und zum Umsetzungsstatus dokumentieren\n\n• Felder beziehungsweise Platzhalter für die Realisierungsplanung vorsehen",
+  "pages": {
+    "start": 151,
+    "end": 152
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

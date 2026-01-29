@@ -1,0 +1,26 @@
+{
+  "id": "10_4",
+  "header": "10.4 Umsetzung der BC-Strategien und -Lösungen (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "10.4",
+      "title": "Umsetzung der BC-Strategien und -Lösungen (AS)"
+    }
+  ],
+  "content": "• \ndie Personen, die die Handlungsschritte des Umsetzungsplans umsetzen sollen\n\n• \ndie Zeiträume, in denen die Handlungsschritte umgesetzt werden sollen\n\nWährend der Umsetzungsplan erstellt wird, können sich mitunter zusätzlich notwendige \nRessourcen im Sinne von Mitteln oder Maßnahmen ergeben, die bisher noch nicht be­\ndacht wurden. Die erstellten Umsetzungspläne müssen folglich dahingehend überprüft \nwerden, ob das erwartete Gesamtergebnis im Hinblick auf die ausgewählten BC-Strate-\ngien weiterhin wirksam und angemessen ist.\n\nNachdem die Umsetzungspläne und benötigten Ressourcen im Sinne von Mitteln von \nder Institutionsleitung freigegeben wurden, müssen die beschlossenen Maßnahmen \ndurch die Zuständigen umgesetzt werden. Sie sollten im festgelegten Zeitraum umge­\nsetzt werden.\n\nDer oder die BCB sollte die Umsetzung dieser Maßnahmen steuern und kontrollieren. \nHierzu ist der Maßnahmenplan ein sehr geeignetes Mittel (siehe 15.1 Vorbereitung eines \nBCM-Maßnahmenplans (R+AS)). Die Notfallmaßnahmen werden im Rahmen der Ge­\nschäftsfortführungsplanung sowie Wiederanlaufplanung behandelt (siehe Kapitel 11 Ge­\nschäftsfortführungsplanung (R+AS) und Kapitel 12 Wiederanlauf- und Wiederherstel­\nlungsplanung (AS)).\n\nInnerhalb von Geschäftsfortführungsplänen (GFP) wird dokumentiert, wie eine Insti­\ntution auf der Prozessebene auf eine Geschäftsunterbrechung nach einem Ressourcen­\nausfall reagiert. Hierzu werden konkrete Notfallmaßnahmen und Verfahren aus den BC-\nStrategien und -Lösungen abgeleitet, wie zeitkritische Geschäftsprozesse bis zur Wieder­\nherstellung der ausgefallenen Ressourcen im erforderlichen Umfang aufrechterhalten \nwerden können.\n\nInnerhalb von Wiederanlaufplänen (WAP) wird dokumentiert, wie die Institution aus­\ngefallene Ressourcen auf einem abgestimmten Notbetriebsniveau wieder in Betrieb \nnimmt, beispielsweise durch umgesetzte BC-Lösungen oder Ersatzlösungen.\n\nInnerhalb von Wiederherstellungsplänen (WHP) wird dokumentiert, wie bei Ressour­\ncenausfall der Normalzustand auf Ressourcenebene wieder erreicht werden kann.\n\nDie beschriebenen Dokumente bilden zusammen mit den Informationen aus dem Auf­\nbau und der Befähigung der BAO die Inhalte des Notfallhandbuchs. Das Notfallhand­\nbuch ist die zentrale Dokumentensammlung zur erfolgreichen Notfallbewältigung.\n\nAbbildung 43 verdeutlich die Beziehung der Dokumente untereinander.",
+  "pages": {
+    "start": 221,
+    "end": 222
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "7",
+  "header": "7 Erstellung einer Sicherheitskonzeption nach Kern-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    }
+  ],
+  "content": "Wenn die Kern-Absicherung in einem abgegrenzten Informationsverbund erfolgreich umgesetzt wur­\nde, kann dies auch über eine Zertifizierung nach ISO 27001 auf Basis von IT-Grundschutz nach innen \nund außen hin demonstriert werden. Welche Schritte hierfür notwendig sind und welche Bedingun­\ngen für eine erfolgreiche Zertifizierung erfüllt werden müssen, wird in Kapitel 11 Zertifizierung nach \nISO 27001 auf der Basis von IT-Grundschutz näher ausgeführt.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 75,
+    "end": 76
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

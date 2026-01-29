@@ -1,0 +1,26 @@
+{
+  "id": "9_5",
+  "header": "9.5 Realisierungsbegleitende Maßnahmen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "9.5",
+      "title": "Realisierungsbegleitende Maßnahmen"
+    }
+  ],
+  "content": "Überaus wichtig ist es, notwendige realisierungsbegleitende Maßnahmen rechtzeitig zu identifizieren \nbzw. zu konzipieren und für die Realisierung entsprechend einzuplanen. Zu diesen Maßnahmen ge­\nhören insbesondere Sensibilisierungsmaßnahmen, die darauf abzielen, die Belange der Informations­\nsicherheit zu verdeutlichen und die von neuen Sicherheitsmaßnahmen betroffenen Mitarbeiter über \ndie Notwendigkeit und die Konsequenzen der Maßnahmen zu unterrichten.\n\nDarüber hinaus müssen die betroffenen Mitarbeiter geschult werden, die neuen Sicherheitsmaßnah­\nmen korrekt um- und einzusetzen. Wird diese Schulung unterlassen, können die Maßnahmen oft \nnicht umgesetzt werden und verlieren ihre Wirkung, wenn sich die Mitarbeiter unzureichend infor­\nmiert fühlen, was oft zu einer ablehnenden Haltung gegenüber der Informationssicherheit führt.\n\nBeispiel: RECPLAST GmbH\n\nDie obigen Schritte werden nachfolgend anhand des fiktiven Beispiels RECPLAST GmbH auszugs­\nweise beschrieben. In der nachfolgenden Tabelle werden einige zu realisierende Maßnahmen \neinschließlich der Budgetplanungen dargestellt.\n\nZiel-\nBaustein Anforde­\numzusetzende Maßnahmen \nTermin-\nBudget \nVerant­\nobjekt \nrungstext \nplanung \nwortlich \nfür die Um­\nsetzung\n\nS008 – SYS.1.1 \nSYS.1.1.A3 \nIn der Rechtevergabe müssen Q3 \ndes \n- E Herr \nPrint--\nAllgemei- Restriktive \ndie \nletzten \nGruppenberech- Jahres \nSchmidt \nServer \nner Server Rechtverga­\nbe\n\ntigungen aufgelöst werden. \n(IT-Betrieb)\n\nS008 – \nPrint-­\nServer\n\nSYS.1.1 \nAllgemei­\nner Server\n\nSYS.1.1.A4 \nRollentren­\nnung\n\nEs sind noch nicht für jeden Ad­\nministrator \nseparate \nBenut­\nzer-Kennungen eingerichtet.\n\n31.07. des \nJahres\n\n- E Herr \nSchmidt \n(IT-Betrieb)\n\nS008 – SYS.1.1 \nSYS.1.1.A8 \nDie Datensicherungen werden Q1 Folge-\nAnschaf- Frau Meyer \nPrint--\nAllgemei- Regelmäßi­\nderzeit auf Bändern innerhalb jahr \nfung: (Einkauf) \nServer \nner Server ge Datensi­\ncherung\n\ndes Serverraumes aufbewahrt. \nGeplant ist hierzu ein externes \nBackup-System. Ein Angebot \nfür die Initialisierung liegt be­\nreits vor (15.000 E). Die Be­\ntriebskosten müssen noch ver­\nhandelt werden.\n\n15.000 E \nBetriebs­\nkosten: \nnoch offen\n\nAbbildung 33: Realisierungsplan der RECPLAST GmbH (Auszug)\n\nAnhand dieser Informationen kann die Umsetzung der Maßnahmen überwacht und gesteuert wer­\nden.\n\nAktionspunkte zu 9 Umsetzung der Sicherheitskonzeption\n\n• Fehlende oder nur teilweise umgesetzte IT-Grundschutz-Anforderungen sowie ergänzende Si­\ncherheitsmaßnahmen in einer Tabelle zusammenfassen\n\n• Sicherheitsmaßnahmen konsolidieren, d. h. überflüssige Maßnahmen streichen, allgemeine \nMaßnahmen an die Gegebenheiten anpassen und alle Maßnahmen auf Eignung prüfen\n\n• Einmalige und wiederkehrende Kosten und den Aufwand für die umzusetzenden Maßnahmen \nermitteln\n\n• Ersatzmaßnahmen für nicht finanzierbare oder nicht leistbare Maßnahmen auflisten\n\n• Entscheidung herbeiführen, welche Ressourcen für die Umsetzung der Maßnahmen eingesetzt \nwerden sollen\n\n• Gegebenenfalls Restrisiko aufzeigen und Entscheidung der Leitungsebene dazur einholen\n\n• Umsetzungsreihenfolge für die Maßnahmen festlegen, begründen und dokumentieren\n\n• Termine für die Umsetzung festlegen und Verantwortung zuweisen\n\n• Verlauf der Umsetzung und Einhaltung der Termine überwachen\n\n• Betroffene Mitarbeiter schulen und sensibilisieren\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 162,
+    "end": 164
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

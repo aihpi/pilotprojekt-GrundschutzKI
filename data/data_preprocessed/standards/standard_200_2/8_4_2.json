@@ -1,0 +1,26 @@
+{
+  "id": "8_4_2",
+  "header": "8.4.2 Durchführung des Soll-Ist-Vergleichs",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.4.2",
+      "title": "Durchführung des Soll-Ist-Vergleichs"
+    }
+  ],
+  "content": "Sind alle erforderlichen Vorarbeiten erledigt, kann die eigentliche Erhebung an den zuvor festgesetz­\nten Terminen beginnen. Hierzu werden die Sicherheitsanforderungen des jeweiligen Bausteins, für \nden die Interviewpartner zuständig sind, der Reihe nach durchgearbeitet.\n\nAls Antworten bezüglich des Umsetzungsstatus der einzelnen Anforderungen kommen folgende \nAussagen in Betracht:\n\n„entbehrlich“ \nDie Erfüllung der Anforderung ist in der vorgeschlagenen Art nicht notwendig, weil \ndie Anforderung im betrachteten Informationsverbund nicht relevant ist (z. B. weil \nDienste nicht aktiviert wurden) oder durch Alternativmaßnahmen behandelt wurde. \nWird der Umsetzungsstatus einer Anforderung auf „entbehrlich“ gesetzt, müssen \nüber die Kreuzreferenztabelle des jeweiligen Bausteins die zugehörigen elementa­\nren Gefährdungen identifiziert werden. Wurden Alternativmaßnahmen ergriffen, \nmuss begründet werden, dass das Risiko, das von allen betreffenden elementaren \nGefährdungen ausgeht, angemessen minimiert wurde. Generell ist zu beachten, \ndass bei Basis-Anforderungen das entstehende Risiko nicht übernommen werden \nkann. \nAnforderungen dürfen nicht auf „entbehrlich“ gesetzt werden, wenn das Risiko für \neine im Baustein identifizierte elementare Gefährdung über die Kreuzreferenztabel­\nle pauschal akzeptiert oder ausgeschlossen wird.\n\n„ja“ \nZu der Anforderung wurden geeignete Maßnahmen vollständig, wirksam und ange­\nmessen umgesetzt.\n\n„teilweise“ \nDie Anforderung wurde nur teilweise umgesetzt.\n\n„nein“ \nDie Anforderung wurde noch nicht erfüllt, also geeignete Maßnahmen sind größten­\nteils noch nicht umgesetzt.\n\nEs ist sinnvoll, bei den Interviews nicht nur die Bausteintexte, sondern auch die Umsetzungshinweise \noder andere ergänzende Materialien griffbereit zu haben. Den Befragten sollte der Zweck des \nIT-Grundschutz-Checks kurz vorgestellt werden. Es bietet sich an, mit den Anforderungsüberschriften \nfortzufahren und die Anforderungen kurz zu erläutern. Dem Gesprächspartner sollte die Möglichkeit \ngegeben werden, auf die bereits umgesetzten Anforderungen und Maßnahmen einzugehen und \ndanach noch offene Punkte zu besprechen.\n\nDie Befragungstiefe richtet sich zunächst nach dem Niveau von Basis- und Standard-Anforderungen; \nüber diese hinausweisende Aspekte hochschutzbedürftiger Anwendungen sollten erst nach Ab­\nschluss des IT-Grundschutz-Checks betrachtet werden. Falls der Bedarf besteht, die in den Interviews \ngemachten Aussagen zu verifizieren, bietet es sich an, stichprobenartig die entsprechenden Regelun­",
+  "pages": {
+    "start": 150,
+    "end": 151
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

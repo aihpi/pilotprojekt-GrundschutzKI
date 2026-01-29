@@ -1,0 +1,26 @@
+{
+  "id": "14_1",
+  "header": "14.1 Überwachung, Messung, Analyse und Bewertung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "14",
+      "title": "Leistungsüberprüfung und Berichterstattung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "14.1",
+      "title": "Überwachung, Messung, Analyse und Bewertung (AS)"
+    }
+  ],
+  "content": "werden, muss regelmäßig ein aktueller Überblick über den Status des BCMS und die ein­\nzelnen BCM-Prozessschritte erstellt werden.\n\nDie erhobenen Kennzahlen sollten ausgewertet werden, z. B. indem sie mit den Zielwer­\nten, sofern vorhanden, verglichen und Abweichungen bewertet werden. Hierzu sollte \nzum einen die Ursache identifiziert und zum anderen die Schwere der Abweichung be­\nwertet werden. Grobe Abweichungen vom Zielwert können im anschließenden kontinu­\nierlichen Verbesserungsprozess priorisiert behandelt werden. Identifizierte Ursachen hel­\nfen dabei, konkrete Korrektur- und Verbesserungsmaßnahmen abzuleiten.\n\nBeispiel\n\nKennzahl \nTeilschritt \ndes \nBCMS-\nProzesses\n\nZiel-\nwert\n\nIst-\nWert\n\nAbwei­\nchung\n\nUrsache \nSchwere-\ngrad\n\nAbdeckungsgrad \nder Geschäfts­\nprozesse gemäß \nProzesslandkarte \nin der BIA\n\nBIA \nN = \n100 %\n\n95 % \nJa \nKürzlich zwei \nneue Geschäfts­\nprozesse imple­\nmentiert.\n\nmittel\n\nAbdeckungsgrad \nzeitkritischer Ge­\nschäftsprozesse in \nGFP\n\nNotfall-\nkonzept\n\nN = \n100 %\n\n50 % \nJa \nIn mehreren OE \nsind keine BC-\nKoordinierenden \nbenannt.\n\nhoch\n\nAbdeckungsgrad \nzeitkritischer Ge­\nschäftsprozesse in \nder Übungspla­\nnung\n\nNotfall-\nkonzept\n\nN = \n100 %\n\n50 % \nJa \nIn mehreren OE \nsind keine BC-\nKoordinierenden \nbenannt.\n\nhoch\n\nTabelle 43: Beispiel zur Priorisierung von Abweichungen\n\nDarüber hinaus sollten Trends ermittelt werden, z. B. anhand von Vergleichswerten aus \nden Vorjahren. Zusätzlich ist es empfehlenswert, auch eindeutig negative Trends näher \nzu untersuchen.\n\nHinweis\n\nDa anhand von Kennzahlen der Fortschritt oder der Erfüllungsgrad einer Anforde­\nrung oder eines gewünschten Zielzustands gemessen werden kann, sind Kennzahlen \nauch ein geeignetes Mittel für Selbstüberprüfungen im BCMS. Insbesondere aus \nqualitativen Kennzahlen können Verbesserungspotenziale oder die Reife des BCMS \nabgeleitet werden.",
+  "pages": {
+    "start": 291,
+    "end": 292
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

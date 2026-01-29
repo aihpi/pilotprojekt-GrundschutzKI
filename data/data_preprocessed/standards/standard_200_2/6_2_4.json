@@ -1,0 +1,26 @@
+{
+  "id": "6_2_4",
+  "header": "6.2.4 Ermittlung konkreter Maßnahmen aus Anforderungen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "6.2.4",
+      "title": "Ermittlung konkreter Maßnahmen aus Anforderungen"
+    }
+  ],
+  "content": "Über die Modellierung wurden die Bausteine des IT-Grundschutz-Kompendiums ausgewählt, die für \ndie einzelnen Zielobjekte des betrachteten Informationsverbunds umzusetzen sind. In den Bausteinen\n\nBSI-Standard 200-2\n\nwerden die Anforderungen aufgeführt, die typischerweise für diese Komponenten geeignet und an­\ngemessen sind.\n\nFür die Erstellung eines Sicherheitskonzepts oder für ein Audit müssen jetzt die einzelnen Anforde­\nrungen bearbeitet und zur Erfüllung geeignete Sicherheitsmaßnahmen formuliert werden, hierbei \nunterstützen die zu vielen Bausteinen zugehörigen Umsetzungshinweise. Vertiefende Informationen \nhierzu sind in Kapitel 8.3.6 Anpassung der Baustein-Anforderungen zu finden.",
+  "pages": {
+    "start": 63,
+    "end": 64
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

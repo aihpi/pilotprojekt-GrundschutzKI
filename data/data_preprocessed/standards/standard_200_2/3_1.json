@@ -1,0 +1,26 @@
+{
+  "id": "3_1",
+  "header": "3.1 Übernahme von Verantwortung durch die Leitungsebene",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.1",
+      "title": "Übernahme von Verantwortung durch die Leitungsebene"
+    }
+  ],
+  "content": "Die oberste Leitungsebene jeder Behörde und jedes Unternehmens ist dafür verantwortlich, dass alle \nGeschäftsbereiche zielgerichtet und ordnungsgemäß funktionieren und dass Risiken frühzeitig er­\nkannt und minimiert werden. Mit der steigenden Abhängigkeit der Geschäftsprozesse von der Infor­\nmationsverarbeitung steigen also auch die Anforderungen, dass die Informationssicherheit nach in­\nnen und außen gewährleistet ist.\n\nDie oberste Leitungsebene muss den Sicherheitsprozess initiieren, steuern und kontrollieren. Die Lei­\ntungsebene ist diejenige Instanz, die die Entscheidung über den Umgang mit Risiken treffen und die \nentsprechenden Ressourcen zur Verfügung stellen muss. Die Verantwortung für Informationssicher­\nheit verbleibt dort. Die operative Aufgabe „Informationssicherheit“ wird allerdings typischerweise an \neinen Informationssicherheitsbeauftragten (ISB) delegiert.\n\nIn der Einstiegsphase in den Sicherheitsprozess ist üblicherweise noch keine Sicherheitsorganisation \naufgebaut und häufig auch noch nicht der spätere ISB benannt. Für die Initiierung des Sicherheitspro­\nzesses muss aber zumindest ein Verantwortlicher für Informationssicherheit benannt werden, der die \nersten Schritte zur Konzeption und Planung des Einstiegs in die Informationssicherheit durchführt.\n\nEine rechtzeitige Unterrichtung über mögliche Risiken beim Umgang mit Informationen, Geschäfts­\nprozessen und IT kann von der Geschäftsführung oder Behördenleitung nach einem Sicherheitsvorfall \nals Bringschuld der IT- oder Sicherheitsexperten gesehen werden. Aus diesem Grund ist es für die \nInhaber dieser Rollen empfehlenswert, die oberste Leitungsebene über mögliche Risiken und Konse­\nquenzen aufgrund fehlender Informationssicherheit nachweislich aufzuklären. Auf jeden Fall ist aber \ndie Leitungsebene ebenfalls dafür verantwortlich, sicherzustellen, dass alle entscheidungsrelevanten \nInformationen sie rechtzeitig und im nötigen Umfang erreichen. Zu den sicherheitsrelevanten Themen \ngehören beispielsweise:\n\n•  die Sicherheitsrisiken für die Institution und deren Informationen sowie die damit verbundenen \nAuswirkungen und Kosten,\n\n•  die Auswirkungen von Sicherheitsvorfällen auf die kritischen Geschäftsprozesse,\n\n•  die Sicherheitsanforderungen, die sich aus gesetzlichen und vertraglichen Vorgaben ergeben,\n\n•  die für die Branche typischen Standardvorgehensweisen zur Informationssicherheit,\n\n•  der aktuelle Stand der Informationssicherheit im Sinne eines Reifegrades und daraus abgeleitete \nHandlungsempfehlungen.\n\nDie Leitungsebene trägt zwar die Verantwortung für die Erreichung der Sicherheitsziele, der Sicher­\nheitsprozess muss aber von allen Beschäftigten in einer Organisation mitgetragen und mitgestaltet \nwerden.\n\nDie Leitungsebene muss sich vor allem dafür einsetzen, dass Informationssicherheit in alle relevanten \nGeschäftsprozesse bzw. Fachverfahren und Projekte integriert wird. Der ISB braucht hierbei erfah­\nrungsgemäß die volle Unterstützung der Behörden- oder Unternehmensleitung, um unter dem über­\nall herrschenden Leistungsdruck von den jeweiligen Fachverantwortlichen in jede wesentliche Aktivi­\ntät eingebunden zu werden.\n\nDie Leitungsebene muss die Ziele sowohl für das Informationssicherheitsmanagement als auch für alle \nanderen Bereiche so setzen, dass das angestrebte Sicherheitsniveau in allen Bereichen mit den bereit­\ngestellten Ressourcen (Personal, Zeit, Finanzmittel) erreichbar ist.\n\nAktionspunkte zu 3.1 Übernahme von Verantwortung durch die Leitungsebene\n\n•  Die Leitungsebene informiert sich über mögliche Risiken und Konsequenzen aufgrund fehlender \nInformationssicherheit.\n\n•  Die Leitungsebene übernimmt die Gesamtverantwortung für Informationssicherheit.\n\n•  Die Leitungsebene initiiert den Informationssicherheitsprozess innerhalb der Institution und be­\nnennt einen Verantwortlichen für Informationssicherheit.",
+  "pages": {
+    "start": 20,
+    "end": 21
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

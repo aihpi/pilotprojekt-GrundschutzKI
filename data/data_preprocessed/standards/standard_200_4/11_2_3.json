@@ -1,0 +1,31 @@
+{
+  "id": "11_2_3",
+  "header": "11.2.3 Entwicklung von Notfallmaßnahmen im Standard-BCMS (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.2",
+      "title": "Erstellung der GFPs (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "11.2.3",
+      "title": "Entwicklung von Notfallmaßnahmen im Standard-BCMS (AS)"
+    }
+  ],
+  "content": "Innerhalb der Erstellung der GFPs müssen Notfallmaßnahmen entwickelt und dokumen­\ntiert werden, um ausgefallene Geschäftsprozesse in einem definierten Notbetrieb wie­\nderaufzunehmen. Diese werden üblicherweise von den zuständigen Kontaktpersonen \nder GFPs erstellt. Hierzu muss beschrieben werden, wie auf Basis der festgelegten BC-\nStrategien und -Lösungen die Geschäftsprozesse innerhalb der erforderlichen Zeit und \nauf dem Notbetriebsniveau wiederaufgenommen werden sollen. Im GFP sollten der Ab­\nlauf und die konkreten Tätigkeiten zur Wiederaufnahme der relevanten Geschäftspro­\nzesse sowie die entsprechenden Zuständigkeiten dokumentiert werden. Die Notfallmaß­\nnahmen sollten geeignet sein, die Geschäftsprozesse auf Notbetriebsniveau für die Dau­\ner fortführen zu können, die in den BC-Strategien definiert ist.\n\nFolgende Leitfragen können dabei helfen, die erforderlichen Notfallmaßnahmen zu er­\nmitteln:\n\n• \nWelche Informationen sollen an wen auf welche Weise weitergegeben werden?\n\n• \nWelche Notfallmaßnahmen müssen eingeleitet werden, um den gewünschten Zu­\nstand zu erreichen (z. B. Notbetriebsniveau)?\n\n• \nWie lange würde die Durchführung der Notfallmaßnahmen dauern?\n\n• \nWelche Voraussetzungen müssten gegeben sein, um die Notfallmaßnahmen durch­\nführen zu können?\n\n• \nWelche Reaktionen würden von anderen erwartet?\n\nDarüber hinaus sollten die Notfallmaßnahmen mit der aktuellen Wiederanlaufplanung \nder Ressourcen abgestimmt werden. Abschließend sollte beschrieben werden, wie die \nGeschäftsprozesse vom Notbetrieb in den Normalbetrieb überführt werden sollen und \nwie mit notwendigen Nacharbeiten, beispielsweise Arbeitsrückständen, verfahren wer­\nden soll.\n\nEs wird empfohlen, die Notfallmaßnahmen am Ablauf der Notfallbewältigung auszurich­\nten:\n\n• \nMaßnahmen, um den Notbetrieb zu erreichen (Wiederanlauf in den Notbetrieb)\n\n• \nMaßnahmen für die Geschäftsfortführung (Arbeiten im Notbetrieb)\n\n• \nMaßnahmen zur Rückführung in den Normalbetrieb (inklusive Nacharbeiten)\n\nFür einen Gebäudeausfall wird den Organisationseinheiten im Rahmen der festge­\nlegten BC-Strategie und -Lösung ein gleichwertiger Ausweichstandort zur Verfügung \ngestellt. Innerhalb des Wiederanlaufplans werden die Maßnahmen beschrieben, um \nden Ausweichstandort mit den benötigten Arbeitsmaterialien bereitzustellen. Inner­\nhalb der GFPs wird beschrieben, wie die Organisationseinheiten die zeitkritischen \nMitarbeitenden an den Ausweichstandort entsenden und diese dort die Arbeit wie­\nderaufnehmen. Die Erstellung der GFPs umfasst z. B. Transportmöglichkeiten abzu­\nstimmen, notwendige Zutrittsberechtigungen zu erteilen oder zu planen, wie die \nMitarbeitenden auf die vorhandenen Notfallarbeitsplätze im Notfall verteilt werden. \nDarüber hinaus wird festgelegt, welche Maßnahmen für die Dauer des Notbetriebs \nam Ausweichstandort wichtig sind, z. B. Regelungen dazu,\n\n• \nwie mit vertraulichen Dokumenten am Ausweichstandort umgegangen wird,\n\n• \nwie Informationen auf Papier, z. B. Postsendungen, nachgesendet werden und\n\n• \nwie alternative, vor Ort befindliche Geräte, Maschinen oder Anlagen eingesetzt \nwerden.\n\nAbschließend wird beschrieben, wie die Organisationseinheiten vom Notbetrieb \nwieder in den Normalbetrieb zurückkehren können. Dies umfasst z. B. Mitarbeitende \nwieder auf die regulären Arbeitsplätze zu verteilen, den vertraulichen Transport von \nim Notbetrieb erstellten Dokumenten zu beauftragen oder temporäre Zutrittsberech­\ntigungen zu löschen.\n\nSofern aus Sicht der Organisationseinheit der Geschäftsbetrieb durch zusätzliche Not­\nfallmaßnahmen noch weiter abgesichert werden kann und die Maßnahmen leicht um­\nsetzbar sind, ist es empfehlenswert, diese mit in den GFP zu übernehmen. So können \nneben den hauptsächlich anzuwenden Maßnahmen auch alternative Varianten aufge­\nführt werden.\n\nDer Detailgrad der beschriebenen Maßnahmen sollte so gewählt sein, dass eine fach­\nkundige dritte Person in der Lage wäre, die Geschäftsfortführung anhand des GFP um­\nzusetzen.\n\nHinweis\n\nUm die Notfallmaßnahmen strukturiert abarbeiten zu können, ist es empfehlens­\nwert, diese anhand von Checklisten zu dokumentieren.\n\nWerden Notfallmaßnahmen definiert, so kann es hilfreich sein, innerhalb eines GFP die \nzeitkritischen Ressourcen anhand unterschiedlich schwerer Ausfallszenarien zu betrach­\nten. Ein Gebäudeausfall kann den Ausfall eines gesamten Standortes, eines einzelnen \nGebäudes oder lediglich einzelner Gebäudeteile bedeuten. Bei einem gesamten Stand­\nortausfall könnte es notwendig sein, sämtliche Tätigkeiten oder eine vorhandene Pro­\nduktion an einen Ausweichstandort zu verlagern. Fallen hingegen nur einzelne Gebäude­",
+  "pages": {
+    "start": 237,
+    "end": 239
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

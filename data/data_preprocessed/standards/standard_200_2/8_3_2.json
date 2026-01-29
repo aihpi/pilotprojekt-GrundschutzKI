@@ -1,0 +1,26 @@
+{
+  "id": "8_3_2",
+  "header": "8.3.2 Modellierung eines Informationsverbunds: Auswahl von Bausteinen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.3.2",
+      "title": "Modellierung eines Informationsverbunds: Auswahl von Bausteinen"
+    }
+  ],
+  "content": "Das erstellte IT-Grundschutz-Modell ist unabhängig davon, ob der Informationsverbund aus bereits im \nEinsatz befindlichen Komponenten besteht oder ob es sich um einen Informationsverbund handelt, \nder sich ganz oder teilweise im Planungsstadium befindet. Jedoch kann das Modell unterschiedlich \nverwendet werden:\n\n•  Das IT-Grundschutz-Modell eines bereits realisierten Informationsverbunds identifiziert über die \nverwendeten Bausteine die relevanten Sicherheitsanforderungen. Es kann in Form eines Prüfplans \nbenutzt werden, um einen Soll-Ist-Vergleich durchzuführen.\n\n•  Das IT-Grundschutz-Modell eines geplanten Informationsverbunds stellt hingegen ein Entwick­\nlungskonzept dar. Es beschreibt über die ausgewählten Bausteine, welche Sicherheitsanforde­\nrungen bei der Realisierung des Informationsverbunds erfüllt werden müssen.",
+  "pages": {
+    "start": 134,
+    "end": 135
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

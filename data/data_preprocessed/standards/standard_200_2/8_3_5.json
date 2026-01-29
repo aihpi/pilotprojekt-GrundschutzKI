@@ -1,0 +1,26 @@
+{
+  "id": "8_3_5",
+  "header": "8.3.5 Modellierung bei Virtualisierung und Cloud-Systemen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.3.5",
+      "title": "Modellierung bei Virtualisierung und Cloud-Systemen"
+    }
+  ],
+  "content": "Grundsätzlich erfolgt die Modellierung virtueller IT-Systeme nach den gleichen Regeln wie bei eigen­\nständigen physischen IT-Systemen, d. h. es sind die Hinweise in Kapitel 2 des IT-Grundschutz-Kom­\npendiums zu beachten. Die Zuordnung der IT-Grundschutz-Bausteine richtet sich bei IT-Komponenten \nin erster Linie nach der Funktion des IT-Systems (Server, Client, usw.), nach dem verwendeten Betriebs­\nsystem (Linux, Windows usw.) und nach den darauf betriebenen Applikationen (Datenbank, Webser­\nver usw.).\n\nBSI-Standard 200-2\n\nBei Virtualisierungssoftware gibt es Produkte, die ein unterliegendes Betriebssystem benötigen (host­\nbasierte Virtualisierungslösungen), und andere, die direkt auf der physischen Hardware laufen (Bare \nMetal Virtualisierung), ohne unterliegendes Betriebssystem. Falls unterhalb der Virtualisierungs­\nschicht ein vollwertiges und eigenständiges Betriebssystem eingesetzt wird, muss der dazu passende \nBaustein ebenfalls zugeordnet werden (z. B. aus SYS.1.2 Windows-Server), unabhängig von den vir­\ntuellen IT-Systemen.\n\nWurde der Hypervisor direkt auf der physischen Hardware installiert (Bare Metal Virtualisierung) han­\ndelt es sich hierbei um ein Zielobjekt, das im IT-Grundschutz-Kompendium nicht enthalten ist, da es \nsich hierbei um ein sehr spezielles Zielobjekt handelt. Daher muss eine Risikoanalyse für das entspre­\nchende Zielobjekt durchgeführt und die Ergebnisse sollten anschließend mit den Anforderungen des \nBausteins SYS.1.5 Virtualisierung konsolidiert werden.\n\nBeispielszenario:\n\nAls Beispiel wird ein physischer Server S1 betrachtet, auf dem mithilfe einer Virtualisierungssoft­\nware die drei virtuellen Server VM1, VM2 und VM3 betrieben werden. Als Basis-Betriebssystem \nkommt auf dem physischen Server S1 eine Linux-Version zum Einsatz. Die Virtualisierungsschicht \nist in diesem Beispiel eine Software-Komponente, die unter Linux läuft, also eine hostbasierte \nServervirtualisierung (Typ 2). Die beiden virtuellen Server VM1 und VM2 werden mit Windows \n2012 betrieben, auf VM3 ist hingegen Linux installiert. Applikationen können sowohl auf den drei \nvirtuellen Servern als auch (unter Umgehung der Virtualisierungsschicht) direkt auf dem Basis-Be­\ntriebssystem des physischen Servers S1 ablaufen. Die folgende Abbildung zeigt ein Schema dieser \nBeispielkonfiguration:\n\nAbbildung 30: Schema einer Beispielkonfiguration",
+  "pages": {
+    "start": 139,
+    "end": 141
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

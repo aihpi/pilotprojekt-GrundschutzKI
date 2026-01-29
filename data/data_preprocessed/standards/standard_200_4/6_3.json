@@ -1,0 +1,26 @@
+{
+  "id": "6_3",
+  "header": "6.3 Durchführung des BIA-Vorfilter (R+A)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "6.3",
+      "title": "Durchführung des BIA-Vorfilter (R+A)"
+    }
+  ],
+  "content": "Idealerweise führt der oder die BCB den BIA-Vorfilter durch, um selbst einen Überblick \nzu erhalten und die Ergebnisse vergleichbar zu halten. Unabhängig davon, ob als Einhei­\nten Geschäftsprozesse, Organisationseinheiten, Produkte oder Services untersucht wer­\nden, ist es sehr empfehlenswert, im Rahmen von Workshops zu analysieren, inwiefern \ndie einzelnen Einheiten entsprechend der Leitfrage aus dem vorigen Kapitel 6.2 im Sinne \nder Institution zeitkritisch sind. So können Missverständnisse, Unklarheiten oder ein ab­\nweichendes Verständnis des Begriffes zeitkritisch direkt behandelt werden, wodurch \nNacharbeiten oder Doppelarbeiten vermieden werden können.\n\nVoraussetzung: Die Institution orientiert ihre Arbeitsweise bereits stark anhand von Ge­\nschäftsprozessen. Idealerweise liegt eine Prozesslandkarte vor.\n\nPrinzipiell gibt es mehrere Möglichkeiten bei der Vorauswahl von Geschäftsprozessen. \nEin relativ simpler, dafür sehr schneller Ansatz besteht darin, die Institutionsleitung grob \nzu befragen, z. B. mit der Frage:\n\n„Welche 3-5 Geschäftsprozesse bereiten Ihnen am schnellsten Probleme, falls die­\nse ausfallen?“\n\nDiese Vorgehensweise hat den Vorteil, dass so sehr schnell eine Auswahl vorliegt, besitzt \njedoch den Nachteil, dass ein solches Vorgehen nicht dazu geeignet ist, über mehrere \nPDCA-Zyklen hinweg den Untersuchungsbereich der BIA systematisch zu vergrößern.\n\nDemgegenüber ist es empfehlenswert, einzelne Prozesse systematisch über eine Prozess­\nlandkarte herauszufiltern, falls eine solche existiert. Ausgehend von der Prozesslandkarte \nder Institution wird von der höchsten Ebene aus jeweils die Frage gestellt:\n\n„Sind bei einem Ausfall des Geschäftsprozesses innerhalb von x Tagen (z. B. 7 Ta­\ngen) zu hohe Schäden zu erwarten?“\n\nDiese Frage sollte somit zuerst im Rahmen eines Workshops von der Institutionsleitung \nfür alle Prozesse der obersten Ebene im Geltungsbereich des BCMS mit Unterstützung \ndes oder der BCB beantwortet werden.\n\nEine solche Auswahl auf der obersten Prozessebene kann noch sehr grob sein. In diesem \nFall ist es empfehlenswert, diese Fragestellung erneut für die nachfolgende Hierarchie­\nebene zu wiederholen, deren übergeordneter Prozess zeitkritisch ist. Diese Fragestellung \nkann erneut entweder von der Institutionsleitung selbst im Rahmen eines Workshops \ngeklärt werden oder mit den jeweiligen Prozessverantwortlichen.\n\nDieser Schritt kann prinzipiell so oft wiederholt werden, bis der BIA-Vorfilter bei einer \nHierarchieebene der Geschäftsprozesse angekommen ist, auf der eine hinreichende Fil­\nterwirkung erreicht ist. Es ist empfehlenswert, in dem BIA-Vorfilter Geschäftsprozesse \ngebündelter auf einer abstrakteren, höheren Ebene als in der BIA zu betrachten (siehe \n7.1.1 Erhebung der Geschäftsprozesse (R+AS)). Der oder die BCB sollte in Abstimmung \nmit der Institutionsleitung festlegen, wie viele Hierarchieebenen im Rahmen des BIA-\nVorfilters berücksichtigt werden.\n\nAbbildung 28: Beispiel für ein Ergebnis des BIA-Vorfilters anhand von Geschäftsprozessen\n\nVorteile: In dem BIA-Vorfilter ausgewählte Einheiten können sehr leicht weiter in die \nUntersuchungsgegenstände der BIA aufgeteilt werden, es ist kein Transfer mehr nötig. \nEine sehr präzise Filterung ist möglich.\n\nNachteile: Bei zu detaillierter Betrachtung in dem BIA-Vorfilter wird nur eine sehr gerin­\nge Filterwirkung für die BIA erzielt, bei erheblichem Aufwand.",
+  "pages": {
+    "start": 149,
+    "end": 151
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

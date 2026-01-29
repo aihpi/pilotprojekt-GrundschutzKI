@@ -1,0 +1,26 @@
+{
+  "id": "7_5",
+  "header": "7.5 Schutzbedarfsfeststellung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.5",
+      "title": "Schutzbedarfsfeststellung"
+    }
+  ],
+  "content": "Zweck der Schutzbedarfsfeststellung ist es, zu ermitteln, welcher Schutz für die Geschäftsprozesse, \ndie dabei verarbeiteten Informationen und die eingesetzte Informationstechnik ausreichend und an­\ngemessen ist. Hierzu werden für jede Anwendung und die verarbeiteten Informationen die zu erwar­\ntenden Schäden betrachtet, die bei einer Beeinträchtigung von Vertraulichkeit, Integrität oder Ver­\nfügbarkeit entstehen können. Wichtig ist es dabei auch, die möglichen Folgeschäden realistisch ein­\nzuschätzen. Bewährt hat sich hierfür eine Einteilung in die drei Schutzbedarfskategorien „normal“, \n„hoch“ und „sehr hoch“. Grundsätzlich ist bei den Assets, die durch eine Kern-Absicherung ge­\nschützt werden sollen, von einem Schutzbedarf der Kategorien „hoch“ und „sehr hoch“ auszugehen. \nTrotzdem muss der Schutzbedarf dieser wenigen, besonders geschäftskritischen Assets dediziert ein­\ngeschätzt werden.",
+  "pages": {
+    "start": 72,
+    "end": 73
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

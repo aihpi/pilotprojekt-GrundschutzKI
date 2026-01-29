@@ -1,0 +1,31 @@
+{
+  "id": "5_2_1",
+  "header": "5.2.1 Berichte an die Leitungsebene",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "5.2",
+      "title": "Informationsfluss im Informationssicherheitsprozess"
+    },
+    {
+      "level": 3,
+      "number": "5.2.1",
+      "title": "Berichte an die Leitungsebene"
+    }
+  ],
+  "content": "Damit die Unternehmens- bzw. Behördenleitung die richtigen Entscheidungen bei der Steuerung und \nLenkung des Informationssicherheitsprozesses treffen kann, benötigt sie Eckdaten zum Stand der \nInformationssicherheit. Diese Eckpunkte sollten in Managementberichten aufbereitet werden, die \nunter anderem folgende Punkte abdecken:\n\n•  Status und Umsetzungsgrad des Sicherheitskonzepts\n\n•  Ergebnisse von Audits und Datenschutzkontrollen (siehe auch Datenschutz-Grundverordnung \n[DSGVO])\n\n•  Berichte über Sicherheitsvorfälle\n\n•  Berichte über bisherige Erfolge und Probleme beim Informationssicherheitsprozess\n\n•  Berichte über die Reduzierung bestehender Umsetzungsdefizite und der damit verbundenen Risi­\nken (Risikobehandlungsplan, siehe BSI-Standard 200-3)\n\nDie Leitungsebene muss vom ISB regelmäßig in angemessener Form über die Ergebnisse der Überprü­\nfungen und den Status des Sicherheitsprozesses informiert werden. Dabei sollten Erfolge, Probleme \nund Verbesserungsmöglichkeiten aufgezeigt werden. Die Leitungsebene nimmt die Managementbe­\nrichte zur Kenntnis und veranlasst eventuell notwendige Maßnahmen.\n\nEbenso erarbeitet der Sicherheitsbeauftragte das Sicherheitskonzept und sorgt für dessen Umsetzung \nund regelmäßige Aktualisierung. Die Freigabe des Sicherheitskonzepts erfolgt durch die Leitungsebe­\nne.",
+  "pages": {
+    "start": 55,
+    "end": 55
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5_2_3",
+  "header": "5.2.3 Alarmierung der BAO (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Aufbau der BAO (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.2.3",
+      "title": "Alarmierung der BAO (R+AS)"
+    }
+  ],
+  "content": "Um sicherzustellen, dass die BAO unverzüglich alarmiert werden kann, müssen die not­\nwendigen organisatorischen und technischen Voraussetzungen geschaffen und doku­\nmentiert werden. Ein zentraler Punkt, der gemeinsam mit den Rolleninhabenden und der \nInstitutionsleitung abgestimmt werden muss, ist die Erreichbarkeit der BAO innerhalb \nund außerhalb der üblichen Geschäftszeiten. Analog zu dem beschriebenen Vorgehen \nfür die zentrale(n) Meldestelle(n) sollten entsprechende Rufbereitschaften der BAO ein­\ngerichtet werden. Für Zeiten, in denen eine Erreichbarkeit der BAO nicht garantiert ist, \nsollten Risikoübernahmen durch die Institutionsleitung herbeigeführt werden.\n\nIm Ernstfall sollte die Benachrichtigung der Rolleninhabenden der BAO kurz und präzise \nsein. Diskussionen und längere Ausführungen zur Lage sollten bei der Alarmierung ver­\nmieden werden. Zum einen könnten zu viele Informationen die zu alarmierende Person \nverwirren. Zum anderen würde die Alarmierung unnötig verzögert. Detaillierte Informa­\ntionen werden in der ersten Lagebesprechung für alle Anwesenden gemeinsam vorge­\nstellt und besprochen. Der Alarmierungs- und Eskalationsprozess sollte organisatorisch \nregeln,\n\n• \nwie die BAO innerhalb und außerhalb der üblichen Geschäftszeiten erreicht wird,\n\n• \nwelche Personen durch die zentrale Entscheidungsinstanz alarmiert werden,\n\n• \nwelche weiteren Personen durch die zuerst alarmierten Personen alarmiert werden,\n\n• \nwelche Kommunikationskanäle hierzu eingesetzt werden sowie\n\n• \nwelche Informationen vermittelt werden.\n\nIn der Nachricht sollte klar erkennbar sein, welche nächsten Schritte die alarmierte Per­\nson unternehmen muss, beispielsweise sich im Stabsraum oder in einer virtuellen Ar­\nbeitsumgebung, z. B. Telefonkonferenz, einzufinden. Die alarmierte Person muss dem \nAufruf zeitnah folgen. Falls weitere Personen die Alarmierung entgegennehmen könn­\nten, z. B. Haushaltsmitglieder, die den Anruf auf dem privaten Telefon entgegennehmen \nkönnen, so sollten diese für den Umgang mit empfangenen Alarmmeldungen sensibili­\nsiert werden.\n\nJe nach Größe der BAO kann es zeitaufwändig sein, alle Rolleninhabenden einzeln per­\nsönlich zu benachrichtigen, z. B. mittels eines manuellen Telefonanrufs. Zur Unterstüt­\nzung der Alarmierung kann es sinnvoll sein, eine Alarmierungssoftware oder eine Alarm-\nApp einzusetzen (siehe Hilfsmittel Tools). Diese IT-Anwendungen ermöglichen es, auf \nKnopfdruck die zur Bewältigung erforderlichen Personen zu benachrichtigen. Sofern eine \nAlarmierungssoftware eingesetzt wird, muss diese auch im Notfall oder in der Krise ver­\nfügbar sein. Neben der Alarmauslösung bieten die IT-Anwendungen zur Alarmierung oft \nwichtige Zusatzfunktionen, z. B.:\n\n• \neine automatische Benachrichtigung der Stellvertretenden bei Nicht-Erreichbarkeit \noder\n\n• \ndie Möglichkeit, dass die alarmierten Personen der Stabsleitung den erwarteten Zeit­\npunkt des Eintreffens im Stabsraum mitteilen können, falls dies der nächste Schritt \nist.\n\nDer definierte Eskalations- und Alarmierungsprozess sollte visualisiert und im Notfall­\nhandbuch dokumentiert werden. Dafür kann z. B. die Abbildung 24 angepasst werden \n(siehe 5.2 Detektion, Alarmierung und Eskalation (R+AS)). Diese ist auch in den Hilfsmit­\nteln zum BSI-Standard 200-4 hinterlegt.\n\nDokumentierte Vorgaben und begleitende Maßnahmen stellen sicher, dass die definier­\nten Meldewege wie vorgesehen eingehalten werden. Als begleitende Maßnahme müs­\nsen Meldestellen und Kommunikationswege organisationsweit bekannt gegeben wer­\nden. Dazu können z. B. Aushänge oder andere Informationsmaterialen genutzt werden. \nDie Notfallkarte in den Hilfsmitteln stellt ein mögliches Beispiel dafür dar. Des Weiteren \nsollten Schulungen und Sensibilisierungsmaßnahmen für die Mitarbeitenden geplant und \nveranlasst werden, um eine schnelle Alarmierung und Eskalation zu gewährleisten.",
+  "pages": {
+    "start": 113,
+    "end": 114
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2",
+  "header": "2 Informationssicherheitsmanagement mit IT-Grundschutz",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    }
+  ],
+  "content": "Um die Realisierung der Maßnahmen zu vereinfachen, werden die IT-Grundschutz-Texte konsequent \nauch in elektronischer Form zur Verfügung gestellt. Darüber hinaus wird die Realisierung der Sicher­\nheitsanforderungen und Maßnahmen auch durch Hilfsmittel und Musterlösungen unterstützt, die \nteilweise durch das BSI und teilweise auch von Anwendern des IT-Grundschutzes bereitgestellt wer­\nden.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 19,
+    "end": 20
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

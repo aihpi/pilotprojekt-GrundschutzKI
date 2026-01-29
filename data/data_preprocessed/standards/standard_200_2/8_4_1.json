@@ -1,0 +1,31 @@
+{
+  "id": "8_4_1",
+  "header": "8.4.1 Organisatorische Vorarbeiten für den IT-Grundschutz-Check",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "8.4",
+      "title": "IT-Grundschutz-Check"
+    },
+    {
+      "level": 3,
+      "number": "8.4.1",
+      "title": "Organisatorische Vorarbeiten für den IT-Grundschutz-Check"
+    }
+  ],
+  "content": "Für die reibungslose Durchführung des Soll-Ist-Vergleichs sind einige Vorarbeiten erforderlich. Zu­\nnächst sollten alle hausinternen Papiere, z. B. Organisationsverfügungen, Arbeitshinweise, Sicher­\nheitsanweisungen, Handbücher und „informelle“ Vorgehensweisen, die die sicherheitsrelevanten \nAbläufe regeln, gesichtet werden. Auch die Dokumentation der bereits umgesetzten Sicherheitsmaß­\nnahmen gehört dazu. Diese Dokumente können bei der Ermittlung des Umsetzungsgrades hilfreich \nsein, insbesondere bei Fragen nach bestehenden organisatorischen Regelungen. Weiterhin ist zu klä­\nren, wer gegenwärtig für deren Inhalt zuständig ist, um später die richtigen Ansprechpartner bestim­\nmen zu können.\n\nAls Nächstes sollte festgestellt werden, ob und in welchem Umfang externe Stellen bei der Ermittlung \ndes Umsetzungsstatus beteiligt werden müssen. Dies kann beispielsweise bei externen Rechenzen­\ntren, vorgesetzten Behörden, Firmen, die Teile von Geschäftsprozessen oder des IT-Betriebes als Out­\nsourcing-Dienstleistung übernehmen, oder Baubehörden, die für infrastrukturelle Maßnahmen zu­\nständig sind, erforderlich sein.\n\nEin wichtiger Schritt vor der Durchführung des eigentlichen Soll-Ist-Vergleichs ist die Ermittlung ge­\neigneter Interviewpartner. Hierzu sollte zunächst für jeden einzelnen Baustein, der für die Modellie­\nrung des vorliegenden Informationsverbunds herangezogen wurde, ein Hauptansprechpartner fest­\ngelegt werden. Bei den Anforderungen in den Bausteinen werden die Rollen genannt, die für die \nUmsetzung der Anforderungen erforderlich sind. Hieraus können die geeigneten Ansprechpartner \nfür die jeweilige Thematik in der Institution identifiziert werden. Nachfolgend finden sich einige Bei­\nspiele für Ansprechpartner der verschiedenen Bereiche:\n\n•  Bei den Bausteinen der Schicht ORP, CON und OPS ergibt sich ein geeigneter Ansprechpartner in \nder Regel direkt aus der im Baustein behandelten Thematik. Beispielsweise sollte für den Baustein \nORP.2 Personal ein Mitarbeiter der zuständigen Personalabteilung als Ansprechpartner ausgewählt \nwerden. Bei den konzeptionellen Bausteinen, z. B. Baustein CON.1 Kryptokonzept, steht im Ideal­\nfall der Mitarbeiter zur Verfügung, der für die Fortschreibung des entsprechenden Dokuments zu­\nständig ist. Anderenfalls sollte derjenige Mitarbeiter befragt werden, zu dessen Aufgabengebiet \ndie Fortschreibung von Regelungen in dem betrachteten Bereich gehört.\n\n•  Im Bereich der Schicht INF (Infrastruktur) sollte die Auswahl geeigneter Ansprechpartner in Abstim­\nmung mit der Abteilung Innerer Dienst/Haustechnik vorgenommen werden. Je nach Größe der \nbetrachteten Institution können beispielsweise unterschiedliche Ansprechpartner für die Infra­\nstrukturbereiche Gebäude und Technikräume zuständig sein. In kleinen Institutionen kann in vielen \nFällen der Hausmeister Auskunft geben. Zu beachten ist im Bereich der Infrastruktur, dass hier \nunter Umständen externe Stellen zu beteiligen sind. Dies betrifft insbesondere größere Institutio­\nnen.\n\n•  In den systemorientierten Bausteinen der Schichten SYS, NETund IND werden in den zu prüfenden\n\nSicherheitsmaßnahmen verstärkt technische Aspekte behandelt. In der Regel kommt daher der \nAdministrator derjenigen Komponente bzw. Gruppe von Komponenten, der der jeweilige Baustein \nbei der Modellierung zugeordnet wurde, als Hauptansprechpartner infrage.\n\n•  Für die Bausteine der Schicht APP (Anwendungen) sollten die Betreuer bzw. die Verantwortlichen \nder einzelnen Anwendungen als Hauptansprechpartner ausgewählt werden.\n\nFür die anstehenden Interviews mit den Systemverantwortlichen, Administratoren und sonstigen An­\nsprechpartnern sollte ein Terminplan erstellt werden. Ein besonderes Augenmerk gilt hier der Termin­",
+  "pages": {
+    "start": 146,
+    "end": 147
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

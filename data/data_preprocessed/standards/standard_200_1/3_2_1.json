@@ -1,0 +1,26 @@
+{
+  "id": "3_2_1",
+  "header": "3.2.1 Der Lebenszyklus in der Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "3.2",
+      "title": "Prozessbeschreibung und Lebenszyklus-Modell"
+    },
+    {
+      "level": 3,
+      "number": "3.2.1",
+      "title": "Der Lebenszyklus in der Informationssicherheit"
+    }
+  ],
+  "content": "Sicherheit ist kein unveränderbarer Zustand, der einmal erreicht wird und sich niemals wieder ändert. \nJede Institution ist ständigen Veränderungen unterworfen. Viele dieser Veränderungen betreffen ne­\nben Änderungen der Geschäftsprozesse, Fachaufgaben, Infrastruktur, Organisationsstrukturen und \nder ITauch die Informationssicherheit. Zusätzlich zu den unübersehbaren Änderungen innerhalb einer \nInstitution können sich außerdem externe Rahmenbedingungen verändern, z. B. gesetzliche oder \nvertragliche Vorgaben, aber auch die verfügbare Informations- oder Kommunikationstechnik kann \nsich entscheidend wandeln. Aufgrund neuer Angriffsmethoden oder Schwachstellen können Sicher­\nheitskonzepte und -maßnahmen teilweise oder vollständig unwirksam werden. Daher ist es notwen­\ndig, Informationssicherheit aktiv zu managen, um ein einmal erreichtes Sicherheitsniveau dauerhaft \naufrechtzuerhalten und kontinuierlich verbessern zu können.\n\nEs reicht beispielsweise nicht aus, die Umsetzung von Geschäftsprozessen oder die Einführung eines \nneuen IT-Systems nur einmalig zu planen und die beschlossenen Sicherheitsmaßnahmen umzusetzen. \nNach der Umsetzung müssen die Sicherheitsmaßnahmen regelmäßig auf ihre Wirksamkeit und An­\ngemessenheit, aber auch auf deren Anwendbarkeit und die tatsächliche Anwendung untersucht wer­\nden. Finden sich Schwachpunkte oder Verbesserungsmöglichkeiten, müssen die Maßnahmen ange­\npasst und verbessert werden. Es muss somit eine erneute Planung und Umsetzung der notwendigen \nAnpassungen und Änderungen erfolgen. Werden Geschäftsprozesse beendet oder Komponenten \nbzw. IT-Systeme ersetzt oder außer Betrieb genommen, sind auch dabei Sicherheitsaspekte zu beach­\nten (z. B. Entzug von Berechtigungen oder sicheres Löschen von Festplatten). In den Umsetzungshin­\n\nweisen zu den Bausteinen des IT-Grundschutz-Kompendiums werden die Sicherheitsmaßnahmen da­\nher zur besseren Übersicht für die Leser in folgende Phasen eingeteilt:\n\n•  Planung und Konzeption,\n\n•  Beschaffung (falls erforderlich),\n\n•  Umsetzung,\n\n•  Betrieb (Maßnahmen zur Aufrechterhaltung der Informationssicherheit im Betrieb, dazu gehört \nauch die Überwachung und Erfolgskontrolle),\n\n•  Aussonderung (falls erforderlich) und\n\n•  Notfallvorsorge.",
+  "pages": {
+    "start": 17,
+    "end": 18
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

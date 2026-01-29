@@ -1,0 +1,26 @@
+{
+  "id": "3_3",
+  "header": "3.3 Entscheidung für Vorgehensweise",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.3",
+      "title": "Entscheidung für Vorgehensweise"
+    }
+  ],
+  "content": "Der IT-Grundschutz bietet verschiedene Vorgehensweisen an, die sich an unterschiedliche Anwend­\nergruppen richten und unterschiedliche Ziele verfolgen: Basis-, Standard- und Kern-Absicherung. In \ndiesem Schritt erfolgt die Auswahl der für die Institution optimalen Vorgehensweise basierend auf der \nbereits vorliegenden Entscheidungshilfe unter Zuhilfenahme der oben durchgeführten Ersterfassung.\n\nBei der Basis-Absicherung handelt es sich um eine grundlegende Absicherung der Geschäftsprozesse \nund Ressourcen einer Institution. Sie ermöglicht einen ersten Einstieg in den Sicherheitsprozess, um \nschnellstmöglich die größten Risiken zu senken. Im nächsten Schritt können die tatsächlichen Sicher­\nheitsanforderungen im Detail analysiert werden. Diese Vorgehensweise ist daher besonders für klei­\nnere Institutionen geeignet, die noch am Anfang ihres Sicherheitsprozesses stehen.\n\nDie Kern-Absicherung dient als weitere Einstiegsvorgehensweise zum Schutz der essenziellen Ge­\nschäftsprozesse und Ressourcen einer Institution. Diese Vorgehensweise unterscheidet sich vom klas­\nsischen IT-Grundschutz durch die Fokussierung auf einen kleinen, aber sehr wichtigen Teil eines Infor­\nmationsverbunds, die sogenannten „Kronjuwelen“. Die Kern-Absicherung ist vor allem für Institutio­\nnen geeignet, die einige wenige Geschäftsprozesse identifiziert haben, die wesentlich für den \nFortbestand der Institution sind und vorrangig abgesichert werden müssen.\n\nDie dritte und vom BSI präferierte Vorgehensweise ist die Standard-Absicherung. Diese entspricht in \nden Grundzügen der bekannten und bewährten IT-Grundschutz-Vorgehensweise.\n\nDie Basis- und die Kern-Absicherung sind jeweils Methoden, um zunächst zeitnah die wichtigsten Si­\ncherheitsempfehlungen für den ausgewählten Einsatzbereich identifizieren und umsetzen zu können. \nZiel muss es sein, mittelfristig ein vollständiges Sicherheitskonzept gemäß der Standard-Absicherung zu \nerstellen.",
+  "pages": {
+    "start": 28,
+    "end": 29
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

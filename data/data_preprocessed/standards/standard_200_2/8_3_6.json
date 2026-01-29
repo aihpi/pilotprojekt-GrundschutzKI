@@ -1,0 +1,26 @@
+{
+  "id": "8_3_6",
+  "header": "8.3.6 Anpassung der Baustein-Anforderungen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.3.6",
+      "title": "Anpassung der Baustein-Anforderungen"
+    }
+  ],
+  "content": "Über die Modellierung wurden die Bausteine des IT-Grundschutz-Kompendiums ausgewählt, die für \ndie einzelnen Zielobjekte des betrachteten Informationsverbunds umzusetzen sind. In den Bausteinen \nwerden die Sicherheitsanforderungen aufgeführt, die typischerweise für diese Komponenten geeig­\nnet und angemessen sind.\n\nFür die Erstellung eines Sicherheitskonzepts oder für ein Audit müssen jetzt die einzelnen Anforde­\nrungen bearbeitet und darauf aufbauend geeignete Sicherheitsmaßnahmen formuliert werden.",
+  "pages": {
+    "start": 142,
+    "end": 143
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

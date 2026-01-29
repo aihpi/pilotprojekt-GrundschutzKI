@@ -1,0 +1,26 @@
+{
+  "id": "10_1_2",
+  "header": "10.1.2 Bewertung des ISMS mithilfe eines Reifegradmodells",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "10.1.2",
+      "title": "Bewertung des ISMS mithilfe eines Reifegradmodells"
+    }
+  ],
+  "content": "Die Wirksamkeit des Managementsystems für Informationssicherheit einer Institution sollte regelmä­\nßig bewertet werden. Dies kann mithilfe eines Reifegradmodells erfolgen. Ein Reifegradmodell er­\nmöglicht, den Fortschritt des ISMS nachvollziehbar über die Jahre hinweg zu dokumentieren, ohne \nsich dabei in Einzelmaßnahmen zu verlieren. Es stellt eine weitere potenzielle Kennzahl zur Steuerung \nder Informationssicherheit in einer Institution dar. Eine beispielhafte Reifegradbewertung eines ISMS \nkann wie folgt aussehen:\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 165,
+    "end": 166
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

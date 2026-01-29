@@ -1,0 +1,26 @@
+{
+  "source": "BSI Standards 200 Series",
+  "parsed_at": "2026-01-26T15:00:24.020245",
+  "documents": [
+    {
+      "document": "standard_200_1",
+      "chunks": 35,
+      "output_dir": "/home/hanmul/Pilotprojekte/pilotprojekt-GrundschutzKI/data/data_preprocessed/standards/standard_200_1"
+    },
+    {
+      "document": "standard_200_2",
+      "chunks": 184,
+      "output_dir": "/home/hanmul/Pilotprojekte/pilotprojekt-GrundschutzKI/data/data_preprocessed/standards/standard_200_2"
+    },
+    {
+      "document": "standard_200_3",
+      "chunks": 20,
+      "output_dir": "/home/hanmul/Pilotprojekte/pilotprojekt-GrundschutzKI/data/data_preprocessed/standards/standard_200_3"
+    },
+    {
+      "document": "standard_200_4",
+      "chunks": 315,
+      "output_dir": "/home/hanmul/Pilotprojekte/pilotprojekt-GrundschutzKI/data/data_preprocessed/standards/standard_200_4"
+    }
+  ]
+}

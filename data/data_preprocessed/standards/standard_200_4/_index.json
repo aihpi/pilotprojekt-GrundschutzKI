@@ -1,0 +1,1583 @@
+{
+  "document": "standard_200_4",
+  "source_file": "standard_200_4.pdf",
+  "parsed_at": "2026-01-26T15:00:24.018469",
+  "chunk_count": 315,
+  "chunks": [
+    {
+      "id": "chunk_page_1",
+      "header": null,
+      "file": "chunk_page_1.json"
+    },
+    {
+      "id": "chunk_page_1",
+      "header": null,
+      "file": "chunk_page_1.json"
+    },
+    {
+      "id": "13_10_1",
+      "header": "13.10.1 Zusätzliche Aspekte zur Auswertung und Nachbereitung einer",
+      "file": "13_10_1.json"
+    },
+    {
+      "id": "1_1",
+      "header": "1.1 Adressatenkreis",
+      "file": "1_1.json"
+    },
+    {
+      "id": "1_2",
+      "header": "1.2 Zielsetzung",
+      "file": "1_2.json"
+    },
+    {
+      "id": "1_3",
+      "header": "1.3 Anwendungsweise",
+      "file": "1_3.json"
+    },
+    {
+      "id": "1_3",
+      "header": "1.3 Anwendungsweise",
+      "file": "1_3.json"
+    },
+    {
+      "id": "1_3",
+      "header": "1.3 Anwendungsweise",
+      "file": "1_3.json"
+    },
+    {
+      "id": "1_3",
+      "header": "1.3 Anwendungsweise",
+      "file": "1_3.json"
+    },
+    {
+      "id": "2_1",
+      "header": "2.1 Begriffe",
+      "file": "2_1.json"
+    },
+    {
+      "id": "2_2",
+      "header": "2.2 Grundlagen eines Managementsystems (BCMS)",
+      "file": "2_2.json"
+    },
+    {
+      "id": "2_2",
+      "header": "2.2 Grundlagen eines Managementsystems (BCMS)",
+      "file": "2_2.json"
+    },
+    {
+      "id": "2_4",
+      "header": "2.4 Abgrenzung und Synergien",
+      "file": "2_4.json"
+    },
+    {
+      "id": "2_4_1",
+      "header": "2.4.1 BCM und Informationssicherheit",
+      "file": "2_4_1.json"
+    },
+    {
+      "id": "2_4_1",
+      "header": "2.4.1 BCM und Informationssicherheit",
+      "file": "2_4_1.json"
+    },
+    {
+      "id": "2_4_1",
+      "header": "2.4.1 BCM und Informationssicherheit",
+      "file": "2_4_1.json"
+    },
+    {
+      "id": "2_4_1",
+      "header": "2.4.1 BCM und Informationssicherheit",
+      "file": "2_4_1.json"
+    },
+    {
+      "id": "2_4_1",
+      "header": "2.4.1 BCM und Informationssicherheit",
+      "file": "2_4_1.json"
+    },
+    {
+      "id": "2_4_1",
+      "header": "2.4.1 BCM und Informationssicherheit",
+      "file": "2_4_1.json"
+    },
+    {
+      "id": "2_4_2",
+      "header": "2.4.2 BCM und ITSCM",
+      "file": "2_4_2.json"
+    },
+    {
+      "id": "2_4_3",
+      "header": "2.4.3 BCM und Krisenmanagement",
+      "file": "2_4_3.json"
+    },
+    {
+      "id": "2_4_4",
+      "header": "2.4.4 BCM und Outsourcing sowie Lieferketten",
+      "file": "2_4_4.json"
+    },
+    {
+      "id": "2_5",
+      "header": "2.5 Überblick über Normen und Standards",
+      "file": "2_5.json"
+    },
+    {
+      "id": "2_5",
+      "header": "2.5 Überblick über Normen und Standards",
+      "file": "2_5.json"
+    },
+    {
+      "id": "2_5",
+      "header": "2.5 Überblick über Normen und Standards",
+      "file": "2_5.json"
+    },
+    {
+      "id": "2_5",
+      "header": "2.5 Überblick über Normen und Standards",
+      "file": "2_5.json"
+    },
+    {
+      "id": "2_5",
+      "header": "2.5 Überblick über Normen und Standards",
+      "file": "2_5.json"
+    },
+    {
+      "id": "2_5",
+      "header": "2.5 Überblick über Normen und Standards",
+      "file": "2_5.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6_1",
+      "header": "2.6.1 Übersicht zum Stufenmodell",
+      "file": "2_6_1.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6_2",
+      "header": "2.6.2 Übersicht über den BCMS-Prozess",
+      "file": "2_6_2.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-BCMS)",
+      "file": "2_6.json"
+    },
+    {
+      "id": "3_1",
+      "header": "3.1 Übernahme der Verantwortung durch die Leitungs-",
+      "file": "3_1.json"
+    },
+    {
+      "id": "3_2",
+      "header": "3.2 Zielsetzung (R+AS)",
+      "file": "3_2.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3_2_2",
+      "header": "3.2.2 Entwicklung der Ziele des BCMS (R+AS)",
+      "file": "3_2_2.json"
+    },
+    {
+      "id": "3_2_3",
+      "header": "3.2.3 Abzusichernder Zeitraum durch ein BCMS (R+AS)",
+      "file": "3_2_3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3_3",
+      "header": "3.3 Geltungsbereich (R+AS)",
+      "file": "3_3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3_4",
+      "header": "3.4 Entscheidung zur Vorgehensweise (R+AS)",
+      "file": "3_4.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Initiierung des BCMS durch die Institutionsleitung (R+AS)",
+      "file": "3.json"
+    },
+    {
+      "id": "4_1",
+      "header": "4.1 Definition und Abgrenzung (R+AS)",
+      "file": "4_1.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2_1",
+      "header": "4.2.1 Identifizierung von Anforderungen und Einflussfaktoren an",
+      "file": "4_2_1.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2_2",
+      "header": "4.2.2 Festlegung der Kommunikation mit Interessengruppen (AS)",
+      "file": "4_2_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2_3",
+      "header": "4.2.3 Identifizierung von Schnittstellen (AS)",
+      "file": "4_2_3.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Analyse der erweiterten Rahmenbedingungen (AS)",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_3",
+      "header": "4.3 Definition der BC-Aufbauorganisation (R+AS)",
+      "file": "4_3.json"
+    },
+    {
+      "id": "4_3_1",
+      "header": "4.3.1 Institutionsleitung (R+AS)",
+      "file": "4_3_1.json"
+    },
+    {
+      "id": "4_3_2",
+      "header": "4.3.2 Der oder die BC-Beauftragte (R+AS)",
+      "file": "4_3_2.json"
+    },
+    {
+      "id": "4_3_3",
+      "header": "4.3.3 Die BC-Koordinierenden (optional) (R+AS)",
+      "file": "4_3_3.json"
+    },
+    {
+      "id": "4_3_4",
+      "header": "4.3.4 BC-Gremium (optional) (R+AS)",
+      "file": "4_3_4.json"
+    },
+    {
+      "id": "4_3_5",
+      "header": "4.3.5 BC-Vorsorgeteams (optional) (R+AS)",
+      "file": "4_3_5.json"
+    },
+    {
+      "id": "4_4",
+      "header": "4.4 Dokumentation (R+AS)",
+      "file": "4_4.json"
+    },
+    {
+      "id": "4_4_1",
+      "header": "4.4.1 Dokumentenstruktur (R+AS)",
+      "file": "4_4_1.json"
+    },
+    {
+      "id": "4_4_1",
+      "header": "4.4.1 Dokumentenstruktur (R+AS)",
+      "file": "4_4_1.json"
+    },
+    {
+      "id": "4_4_1",
+      "header": "4.4.1 Dokumentenstruktur (R+AS)",
+      "file": "4_4_1.json"
+    },
+    {
+      "id": "4_4_2",
+      "header": "4.4.2 Festlegung von Dokumentinformationen (AS)",
+      "file": "4_4_2.json"
+    },
+    {
+      "id": "4_4_3",
+      "header": "4.4.3 Überprüfung und Aktualisierung von Dokumenten (AS)",
+      "file": "4_4_3.json"
+    },
+    {
+      "id": "4_6",
+      "header": "4.6 Schulung (R+AS)",
+      "file": "4_6.json"
+    },
+    {
+      "id": "4_7",
+      "header": "4.7 Sensibilisierung (R+AS)",
+      "file": "4_7.json"
+    },
+    {
+      "id": "4_8",
+      "header": "4.8 Leitlinie BCMS (R+AS)",
+      "file": "4_8.json"
+    },
+    {
+      "id": "4_8_1",
+      "header": "4.8.1 Erstellung der Leitlinie BCMS (R+AS)",
+      "file": "4_8_1.json"
+    },
+    {
+      "id": "4_8_2",
+      "header": "4.8.2 Veröffentlichung und Aktualisierung der Leitlinie BCMS (R+AS)",
+      "file": "4_8_2.json"
+    },
+    {
+      "id": "5_1",
+      "header": "5.1 Aufbau der BAO (R+AS)",
+      "file": "5_1.json"
+    },
+    {
+      "id": "5_1_1",
+      "header": "5.1.1 Aufbau des Stabs (R+AS)",
+      "file": "5_1_1.json"
+    },
+    {
+      "id": "5_1_2",
+      "header": "5.1.2 Aufbau des Kernteams (R+AS)",
+      "file": "5_1_2.json"
+    },
+    {
+      "id": "5_1_3",
+      "header": "5.1.3 Aufbau der situativen Erweiterung (R+AS)",
+      "file": "5_1_3.json"
+    },
+    {
+      "id": "5_1_5",
+      "header": "5.1.5 Aufbau von Bewältigungsteams (R+AS)",
+      "file": "5_1_5.json"
+    },
+    {
+      "id": "5_1_6",
+      "header": "5.1.6 Personelle Besetzung der BAO (R+AS)",
+      "file": "5_1_6.json"
+    },
+    {
+      "id": "5_2_1",
+      "header": "5.2.1 Detektion und Meldung (R+AS)",
+      "file": "5_2_1.json"
+    },
+    {
+      "id": "5_2_2",
+      "header": "5.2.2 Einstufung der Ereignismeldung und Entscheidung (R+AS)",
+      "file": "5_2_2.json"
+    },
+    {
+      "id": "5_2_3",
+      "header": "5.2.3 Alarmierung der BAO (R+AS)",
+      "file": "5_2_3.json"
+    },
+    {
+      "id": "5_3",
+      "header": "5.3 Definition von Sofortmaßnahmen (R+AS)",
+      "file": "5_3.json"
+    },
+    {
+      "id": "5_4",
+      "header": "5.4 Festlegung der Grundsätze zur Stabsarbeit (R)",
+      "file": "5_4.json"
+    },
+    {
+      "id": "5_4_1",
+      "header": "5.4.1 Festlegung der Methoden und Regeln für die Stabsarbeit (R)",
+      "file": "5_4_1.json"
+    },
+    {
+      "id": "5_4_1",
+      "header": "5.4.1 Festlegung der Methoden und Regeln für die Stabsarbeit (R)",
+      "file": "5_4_1.json"
+    },
+    {
+      "id": "5_4_1",
+      "header": "5.4.1 Festlegung der Methoden und Regeln für die Stabsarbeit (R)",
+      "file": "5_4_1.json"
+    },
+    {
+      "id": "5_4_2",
+      "header": "5.4.2 Konstituierung und Auflösung der BAO (R)",
+      "file": "5_4_2.json"
+    },
+    {
+      "id": "5_5",
+      "header": "5.5 Definition der Geschäftsordnung des Stabs (AS)",
+      "file": "5_5.json"
+    },
+    {
+      "id": "5_5",
+      "header": "5.5 Definition der Geschäftsordnung des Stabs (AS)",
+      "file": "5_5.json"
+    },
+    {
+      "id": "5_5_1",
+      "header": "5.5.1 Konstituierung und Auflösung der BAO (AS)",
+      "file": "5_5_1.json"
+    },
+    {
+      "id": "5_5",
+      "header": "5.5 Definition der Geschäftsordnung des Stabs (AS)",
+      "file": "5_5.json"
+    },
+    {
+      "id": "5_5_2",
+      "header": "5.5.2 Festlegung eines Zusammenarbeitsmodells (AS)",
+      "file": "5_5_2.json"
+    },
+    {
+      "id": "5_5",
+      "header": "5.5 Definition der Geschäftsordnung des Stabs (AS)",
+      "file": "5_5.json"
+    },
+    {
+      "id": "5_5_3",
+      "header": "5.5.3 Festlegung der Arbeitsbedingungen (AS)",
+      "file": "5_5_3.json"
+    },
+    {
+      "id": "5_5_4",
+      "header": "5.5.4 Protokollierung (AS)",
+      "file": "5_5_4.json"
+    },
+    {
+      "id": "5_5_5",
+      "header": "5.5.5 Festlegung besonderer Befugnisse (AS)",
+      "file": "5_5_5.json"
+    },
+    {
+      "id": "5_5",
+      "header": "5.5 Definition der Geschäftsordnung des Stabs (AS)",
+      "file": "5_5.json"
+    },
+    {
+      "id": "5_5_6",
+      "header": "5.5.6 Erstellung eines Verhaltenskodexes (AS)",
+      "file": "5_5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6_1",
+      "header": "5.6.1 Schulung der BAO (R+AS)",
+      "file": "5_6_1.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6_3",
+      "header": "5.6.3 Festlegung eines Stabsraums (R+AS)",
+      "file": "5_6_3.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6_4",
+      "header": "5.6.4 Ausstattung des Stabsraums (R+AS)",
+      "file": "5_6_4.json"
+    },
+    {
+      "id": "5_6_4",
+      "header": "5.6.4 Ausstattung des Stabsraums (R+AS)",
+      "file": "5_6_4.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6",
+      "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+      "file": "5_6.json"
+    },
+    {
+      "id": "5_6_5",
+      "header": "5.6.5 Freigabe durch die Institutionsleitung (R+AS)",
+      "file": "5_6_5.json"
+    },
+    {
+      "id": "5_7",
+      "header": "5.7 NuK-Kommunikation (R+AS)",
+      "file": "5_7.json"
+    },
+    {
+      "id": "5_7_1",
+      "header": "5.7.1 Allgemeine Regelungen zur Kommunikation (R+AS)",
+      "file": "5_7_1.json"
+    },
+    {
+      "id": "5_7_2",
+      "header": "5.7.2 Interne Kommunikation (R+AS)",
+      "file": "5_7_2.json"
+    },
+    {
+      "id": "5_7_3",
+      "header": "5.7.3 Externe Kommunikation (R+AS)",
+      "file": "5_7_3.json"
+    },
+    {
+      "id": "5_8",
+      "header": "5.8 Nacharbeiten und Deeskalation (R+AS)",
+      "file": "5_8.json"
+    },
+    {
+      "id": "5_8",
+      "header": "5.8 Nacharbeiten und Deeskalation (R+AS)",
+      "file": "5_8.json"
+    },
+    {
+      "id": "5_8",
+      "header": "5.8 Nacharbeiten und Deeskalation (R+AS)",
+      "file": "5_8.json"
+    },
+    {
+      "id": "6_2",
+      "header": "6.2 Konkretisierung des Begriffs zeitkritisch (R+A)",
+      "file": "6_2.json"
+    },
+    {
+      "id": "6_2",
+      "header": "6.2 Konkretisierung des Begriffs zeitkritisch (R+A)",
+      "file": "6_2.json"
+    },
+    {
+      "id": "6_3",
+      "header": "6.3 Durchführung des BIA-Vorfilter (R+A)",
+      "file": "6_3.json"
+    },
+    {
+      "id": "6_3_2",
+      "header": "6.3.2 Vorauswahl von Organisationseinheiten anhand eines",
+      "file": "6_3_2.json"
+    },
+    {
+      "id": "6_3_3",
+      "header": "6.3.3 Vorauswahl von Produkten oder Services (R+A)",
+      "file": "6_3_3.json"
+    },
+    {
+      "id": "6_4",
+      "header": "6.4 Konsolidierung und Vorstellung der Ergebnisse (R+A)",
+      "file": "6_4.json"
+    },
+    {
+      "id": "6_5",
+      "header": "6.5 Systematische Erweiterung des GP-Umfangs im",
+      "file": "6_5.json"
+    },
+    {
+      "id": "6_5",
+      "header": "6.5 Systematische Erweiterung des GP-Umfangs im Rahmen des Aufbau-BCMS (A)",
+      "file": "6_5.json"
+    },
+    {
+      "id": "7_1_1",
+      "header": "7.1.1 Erhebung der Geschäftsprozesse (R+AS)",
+      "file": "7_1_1.json"
+    },
+    {
+      "id": "7_1_2",
+      "header": "7.1.2 Festlegung der BIA-Parameter und betrachteten Zeithorizonte",
+      "file": "7_1_2.json"
+    },
+    {
+      "id": "7_1_2",
+      "header": "7.1.2 Festlegung der BIA-Parameter und betrachteten Zeithorizonte",
+      "file": "7_1_2.json"
+    },
+    {
+      "id": "7_1_2",
+      "header": "7.1.2 Festlegung der BIA-Parameter und betrachteten Zeithorizonte",
+      "file": "7_1_2.json"
+    },
+    {
+      "id": "7_1_2",
+      "header": "7.1.2 Festlegung der BIA-Parameter und betrachteten Zeithorizonte",
+      "file": "7_1_2.json"
+    },
+    {
+      "id": "7_1_2",
+      "header": "7.1.2 Festlegung der BIA-Parameter und betrachteten Zeithorizonte",
+      "file": "7_1_2.json"
+    },
+    {
+      "id": "7_1_3",
+      "header": "7.1.3 Festlegung der Ressourcenkategorien und -cluster (R+AS)",
+      "file": "7_1_3.json"
+    },
+    {
+      "id": "7_1_3",
+      "header": "7.1.3 Festlegung der Ressourcenkategorien und -cluster (R+AS)",
+      "file": "7_1_3.json"
+    },
+    {
+      "id": "7_1_4",
+      "header": "7.1.4 Planung der BIA-Erhebung (R+AS)",
+      "file": "7_1_4.json"
+    },
+    {
+      "id": "7_1_5",
+      "header": "7.1.5 Vorbereitung der BIA-Hilfsmittel (R+AS)",
+      "file": "7_1_5.json"
+    },
+    {
+      "id": "7_1_5",
+      "header": "7.1.5 Vorbereitung der BIA-Hilfsmittel (R+AS)",
+      "file": "7_1_5.json"
+    },
+    {
+      "id": "7_1_5",
+      "header": "7.1.5 Vorbereitung der BIA-Hilfsmittel (R+AS)",
+      "file": "7_1_5.json"
+    },
+    {
+      "id": "7_1_5",
+      "header": "7.1.5 Vorbereitung der BIA-Hilfsmittel (R+AS)",
+      "file": "7_1_5.json"
+    },
+    {
+      "id": "7_2",
+      "header": "7.2 Durchführung der BIA (R+AS)",
+      "file": "7_2.json"
+    },
+    {
+      "id": "7_2_1",
+      "header": "7.2.1 Identifizierung zeitkritischer Geschäftsprozesse (R+AS)",
+      "file": "7_2_1.json"
+    },
+    {
+      "id": "7_2_1",
+      "header": "7.2.1 Identifizierung zeitkritischer Geschäftsprozesse (R+AS)",
+      "file": "7_2_1.json"
+    },
+    {
+      "id": "30",
+      "header": "30 Tage",
+      "file": "30.json"
+    },
+    {
+      "id": "30",
+      "header": "30 Tage",
+      "file": "30.json"
+    },
+    {
+      "id": "30",
+      "header": "30 Tage",
+      "file": "30.json"
+    },
+    {
+      "id": "30",
+      "header": "30 Tage",
+      "file": "30.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Tage",
+      "file": "14.json"
+    },
+    {
+      "id": "3",
+      "header": "3 Tage",
+      "file": "3.json"
+    },
+    {
+      "id": "24",
+      "header": "24 Stun­",
+      "file": "24.json"
+    },
+    {
+      "id": "24",
+      "header": "24 Stun­",
+      "file": "24.json"
+    },
+    {
+      "id": "24",
+      "header": "24 Stun­",
+      "file": "24.json"
+    },
+    {
+      "id": "24",
+      "header": "24 Stun­",
+      "file": "24.json"
+    },
+    {
+      "id": "7_2_2",
+      "header": "7.2.2 Identifizierung der Prozessabhängigkeiten (AS)",
+      "file": "7_2_2.json"
+    },
+    {
+      "id": "7_2_3",
+      "header": "7.2.3 Identifizierung der Ressourcenabhängigkeiten (R+AS)",
+      "file": "7_2_3.json"
+    },
+    {
+      "id": "7_2_3",
+      "header": "7.2.3 Identifizierung der Ressourcenabhängigkeiten (R+AS)",
+      "file": "7_2_3.json"
+    },
+    {
+      "id": "7_2_3",
+      "header": "7.2.3 Identifizierung der Ressourcenabhängigkeiten (R+AS)",
+      "file": "7_2_3.json"
+    },
+    {
+      "id": "30",
+      "header": "30 Tage",
+      "file": "30.json"
+    },
+    {
+      "id": "7_2_4",
+      "header": "7.2.4 Identifizierung vorhandener Single Points of Failure (AS)",
+      "file": "7_2_4.json"
+    },
+    {
+      "id": "7_3",
+      "header": "7.3 Auswertung (R+AS)",
+      "file": "7_3.json"
+    },
+    {
+      "id": "8_1",
+      "header": "8.1 Identifizierung der Ressourcenzuständigen (R+AS)",
+      "file": "8_1.json"
+    },
+    {
+      "id": "8_1",
+      "header": "8.1 Identifizierung der Ressourcenzuständigen (R+AS)",
+      "file": "8_1.json"
+    },
+    {
+      "id": "9_1",
+      "header": "9.1 Auswahl einer geeigneten Risikoanalyse-Methode (AS)",
+      "file": "9_1.json"
+    },
+    {
+      "id": "9_2",
+      "header": "9.2 Vorbereitung der Risikoanalyse (AS)",
+      "file": "9_2.json"
+    },
+    {
+      "id": "9_3",
+      "header": "9.3 Erstellung einer Gefährdungsübersicht (AS)",
+      "file": "9_3.json"
+    },
+    {
+      "id": "9_4",
+      "header": "9.4 Risikoeinschätzung (AS)",
+      "file": "9_4.json"
+    },
+    {
+      "id": "9_5",
+      "header": "9.5 Risikobewertung (AS)",
+      "file": "9_5.json"
+    },
+    {
+      "id": "9_6",
+      "header": "9.6 Risikobehandlung (AS)",
+      "file": "9_6.json"
+    },
+    {
+      "id": "9_6",
+      "header": "9.6 Risikobehandlung (AS)",
+      "file": "9_6.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10_1",
+      "header": "10.1 Identifikation möglicher BC-Strategien (AS)",
+      "file": "10_1.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10_2",
+      "header": "10.2 Bewertung von BC-Strategien (AS)",
+      "file": "10_2.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10_3",
+      "header": "10.3 Auswahl der BC-Strategien durch die",
+      "file": "10_3.json"
+    },
+    {
+      "id": "10_3",
+      "header": "10.3 Auswahl der BC-Strategien durch die Institutionsleitung (AS)",
+      "file": "10_3.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "10_4",
+      "header": "10.4 Umsetzung der BC-Strategien und -Lösungen (AS)",
+      "file": "10_4.json"
+    },
+    {
+      "id": "10_4",
+      "header": "10.4 Umsetzung der BC-Strategien und -Lösungen (AS)",
+      "file": "10_4.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+      "file": "10.json"
+    },
+    {
+      "id": "11_1",
+      "header": "11.1 Vorbereitung der GFPs (R+AS)",
+      "file": "11_1.json"
+    },
+    {
+      "id": "11_1_1",
+      "header": "11.1.1 Aufteilung der GFPs",
+      "file": "11_1_1.json"
+    },
+    {
+      "id": "11_1_2",
+      "header": "11.1.2 Erstellung einer GFP-Dokumentvorlage",
+      "file": "11_1_2.json"
+    },
+    {
+      "id": "11_1_3",
+      "header": "11.1.3 Vorausfüllen der GFPs",
+      "file": "11_1_3.json"
+    },
+    {
+      "id": "11_1_4",
+      "header": "11.1.4 Planung der GFP-Erstellung",
+      "file": "11_1_4.json"
+    },
+    {
+      "id": "11_2",
+      "header": "11.2 Erstellung der GFPs (R+AS)",
+      "file": "11_2.json"
+    },
+    {
+      "id": "11_2_1",
+      "header": "11.2.1 Festlegung übergreifender Maßnahmen (R+AS)",
+      "file": "11_2_1.json"
+    },
+    {
+      "id": "11_2_2",
+      "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+      "file": "11_2_2.json"
+    },
+    {
+      "id": "11_2_2",
+      "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+      "file": "11_2_2.json"
+    },
+    {
+      "id": "11_2_2",
+      "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+      "file": "11_2_2.json"
+    },
+    {
+      "id": "11_2_2",
+      "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+      "file": "11_2_2.json"
+    },
+    {
+      "id": "11_2_2",
+      "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+      "file": "11_2_2.json"
+    },
+    {
+      "id": "11_2_2",
+      "header": "11.2.2 Entwicklung von Notfallmaßnahmen im Reaktiv-BCMS (R)",
+      "file": "11_2_2.json"
+    },
+    {
+      "id": "11_2_3",
+      "header": "11.2.3 Entwicklung von Notfallmaßnahmen im Standard-BCMS (AS)",
+      "file": "11_2_3.json"
+    },
+    {
+      "id": "11_3",
+      "header": "11.3 Qualitätssicherung und Freigabe der GFPs (R+AS)",
+      "file": "11_3.json"
+    },
+    {
+      "id": "11_3",
+      "header": "11.3 Qualitätssicherung und Freigabe der GFPs (R+AS)",
+      "file": "11_3.json"
+    },
+    {
+      "id": "11_3",
+      "header": "11.3 Qualitätssicherung und Freigabe der GFPs (R+AS)",
+      "file": "11_3.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12_1",
+      "header": "12.1 Vorbereitung der WAPs (AS)",
+      "file": "12_1.json"
+    },
+    {
+      "id": "12_1_1",
+      "header": "12.1.1 Aufteilung der WAPs (AS)",
+      "file": "12_1_1.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12_1_2",
+      "header": "12.1.2 Erstellung einer WAP -Dokumentvorlage (AS)",
+      "file": "12_1_2.json"
+    },
+    {
+      "id": "12_1_3",
+      "header": "12.1.3 Planung der WAP-Erstellung (AS)",
+      "file": "12_1_3.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12_3",
+      "header": "12.3 Qualitätssicherung und Freigabe der WAPs (AS)",
+      "file": "12_3.json"
+    },
+    {
+      "id": "12_4",
+      "header": "12.4 Wiederherstellungsplanung im Rahmen des BCM (AS)",
+      "file": "12_4.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "12",
+      "header": "12 Wiederanlauf- und Wiederherstellungsplanung (AS)",
+      "file": "12.json"
+    },
+    {
+      "id": "13_1",
+      "header": "13.1 Rahmenbedingungen zum Üben im Reaktiv-BCMS (R)",
+      "file": "13_1.json"
+    },
+    {
+      "id": "13_1",
+      "header": "13.1 Rahmenbedingungen zum Üben im Reaktiv-BCMS (R)",
+      "file": "13_1.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_2",
+      "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+      "file": "13_2.json"
+    },
+    {
+      "id": "13_3",
+      "header": "13.3 Erstellung einer Jahresübungsplanung (R+AS)",
+      "file": "13_3.json"
+    },
+    {
+      "id": "13_3",
+      "header": "13.3 Erstellung einer Jahresübungsplanung (R+AS)",
+      "file": "13_3.json"
+    },
+    {
+      "id": "13_4",
+      "header": "13.4 Vorbereitung und Durchführung einer Übung (R+AS)",
+      "file": "13_4.json"
+    },
+    {
+      "id": "13_4",
+      "header": "13.4 Vorbereitung und Durchführung einer Übung (R+AS)",
+      "file": "13_4.json"
+    },
+    {
+      "id": "13_5",
+      "header": "13.5 Planbesprechung (R optional +AS)",
+      "file": "13_5.json"
+    },
+    {
+      "id": "13_5_1",
+      "header": "13.5.1 Vorbereitung einer Planbesprechung",
+      "file": "13_5_1.json"
+    },
+    {
+      "id": "13_5_2",
+      "header": "13.5.2 Durchführung einer Planbesprechung",
+      "file": "13_5_2.json"
+    },
+    {
+      "id": "13_6",
+      "header": "13.6 Stabsübung (R+AS)",
+      "file": "13_6.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_1",
+      "header": "13.6.1 Vorbereitung einer Stabsübung",
+      "file": "13_6_1.json"
+    },
+    {
+      "id": "13_6_2",
+      "header": "13.6.2 Durchführung einer Stabsübung",
+      "file": "13_6_2.json"
+    },
+    {
+      "id": "13_7",
+      "header": "13.7 Stabsrahmenübung (AS)",
+      "file": "13_7.json"
+    },
+    {
+      "id": "13_7_1",
+      "header": "13.7.1 Vorbereitung einer Stabsrahmenübung",
+      "file": "13_7_1.json"
+    },
+    {
+      "id": "13_7_2",
+      "header": "13.7.2 Durchführung einer Stabsrahmenübung",
+      "file": "13_7_2.json"
+    },
+    {
+      "id": "13_8",
+      "header": "13.8 Alarmierungsübung (R+AS)",
+      "file": "13_8.json"
+    },
+    {
+      "id": "13_8_1",
+      "header": "13.8.1 Vorbereitung einer Alarmierungsübung",
+      "file": "13_8_1.json"
+    },
+    {
+      "id": "13_8_1",
+      "header": "13.8.1 Vorbereitung einer Alarmierungsübung",
+      "file": "13_8_1.json"
+    },
+    {
+      "id": "13_8_2",
+      "header": "13.8.2 Durchführung einer Alarmierungsübung",
+      "file": "13_8_2.json"
+    },
+    {
+      "id": "13_9",
+      "header": "13.9 Funktionstest (R optional +AS)",
+      "file": "13_9.json"
+    },
+    {
+      "id": "13_9_1",
+      "header": "13.9.1 Vorbereitung eines Funktionstests",
+      "file": "13_9_1.json"
+    },
+    {
+      "id": "13_9_2",
+      "header": "13.9.2 Durchführung eines Funktionstests",
+      "file": "13_9_2.json"
+    },
+    {
+      "id": "13_10",
+      "header": "13.10 Auswertung und Nachbereitung von Übungen (R+AS)",
+      "file": "13_10.json"
+    },
+    {
+      "id": "13_10",
+      "header": "13.10 Auswertung und Nachbereitung von Übungen (R+AS)",
+      "file": "13_10.json"
+    },
+    {
+      "id": "13_10_1",
+      "header": "13.10.1 Zusätzliche Aspekte zur Auswertung und Nachbereitung",
+      "file": "13_10_1.json"
+    },
+    {
+      "id": "13_10_1",
+      "header": "13.10.1 Zusätzliche Aspekte zur Auswertung und Nachbereitung",
+      "file": "13_10_1.json"
+    },
+    {
+      "id": "13_10_3",
+      "header": "13.10.3 Ergebnisvorstellung und Festlegung der Folgeschritte",
+      "file": "13_10_3.json"
+    },
+    {
+      "id": "13_10_3",
+      "header": "13.10.3 Ergebnisvorstellung und Festlegung der Folgeschritte",
+      "file": "13_10_3.json"
+    },
+    {
+      "id": "14_1",
+      "header": "14.1 Überwachung, Messung, Analyse und Bewertung (AS)",
+      "file": "14_1.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14_1",
+      "header": "14.1 Überwachung, Messung, Analyse und Bewertung (AS)",
+      "file": "14_1.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14_1",
+      "header": "14.1 Überwachung, Messung, Analyse und Bewertung (AS)",
+      "file": "14_1.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14_3",
+      "header": "14.3 Interne und externe Überprüfungen (AS)",
+      "file": "14_3.json"
+    },
+    {
+      "id": "14_3",
+      "header": "14.3 Interne und externe Überprüfungen (AS)",
+      "file": "14_3.json"
+    },
+    {
+      "id": "14_3",
+      "header": "14.3 Interne und externe Überprüfungen (AS)",
+      "file": "14_3.json"
+    },
+    {
+      "id": "14_3",
+      "header": "14.3 Interne und externe Überprüfungen (AS)",
+      "file": "14_3.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14_4",
+      "header": "14.4 Managementbewertung (AS)",
+      "file": "14_4.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "14",
+      "header": "14 Leistungsüberprüfung und Berichterstattung (AS)",
+      "file": "14.json"
+    },
+    {
+      "id": "15_1",
+      "header": "15.1 Vorbereitung eines BCM-Maßnahmenplans (R+AS)",
+      "file": "15_1.json"
+    },
+    {
+      "id": "15_2",
+      "header": "15.2 Ableitung von Korrektur- und Verbesserungsmaßnahmen (R+AS)",
+      "file": "15_2.json"
+    },
+    {
+      "id": "15_3",
+      "header": "15.3 Umsetzung und Überwachung von Korrektur- und",
+      "file": "15_3.json"
+    },
+    {
+      "id": "15_4",
+      "header": "15.4 Weiterentwicklung des Reaktiv-BCMS (R)",
+      "file": "15_4.json"
+    },
+    {
+      "id": "15_4_1",
+      "header": "15.4.1 Berichterstattung und Entscheidungshilfe (R)",
+      "file": "15_4_1.json"
+    },
+    {
+      "id": "15_4_2",
+      "header": "15.4.2 Entscheidung durch die Institutionsleitung (R)",
+      "file": "15_4_2.json"
+    },
+    {
+      "id": "15_4_2",
+      "header": "15.4.2 Entscheidung durch die Institutionsleitung (R)",
+      "file": "15_4_2.json"
+    },
+    {
+      "id": "15_4_2",
+      "header": "15.4.2 Entscheidung durch die Institutionsleitung (R)",
+      "file": "15_4_2.json"
+    }
+  ]
+}

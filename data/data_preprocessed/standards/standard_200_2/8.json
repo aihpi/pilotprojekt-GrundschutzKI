@@ -1,0 +1,21 @@
+{
+  "id": "8",
+  "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    }
+  ],
+  "content": "• Grundsätzliche Vorgehensweise der Institution zur Durchführung von Risikoanalysen in einer \nRichtlinie dokumentieren und der Leitungsebene zur Verabschiedung vorlegen\n\n• Ermitteln, für welche Zielobjekte oder Gruppen von Zielobjekten eine Risikoanalyse durchgeführt \nwerden soll\n\n• BSI-Standard 200-3 Risikoanalyse auf der Basis von IT-Grundschutz systematisch durcharbeiten\n\n• Ergebnisse der Risikoanalysen in das Sicherheitskonzept integrieren\n\nBSI-Standard 200-2\n\nIn diesem Kapitel werden verschiedene Aspekte vorgestellt, die bei der Planung und Realisierung von \nSicherheitsmaßnahmen beachtet werden müssen. Dabei wird beschrieben, wie die Umsetzung von \nSicherheitsmaßnahmen geplant, durchgeführt, begleitet und überwacht werden kann. Zu vielen Bau­\nsteinen des IT-Grundschutzes existieren Umsetzungshinweise mit beispielhaften Empfehlungen für \nSicherheitsmaßnahmen, mittels derer die Anforderungen der Bausteine umgesetzt werden können. \nDiese basieren auf Best Practices und langjähriger Erfahrung von Experten aus dem Bereich der Infor­\nmationssicherheit. Die Maßnahmen aus den Umsetzungshinweisen sind jedoch nicht als verbindlich \nzu betrachten, sondern können und sollten durch eigene Maßnahmen ergänzt oder ersetzt werden. \nSolche eigenen Maßnahmen sollten wiederum dem IT-Grundschutz-Team des BSI mitgeteilt werden, \nvor allem, wenn sie neue Aspekte enthalten, damit die Umsetzungshinweise entsprechend ergänzt \nwerden können.\n\nBei der Erstellung der Sicherheitskonzeption sind für den untersuchten Informationsverbund die \nStrukturanalyse, die Schutzbedarfsfeststellung und die Modellierung erfolgt. Ebenso liegen zu diesem \nZeitpunkt die Ergebnisse des IT-Grundschutz-Checks, also des daran anknüpfenden Soll-Ist-Ver­\ngleichs, vor. Sollte für ausgewählte Bereiche eine Risikoanalyse durchgeführt worden sein, so sollten \ndie dabei erarbeiteten Maßnahmenvorschläge ebenfalls vorliegen und nachfolgend berücksichtigt \nwerden.\n\nFür die Realisierung der Maßnahmen stehen in der Regel nur beschränkte Ressourcen an Geld und \nPersonal zur Verfügung. Ziel der nachfolgend beschriebenen Schritte ist daher, eine möglichst effizi­\nente Umsetzung der vorgesehenen Sicherheitsmaßnahmen zu erreichen. Ein Beispiel zur Erläuterung \nder Vorgehensweise findet sich am Ende dieses Kapitels.",
+  "pages": {
+    "start": 157,
+    "end": 158
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

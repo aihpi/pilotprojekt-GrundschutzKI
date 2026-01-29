@@ -1,0 +1,21 @@
+{
+  "id": "6",
+  "header": "6 Einbindung der Mitarbeiter in den Sicherheitsprozess",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    }
+  ],
+  "content": "Einbindung der Mitarbeiter in den Sicherheitsprozess\n\nDie Informationssicherheit betrifft ohne Ausnahme alle Mitarbeiter. Jeder Einzelne kann durch ein \nverantwortungs- und qualitätsbewusstes Handeln Schäden vermeiden und zum Erfolg beitragen. Eine \nSensibilisierung für Informationssicherheit und entsprechende Schulungen der Mitarbeiter sowie aller \nFührungskräfte sind daher eine Grundvoraussetzung für Informationssicherheit. Um Sicherheitsmaß­\nnahmen wie geplant umsetzen zu können, müssen bei den Mitarbeitern die erforderlichen Grundla­\ngen vorhanden sein. Dazu gehört neben den Kenntnissen, wie Sicherheitsmechanismen bedient wer­\nden müssen, auch das Wissen über den Sinn und Zweck von Sicherheitsmaßnahmen. Auch das Ar­\nbeitsklima, gemeinsame Wertvorstellungen und das Engagement der Mitarbeiter beeinflussen die \nInformationssicherheit entscheidend.\n\nWerden Mitarbeiter neu eingestellt oder erhalten sie neue Aufgaben, ist eine gründliche Einarbeitung \nund gegebenenfalls Ausbildung notwendig. Die Vermittlung sicherheitsrelevanter Aspekte des jewei­\nligen Arbeitsplatzes muss dabei berücksichtigt werden. Wenn Mitarbeiter die Institution verlassen \noder sich ihre Zuständigkeiten verändern, muss dieser Prozess durch geeignete Sicherheitsmaßnah­\nmen begleitet werden (z. B. Entzug von Berechtigungen, Rückgabe von Schlüsseln und Ausweisen).\n\nMitarbeiter müssen zur Einhaltung aller im jeweiligen Umfeld relevanten Gesetze, Vorschriften und \nRegelungen verpflichtet werden. Dazu ist es natürlich erforderlich, sie mit den bestehenden Regelun­\ngen zur Informationssicherheit vertraut zu machen und die gleichzeitig zu deren Einhaltung zu moti­\nvieren. Des Weiteren sollten die Mitarbeiter wissen, dass jeder erkannte (oder vermutete) Sicherheits­\nvorfall dem Sicherheitsmanagement unmittelbar gemeldet werden muss und wie und an wen die \nMeldung zu erfolgen hat.\n\nDie Leitungsebene muss die Sicherheitsziele in Kenntnis aller relevanten Rahmenbedingungen, der \nUmfeldanalyse und basierend auf den Geschäftszielen des Unternehmens bzw. dem Auftrag der Be­\nhörde festlegen und die Voraussetzungen für deren Umsetzung schaffen. Mit einer Sicherheitsstrate­\ngie wird das Vorgehen geplant, um einen kontinuierlichen Sicherheitsprozess zu etablieren. Umge­\nsetzt wird die Strategie mithilfe eines Sicherheitskonzepts und einer Sicherheitsorganisation. Im Fol­\ngenden werden daher für jede Lebenszyklusphase die relevanten Managementtätigkeiten \nbeschrieben. Aufgrund des Umfangs und zur besseren Übersicht werden die Tätigkeiten rund um \ndas Sicherheitskonzept jeweils in einem eigenen Kapitel beschrieben.",
+  "pages": {
+    "start": 27,
+    "end": 28
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

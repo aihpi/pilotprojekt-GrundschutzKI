@@ -1,0 +1,26 @@
+{
+  "id": "5_1",
+  "header": "5.1 Klassifikation von Informationen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Klassifikation von Informationen"
+    }
+  ],
+  "content": "Um Informationen angemessen schützen zu können, muss deren Bedeutung für die Institution klar \nsein. Um sich innerhalb einer Institution, aber auch mit anderen Institutionen einfacher darüber aus­\ntauschen zu können, welchen Wert bestimmte Arten von Informationen haben, wird ein Klassifikati­\nonsschema benötigt, in dem beschrieben ist, welche Abstufungen der Wertigkeit es gibt und wie die \nverschiedenen Stufen gegeneinander abgegrenzt sind.\n\nEine sinnvolle Vorgehensweise ist es daher, ein Klassifikationsschema zu erarbeiten, das es allen Mit­\narbeitern ermöglicht, daraus für jede Art der Information die korrekte Einstufung abzuleiten, ohne \ndass diese dafür explizit gekennzeichnet werden muss. Das Klassifikationsschema sollte nicht zu kom­\npliziert gewählt sein, sodass es einfach verständlich und leicht anwendbar ist.\n\nEs bietet es sich an, von den Grundwerten der Informationssicherheit auszugehen und Informationen \nin Bezug auf ihre Vertraulichkeit, Integrität und Verfügbarkeit zu klassifizieren. Je nach Institution \nkönnen hier auch weitere oder andere Parameter verwendet werden, beispielsweise wenn diese in \nder Institution bereits in anderen Zusammenhängen verwendet wurden. Ein Nachteil davon, das Klas­\nsifikationsschema zu erweitern, ist, dass die Klassifizierung komplexer wird. Damit wird es für die \nMitarbeiter schwieriger, die Abgrenzung zwischen den einzelnen Stufen nachzuvollziehen und das \nSchema anzuwenden. Ein weiterer Nachteil ist, dass es somit schwieriger wird, ein gemeinsames \nVerständnis über die Klassifizierung von Informationen mit anderen Institutionen aufzubauen.\n\nUm die Vertraulichkeit zu klassifizieren, wird häufig zwischen offen, intern, vertraulich und streng \nvertraulich abgestuft. Bei der Verfügbarkeit kann beispielsweise eine Klassifikation über die zu erwar­\ntende bzw. die tolerierbare Dauer bis zur Wiederherstellung bei einem Ausfall getroffen werden, etwa \neine Stunde, ein Tag, eine Woche, ein Monat. Schwieriger ist es, die Integrität zu klassifizieren, etwa in \nessenziell, wichtig und normal. Kriterien können hierfür beispielsweise die möglichen Auswirkungen \nbei Integritätsverlust und deren Schweregrad sein oder der betriebene Aufwand zur Sicherstellung der \nIntegrität.\n\nIn einfachen Fällen, etwa auch im Kontext der Basis-Absicherung, kann anfangs bereits eine zweistu­\nfige Klassifizierung ausreichend sein, indem beispielsweise nur zwischen internen („alles im Intranet“) \nund öffentlichen Informationen unterschieden wird. In diesem Fall empfiehlt es sich, die für die Ver­\nöffentlichung vorgesehenen Informationen, aber auch nur diese, als solche zu klassifizieren („offen“).\n\nDiese Klassifikation ist eine wesentliche Voraussetzung, um später adäquate Sicherheitsmaßnahmen \nauszuwählen und anzuwenden.\n\nKennzeichnung: Es ist erstrebenswert, alle Informationen bereits bei ihrer Generierung zu kenn­\nzeichnen, um diese konsequent während ihres gesamten Lebenszyklus angemessen schützen zu kön­\nnen. Dies ist aber erfahrungsgemäß schwierig. Die Erfahrung hat gezeigt, dass ein Klassifikationssche­\nma einfach aufzubauen ist, aber es sich als schwierig herausstellt, dieses im laufenden Betrieb am \nLeben zu erhalten, sodass es von allen Mitarbeitern konsequent und einheitlich angewendet wird. \nAußerdem ist zu berücksichtigen, dass sich die Klassifikation im Lebenszyklus der Informationen än­\ndern kann.\n\nEin positiver Nebeneffekt der Klassifizierung von Daten ist, dass dabei auffällt, welche Daten über­\nflüssig oder veraltet sind bzw. nicht genutzt werden. Eine konsequente Klassifikation hilft demnach, \nden Datenmüll zu reduzieren.\n\nUm einen funktionierenden Prozess zur Klassifikation von Informationen aufzubauen und zu betrei­\nben, sollten dafür geeignete Rollen eingerichtet und deren Aufgaben festgelegt werden.\n\nDie nachfolgende Tabelle zeigt ein umfangreiches Beispiel zu möglichen Rollen, um notwendige Auf­\ngaben zu verdeutlichen. Auch hier können in der Praxis geeignete Anpassungen vorgenommen wer­\nden. Es sollte immer mindestens die Rolle eines Verantwortlichen für den Klassifikationsprozess geben \nsowie die Rollen derjenigen, die diesen Prozess einhalten bzw. umsetzen.\n\nRolle \ndeutsche \nRollen­\nbezeichnung\n\nWer kann die Rolle \nübernehmen?\n\nAufgaben\n\nData Creator \nErsteller \njeder Mitarbeiter \n• erzeugt Daten\n\n• Erst-Klassifikation\n\nData Owner \nFachverantwortlicher Fachverantwortli­\ncher/ \nLinienvorgesetzer\n\n• konkretisiert \nRegelungen \nzur \nKlassifikation in seinem Bereich\n\n• klärt Einstufungsfragen mit Er­\nstellern\n\n• überwacht \nKlassifikationspro­\nzess seitens der Ersteller\n\nData User \nBenutzer \njeder Mitarbeiter \n• benutzt Daten\n\n• beachtet Regeln zur Klassifikati­\non\n\n• gibt Feedback zu Einstufungshö­\nhen\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 52,
+    "end": 54
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

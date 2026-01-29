@@ -1,0 +1,26 @@
+{
+  "id": "2_3",
+  "header": "2.3 Verantwortung für die Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "2.3",
+      "title": "Verantwortung für die Informationssicherheit"
+    }
+  ],
+  "content": "Die Verantwortung für Informationssicherheit verbleibt in jedem Fall bei der obersten Management­\nebene, die Aufgabe „Informationssicherheit“ wird allerdings typischerweise an einen Beauftragten \nfür Informationssicherheit delegiert. In den IT-Grundschutz-Dokumenten wurde bisher die Bezeich­\nnung IT-Sicherheitsbeauftragter verwendet, da dieser Begriff in Unternehmen und Behörden lange \nZeit der am weitesten verbreitete war. Die Bezeichnung Informationssicherheitsbeauftragter oder \nkurz IS-Beauftragter (ISB) ist allerdings treffender und ersetzt daher im IT-Grundschutz die alte Be­\nzeichnung. Andere Varianten sind CISO (Chief Information Security Officer) oder Informationssicher­\nheitsmanager (ISM).\n\nInformationssicherheit umfasst den umfangreicheren Bereich des Schutzes von Informationen, zwar \nin und mit IT, aber auch ohne IT bzw. über IT hinaus. Somit ist IT-Sicherheit ein Teilbereich der Infor­\nmationssicherheit und beschäftigt sich gezielt mit dem Schutz der eingesetzten IT. In großen Institu­\ntionen kann es weiterhin neben dem ISB auch einen dedizierten Beauftragten für IT-Sicherheit geben. \nDieser ist dann typischerweise im IT-Bereich tätig, während der ISB unmittelbar der Leitungsebene \nzuarbeitet.\n\nWenn diese Randbedingungen in einer konkreten Situation nicht gegeben sind, sollte zunächst ver­\nsucht werden, die fehlenden Sicherheitsmaßnahmen auf Arbeitsebene umzusetzen. In jedem Fall \nsollte aber darauf hingewirkt werden, die Leitungsebene für die Belange der Informationssicherheit \nzu sensibilisieren, sodass sie zukünftig ihrer Verantwortung Rechnung trägt. Der vielfach zu beobach­\ntende, sich selbst auf Arbeitsebene initiierende Informationssicherheitsprozess führt zwar zu einer \npunktuellen Verbesserung der Sicherheitssituation, garantiert jedoch kein dauerhaftes Fortentwickeln \ndes Informationssicherheitsniveaus.",
+  "pages": {
+    "start": 12,
+    "end": 12
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

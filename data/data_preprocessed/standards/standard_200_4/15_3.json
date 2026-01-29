@@ -1,0 +1,26 @@
+{
+  "id": "15_3",
+  "header": "15.3 Umsetzung und Überwachung von Korrektur- und",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "14",
+      "title": "Leistungsüberprüfung und Berichterstattung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "15.3",
+      "title": "Umsetzung und Überwachung von Korrektur- und"
+    }
+  ],
+  "content": "### Verbesserungsmaßnahmen (AS)\n\nNachdem die Korrektur- oder Verbesserungsmaßnahmen geplant und dokumentiert \nwurden, müssen diese durch die jeweils zuständigen Stellen bestätigt und umgesetzt \nwerden. Der oder die BCB muss den Umsetzungsstatus regelmäßig anhand des Maß­\nnahmenplans überwachen, um Fehlentwicklungen in Bezug auf die Qualität oder den\n\ngeplanten Fertigstellungstermin frühzeitig erkennen und diesen entgegenwirken zu kön­\nnen.\n\nNachdem die jeweiligen Korrektur- und Verbesserungsmaßnahmen umgesetzt wurden, \nsollte der oder die BCB diese mithilfe der Mittel zur Überprüfung des BCMS (siehe Kapi­\ntel 13 und 14) dahingehend untersuchen, ob sie angemessen und wirksam sind. Das Er­\ngebnis der Untersuchung sollte der oder die BCB anschließend im Maßnahmenplan do­\nkumentieren. Wenn das Ergebnis der Untersuchung zeigt, dass die umgesetzten Korrek­\ntur- und Verbesserungsmaßnahmen nicht wirksam sind, sollten erneute Korrektur- und \nVerbesserungsmaßnahmen geplant und umgesetzt werden.",
+  "pages": {
+    "start": 303,
+    "end": 304
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

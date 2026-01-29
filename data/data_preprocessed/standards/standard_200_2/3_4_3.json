@@ -1,0 +1,31 @@
+{
+  "id": "3_4_3",
+  "header": "3.4.3 Festlegung des Geltungsbereichs und Inhalt der Sicherheitsleitlinie",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.4",
+      "title": "Erstellung einer Leitlinie zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "3.4.3",
+      "title": "Festlegung des Geltungsbereichs und Inhalt der Sicherheitsleitlinie"
+    }
+  ],
+  "content": "In der Informationssicherheitsleitlinie muss beschrieben werden, für welche Bereiche diese gelten soll. \nDer Geltungsbereich kann die gesamte Institution umfassen oder aus Teilbereichen dieser bestehen. \nWichtig ist jedoch dabei, dass die betrachteten Geschäftsaufgaben und -prozesse in dem Geltungs­\nbereich komplett enthalten sind. Insbesondere bei größeren Institutionen ist die Festlegung des Gel­\ntungsbereichs keine triviale Aufgabe. Eine Orientierung nach den jeweiligen Verantwortlichkeiten \nkann dabei behilflich sein.\n\nDie Sicherheitsleitlinie sollte kurz und bündig formuliert sein, da sich mehr als 20 Seiten in der Praxis \nnicht bewährt haben. Sie sollte jedoch mindestens die folgenden Informationen beinhalten:\n\n•  Stellenwert der Informationssicherheit und Bedeutung der wesentlichen Informationen, Ge­\nschäftsprozesse und der IT für die Aufgabenerfüllung,\n\n•  Bezug der Informationssicherheitsziele zu den Geschäftszielen oder Aufgaben der Institution,\n\n•  Sicherheitsziele und die Kernelemente der Sicherheitsstrategie für die Geschäftsprozesse und die \neingesetzte IT,\n\n•  Zusicherung, dass die Sicherheitsleitlinie von der Institutionsleitung durchgesetzt wird, sowie Leit­\naussagen zur Erfolgskontrolle und\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 33,
+    "end": 34
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2_4_3",
+  "header": "2.4.3 BCM und Krisenmanagement",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.4",
+      "title": "Abgrenzung und Synergien"
+    },
+    {
+      "level": 3,
+      "number": "2.4.3",
+      "title": "BCM und Krisenmanagement"
+    }
+  ],
+  "content": "Anhand dieses Standards können die organisatorischen Voraussetzungen geschaffen \nwerden, um Notfälle angemessen zu bewältigen. Ein Kernelement bildet darin der Auf­\nbau einer Besonderen Aufbauorganisation (BAO). Diese ist grundsätzlich geeignet, auch \nKrisen innerhalb einer Institution zu bewältigen, und stellt damit eine wesentliche \nSchnittstelle zu einem Krisenmanagement (KM) dar. Spezifische Anforderungen zum \nAufbau eines Krisenmanagements können unter anderem den aufgeführten Standards \nund Normen zum Krisenmanagement in Kapitel 2.5 Überblick über Normen und Stan­\ndards entnommen werden.\n\nGemäß der Definition einer Krise im Sinne des BCM geht die Krise über den Notfall hin­\naus. Bei der Krise handelt es sich um eine außergewöhnliche Situation, für die keine BC-\nPlanung möglich ist oder für die eine vorhandene BC-Planung nicht mehr ausreicht, um \ndas Schadensereignis angemessen zu bewältigen. Im Krisenfall liegt daher der Fokus auf \nder Fähigkeit der BAO, die Lage schnell bewerten sowie Maßnahmen situativ entschei­\n\nden und umsetzen zu können. Die vorhandenen Notfallpläne werden in einer Krise so \nweit eingesetzt, wie diese geeignet sind, die Auswirkungen der Krise zu minimieren.\n\nAuf die spezifischen Unterschiede zwischen der Notfall- und der Krisenbewältigung so­\nwie auf die Besonderheiten des IT-Krisenmanagements geht das Hilfsmittel Weiterfüh­\nrende Aspekte zur Bewältigung näher ein. Dieses Hilfsmittel beschreibt auch die spezifi­\nschen Unterschiede zwischen einem Notfallstab und einem Krisenstab, falls z. B. in einer \ngrößeren bzw. international angesiedelten Institution mehrere Stäbe etabliert werden.\n\nZahlreiche mögliche Krisenszenarien erfordern eine enge Zusammenarbeit zwischen dem \nBCM und dem Krisenmanagement. Um sich optimal auf Krisenszenarien vorbereiten zu \nkönnen, sollten daher die für das BCM und das Krisenmanagement entwickelten Verfah­\nren und Strukturen aufeinander abgestimmt sein. Dies betrifft z. B.\n\n• \nRollen der BAO des BCM und des Krisenmanagements,\n\n• \nAlarmierungs- und Eskalationsverfahren,\n\n• \nInformationsflüsse im Notfall und in der Krise,\n\n• \nAufgabenmanagement im Notfall und in der Krise,\n\n• \nNotfallpläne und Krisenmanagementpläne,\n\n• \nAspekte der Notfall- und Krisenkommunikation,\n\n• \nSchulungen, Trainings, Notfall- und Krisenübungen sowie\n\n• \ntechnische Infrastrukturen für die Notfall- und Krisenbewältigung.\n\nDie Kriterien, um einen Notfall von einer Krise abzugrenzen, sollten möglichst konkret \nfür die Institution festgelegt werden. Andernfalls müssen die Kriterien bei Eintritt eines \nNotfalls oder einer Krise diskutiert werden, was wertvolle Zeit in Anspruch nimmt.",
+  "pages": {
+    "start": 34,
+    "end": 35
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

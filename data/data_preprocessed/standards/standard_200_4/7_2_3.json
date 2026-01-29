@@ -1,0 +1,26 @@
+{
+  "id": "7_2_3",
+  "header": "7.2.3 Identifizierung der Ressourcenabhängigkeiten (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "24",
+      "title": "Stun­"
+    },
+    {
+      "level": 3,
+      "number": "7.2.3",
+      "title": "Identifizierung der Ressourcenabhängigkeiten (R+AS)"
+    }
+  ],
+  "content": "### Ressourcenbedarf in Abhängigkeit zur Dauer des Notbetriebs\n\nFür viele Ressourcenkategorien wie z. B. Personal und Arbeitsplätze, aber auch Maschi­\nnen oder Arbeitsmittel kann sich die Anzahl der benötigten Ressourcen mit der Dauer \ndes Notbetriebs verändern. Dies kann aus unterschiedlichen Gründen erforderlich wer­\nden, z. B.\n\n• \num das ansteigende Arbeitsvolumen aufzufangen (z. B. durch ein steigendes Notbe­\ntriebsniveau),\n\n• \num zu berücksichtigen, dass noch nicht die volle Kapazität (z. B. an Personal) von \nBeginn des Notbetriebs zur Verfügung steht oder\n\n• \num die Arbeitslast so zu verteilen, dass auch die weiteren, zeitkritischen Geschäfts­\nprozesse bedient werden können.\n\nFür diese Ressourcenkategorien ist es empfehlenswert, die Anzahl der benötigten Res­\nsourcen über die definierten Zeithorizonte im Notbetrieb hinweg zu erheben.\n\nBei der Ressource Personal ist es zusätzlich empfehlenswert, zu berücksichtigen, ob sich \ndie Anzahl je Geschäftsprozess aufsummiert oder unterschiedliche zeitkritische Ge­\nschäftsprozesse jeweils die gleichen Personen oder Rollen benötigen. In diesem Fall ist es \nempfehlenswert, die Anzahl kumuliert anstatt pro Geschäftsprozess zu erheben. Dies hat \nzum Ziel, Ressourcen, die für mehrere Geschäftsprozesse benötigt werden, nicht mehr­\nfach oder als Anteil erfassen zu müssen. Tabelle 25 gibt ein Beispiel für die zeitlich ge­\nstaffelte Erhebung anhand des Arbeitsplatz- und Rollenbedarfs der Organisationseinheit \nwieder.\n\nBeispiel: Benötigte Anzahl Arbeitsplätze oder Personal im Notbetrieb der OE Kun­\ndenmanagement\n\nRessour­\ncenkatego­\nrie\n\nRessource \nAnmerkun­\ngen",
+  "pages": {
+    "start": 185,
+    "end": 188
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

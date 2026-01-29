@@ -1,0 +1,31 @@
+{
+  "id": "5_4_2",
+  "header": "5.4.2 Konstituierung und Auflösung der BAO (R)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.4",
+      "title": "Festlegung der Grundsätze zur Stabsarbeit (R)"
+    },
+    {
+      "level": 3,
+      "number": "5.4.2",
+      "title": "Konstituierung und Auflösung der BAO (R)"
+    }
+  ],
+  "content": "Die Konstituierung und Auflösung der BAO markiert den jeweiligen Übergang vom \nNormal- in den Notbetrieb sowie vom Notbetrieb in den Normalbetrieb. Die Konstituie­\nrung der BAO schließt sich dem Alarmierungs- und Eskalationsprozess unmittelbar an \n(siehe 5.2 Detektion, Alarmierung und Eskalation (R+AS)).\n\nBereits in der Notfallvorsorge sollte sich die Institution Gedanken dazu machen, welche \nEinzelschritte in der Startphase der Notfallbewältigung erforderlich sind, damit die Stabs­\narbeit im Notfall zeitnah aufgenommen werden kann. Insbesondere sollten Kriterien \nfestgelegt werden, die der Stab nutzt, um final über einen Notfall zu entscheiden. Hierzu \nkönnen folgende Kriterien angewendet werden.\n\nBeispiel\n\nDas Leben und die Gesundheit von Personen sind durch das Ereignis selbst gefähr­\ndet.\n\n• \nDas Leben und die Gesundheit von Personen sind durch die Geschäftsunterbre­\nchung gefährdet.\n\n• \nDas Ansehen der Institution in der Öffentlichkeit ist gefährdet.\n\n• \nDer zu erwartende finanzielle Schaden des Ereignisses ist wahrscheinlich hoch, \nunter Umständen sogar existenzbedrohend.\n\n• \nEin bedeutsamer Verstoß gegen Gesetze, Vorschriften oder Verträge wurde \nfestgestellt. Der Verstoß kann zu Meldepflichten an Dritte oder zu rechtlichen \nKonsequenzen führen.\n\nÜber die meisten dieser Kriterien kann in der Regel anhand der Ergebnisse der BIA kon-\nkret entschieden werden. Liegen noch keine Ergebnisse der BIA zu den betroffenen Ge­\nschäftsprozessen vor, dann müssen die genannten Kriterien ad hoc durch den Stab \nüberprüft werden.\n\nDie Institution muss im Vorhinein standardisierte Abläufe festlegen, sowohl um einen \nNotfall oder eine Krise auszurufen als auch um diese zu deeskalieren. Im Falle eines \nSchadensereignisses können dann diese Abläufe unmittelbar eingeleitet werden, nach­\ndem der Stab entschieden hat, ob es sich um einen Notfall, eine Krise oder eine Störung \nhandelt. Zudem ist es empfehlenswert, folgende Schritte zu klären:\n\n• \nWie erfolgt eine Prüfung der Vollständigkeit, Handlungs- und Entscheidungsfähig­\nkeit des Stabes?\n\n• \nWie erfolgt eine erste Lagebesprechung (z. B. Vorstellung anwesender Personen in \nRollen, die vom Normalbetrieb abweichen, oder Regelungen zur Redezeit je Person)?\n\n• \nWie wird über die erforderlichen Mitglieder im Kernteam sowie hinsichtlich einer si­\ntuativen Erweiterung des Stabes entschieden?\n\n• \nWie wird die finale Entscheidung, ob es sich um einen Notfall handelt, dokumentiert \nund in der Institution kommuniziert?\n\n• \nWer entscheidet, wann die Wiederanlauf- und Geschäftsfortführungspläne aktiviert \nwerden (siehe Kapitel 11 Geschäftsfortführungsplanung (R+AS) sowie 12 Wiederan­\nlauf- und Wiederherstellungsplanung (AS))?\n\n• \nUnter welchen Voraussetzungen wird die Stabsarbeit beendet und die BAO schritt­\nweise aufgelöst?\n\nBeispiel\n\nFragen für eine Checkliste zum Konstituieren des Stabes:\n\n• \nWie werden die Stabsmitglieder alarmiert?\n\n• \nWie werden die Anfahrt und der Zugang zum Stabsraum sichergestellt?\n\n• \nWie wird der Ablageort der Ausstattung des Stabsraums dokumentiert, eventu­\nell inklusive Hinweisen zum Zugang?\n\n• \nWo und wie wird der Aufbau der Ausstattung des Stabsraums dokumentiert?\n\n• \nWelche Rollen sind für den Aufbau der Ausstattung des Stabsraums zuständig?\n\n• \nWie erfolgt die erste Lagebesprechung durch den Stab?",
+  "pages": {
+    "start": 119,
+    "end": 121
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

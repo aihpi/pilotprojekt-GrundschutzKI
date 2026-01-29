@@ -1,0 +1,26 @@
+{
+  "id": "4_2",
+  "header": "4.2 Aufbau der Informationssicherheitsorganisation",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.2",
+      "title": "Aufbau der Informationssicherheitsorganisation"
+    }
+  ],
+  "content": "Abbildung 4: Aufbau der IS-Organisation in einer mittelgroßen Institution\n\nAbbildung 5: Aufbau der IS-Organisation in einer kleinen Institution\n\nAbbildung 6: Aufbau der IS-Organisation mit integriertem ICS-Bereich\n\nAn dieser Stelle sei deutlich darauf hingewiesen, dass die in den Abbildungen dargestellten zentralen \nRollen nicht unbedingt von verschiedenen Personen wahrgenommen werden müssen. Die personelle \nAusgestaltung richtet sich nach der Größe der jeweiligen Institution, den vorhandenen Ressourcen \nund dem angestrebten Sicherheitsniveau. Die Ressourcenplanung für die Unterstützung der Informa­\ntionssicherheit muss so erfolgen, dass das beschlossene Sicherheitsniveau auch tatsächlich erreicht \nwerden kann.",
+  "pages": {
+    "start": 38,
+    "end": 39
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

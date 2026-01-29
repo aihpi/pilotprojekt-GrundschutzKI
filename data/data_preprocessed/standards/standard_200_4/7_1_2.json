@@ -1,0 +1,31 @@
+{
+  "id": "7_1_2",
+  "header": "7.1.2 Festlegung der BIA-Parameter und betrachteten Zeithorizonte",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "6.5",
+      "title": "Systematische Erweiterung des GP-Umfangs im Rahmen des Aufbau-BCMS (A)"
+    },
+    {
+      "level": 3,
+      "number": "7.1.2",
+      "title": "Festlegung der BIA-Parameter und betrachteten Zeithorizonte"
+    }
+  ],
+  "content": "### Untragbarkeitsniveau\n\nDas Untragbarkeitsniveau definiert, ab welcher Schadenskategorie die Auswirkungen ei­\nnes Ausfalls durch die Institution nicht länger toleriert werden (siehe Abbildung 34). Die \nEntscheidung darüber, ab welcher Höhe Schäden nicht länger toleriert werden, sollte \naufgrund der Tragweite für die weitere BC-Planung die Institutionsleitung treffen. An­\nhand des festgelegten Untragbarkeitsniveaus kann in der BIA identifiziert werden, zu \nwelchem Zeitpunkt die erwarteten Schäden so hoch werden, dass diese nicht länger ak­\nzeptiert werden. Dies ist dann die MTPD des Geschäftsprozesses.",
+  "pages": {
+    "start": 163,
+    "end": 169
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

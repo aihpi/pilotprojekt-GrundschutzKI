@@ -1,0 +1,26 @@
+{
+  "id": "13_3",
+  "header": "13.3 Erstellung einer Jahresübungsplanung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.3",
+      "title": "Erstellung einer Jahresübungsplanung (R+AS)"
+    }
+  ],
+  "content": "### Ankündigung von Übungen\n\nFür jede Übung muss entschieden werden, ob diese in der Institution angekündigt wird \noder nicht. Wenn Übungen im Voraus angekündigt werden, können sich alle Teilneh­\nmenden besser darauf vorbereiten. So können Terminkonflikte vermieden werden. Auf \nder anderen Seite kann dies auch Nachteile mit sich bringen, beispielsweise einen niedri­\nger wahrgenommenen Realitätsgrad oder eine künstliche Vorbereitung. Für Institutionen \nohne Übungserfahrung ist es sinnvoll, zu Beginn alle Übungen anzukündigen, z. B. im \nReaktiv-BCMS. Die Beteiligten haben dann die Möglichkeit, sich auf die Übungen vorzu­\nbereiten, die nötige Erfahrung zu sammeln und Hemmschwellen abzubauen. Mit stei­\ngender Übungserfahrung ist es empfehlenswert, zu nicht angekündigten Übungen über­\nzugehen, da diese einer realen Situation mehr entsprechen und die Übenden mehr for­\ndern.\n\nHinweis\n\nNicht angekündigte Stabsübungen und Stabsrahmenübungen können gut mit Alar­\nmierungsübungen kombiniert werden (siehe 13.6 Stabsübung, 13.7 Stabsrahmen­\nübung, 13.8 Alarmierungsübung). Die Alarmierungsübung wird dabei der Stabs- \noder Stabsrahmenübung vorangestellt. In der Alarmmeldung wird den Übenden \nmitgeteilt, dass sie sich schnellstmöglich oder zu einem bestimmten Zeitpunkt im\n\nvorgesehenen Stabsraum einfinden sollen. Anschließend beginnt die eigentliche \nStabs- oder Stabsrahmenübung.\n\nDer erstellte Jahresübungsplan sollte mit der Institutionsleitung abgestimmt und durch \ndiese freigegeben werden. Einer der Gründe hierfür ist, dass die Institutionsleitung in der \nPraxis häufig die notwendigen personellen, materiellen und finanziellen Ressourcen frei­\ngibt. Darüber hinaus kann die Institutionsleitung so die Termine von Übungen steuern, \nan denen sie selbst beteiligt ist. Dies kann z. B. der Fall sein, wenn Stäbe, die auf strate­\ngischer Ebene arbeiten, üben. In Tabelle 38 wird ein vereinfachtes Beispiel für einen Jah­\nresübungsplan dargestellt.\n\nBeispiel\n\nNr. \nÜbungs­\nart\n\nDatum/ \nZeitraum\n\nZiel und Umfang \nder Übung \nZuständig \nRessourcen\n\n2023-01 \nPlanbe­\nsprechung\n\n14.04.2023, \n09 – 11 Uhr\n\nGFP der IT-Abtei-\nlung im Szenario \n„Standortausfall“ \nprüfen\n\nHr. Meier \n(IT)\n\n2 – 3 IT-Mit-\narbeitende, \nca. 2 h je Person\n\n2023-02 \nFunktions­\ntest\n\n22.09.2023, \n13 – 16 Uhr\n\nArbeitsfähigkeit \nausgewählter IT-\nMitarbeitender an \nden definierten \nNotfallarbeitsplät­\nzen überprüfen\n\nHr. Meier \n(IT)\n\n2 – 3 IT-Mit-\narbeitende, ca. \n1 Tag je Person\n\n2023-03 \nAlarmie­\nrungstest\n\n13.11.2023, \n08:30 Uhr\n\nMeldewege und \nAlarmierung der \nStabsmitglieder \nprüfen\n\nBCB\n\nMitglieder des \nStabs, \nca. 1 h je Person\n\n2023-04 \nStabs­\nübung\n\n13.11.2023, \n09 – 11 Uhr\n\nAbläufe des Sze­\nnarios „Brand im \nRZ“ im Stab üben\n\nBCB\n\nMitglieder des \nKrisenstabs, \nDrehbuch und \nEinlagen, \nca. 15 Tage zur \nVorbereitung, \nDurchführung, \nNachbereitung  \n+ 0,5 Tage je Per­\nson\n\nTabelle 38: Beispiel für einen Jahresübungsplan\n\nDer oder die BCB sollte überwachen, dass alle geplanten Übungen stattfinden. Für aus­\ngefallene, verschobene oder abgebrochene Übungen sollte zeitnah ein Ersatztermin ge­\nfunden werden. Treten technische oder organisatorische Probleme auf, sollte der oder \ndie BCB prüfen, ob eine Wiederholung der Übung erforderlich ist, nachdem die Mängel \nbehoben wurden.",
+  "pages": {
+    "start": 263,
+    "end": 267
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

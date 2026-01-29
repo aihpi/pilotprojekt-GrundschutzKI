@@ -1,0 +1,26 @@
+{
+  "id": "4_3",
+  "header": "4.3 Aufgaben, Verantwortungen und Kompetenzen in der IS-Organisation",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.3",
+      "title": "Aufgaben, Verantwortungen und Kompetenzen in der IS-Organisation"
+    }
+  ],
+  "content": "Der Informationssicherheitsbeauftragte und das IS-Management-Team müssen klar definierte Auf­\ngaben, Verantwortungsbereiche und Kompetenzen haben, die von der Leitungsebene festzulegen \nsind. Um ihre Aufgabe wahrnehmen zu können, sollten sie an allen relevanten Verfahren und Ent­\nscheidungen beteiligt werden. Die Rollen sind so in die Organisationsstruktur einzubinden, dass alle \nBeteiligten untereinander kommunizieren können. Außerdem muss geklärt sein, wer im Rahmen \ndes Sicherheitsmanagements mit welchen internen und externen Stellen wann worüber kommuni­\nziert sowie welche Kommunikationskanäle für die jeweiligen Ansprechpartner genutzt und wie die­\nse geschützt werden (siehe hierzu auch Kapitel 5.2 Informationsfluss im Informationssicherheitspro­\nzess).\n\nBSI-Standard 200-2\n\nMit der Wahrnehmung der Aufgaben als Sicherheitsbeauftragte bzw. im IS-Management-Team sollte \nstets qualifiziertes Personal betraut werden. Bei Bedarf können unterstützend Aufgaben an weitere \nRollen, wie beispielsweise\n\n• Bereichs-ISB (Informationssicherheitsbeauftragter für einen Bereich, Abteilung, Außenstelle, o.Ä.),\n\n• Projekt-ISB sowie\n\n• ICS-ISB (Informationssicherheitsbeauftragter für den Bereich der industriellen Steuerung),\n\ndelegiert werden.",
+  "pages": {
+    "start": 39,
+    "end": 40
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

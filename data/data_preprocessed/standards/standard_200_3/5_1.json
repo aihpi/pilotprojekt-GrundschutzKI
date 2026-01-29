@@ -1,0 +1,21 @@
+{
+  "id": "5_1",
+  "header": "5.1 Risikoeinschätzung",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Risikoeinschätzung"
+    }
+  ],
+  "content": "Nachdem alle relevanten Gefährdungen identifiziert worden sind (siehe Kapitel 4), wird im nächsten \nSchritt das Risiko ermittelt, das von einer Gefährdung ausgeht. Wie hoch dieses Risiko ist, hängt sowohl \nvonderEintrittshäufigkeit(Eintrittseinschätzung)derGefährdungalsauchvonderHöhedesSchadensab, \nder dabei droht. Bei der Risikoeinschätzung müssen daher beide Einflussgrößen berücksichtigt werden.\n\nUm Risiken mit angemessenem Aufwand einzuschätzen, gibt es kein einfaches allgemeingültiges \nKonzept. Der Risikoanteil Schadenshöhe kann nur von der Institution selbst eingeschätzt werden. \nHierbei geht es darum, wie sich der Eintritt einer Gefährdung auswirken kann, d. h. welche Schäden \nfinanzieller und anderer Art, welche direkten Schäden und welche Folgeschäden entstehen können. \nDarin geht auch ein, ob und mit welchem Aufwand sowie in welcher Zeit der Schaden zu beheben ist.\n\nDie Eintrittshäufigkeit muss durch geeignetes Fachpersonal eingeschätzt werden und kann durch Statis­\ntikenundeigeneErfahrungenunterstützt werden.BeiStatistiken muss allerdings beachtet werden,unter \nwelchen Randbedingungen sie entstanden sind, da auch Statistiken für einen speziellen Anwendungs­\nzweck erstellt wordensind und daher nicht ohne Weiteres auf die speziellen Belange der Institution über­\ntragen werden können. Außerdem ist die Interpretation von statistischen Ergebnissen prinzipiell mit Un­\nsicherheiten behaftet.\n\nGrundsätzlich können Risiken entweder qualitativ oder quantitativ betrachtet werden. Die quantita­\ntive Risikobetrachtung ist sehr aufwändig und setzt umfangreiches statistisches Datenmaterial voraus. \nSolche umfangreichen Erfahrungswerte fehlen in den meisten Fällen im sehr dynamischen Umfeld der \nInformationssicherheit. Daher ist es in den meisten Fällen praktikabler, sowohl für die Eintrittshäufig­\nkeit als auch für die potenzielle Schadenshöhe mit qualitativen Kategorien zu arbeiten. Pro Dimension \nsollten dabei nicht mehr als fünf Kategorien gewählt werden.\n\nUm Risiken einzuschätzen, nutzt der IT-Grundschutz die im Folgenden beschriebenen Kategorien. \nJede Institution kann sowohl die Anzahl der Stufen als auch die Kriterien individuell festlegen. Sie \nsollte die Einteilungen nutzen, die zu ihrem Managementsystem am besten passt.\n\nEintrittshäufigkeit: selten, mittel, häufig, sehr häufig\n\nPotenzielle Schadenshöhe: vernachlässigbar, begrenzt, beträchtlich, existenzbedrohend\n\nHinweis:\n\nJede Institution sollte insbesondere die Beschreibungen der Kategorien mit den Fachabteilungen \nabstimmen, damit deren Bedeutung ffr alle Mitarbeiter einfach nachvollziehbar ist. Wenn ein \nkonkretes Risiko von zwei unterschiedlichen Mitarbeitern einer Institution eingeschätzt wird, soll­\nte dasselbe Ergebnis dabei herauskommen.\n\nEintrittshäufigkeit / Beschreibung\n\nselten \nEreignis könnte nach heutigem Kenntnisstand höchstens \nJahre eintreten.\n\nalle fünf\n\nmittel \nEreignis tritt einmal alle fünf Jahre bis einmal im Jahr ein.\n\nhäufig \nEreignis tritt einmal im Jahr bis einmal pro Monat ein.\n\nsehr häufig \nEreignis tritt mehrmals im Monat ein.\n\nTabelle 8: Kategorisierung von Eintrittshäufigkeiten\n\nSchadenshöhe/Schadensauswirkungen\n\nvernachlässigbar \nDie Schadensauswirkungen sind gering und können vernachlässigt \nwerden.\n\nbegrenzt \nDie Schadensauswirkungen sind begrenzt und überschaubar.\n\nbeträchtlich \nDie Schadensauswirkungen können beträchtlich sein.\n\nexistenzbedrohend \nDie Schadensauswirkungen können ein existenziell bedrohliches, ka­\ntastrophales Ausmaß erreichen.\n\nTabelle 9: Kategorisierung von Schadensauswirkungen\n\nEsgibtInstitutionen,diemitstärkerdifferenzierten Kategorienarbeiten,umdamitdemBedarfinverschie­\ndenen Abteilungen oder Geschäftsprozessen gerecht zu werden. In der Praxis werden aber häufig nur \nwenigeKategorienproDimensionverwendet.DieMehrheitderAnwender neigtsogardazu,defactomit \nnur zwei Kategorien pro Dimension zu arbeiten, beispielsweise „begrenzt“ und „beträchtlich“.",
+  "pages": {
+    "start": 26,
+    "end": 27
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

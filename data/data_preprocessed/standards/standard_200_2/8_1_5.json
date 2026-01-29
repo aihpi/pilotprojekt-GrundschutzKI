@@ -1,0 +1,26 @@
+{
+  "id": "8_1_5",
+  "header": "8.1.5 Erhebung der IT-Systeme",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.5",
+      "title": "Erhebung der IT-Systeme"
+    }
+  ],
+  "content": "Im Hinblick auf die später durchzuführende Schutzbedarfsfeststellung und Modellierung des Informa­\ntionsverbunds sollte eine Liste der vorhandenen und geplanten IT-Systeme in tabellarischer Form auf­\ngestellt werden. Der Begriff IT-System umfasst dabei nicht nur Computer im engeren Sinn, sondern \nauch die IoT- und ICS-Geräte, aktive Netzkomponenten, Netzdrucker, TK-Anlagen, Smartphones, vir­\ntuelle IT-Systeme usw. Die technische Realisierung eines IT-Systems steht im Vordergrund, beispiels­\nweise Apple MacBook, Client unter Windows, Linux-Server, TK-Anlage usw. An dieser Stelle sollen nur \ndie Systeme als solche erfasst werden (z. B. Linux-Server), nicht die einzelnen Bestandteile, aus denen \ndie IT-Systeme zusammengesetzt sind (also nicht Rechner, Tastatur, Bildschirm usw.).\n\nHinweis:\n\nFfr einen ordnungsmäßigen IT-Betrieb ist eine vollständige und korrekte Erfassung der vorhan­\ndenen und geplanten IT-Systeme notwendig, beispielsweise ffr die Uberprffung, Wartung, Feh­\nlersuche und Instandsetzung von IT-Systemen. Ffr die Erstellung eines Sicherheitskonzepts reicht \nes, sich einen Uberblick fber die gruppierten IT-Systeme zu verschaffen.\n\nZu erfassen sind sowohl die vernetzten als auch die nicht vernetzten IT-Systeme, insbesondere also \nauch solche, die nicht im zuvor betrachteten Netzplan aufgeführt sind. IT-Systeme, die im Netzplan zu \neiner Gruppe zusammengefasst worden sind, können weiterhin als ein Objekt behandelt werden. \nAuch bei den IT-Systemen, die nicht im Netzplan aufgeführt sind, ist zu prüfen, ob sie sinnvoll zusam­\nmengefasst werden können. Möglich ist dies beispielsweise bei einer größeren Anzahl von nicht ver­\nnetzten Einzelplatz-PCs, die die im Kapitel 8.1.1 Komplexitätsreduktion durch Gruppenbildung ge­\nnannten Bedingungen für eine Gruppierung erfüllen.\n\nBei dieser Erfassung sollten folgende Informationen vermerkt werden, die für die nachfolgende Arbeit \nnützlich sind:\n\n•  eine eindeutige Bezeichnung der IT-Systeme bzw. der jeweiligen Gruppe (bei Gruppen sollte auch \ndie Anzahl der zusammengefassten IT-Systeme vermerkt sein),\n\n•  Beschreibung (z. B. Funktion, Typ),\n\n•  Plattform (z. B. Hardware-Architektur/Betriebssystem),\n\n•  Aufstellungsort der IT-Systeme (z. B. Ort, Gebäude, Raum),\n\n•  Status der IT-Systeme (in Betrieb, im Test, in Planung) und\n\n•  Benutzer bzw. Administratoren der IT-Systeme.\n\nBSI-Standard 200-2\n\nAnschließend werden die Anwendungen jeweils denjenigen IT-Systemen zugeordnet, die für deren \nAusführung benötigt werden. Dies können die IT-Systeme sein, auf denen die Anwendungen verar­\nbeitet werden, oder auch diejenigen, die Daten dieser Anwendungen transferieren. Das Ergebnis ist \neine Übersicht, in der die Zusammenhänge zwischen den wichtigen Anwendungen und den entspre­\nchenden IT-Systemen dargestellt werden.",
+  "pages": {
+    "start": 91,
+    "end": 93
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

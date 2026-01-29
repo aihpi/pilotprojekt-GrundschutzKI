@@ -1,0 +1,21 @@
+{
+  "id": "10",
+  "header": "10 Business-Continuity-Strategien und -Lösungen (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    }
+  ],
+  "content": "Abbildung 43: Aufbau und Einsatz des Notfallhandbuchs\n\nHinweis\n\nDie verschiedenen Notfallpläne können sowohl nacheinander als auch parallel er­\nstellt werden. Es ist hilfreich, die GFP und WAP parallel zu erarbeiten, da bestehende \nAbhängigkeiten so besser aufeinander abgestimmt werden können. Es ist wichtig, \ndabei zu beachten, dass dies kurzfristig zu einem höheren Bedarf an benötigten per­\nsonellen und organisatorischen Ressourcen führen kann.\n\nR\n\nAS\n\nInnerhalb der Geschäftsfortführungspläne (GFPs) wird dokumentiert, wie, d. h. mit wel­\nchen Notfallmaßnahmen, die Institution auf der Prozessebene auf eine Geschäftsunter­\nbrechung reagiert. Für alle zeitkritischen Geschäftsprozesse muss eine Geschäftsfortfüh­\nrungsplanung dokumentiert werden.\n\nDie Geschäftsfortführungsplanung im Reaktiv-BCMS strebt an, konkrete \nNotfallmaßnahmen zu beschreiben, mit denen zeitkritische Geschäftspro­\nzesse innerhalb der jeweiligen RTO auf dem in der BIA definierten Notbe­\ntriebsniveau wiederaufgenommen oder fortgeführt werden können. Das \nReaktiv-BCMS beschränkt sich jedoch auf Notfallmaßnahmen, die mit den \nvorhandenen Mitteln und Ressourcen der Institution möglich sind oder \ndurch kurzfristig umsetzbare Investitionen realisiert werden können.\n\nIm Rahmen der Geschäftsfortführungsplanung im Aufbau- und Standard-\nBCMS beschreibt die Institution, wie sie im Notfall die festgelegten BC-\nStrategien und -Lösungen auf Prozessebene anwenden wird. Dies gilt auch \nunabhängig davon, ob gemäß der Risikoanalyse nur ein geringes Risiko be­\nsteht, dass der Geschäftsprozess oder auch die zugrundeliegenden Ressour­\ncen ausfallen könnten.\n\nSofern die Institution bereits über GFPs verfügt, die etwa im Rahmen des \nReaktiv-BCMS erstellt wurden, müssen die bestehenden Notfallmaßnahmen \nüberprüft werden. Die Notfallmaßnahmen müssen den im Aufbau- oder \nStandard-BCMS festgelegten BC-Strategien und -Lösungen entsprechen \nund angepasst werden, falls dies erforderlich ist.\n\nDa die GFPs üblicherweise von den Organisationseinheiten selbst erstellt werden, ist es \nsinnvoll, diesen Schritt zentral innerhalb der BC-Vorsorgeorganisation vorzubereiten. Die \nGeschäftsfortführungsplanung ist abgeschlossen, sobald alle GFPs zentral abgelegt sind \nund die Institutionsleitung über den Abschluss der Geschäftsfortführungsplanung infor­\nmiert wurde.\n\nUm die GFPs zu dokumentieren, kann die Dokumentvorlage Geschäftsfortführungsplan \naus den Hilfsmitteln verwendet werden. Anhand dieser Dokumentvorlage werden einige \nin diesem Kapitel aufgeführten Beispiele und Hinweise dargestellt.\n\nAbbildung 44: BCM-Prozessschritte zur Geschäftsfortführungsplanung\n\nDie Abbildung 44 gibt einen Überblick über die notwendigen Schritte zur Vorbereitung, \nErstellung sowie Qualitätssicherung und Freigabe der GFPs. Diese werden in den folgen­\nden Kapiteln näher beschrieben.",
+  "pages": {
+    "start": 222,
+    "end": 224
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "7_2",
+  "header": "7.2 Aufbau einer Sicherheitsorganisation [DOK]",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "7.2",
+      "title": "Aufbau einer Sicherheitsorganisation [DOK]"
+    }
+  ],
+  "content": "Zur \nPlanung \nund \nDurchsetzung \neines \nSicherheitsprozesses \ngehören \ndie \nFestlegung \nvon \nOrganisationsstrukturen (z. B. Abteilungen, Gruppen, Kompetenzzentren) und die Definition von Rol­\nlen und Aufgaben. In Bezug auf die Aufbauorganisation des Informationssicherheitsmanagements \nbieten sich verschiedene Möglichkeiten an. Dabei richtet sich die personelle Ausgestaltung nach der \nGröße der jeweiligen Institution, den vorhandenen Ressourcen und dem angestrebten Sicherheitsni­\nveau. Die Ressourcenplanung für die Unterstützung der Informationssicherheit muss so erfolgen, dass \ndas beschlossene Sicherheitsniveau auch tatsächlich erreicht werden kann.\n\nBei der Definition von Rollen im Informationsmanagement sind die nachfolgenden Grundregeln zu \nbeachten:\n\n1. Die Gesamtverantwortung für die Informationssicherheit verbleibt bei der Leitungsebene.\n\n2. Es muss mindestens eine Person benannt werden, die den Informationssicherheitsprozess fördert \nund koordiniert, typischerweise als Informationssicherheitsbeauftragter (ISB).\n\n3. Jeder Mitarbeiter ist gleichermaßen für seine originäre Aufgabe wie für die Aufrechterhaltung der \nInformationssicherheit an seinem Arbeitsplatz und in seiner Umgebung verantwortlich.\n\nUm den direkten Zugang zur Institutionsleitung sicherzustellen, sollte die Rolle des ISB als Stabsstelle \norganisiert sein. Auf Leitungsebene sollte die Aufgabe der Informationssicherheit eindeutig einem \nverantwortlichen Manager zugeordnet sein, an den der ISB berichtet.",
+  "pages": {
+    "start": 30,
+    "end": 30
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

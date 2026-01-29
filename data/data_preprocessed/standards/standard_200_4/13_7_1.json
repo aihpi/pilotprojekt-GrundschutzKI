@@ -1,0 +1,31 @@
+{
+  "id": "13_7_1",
+  "header": "13.7.1 Vorbereitung einer Stabsrahmenübung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.7",
+      "title": "Stabsrahmenübung (AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.7.1",
+      "title": "Vorbereitung einer Stabsrahmenübung"
+    }
+  ],
+  "content": "Die Stabsrahmenübung wird wie die Stabsübung vorbereitet. Der zentrale Unterschied \nzwischen den beiden Übungsarten besteht darin, dass die Kommunikation der Teilneh­\nmenden nicht auf den Stabsraum beschränkt ist. Es übt somit nicht nur der Stab, son­\ndern auch darüberhinausgehende Teile der BAO, wie z. B. Notfallteams. Wie in einem \nrealen Notfall üben die Teilnehmenden einer Stabsrahmenübung somit ihre Funktion an \nihren jeweiligen Standorten. Sie nutzen hierzu auch die vorgesehenen Kommunikations­\n\nkanäle dazwischen. Dies erfordert entsprechende Sicherheitsvorkehrungen. Es ist wich­\ntig, diese Sicherheitsvorkehrungen bereits im Vorfeld zu klären und zu treffen. An jedem \nÜbungsort sollte ein Mitglied des Übungsteams oder eine beobachtende Person anwe­\nsend sein oder per Videokonferenz zugeschaltet sein, um im Bedarfsfall eingreifen zu \nkönnen. Im Folgenden werden einige Beispiele für weitere solcher Sicherheitsvorkehrun­\ngen genannt:\n\nBeispiel\n\n• \nEinlagen und sonstige schriftliche Unterlagen müssen unter Angabe des \nÜbungsdatums und der Bezeichnung eindeutig und auffällig als Übungselemen­\nte oder -dokumente gekennzeichnet werden.\n\n• \nFür die Stabsrahmenübung sollten Verhaltensregeln festgelegt werden. Dies be­\ntrifft insbesondere die mündliche Kommunikation aus dem Stabsraum heraus \nund die dafür zu nutzenden Kommunikationswege. Es muss unbedingt verhin­\ndert werden, dass Personen, die nicht Teil der Übung sind, fiktive Informationen \nfür echt halten. Außerdem muss geregelt sein, wie sich die Übungsteilnehmen­\nden verhalten sollen, falls eine Abbruchbedingung oder ein realer Notfall eintritt.\n\n• \nDie Verhaltensregeln können zu „Übungskünstlichkeiten“ führen, da zum einen \nin der Übung nicht alles real nachvollzogen wird, was bei Notfällen passieren \nkann (z. B. Brandschäden, Ausfall von IT-Systemen, Datenverlust, Kontakt zu \nMedien, Wartezeiten und Pausen bis Maßnahmen umgesetzt sind). Zum ande­\nren sind bestimmte Dinge mitunter nicht in der Übung verfügbar oder nicht \nmöglich. Diese Übungskünstlichkeiten können im Vorfeld der Übung identifiziert \nwerden. Es ist empfehlenswert, diese vor der Übung anzupassen, sodass diese \nsich „natürlich“ einfügen und nicht störend wirken. Zudem ist es empfehlens­\nwert, die Teilnehmenden darüber zu informieren.\n\n• \nAnhand von Schulungs- und Informationsveranstaltungen im Vorfeld der Übung \nkann ein vergleichbares Wissensniveau bei den an der Übung beteiligten Perso­\nnen hergestellt werden.\n\n• \nInsbesondere bei komplexen Stabsrahmenübungen kann der oder die BCB er­\nwägen, den Ablauf zuvor mindestens einmal mit geeigneten Vertretenden der \nTeilnehmenden durchzuspielen („dry run“). Durch diesen Probelauf werden Lü­\ncken und Ungereimtheiten im Szenario und im Übungsablauf beseitigt und et­\nwaige Übungskünstlichkeiten so angepasst, dass sie sich „natürlich“ einfügen \nund nicht störend wirken.\n\n• \nDirekt vor der Übung ist es empfehlenswert, wenn die Übungsleitung alle we­\nsentlichen Rahmenbedingungen und Prämissen sowie die Verhaltensregeln der \nÜbung vorstellt. Zudem ist es empfehlenswert, die Teilnehmenden darauf hin­\nzuweisen, dass die Übungsinhalte und -abläufe vertraulich behandelt werden \nsollen, damit die Geschehnisse und das Verhalten Einzelner nicht innerhalb der \nInstitution weiter kommuniziert werden.\n\nWenn die Stabsrahmenübung mit anderen Übungsarten, wie z. B. Funktionstests, kom­\nbiniert wird, dann beinhaltet die Vorbereitungsphase auch deren Aspekte und Schritte.\n\nEin wesentlicher Bestandteil einer Stabsrahmenübung ist die Simulation der Außenwelt \ndurch Personen, die nicht zur BAO gehören. Diese Personen unterstützen den Ablauf in­\ndem sie während der Übung z. B.\n\n• \nSzenario-Elemente wie einzuspielende Einlagen spielen\n\n• \nEntscheidungen von außen treffen\n\n• \nAufträge der Übenden entgegennehmen\n\n• \nReaktionen der Außenwelt simulieren und an die Übenden zurückspielen\n\nJe nach Komplexität der Übung ist es notwendig, dass die unterstützenden Personen un­\ntereinander und mit der Übungsleitung kommunizieren. Hierfür sollten in der Vorberei­\ntungsphase entsprechende organisatorische und technische Rahmenbedingungen ge­\nschaffen werden. Tools können dabei unterstützen, Übungen zu planen und durchzu­\nführen (siehe Hilfsmittel Tools). Bei sehr komplexen Stabsrahmenübungen ist es \nempfehlenswert, eine komplette Steuerungsorganisation aufzubauen, die den Übungs­\nablauf inklusive der Simulation der Außenwelt gesamthaft steuert (vgl. LÜKEX-Glossar \ndes BBK, siehe [BBK2]).",
+  "pages": {
+    "start": 277,
+    "end": 279
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

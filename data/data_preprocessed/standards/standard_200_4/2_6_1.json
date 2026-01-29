@@ -1,0 +1,26 @@
+{
+  "id": "2_6_1",
+  "header": "2.6.1 Übersicht zum Stufenmodell",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.6",
+      "title": "BCMS-Stufenmodell (Reaktiv-, Aufbau- und Standard-"
+    },
+    {
+      "level": 3,
+      "number": "2.6.1",
+      "title": "Übersicht zum Stufenmodell"
+    }
+  ],
+  "content": "Für jede Institution sollte das Ziel darin bestehen, ein Standard-BCMS zu erreichen und \nzu etablieren, um alle zeitkritischen Geschäftsprozesse angemessen abzusichern. Falls \nnicht von Anfang an ein Standard-BCMS etabliert wird, stellen sowohl das Reaktiv-BCMS \nals auch das Aufbau-BCMS eine dezidierte Einstiegstufe dar, wobei das Aufbau-BCMS \nfür fortgeschrittene Anwendende geeignet ist. Das Aufbau BCMS erleichtert zudem er­\nheblich den Übergang vom Reaktiv- zum Standard-BCMS:",
+  "pages": {
+    "start": 40,
+    "end": 41
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

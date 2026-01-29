@@ -1,0 +1,31 @@
+{
+  "id": "5_7_2",
+  "header": "5.7.2 Interne Kommunikation (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.7",
+      "title": "NuK-Kommunikation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.7.2",
+      "title": "Interne Kommunikation (R+AS)"
+    }
+  ],
+  "content": "Eine kontinuierliche interne NuK-Kommunikation ist entscheidend, um während eines \nNotfalls die Unsicherheit unter den Mitarbeitenden so weit wie möglich zu minimieren. \nEine sachliche interne NuK-Kommunikation erhöht das allgemeine Vertrauen in die Insti­\ntutionsleitung und die BAO, dass diese die Situation kontrollieren können. Wenn die \nMitarbeitenden frühzeitig und angemessen in die Notfallbewältigung einbezogen wer­\nden, steigt deren Bereitschaft, erforderliche Maßnahmen umzusetzen und mit Informati­\nonen sorgsam umzugehen.\n\nEs ist oft nicht notwendig, dass die Mitarbeitenden jedes Detail des Schadensereignisses \nkennen. Vielmehr sollte in der NuK-Kommunikation mindestens sichergestellt werden, \ndass die Mitarbeitenden alle erforderlichen Details des Schadensereignisses kennen, ins­\nbesondere wenn diese Details die persönliche Situation oder die persönliche Sicherheit \nbetreffen. Zudem sollten relevante Informationen im Zusammenhang mit dem Status der \nNotfallbewältigung insbesondere für diejenigen Mitarbeitenden bereitgestellt werden, \ndie in Kontakt mit externen Interessengruppen stehen, z. B. mit Kunden und Kundinnen, \nBehörden oder Dienstleistungsunternehmen.\n\nAS\n\nIn der Praxis hat es sich bewährt, dass alle Mitarbeitenden zeitlich mindestens die­\nselben Informationen erhalten wie die allgemeine Öffentlichkeit. Das bedeutet, dass \ndie Informationen aus der externen NuK-Kommunikation zeitgleich oder früher in­\ntern kommuniziert werden sollten. Somit wird vermieden, dass Mitarbeitende erst \ndurch Medien über das Schadensereignis selbst oder über Neuigkeiten in dessen Zu­\nsammenhang erfahren und sich dadurch vernachlässigt fühlen. Außerdem wird Ge­\nrüchten und Mutmaßungen vorgebeugt. Gleichzeitig ist es empfehlenswert, Infor­\nmationen, die auf keinen Fall nach außen kommuniziert werden dürfen, auch nicht \nintern an alle Mitarbeitenden zu kommunizieren.",
+  "pages": {
+    "start": 138,
+    "end": 139
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

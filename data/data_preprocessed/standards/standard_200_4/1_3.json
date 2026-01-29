@@ -1,0 +1,21 @@
+{
+  "id": "1_3",
+  "header": "1.3 Anwendungsweise",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.3",
+      "title": "Anwendungsweise"
+    }
+  ],
+  "content": "### (BCM)?\n\nDieses Kapitel bietet eine Übersicht zu allen zentralen, wichtigen Begriffen, Definitionen \nund Bestandteilen dieses Standards. Darüber hinaus ermöglicht das Kapitel Institutionen \nohne Vorerfahrung einen schnellen Einstieg in das Thema BCM.",
+  "pages": {
+    "start": 13,
+    "end": 17
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

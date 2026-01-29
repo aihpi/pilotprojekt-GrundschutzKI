@@ -1,0 +1,26 @@
+{
+  "id": "2_1_3",
+  "header": "2.1.3 Weitere Sicherheitsstandards",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.1",
+      "title": "Überblick über Normen und Standards zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "2.1.3",
+      "title": "Weitere Sicherheitsstandards"
+    }
+  ],
+  "content": "COBIT 5\n\nCOBIT 5 sieht die ITals wesentliche Grundlage einer Institution zur Erreichung der Geschäftsziele und \nfordert, dass die Ziele aus der Geschäftsstrategie in die Ziele der ITeinfließen und die gelieferten Ser­\nvices den Qualitätsanforderungen der Geschäftsprozesse genügen. Ebenso wie ITIL setzt COBIT 5 auf \nzielgerichtete, optimierte IT-Prozesse. COBIT 5 führt den Aspekt des Prozesspotenzials ein, in dem eine \nAussage darüber getroffen wird, inwieweit eine Institution dazu in der Lage ist, die geforderten Ziele \nverlässlich und nachhaltig zu erreichen. Aus der Gesamtbetrachtung der Reife aller 37 Prozessgebiete, \ndie in fünf Domänen unterteilt sind, kann die Professionalität der unterstützenden IT-Prozesse abge­\nleitet werden. Die COBIT-Dokumente werden von der Information Systems Audit and Control Asso­\nciation (ISACA) herausgegeben. Bei der Entwicklung von COBIT orientierten sich die Autoren an be­\nstehenden Normen und Standards zum Thema „Sicherheitsmanagement“, insbesondere an der \nNorm ISO/IEC 27002.\n\nITIL\n\nDie IT Infrastructure Library (ITIL) ist eine Ansammlung mehrerer Bücher zum Thema „IT-Service-Ma­\nnagement“. Sie wurde vom britischen Office of Government Commerce (OGC) entwickelt. Die ITIL \nbefasst sich mit dem Management von IT Services aus Sicht des IT-Dienstleisters. Der IT-Dienstleister \nkann dabei sowohl eine interne IT-Abteilung als auch ein externer Service Provider sein. Das allgemei­\nne Ziel ist die Optimierung beziehungsweise Verbesserung der Qualität von IT-Dienstleistungen und \nder Kosteneffizienz. Informationssicherheit wird im Rahmen der betrachteten Services aus der ope­\nrativen Perspektive heraus begutachtet. Umgekehrt ist ein funktionierender IT-Betrieb ein wesentli­\ncher Stützpfeiler für das ISMS, wodurch sich viele Disziplinen der ITIL in ähnlicher Art und Weise, aber \nmit einem eindeutigen Fokus auf der Informationssicherheit im IT-Grundschutz und anderen Sicher­\nheitsstandards wiederfinden.",
+  "pages": {
+    "start": 13,
+    "end": 14
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

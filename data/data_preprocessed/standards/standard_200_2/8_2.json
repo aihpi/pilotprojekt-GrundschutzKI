@@ -1,0 +1,26 @@
+{
+  "id": "8_2",
+  "header": "8.2 Schutzbedarfsfeststellung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "8.2",
+      "title": "Schutzbedarfsfeststellung"
+    }
+  ],
+  "content": "Ziel der Schutzbedarfsfeststellung ist es, für die erfassten Objekte im Informationsverbund zu ent­\nscheiden, welchen Schutzbedarf sie bezüglich Vertraulichkeit, Integrität und Verfügbarkeit besitzen. \nDieser Schutzbedarf orientiert sich an den möglichen Schäden, die mit einer Beeinträchtigung der \nbetroffenen Anwendungen und damit der jeweiligen Geschäftsprozesse verbunden sind.\n\nDie Schutzbedarfsfeststellung für den Informationsverbund gliedert sich in mehrere Schritte:\n\n• Definition der Schutzbedarfskategorien\n\n• Schutzbedarfsfeststellung für Geschäftsprozesse und Anwendungen\n\n• Schutzbedarfsfeststellung für IT-Systeme, IoT- und ICS-Geräte\n\n• Schutzbedarfsfeststellung für Gebäude, Räume, Werkhallen usw.\n\n• Schutzbedarfsfeststellung für Kommunikationsverbindungen\n\n• Schlussfolgerungen aus den Ergebnissen der Schutzbedarfsfeststellung\n\nNach der Definition der Schutzbedarfskategorien wird anhand von typischen Schadensszenarien zu­\nnächst der Schutzbedarf der Geschäftsprozesse und Anwendungen bestimmt. Anschließend wird dar­\naus der Schutzbedarf der einzelnen IT-Systeme, Räume und Kommunikationsverbindungen abgeleitet.\n\nDie Vorgehensweise hierfür wird in den folgenden Abschnitten detailliert dargestellt.",
+  "pages": {
+    "start": 104,
+    "end": 104
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

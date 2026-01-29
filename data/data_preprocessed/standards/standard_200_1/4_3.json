@@ -1,0 +1,21 @@
+{
+  "id": "4_3",
+  "header": "4.3 Erfolgskontrolle im Sicherheitsprozess",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "4.3",
+      "title": "Erfolgskontrolle im Sicherheitsprozess"
+    }
+  ],
+  "content": "Eine Erfolgskontrolle und Bewertung des Sicherheitsprozesses durch die Leitungsebene sollte regel­\nmäßig stattfinden (Managementbewertung). Bei Bedarf (z. B. bei der Häufung von Sicherheitsvorfäl­\nlen oder einer deutlichen Änderung der Rahmenbedingungen) müssen entsprechende Kontrollen und \nBewertungen auch zwischen den Routineterminen vorgenommen werden. Alle Ergebnisse und Be­\nschlüsse müssen nachvollziehbar dokumentiert werden [DOK].\n\nBei der Diskussion sollte unter anderem folgenden Fragen nachgegangen werden:\n\n•  Haben sich Rahmenbedingungen geändert, die dazu führen, dass das Vorgehen in Bezug auf In­\nformationssicherheit geändert werden muss?\n\n•  Ist die Leitlinie zur Informationssicherheit noch aktuell?\n\nDer Schwerpunkt bei der Erfolgskontrolle des Sicherheitsprozesses liegt dabei nicht auf der Überprü­\nfung einzelner Sicherheitsmaßnahmen oder organisatorischer Regelungen, sondern auf einer Ge­\nsamtbetrachtung. Beispielsweise könnte sich der sichere Betrieb eines Internetportals als zu teuer \nfür ein kleines Unternehmen herausstellen. Die Leitungsebene könnte dann als Alternative einen \nDienstleister mit der Betreuung des Portals beauftragen.\n\nHierbei ist es hilfreich, zu prüfen, wie sich das Sicherheitskonzept und die Sicherheitsorganisation \nbisher bewährt haben. In Kapitel 8 Sicherheitskonzept werden verschiedene Aktivitäten für die Er­\nfolgskontrolle einzelner Sicherheitsmaßnahmen beschrieben. Die dort gesammelten Ergebnisse soll­\nten bei der Erfolgskontrolle der Sicherheitsstrategie berücksichtigt werden. Stellt sich z. B. heraus, \ndass die Sicherheitsmaßnahmen unwirksam oder ausgesprochen teuer sind, kann dies ein Anlass da­\nfür sein, die gesamte Sicherheitsstrategie noch einmal zu überdenken und anzupassen. Dabei sollten \nsich die Betroffenen die folgenden Fragen stellen:\n\n•  Ist die Sicherheitsstrategie noch angemessen?\n\n•  Ist das Sicherheitskonzept geeignet, um die gesteckten Ziele zu erreichen? Werden z. B. die ge­\nsetzlichen Anforderungen erfüllt?\n\n•  Ist die Sicherheitsorganisation geeignet, um die Ziele realisieren zu können? Muss deren Stellung \ninnerhalb der Institution gestärkt oder sie stärker in interne Abläufe eingebunden werden?\n\n•  Steht der Aufwand – also Kosten, Personal, Material –, der zur Erreichung der Sicherheitsziele \nbetrieben wird, in einem sinnvollen Verhältnis zu den Geschäftszielen bzw. dem Auftrag der Insti­\ntution?",
+  "pages": {
+    "start": 24,
+    "end": 25
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

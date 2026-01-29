@@ -1,0 +1,26 @@
+{
+  "id": "9_2",
+  "header": "9.2 Vorbereitung der Risikoanalyse (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "30",
+      "title": "Tage"
+    },
+    {
+      "level": 2,
+      "number": "9.2",
+      "title": "Vorbereitung der Risikoanalyse (AS)"
+    }
+  ],
+  "content": "Durch die BIA liegt bereits die Liste der zeitkritischen Ressourcen und damit der relevan­\nten Zielobjekte für die BCM-Risikoanalyse vor. Die Vorbereitung zur Risikoanalyse gemäß \nBSI-Standard 200-3 beschränkt sich daher auf eine geeignete Gruppenbildung dieser re­\nlevanten Zielobjekte. In der BCM-Risikoanalyse kann auch auf die bereits definierten Res­\nsourcen(cluster) gemäß BIA zurückgegriffen werden. Aufgrund ihrer hohen Bedeutung \nsollten zusätzlich die in der BIA identifizierten SPoFs als eigenständige Zielobjekte in der \nBCM-Risikoanalyse betrachtet werden.\n\nAnalog zur BIA und dem Soll-Ist-Vergleich bieten sich für die BCM-Risikoanalyse eben­\nfalls Workshops an, um die Informationen zielgerichtet zu erheben. Das Vorgehen, um\n\ndie Workshops vorzubereiten, kann analog zur Vorbereitung der BIA-Workshops erfol­\ngen (siehe 7.1.4 Planung der BIA-Erhebung (R+AS)). Auch der Einsatz von vorgegeben \nHilfsmitteln bietet sich in der BCM-Risikoanalyse an (siehe 7.1.5 Vorbereitung der BIA-\nHilfsmittel (R+AS)). Insbesondere kann es hilfreich sein, eine Workshop-Präsentation vor­\nzubereiten, in der auf die spezifischen Eigenschaften der BCM-Risikoanalyse eingegan­\ngen wird.",
+  "pages": {
+    "start": 200,
+    "end": 201
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

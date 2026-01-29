@@ -1,0 +1,31 @@
+{
+  "id": "13_9_2",
+  "header": "13.9.2 Durchführung eines Funktionstests",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.9",
+      "title": "Funktionstest (R optional +AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.9.2",
+      "title": "Durchführung eines Funktionstests"
+    }
+  ],
+  "content": "Funktionstests finden auf Basis der Ressourcenkategorien statt, die dem Notfallplan zu­\ngrunde liegen. Damit die Notfallpläne möglichst realistisch getestet werden, ist es emp­\nfehlenswert, den Ablauf des Funktionstests möglichst nah an der BC-Planung auszurich­\nten. Die Übungsleitung hat die Aufgabe, den Ablauf des Funktionstests unter Beachtung \nder Ziele und der Zeitplanung zu steuern. Bei sehr einfachen Funktionstests, z. B. dem \nTesten eines Notfall-Laptops, kann die Übungsleitung durch die testende Person selbst \nwahrgenommen werden. Bei komplexen Funktionstests sollte hingegen die Übungslei­\n\ntung durch eine separate Person besetzt sein, welche die Vorgänge koordiniert. Eine pro­\ntokollierende Person oder weitere Unterstützungsrollen können den Ablauf sowie die \nAuswertung unterstützen und die anderen Beteiligten damit entlasten.\n\nEs ist empfehlenswert, anhand einer einheitlichen Protokollvorlage pro getesteter Maß­\nnahme oder Ressource zu dokumentieren, ob diese „ohne Befund“ funktioniert hat oder \nob es Auffälligkeiten gab oder Anmerkungen gegeben wurden.\n\nDie Tabelle 40 zeigt einen exemplarischen Aufbau für ein Testprotokoll.\n\nBeispiel: Funktionstest Ausweichstandort\n\nZu testende \nRessource \nTestaktivität \nErgebnis \nBemerkung \nKorrekturmaß­\nnahme\n\nGebäude\n\nZugang zum \nGebäude über \nWachdienst \nprüfen\n\nNicht  \nerfolg­\nreich\n\nWachdienst war nicht \nin seine Aufgaben in \neinem Notfall einge­\nwiesen.\n\nSchulungsunterla­\ngen und -maßnah-\nmen prüfen\n\nNotfallarbeits­\nplatz\n\nVollständigkeit \nder Ausstat­\ntung prüfen\n\nErfolg­\nreich\n\nAlle Materialien des \nNotfallarbeitsplatzes \nvorhanden.\n\nNotfallarbeits­\nplatz\n\nAnmeldung \nmit Nutzer­\nkennung prü­\nfen\n\nTeilweise  \nerfolg­\nreich\n\nAnmeldung erfolg­\nreich, aber der Not­\nfallarbeitsplatz wurde \nnicht regelmäßig ak­\ntualisiert. Durch eine \nsystemseitige Aktuali­\nsierung kommt es zu \neiner deutlichen Ver­\nzögerung.\n\nAktualisierungspro­\nzess prüfen\n\nNotfallarbeits­\nplatz\n\nNotfallrelevan­\nte Software \nprüfen\n\nTeilweise  \nerfolg­\nreich\n\nE-Mail und Waren­\nwirtschaftssystem \nverfügbar. Kund­\nschaftskartei nicht er­\nreichbar.\n\nKundschaftskartei \nfür standortüber­\ngreifende Zugriffe \nfreischalten\n\nTabelle 40: Beispiel für den Aufbau eines Testprotokolls\n\nEine protokollierende Person oder weitere Unterstützungsrollen können den Ablauf so­\nwie die Auswertung unterstützen und die anderen Beteiligten damit entlasten. Zwingend \nnotwendig ist dies jedoch nicht.",
+  "pages": {
+    "start": 283,
+    "end": 284
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

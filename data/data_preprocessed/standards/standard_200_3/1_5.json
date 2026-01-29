@@ -1,0 +1,21 @@
+{
+  "id": "1_5",
+  "header": "1.5 Anwendungsweise",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.5",
+      "title": "Anwendungsweise"
+    }
+  ],
+  "content": "### G 0.31 \nFehlerhafte Nutzung oder Administration von Geräten und Systemen C, I, A\n\nG 0.32 \nMissbrauch von Berechtigungen \nC, I, A\n\nG 0.33 \nPersonalausfall \nA\n\nG 0.34 \nAnschlag \nC, I, A\n\nG 0.35 \nNötigung, Erpressung oder Korruption \nC, I, A\n\nG 0.36 \nIdentitätsdiebstahl \nC, I, A\n\nG 0.37 \nAbstreiten von Handlungen \nC, I\n\nG 0.38 \nMissbrauch personenbezogener Daten \nC\n\nG 0.39 \nSchadprogramme \nC, I, A\n\nG 0.40 \nVerhinderung von Diensten (Denial of Service) \nA\n\nG 0.41 \nSabotage \nA\n\nG 0.42 \nSocial Engineering \nC, I\n\nG 0.43 \nEinspielen von Nachrichten \nC, I\n\nG 0.44 \nUnbefugtes Eindringen in Räumlichkeiten \nC, I, A\n\nG 0.45 \nDatenverlust \nA\n\nG 0.46 \nIntegritätsverlust schützenswerter Informationen \nI\n\nG 0.47 \nSchädliche Seiteneffekte IT-gestützter Angriffe \nC, I, A\n\nTabelle 1: Übersicht fber die elementaren Gefährdungen mit den jeweils betroffenen Grundwerten\n\nBSI-Standard 200-3\n\nZiel der folgenden Arbeitsschritte ist es, als Ausgangspunkt für die Risikoanalyse eine Übersicht über \ndie Gefährdungen zu erstellen, die auf die betrachteten Zielobjekte des Informationsverbunds einwir-\nken. Als Ergebnis der Vorarbeiten (siehe Kapitel 2) liegt eine Liste von (priorisierten) Zielobjekten vor, \nfür die eine Risikoanalyse durchgeführt werden sollte. Diese dient als Grundlage für die Erstellung der \nGefährdungsübersicht. Ergänzt wird diese Liste um das übergeordnete Zielobjekt „Informationsver­\nbund“, sofern dieses Zielobjekt nicht ohnehin bereits in der Liste enthalten ist. Bei der Ermittlung von \nGefährdungen geht das BSI zweistufig vor. Zunächst werden die relevanten elementaren Gefährdun­\ngen identifiziert und darauf aufbauend werden weitere mögliche Gefährdungen (zusätzliche Gefähr­\ndungen) ermittelt, die über die elementaren Gefährdungen hinausgehen.",
+  "pages": {
+    "start": 8,
+    "end": 16
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

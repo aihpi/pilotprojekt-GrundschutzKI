@@ -1,0 +1,31 @@
+{
+  "id": "5_5_6",
+  "header": "5.5.6 Erstellung eines Verhaltenskodexes (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.5",
+      "title": "Definition der Geschäftsordnung des Stabs (AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.5.6",
+      "title": "Erstellung eines Verhaltenskodexes (AS)"
+    }
+  ],
+  "content": "Auch wenn die Geschäftsordnung des Stabes die Rahmenbedingungen festlegt und do­\nkumentiert, ist damit nicht sichergestellt, dass diese „Spielregeln“ in der üblichen Hektik \nder Bewältigung auch eingehalten werden. Zu diesem Zweck sollten die elementarsten \nRegeln in einem Verhaltenskodex zusammengefasst und den Mitgliedern des Stabes \nwährend der Stabsarbeit zugänglich gemacht werden, z. B als Aushang.\n\nDer Verhaltenskodex für den Stab fasst die wichtigsten Aspekte der Geschäftsordnung \nübersichtlich zusammen. Damit unterstützt der Verhaltenskodex den Stab dabei, die ver­\neinbarten Verfahren und Verhaltensregeln während der Stabsarbeit einzuhalten. Im \nNachfolgenden wird ein einfaches Beispiel für einen Verhaltenskodex dargestellt. Dieser \nmuss von jeder Institution an die eigenen Bedürfnisse und Anforderungen angepasst \nwerden.\n\nAufgrund der Bedeutung des Verhaltenskodexes für die Zusammenarbeit während eines \nNotfalls oder einer Krise ist es empfehlenswert, diesen im Notfallhandbuch zu dokumen­\ntieren. So kann bei unklaren Situationen in der Stabsarbeit jederzeit darauf zugegriffen \nwerden, um sich die getroffenen Vereinbarungen in Erinnerung zu rufen.\n\n1. Der Stab richtet seine Arbeitsweise anhand der vorliegenden BC-Planung aus.\n\nLiegen keine Notfallpläne vor oder greifen diese nicht, so wird die Arbeitsweise \nam Führungszyklus FOR-DEC ausgerichtet.\n\n2. Der Stab hat Arbeits- und Besprechungsphasen (Lagebesprechungen). Diese\n\nmüssen eindeutig festgelegt und allen Stabsmitgliedern kommuniziert werden.\n\n3. Lagebesprechungen\n\no \ndauern nie länger als 30 Minuten,\n\no \nbrauchen immer eine moderierende Person, die nicht gleichzeitig den Stab \nleitet,\n\no \ndürfen ihren Fokus nicht durch Einzeldiskussion zu Spezialthemen verlieren \n(Solche Diskussionen können im Nachgang geklärt werden.),\n\no \nmüssen immer eindeutig beendet werden und\n\no \nmüssen immer zeitlich klar terminiert und angesagt werden.\n\n4. Jedes Stabsmitglied hat das gleiche Mitsprache-Recht. Es gilt für alle eine ma­\n\nximale Redezeit von 3 Minuten.\n\n5. Es muss immer ein Protokoll geführt werden, in welchem die Meldungen, Er­\n\neignisse und Beschlüsse des Stabes mit den notwendigen Angaben zu Ort, Zeit \nund Status nachvollziehbar dokumentiert werden. Im Protokoll muss zudem er­\nfasst werden, wer wann anwesend war.\n\n6. Fakten müssen von Gerüchten getrennt und Informationen immer verifiziert\n\nwerden. In komplexen Lagen sollte dazu ein Informationsmanagement auf­\ngebaut werden.\n\n7. Die Visualisierung sollte regelmäßig genutzt und aktualisiert werden.\n\n8. Aufgaben müssen klar benannt, terminiert und delegiert sowie im Aufgaben­\n\nmanagement festgehalten werden (Zielstellung, Aufgabenstellung, Zuständig­\nkeiten, Umsetzungsfrist bzw. Wiedervorlage).\n\n9. Damit allen anwesenden Personen bewusst ist, wer welche Rolle oder Funktion\n\nin der BAO einnimmt, muss sich jeder und jede in der ersten Lagebesprechung \nmit Namen und Rolle oder Funktion vorstellen. Dies wird wiederholt, wenn neue \nMitglieder hinzustoßen.",
+  "pages": {
+    "start": 127,
+    "end": 128
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

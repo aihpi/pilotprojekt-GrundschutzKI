@@ -1,0 +1,26 @@
+{
+  "id": "12_1_3",
+  "header": "12.1.3 Planung der WAP-Erstellung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 3,
+      "number": "12.1.3",
+      "title": "Planung der WAP-Erstellung (AS)"
+    }
+  ],
+  "content": "Für die Erstellung der WAPs wird ein hoher Grad an technischem Detailwissen benötigt. \nIdealerweise wird der WAP daher durch die gleichen Mitarbeitenden erstellt, die im \nRahmen eines Notfalls auch die beschriebenen Maßnahmen durchführen.\n\nAbhängig von dem notwendigen Fachwissen kann es erforderlich sein, weitere Fachleute \nunterstützend hinzuziehen. Dies ist dann erforderlich, wenn für den Wiederanlauf oder \ndie Wiederherstellung der Ressource weitere (Infrastruktur-)Ressourcen oder -Kompo-\nnenten benötigt werden, die nicht in den Zuständigkeitsbereich des Ressourcenzuständi­\ngen fallen oder durch dessen Fachwissen abgedeckt sind.\n\nFerner sollte gewährleistet werden, dass die verschiedenen WAPs einheitlich strukturiert \nsind, damit sich im Notfall auch andere Mitarbeitende mit gleichem Fachwissen schnell \nzurechtfinden und die Maßnahmen durchführen können, auch in der Stresssituation ei­\nnes Notfalls. Dies kann beispielsweise durch zentrale Leitfragen oder Checklisten ge­\nschehen, die innerhalb einer geeigneten Dokumentvorlage hinterlegt werden. Alternativ \nkann der Erstellungsprozess auch im Rahmen eines Workshops durch einen BCM-\nExperten oder eine BCM-Expertin und die Ressourcenfachleute gemeinsam erarbeitet \nwerden.\n\nDarüber hinaus ist es empfehlenswert, dass bereits an anderer Stelle dokumentierte In­\nhalte, z. B. in Betriebsdokumentationen, nicht wiederholt, sondern stattdessen referen­\nziert werden. Dies setzt eine Kenntnis dieser Dokumentationen voraus. Wichtig ist, dass \ndie referenzierten Stellen leicht gefunden werden und auch im Notfall für einen sach­\nkundigen Dritten verständlich sind. Auch für referenzierte Dokumente sollte sicherge­\nstellt werden, dass diese im Notfall verfügbar und zugänglich und entsprechend des \nSchutzbedarfs abgelegt sind (siehe 4.4 Dokumentation (R+AS)).",
+  "pages": {
+    "start": 245,
+    "end": 246
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

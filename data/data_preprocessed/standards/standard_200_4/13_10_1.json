@@ -1,0 +1,31 @@
+{
+  "id": "13_10_1",
+  "header": "13.10.1 Zusätzliche Aspekte zur Auswertung und Nachbereitung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.10",
+      "title": "Auswertung und Nachbereitung von Übungen (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.10.1",
+      "title": "Zusätzliche Aspekte zur Auswertung und Nachbereitung"
+    }
+  ],
+  "content": "### Alarmierungsübung\n\nWird eine Alarmierungssoftware eingesetzt, ist es empfehlenswert, die von dieser Alar­\nmierungssoftware erzeugten Protokolle auszuwerten. Diese können zusammen mit ma­\nnuell im Übungsverlauf erzeugten Protokollen im Anschluss der Übung ausgewertet \nwerden.\n\nFerner ist es in der Auswertung empfehlenswert, die BAO-Reaktionszeit anhand der tat­\nsächlich benötigten Zeit für die Alarmierung zu überprüfen. Hierbei gilt es jedoch zu be­\nrücksichtigen, dass die BAO-Reaktionszeit neben der Alarmierungszeit und Zeit bis zum \nAusruf eines Notfalls auch die Detektionszeit umfasst (siehe 7 Business-Impact-Analyse \n(R+AS)). Alarmierungsübungen und Kombinationen aus Alarmierungsübung und Stabs \n(-rahmen-)übungen können somit immer nur einen Teil dieser BAO-Reaktionszeit über­\nprüfen. Die tatsächliche Detektionszeit kann letztendlich nur geschätzt oder aus realen \nEreignissen abgeleitet werden.",
+  "pages": {
+    "start": 285,
+    "end": 286
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

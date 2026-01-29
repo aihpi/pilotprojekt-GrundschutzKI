@@ -1,0 +1,31 @@
+{
+  "id": "4_2_1",
+  "header": "4.2.1 Identifizierung von Anforderungen und Einflussfaktoren an",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.2",
+      "title": "Analyse der erweiterten Rahmenbedingungen (AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.2.1",
+      "title": "Identifizierung von Anforderungen und Einflussfaktoren an"
+    }
+  ],
+  "content": "### das BCMS (AS)\n\nFür die weitere Planung des BCMS müssen die relevanten Interessengruppen und Ein­\nflussfaktoren ermittelt werden, die die Rahmenbedingungen und Ziele des BCMS beein­\nflussen können. Einige Interessengruppen haben ausschließlich Informationsansprüche. \nAndere Interessengruppen, z. B. Kunden und Kundinnen oder Aufsichtsbehörden, haben \nklare Erwartungen an das BCMS oder stellen spezifische Anforderungen. Diese Anforde­\nrungen und Einflussfaktoren müssen im BCMS angemessen berücksichtigt werden. Dazu",
+  "pages": {
+    "start": 66,
+    "end": 67
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

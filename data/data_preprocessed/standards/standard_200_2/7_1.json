@@ -1,0 +1,26 @@
+{
+  "id": "7_1",
+  "header": "7.1 Die Methodik der Kern-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.1",
+      "title": "Die Methodik der Kern-Absicherung"
+    }
+  ],
+  "content": "Die Vorgehensweise Kern-Absicherung des IT-Grundschutzes konzentriert sich auf den Schutz von \nbesonders schützenswerten Assets, den sogenannten „Kronjuwelen“. Bei der Anwendung der \nKern-Absicherung erfolgt ein Soll-Ist-Vergleich zwischen den im IT-Grundschutz-Kompendium aufge­\nstellten und den bereits in der Institution erfüllten Anforderungen für die Absicherung dieser Kronju­\nwelen. Dabei nicht oder nur unzureichend erfüllte Anforderungen zeigen die Sicherheitsdefizite auf, \ndie es durch entsprechende Maßnahmen zu beheben gilt.",
+  "pages": {
+    "start": 68,
+    "end": 69
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

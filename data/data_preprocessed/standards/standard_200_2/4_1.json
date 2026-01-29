@@ -1,0 +1,26 @@
+{
+  "id": "4_1",
+  "header": "4.1 Integration der Informationssicherheit in organisationsweite Abläufe und Prozesse",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.1",
+      "title": "Integration der Informationssicherheit in organisationsweite Abläufe und Prozesse"
+    }
+  ],
+  "content": "Das angestrebte Sicherheitsniveau kann nur erreicht werden, wenn der Informationssicherheitspro­\nzess für den gesamten Geltungsbereich umgesetzt wird. Dieser übergreifende Charakter des Sicher­\nheitsprozesses macht es notwendig, Rollen innerhalb der Institution festzulegen und den Rollen die \nentsprechenden Aufgaben zuzuordnen. Diese Rollen müssen dann qualifizierten Mitarbeitern über­\ntragen und von diesen ausgeführt werden. Nur so kann gewährleistet werden, dass alle wichtigen \nAspekte berücksichtigt und sämtliche anfallende Aufgaben effizient und effektiv erledigt werden.\n\nDie Aufbauorganisation, die zur Förderung und Durchsetzung des Informationssicherheitsprozesses \nerforderlich ist, wird als Informationssicherheitsorganisation oder kurz IS-Organisation bezeichnet.\n\nWie viele Personen in welcher Organisationsstruktur und mit welchen Ressourcen mit Informations­\nsicherheit beschäftigt sind, hängt von der Größe, Beschaffenheit und Struktur der jeweiligen Institu­\ntion ab. Auf jeden Fall sollte als zentraler Ansprechpartner für die Koordination, Verwaltung und \nKommunikation des Prozesses „Informationssicherheit“ ein Informationssicherheitsbeauftragter (ISB) \nbenannt werden. In größeren Institutionen gibt es darüber hinaus typischerweise weitere Personen, \ndie verschiedene Teilaufgaben für Informationssicherheit wahrnehmen. Um deren Tätigkeiten aufein­\nander abzustimmen, sollte ein IS-Management-Team aufgebaut werden, das sämtliche übergreifen­\nden Belange der Informationssicherheit regelt und Pläne, Vorgaben und Richtlinien erarbeitet.\n\nUm den direkten Zugang zur Institutionsleitung sicherzustellen, sollten diese Rollen als Stabsstelle \norganisiert sein. Auf Leitungsebene sollte die Aufgabe der Informationssicherheit eindeutig einem \nverantwortlichen Manager zugeordnet sein, an den der ISB berichtet.\n\nUnabhängig davon, wie eine optimale Struktur für die eigene IS-Organisation zu gestalten ist, sind die \ndrei folgenden Grundregeln dabei unbedingt zu beachten.\n\nGrundregeln bei der Definition von Rollen im Informationssicherheitsmanagement\n\n•  Die Gesamtverantwortung für die ordnungsgemäße und sichere Aufgabenerfüllung (und damit für \ndie Informationssicherheit) verbleibt bei der Leitungsebene.\n\n•  Es ist mindestens eine Person (typischerweise als Informationssicherheitsbeauftragter) zu benen­\nnen, die den Informationssicherheitsprozess fördert und koordiniert.\n\n•  Jeder Mitarbeiter ist gleichermaßen für seine originäre Aufgabe wie für die Aufrechterhaltung der \nInformationssicherheit an seinem Arbeitsplatz und in seiner Umgebung verantwortlich.\n\n4.1 \nIntegration der Informationssicherheit in organisationsweite Abläufe \nund Prozesse\n\nDas Management der Informationssicherheit ist zwar nur eine von vielen wichtigen Managementauf­\ngaben, hat jedoch Einfluss auf nahezu alle Bereiche einer Institution. Daher muss das Informationssi­\ncherheitsmanagement vernünftig in bestehende Organisationsstrukturen integriert und Ansprech­\npartner festgelegt werden. Aufgaben und Zuständigkeiten müssen klar voneinander abgegrenzt sein. \nEs muss dabei gewährleistet sein, dass nicht nur bei einzelnen Maßnahmen, sondern bei allen strate­\ngischen Entscheidungen die notwendigen Sicherheitsaspekte berücksichtigt werden. Dazu gehören \nzum Beispiel Entscheidungen über Outsourcing oder die Nutzung neuer elektronischer Vertriebska­\nnäle ebenso wie die Anmietung neuer Räumlichkeiten. Daher muss die IS-Organisation bei allen Pro­\njekten, die Auswirkungen auf die Informationssicherheit haben könnten, rechtzeitig beteiligt werden.",
+  "pages": {
+    "start": 36,
+    "end": 37
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

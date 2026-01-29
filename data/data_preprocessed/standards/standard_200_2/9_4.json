@@ -1,0 +1,26 @@
+{
+  "id": "9_4",
+  "header": "9.4 Festlegung der Aufgaben und der Verantwortung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "9.4",
+      "title": "Festlegung der Aufgaben und der Verantwortung"
+    }
+  ],
+  "content": "Nachdem die Reihenfolge für die Umsetzung der Maßnahmen bestimmt wurde, muss anschließend \nfestgelegt werden, wer bis wann welche Maßnahmen realisieren muss. Ohne eine solche verbindliche \nFestlegung verzögert sich die Realisierung erfahrungsgemäß erheblich bzw. unterbleibt ganz. Dabei \nist darauf zu achten, dass der als verantwortlich Benannte ausreichende Fähigkeiten und Kompeten­\nzen zur Umsetzung der Maßnahmen besitzt und dass ihm die erforderlichen Ressourcen zur Verfü­\ngung gestellt werden.\n\nEbenso ist festzulegen, wer für die Überwachung der Realisierung verantwortlich ist bzw. an wen der \nAbschluss der Realisierung der einzelnen Maßnahmen zu melden ist. Typischerweise wird die Meldung \nan den ISB erfolgen. Der ISB muss kontinuierlich über den Fortschritt der Realisierung und über die\n\nBSI-Standard 200-2\n\nErgebnisse der Umsetzung informiert werden. Der ISB wiederum muss regelmäßig die Leitungsebene \nüber den Fortschritt und die damit verbundene Absenkung vorhandener Risiken informieren.\n\nDer Realisierungsplan sollte mindestens folgende Informationen umfassen:\n\n•  Bezeichnung des Zielobjektes als Einsatzumfeld,\n\n•  Nummer bzw. Titel des betrachteten Bausteins,\n\n•  Titel bzw. Beschreibung der zu erfüllenden Anforderung,\n\n•  Beschreibung der umzusetzenden Maßnahme bzw. Verweis auf die Beschreibung im Sicherheits­\nkonzept,\n\n•  Terminplanung für die Umsetzung, Budgetplanung, beispielsweise für Beschaffung und Betriebs­\nkosten von Komponenten,\n\n•  Verantwortliche für die Umsetzung der Maßnahmen.",
+  "pages": {
+    "start": 161,
+    "end": 162
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

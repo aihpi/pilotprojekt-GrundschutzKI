@@ -1,0 +1,31 @@
+{
+  "id": "11_1_1",
+  "header": "11.1.1 Aufteilung der GFPs",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.1",
+      "title": "Vorbereitung der GFPs (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "11.1.1",
+      "title": "Aufteilung der GFPs"
+    }
+  ],
+  "content": "Es ist wichtig, dass der oder die BCB festlegt, wie die GFPs im Hinblick auf die zugrunde­\nliegende Struktur der Institution aufgeteilt werden sollen. Es gibt viele Möglichkeiten, \nwie Geschäftsfortführungspläne organisatorisch aufgeteilt werden könnten. So könnte\n\nein GFP je Geschäftsprozess oder Organisationseinheit erstellt werden. Ferner könnten \nGFPs auch weiter anhand von Ausfallszenarien aufgeteilt werden. Entscheidend für eine \nschnelle Reaktion ist jedoch, dass\n\n• \neine anschauliche Übersicht über die zeitkritischen Geschäftsprozesse und Ressour­\ncen ermöglicht wird sowie\n\n• \ndie Zuständigkeiten der im GFP beschriebenen Maßnahmen möglichst klar geregelt \nsind.\n\nHierbei hat es sich in der Praxis bewährt, einen GFP je Organisationseinheit zu erstellen. \nDieses Vorgehen bietet viele Vorteile. Die zuständigen Kontaktpersonen, die den GFP er­\nstellen und aktualisieren, können eindeutig der Organisationseinheit zugeordnet werden. \nZudem wird eine überschaubare Anzahl an Dokumenten erzeugt und die GFPs spiegeln \ndie vertraute Organisationsstruktur wider. Die GFPs lassen sich so leichter voneinander \nabgrenzen.\n\nIm Einzelfall kann es sinnvoll sein, von dieser Struktur abzuweichen. Dies ist etwa der \nFall, wenn\n\n• \nVerantwortungs- und Tätigkeitsbereiche nicht klar voneinander abgrenzbar sind, \nz. B. in einer Matrix-Organisation, oder\n\n• \nOrganisationseinheiten standortübergreifend agieren und auf unterschiedliche Res­\nsourcen zugreifen.\n\nZusätzlich können länderspezifische Anforderungen und Gegebenheiten unter Umstän­\nden dazu führen, dass für gleiche Geschäftsprozesse und Ressourcen im GFP unter­\nschiedliche Notfallmaßnahmen an unterschiedlichen Standorten beschrieben werden \nmüssen.\n\nHinweis\n\nOb die GFPs sinnvoll aufgeteilt und voneinander abgegrenzt wurden, kann mitunter \nerst im Rahmen der Erstellung der GFPs fundiert bewertet werden. Der oder die BCB \nsollte daher die Aufteilung der GFPs im Rahmen der Erstellung der GFPs mit den ent­\nsprechenden Kontaktpersonen diskutieren und gegebenenfalls den Geltungsbereich \ndes GFP anpassen oder in mehrere GFPs aufteilen.\n\nUm die Erläuterungen in den folgenden Kapiteln zu vereinfachen, wird davon ausgegan­\ngen, dass die GFPs entsprechend den Organisationseinheiten aufgeteilt wurden. Werden \ndie GFPs in der Institution anderweitig aufgeteilt, so sollten die Inhalte dieses Standards \nangepasst auf die eigene Vorgehensweise angewendet werden.",
+  "pages": {
+    "start": 224,
+    "end": 225
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

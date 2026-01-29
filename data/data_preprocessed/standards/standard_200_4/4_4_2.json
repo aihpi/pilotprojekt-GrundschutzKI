@@ -1,0 +1,31 @@
+{
+  "id": "4_4_2",
+  "header": "4.4.2 Festlegung von Dokumentinformationen (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.4",
+      "title": "Dokumentation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.4.2",
+      "title": "Festlegung von Dokumentinformationen (AS)"
+    }
+  ],
+  "content": "Die verschiedenen Inhalte und Vorgaben des BCMS werden oft auf verschiedene Einzel­\ndokumente verteilt, um Informationen gezielt steuern, aufbereiten und hierarchisch ein­\nordnen zu können.\n\nDie Anzahl und jeweilige Ausprägung der Dokumente sind abhängig von der Größe und \nKomplexität der Institution, den zu berücksichtigenden Interessengruppen sowie institu­\ntionsspezifischen Vorgaben. Die Dokumentenstruktur sowie die Klammerdokumente \nNotfallvorsorgekonzept und Notfallhandbuch, die im Kapitel 4.4.1 Dokumentenstruktur \n(R+AS) beschrieben wurden, können als Vorlagen zur Orientierung genutzt werden.\n\nZudem ist es wichtig, Dokumente eindeutig zu kennzeichnen, um sie gezielt zuordnen \nund nachhalten zu können. Für jede Dokumentenart muss festgelegt werden, wie sie \ngestaltet und versioniert, wie häufig sie überarbeitet und durch wen sie freigegeben\n\nwird. Diese Kennzeichnungen dienen der Dokumentenlenkung. Eindeutig gekenn­\nzeichnete Dokumente geben den Lesern zudem einen schnellen Überblick darüber, was \nin den Dokumenten geregelt wird, wie mit den Dokumenten umgegangen werden muss \nund wer zuständig für den Inhalt der Dokumente ist (siehe [820-2]).\n\nDokumente im BCM sollten mindestens mit den folgenden Eigenschaften gekennzeich­\nnet werden:\n\n• \neindeutiger Titel\n\n• \neindeutige Versionsnummer (falls relevant)\n\n• \nDokumentenart (siehe auch Abbildung 21)\n\n• \nAutor, Autorin\n\n• \nFreigabedatum und -person\n\n• \nDatum der nächsten geplanten Überarbeitung (für Dokumente, die Änderungen un­\nterliegen können)\n\n• \nGeltungsbereich des Dokuments (sofern für die Dokumentenart erforderlich)\n\n• \nKlassifizierung\n\n• \nZielgruppe\n\n• \nAblage\n\n• \nAufbewahrungszeitraum (falls erforderlich)\n\n• \nÄnderungshistorie\n\nDarüber hinaus kann es sinnvoll sein, die Funktion der Autorenschaft oder der zuständi­\ngen Person zu dokumentieren.\n\nBeispiel\n\nKennzeichnung \nErläuterung\n\nTitel  \nBCM-Leitlinie\n\nDokumentenart  \nLeitlinie BCMS\n\nVersion \n1.0\n\nAutor, Autorin \nFrauke Musterfrau (BCB)\n\nFreigabedatum und  \n-person\n\n31.07.22 durch Erika Mustermann (Institutionsleitung)\n\nDatum der nächsten ge­\nplanten Überarbeitung\n\n31.07. (jährliche Überprüfung)\n\nGeltungsbereich des Do­\nkuments\n\nGesamter BCM-Geltungsbereich\n\nKlassifizierung \nIntern\n\nZielgruppe \nMitarbeitende im Geltungsbereich sowie Externe mit begrün­\ndetem Interesse\n\nAblage \nhttps://intranet.institution.de/BCM/Leitlinie BCMS\n\nAufbewahrungszeitraum \n10 Jahre (interne Anforderung)\n\nÄnderungshistorie \n05.06.: Erster Entwurf, 07.07.: Anpassung der Ziele\n\nTabelle 7: Beispielkennzeichnung eines Dokuments\n\nHinweis\n\nHäufig weicht der Notbetrieb erheblich von dem Normalbetrieb ab. In einem Notbe­\ntrieb geht es darum, mit eingeschränkten Ressourcen den Geschäftsbetrieb auf ei­\nnem minimalen Niveau aufrecht zu erhalten, sodass die durch eine Unterbrechung \nentstehenden Schäden keine kritische Grenze überschreiten. Zu diesem Zweck kann \nes auch erforderlich werden, dass bei den einzelnen Dokumenten für den Notfall ein \nabweichender Schutzbedarf (in den Kategorien Vertraulichkeit, Integrität oder Ver­\nfügbarkeit) definiert wird.",
+  "pages": {
+    "start": 85,
+    "end": 87
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

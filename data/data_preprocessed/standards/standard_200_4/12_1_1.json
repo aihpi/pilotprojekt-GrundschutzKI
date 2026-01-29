@@ -1,0 +1,31 @@
+{
+  "id": "12_1_1",
+  "header": "12.1.1 Aufteilung der WAPs (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "12.1",
+      "title": "Vorbereitung der WAPs (AS)"
+    },
+    {
+      "level": 3,
+      "number": "12.1.1",
+      "title": "Aufteilung der WAPs (AS)"
+    }
+  ],
+  "content": "Es ist wichtig, dass der oder die BCB festlegt, wie die WAPs im Hinblick auf die zugrun­\ndeliegende Struktur der Ressourcen aufgeteilt werden sollen. Es gibt viele Möglichkeiten, \nwie WAPs organisatorisch aufgeteilt werden könnten. So könnte ein Plan je einzelner \nRessource erstellt werden oder ein Plan kann umfangreichere Ressourcencluster umfas­\nsen. Entscheidend für eine schnelle Reaktion ist jedoch, dass\n\n• \ndie zuständigen Stellen die jeweils für ihren Bereich relevanten Informationen erhal­\nten,\n\n• \ndie Verfügbarkeit der Pläne im Notfall gewährleistet ist sowie\n\n• \ndie Übergabepunkte zwischen den Plänen klar geregelt sind.",
+  "pages": {
+    "start": 243,
+    "end": 244
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

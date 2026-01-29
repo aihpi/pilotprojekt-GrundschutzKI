@@ -1,0 +1,26 @@
+{
+  "id": "7_2",
+  "header": "7.2 Festlegung des Geltungsbereichs für die Kern-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.2",
+      "title": "Festlegung des Geltungsbereichs für die Kern-Absicherung"
+    }
+  ],
+  "content": "Die ganzheitliche Umsetzung von Informationssicherheit, wie dies mit der Standard-Absicherung er­\nfolgt, ist in einem einzelnen großen Schritt oft ein zu ehrgeiziges Ziel. Viele kleine Schritte und ein \nlangfristiger, kontinuierlicher Verbesserungsprozess ohne hohe Investitionskosten zu Beginn sind oft \nerfolgversprechender. Daher konzentriert sich die Kern-Absicherung auf die besonders schützenswer­\nten Assets und Ressourcen der Institution. Von diesem ausgewählten und beschränkten Bereich der \nInstitution ausgehend, sollte dann kontinuierlich die Sicherheit innerhalb der gesamten Institution \nverbessert werden.\n\nZunächst muss daher dieser Bereich festgelegt werden, für den die Sicherheitskonzeption erstellt und \numgesetzt werden soll. Dieser umfasst unter anderem alle (Teil-)Geschäftsprozesse, Anwendungen, \nIT-Systeme, Infrastrukturen, die für die Bearbeitung der besonders kritischen Geschäftsprozesse und \nInformationen benötigt werden. Dazu gehören unter Umständen auch ICS-Systeme. Der betrachtete \nGeltungsbereich für die Sicherheitskonzeption wird im IT-Grundschutz generell als „Informationsver­\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 69,
+    "end": 70
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

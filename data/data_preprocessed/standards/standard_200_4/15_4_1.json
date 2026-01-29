@@ -1,0 +1,31 @@
+{
+  "id": "15_4_1",
+  "header": "15.4.1 Berichterstattung und Entscheidungshilfe (R)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "14",
+      "title": "Leistungsüberprüfung und Berichterstattung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "15.4",
+      "title": "Weiterentwicklung des Reaktiv-BCMS (R)"
+    },
+    {
+      "level": 3,
+      "number": "15.4.1",
+      "title": "Berichterstattung und Entscheidungshilfe (R)"
+    }
+  ],
+  "content": "Es ist empfehlenswert, dass der oder die BCB die gewonnenen Erkenntnisse zum BCMS \nzusammenfasst und der Institutionsleitung als Entscheidungshilfe zur Verfügung stellt. \nZiel der Entscheidungshilfe ist es, die wesentlichen Erkenntnisse vorzustellen und die er­\nforderlichen Schritte und Maßnahmen zur Weiterentwicklung des BCMS abzustimmen. \nHierbei ist es sinnvoll, insbesondere zu analysieren, inwieweit die erreichte Reife die bis­\nherigen Ziele des BCMS abdeckt.\n\nFür einen Bericht an die Institutionsleitung sind die einzelnen Erkenntnisse je BCM-\nProzessschritt zu detailliert. Um der Institutionsleitung eine Entscheidungshilfe zu bieten, \nist es empfehlenswert, die vorliegenden Erkenntnisse zu verdichten, die Risiken, Trends \nund Handlungsbedarfe im BCM abzuleiten und Lösungsoption vorzuschlagen. Je gerin­\nger die Zielerreichung durch den oder die BCB eingeschätzt wird, desto eher ist eine \nWeiterentwicklung anhand eines Aufbau-BCMS empfehlenswert. Tabelle 46 listet mögli­\nche Erkenntnisse auf.\n\nBeispiel\n\nKriterien \nQuelle\n\nFähigkeit der Institution, angemessen auf \nNotfälle zu reagieren\n\nreale Ereignisse sowie Ergebnisse der Stabs­\nübung(en)\n\nEffektivität und Angemessenheit der Metho­\nden und Verfahren zur Identifikation von \nzeitkritischen Geschäftsprozessen und Res­\nsourcen\n\nidentifizierte Korrekturbedarfe und Verbesse­\nrungsmöglichkeiten aus dem BIA-Vorfilter \nund der BIA\n\nAbdeckungsgrad ausreichend abgesicherter \nRessourcen gemäß RTA vs. RTO\n\nSoll-Ist-Vergleich\n\nEffektivität und Angemessenheit der Ge­\nschäftsfortführungsplanung\n\nidentifizierte Korrekturbedarfe und Verbesse­\nrungsmöglichkeiten aus der Geschäftsfort­\nführungsplanung sowie aus Planbespre­\nchungen und Funktionstests\n\nAbdeckungsgrad der zeitkritischen Organisa­\ntionseinheiten bzw. GPs im Geltungsbereich \ndes BCMS\n\nÜbersicht, welche zeitkritischen Organisati­\nonseinheiten bereits einen GFP dokumentiert \nund getestet haben und in welchem Grad \ndiese GFPs geeignet sind, die MTPDs einzu­\nhalten.\n\nFähigkeiten und Kenntnisse der BCM-\nRolleninhabenden und Grad der BCM-Kultur \nin der Institution\n\nidentifizierte Korrekturbedarfe und Verbesse­\nrungsmöglichkeiten aus durchgeführten \nSchulungen, Sensibilisierungsmaßnahmen \nsowie Rückmeldungen der Rolleninhabenden \nin Stabsübungen\n\nIm Rahmen des Reaktiv-BCMS identifizierte \nKorrekturbedarfe und Verbesserungsmög­\nlichkeiten\n\nMaßnahmenliste\n\nTabelle 46: Übersicht möglicher Kriterien zur Einschätzung der Reife des BCMS (Bei­\nspiele)",
+  "pages": {
+    "start": 305,
+    "end": 306
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

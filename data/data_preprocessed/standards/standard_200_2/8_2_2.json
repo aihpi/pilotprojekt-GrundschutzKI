@@ -1,0 +1,26 @@
+{
+  "id": "8_2_2",
+  "header": "8.2.2 Vorgehen bei der Schutzbedarfsfeststellung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.2",
+      "title": "Vorgehen bei der Schutzbedarfsfeststellung"
+    }
+  ],
+  "content": "Zunächst wird der Schutzbedarf der Geschäftsprozesse und Anwendungen bestimmt. Anschließend \nwird daraus der Schutzbedarf der einzelnen Objekte (z. B. IT-Systeme, Räume und Kommunikations­\nverbindungen) abgeleitet.\n\nDie Grundlage zur Bestimmung des Schutzbedarfs verschiedener Objekte ist der Schutzbedarf der \nGeschäftsprozesse und der zugehörigen Informationen. Der für diese Elemente ermittelte Schutzbe­\ndarf vererbt sich auf die für deren Verarbeitung genutzten Objekte, also Anwendungen, IT-Systeme, \nICS- und sonstige Geräte, Räume und Kommunikationsverbindungen (Vererbung).\n\nZur Ermittlung des Schutzbedarfs eines Objektes müssen die möglichen Schäden der relevanten Teil­\nobjekte in ihrer Gesamtheit betrachtet werden. Beispielsweise müsste bei einem IT-System beleuchtet \nwerden, welche Auswirkungen Schäden bei den darauf betriebenen Anwendungen und den damit \nverarbeiteten Informationen haben. Im Wesentlichen bestimmt der Schaden bzw. die Summe der \nSchäden mit den schwerwiegendsten Auswirkungen den Schutzbedarf eines Objektes (Maximum­\nprinzip).\n\nBei der Betrachtung der möglichen Schäden und ihrer Folgen muss auch beachtet werden, dass die \nverschiedenen betrachteten Objekte eines Informationsverbunds natürlich eng miteinander verzahnt \nsind. So kann z. B. eine IT-Anwendung Arbeitsergebnisse anderer Anwendungen als Input nutzen. \nEine, für sich betrachtet, weniger bedeutende Anwendung A kann wesentlich an Wert gewinnen, \nwenn eine andere wichtige Anwendung B auf ihre Ergebnisse angewiesen ist. In diesem Fall muss der \nermittelte Schutzbedarf der Anwendung B auch auf die Anwendung A übertragen werden. Handelt",
+  "pages": {
+    "start": 108,
+    "end": 109
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

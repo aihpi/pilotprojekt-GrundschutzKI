@@ -1,0 +1,26 @@
+{
+  "id": "2_4_1",
+  "header": "2.4.1 BCM und Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.4",
+      "title": "Abgrenzung und Synergien"
+    },
+    {
+      "level": 3,
+      "number": "2.4.1",
+      "title": "BCM und Informationssicherheit"
+    }
+  ],
+  "content": "### Unterschiede zwischen dem BCM und der Informationssicherheit\n\nDie oben beschriebenen Überschneidungen hinsichtlich der Datenbasis und der verwen­\ndeten Methoden stehen den unterschiedlichen Zielsetzungen der Managementsysteme \ngegenüber. Während ein ISMS den Normalbetrieb hinsichtlich aller drei Schutzziele absi­\nchert, reduzieren die BC-Maßnahmen vor allem das Ausmaß eines eingetretenen Scha­\ndensereignisses.\n\nInsbesondere sollten die Schutzziele gemäß ISMS (u. a. Verfügbarkeit und Integrität im \nNormalbetrieb) und betriebliche Kontinuitätsanforderungen an Informationen \nund die IT gemäß BCMS (Verfügbarkeit und ausreichende Integrität im Notfall) vonei­\nnander abgegrenzt werden. Die Verfügbarkeit im Normalbetrieb muss z. B. nicht \nzwangsläufig der Verfügbarkeit im Notbetrieb entsprechen:\n\n• \nDurch ein ISMS soll die Verfügbarkeit von Informationen so weit abgesichert wer­\nden, dass diese den Geschäftsanforderungen im Normalbetrieb entspricht. Stö­\nrungsbedingte Ausfallzeiten im Normalbetrieb sollen minimiert werden. Die Anfor­\nderungen an die Verfügbarkeit werden beispielsweise innerhalb von Service oder \nOperational Level Agreements (SLA oder OLA) in durchschnittlichen Jahresverfüg­\nbarkeiten in Prozentwerten angegeben.\n\n• \nDurch ein BCMS soll die Kontinuität des Geschäftsbetriebs sichergestellt werden. Im \nFokus stehen die zeitkritischen Geschäftsprozesse und Ressourcen der Institution. \nDie umzusetzenden BC-Lösungen dienen dazu, längere Ausfallzeiten des Geschäfts­\nbetriebs zu verhindern. Die Anforderungen im BCM werden beispielsweise in Form \nvon Wiederanlaufzeiten, maximalen Ausfallzeiten im Notfall und einem zugesicher­\nten Mindestniveau innerhalb von SLAs bzw. OLAs angegeben. D. h., dass auch im \nSchadensfall diese Anforderungen garantiert sein müssen.\n\nBeispiel\n\nEin Prozess zur Kundschaftsbetreuung nutzt eine Anwendung, um die Kundschafts­\nbeziehungen zu verwalten (Customer Relationship Management, CRM). Diese An­\nwendung erlaubt es, schnell und effizient auf Kontaktdaten zurückzugreifen und  \nInformationen zu vorangegangen Geschäftsaktivitäten abzurufen. Aufgrund der  \nBedeutung der Informationen für den Geschäftsprozess erhält die Anwendung in­\nnerhalb der Schutzbedarfsanalyse des ISMS eine hohe Verfügbarkeit. Gemeinsam \nmit der IT-Abteilung wird eine Verfügbarkeit von 99,9 %, bezogen auf das Ge­\nschäftsjahr, festgelegt. Innerhalb der Business-Impact-Analyse im BCM wird die \nCRM-Anwendung anders bewertet. Sie erhält, bezogen auf existenzbedrohende \nAuswirkungen auf das Unternehmen, keine Kontinuitätsanforderung, da sie für  \neinen Notbetrieb nicht zwingend erforderlich ist. Die Informationen können auch \ndurch die Kontaktbetreuenden als Gedankenprotokoll hergeleitet werden. Zudem \nbefinden sich die Kontaktdaten auch in anderen Medien, wie z. B. elektronischen \nAdressbüchern.\n\nEin Prozess zur Auftragsvergabe in einem Produktionsunternehmen nutzt eine An­\nwendung, um die Ressourcen zu planen (Enterprise Resource Planning, ERP). Diese \nAnwendung erlaubt es, schnell und effizient auf Unternehmensstammdaten zurück­\nzugreifen und den Lagerbestand in Echtzeit abzurufen. Innerhalb der Schutzbedarfs­\nanalyse des ISMS wird deshalb eine hohe Verfügbarkeit festgestellt und gemeinsam \nmit der IT-Abteilung eine Verfügbarkeit von 99,9 %, bezogen auf das Geschäftsjahr, \nfür den Normalbetrieb festgelegt. Innerhalb der Business-Impact-Analyse erfolgt \nebenfalls eine Bewertung der ERP-Anwendung. Hier wird festgestellt, dass der Ge­\nschäftsprozess maximal 6 Stunden ausfallen darf, bevor unzumutbare Auswirkungen \neintreten. Um dies zu erreichen, ist es notwendig, dass die ERP-Anwendung inner­\nhalb von 4 Stunden wieder zur Verfügung steht, damit noch zwei Stunden Puffer  \nfür Alarmierungund fachliche Inbetriebnahme nach Wiederanlauf verbleiben. Die im \nISMS geforderten 99,9 % Verfügbarkeit entsprechen 8,76 Stunden maximale Aus­\nfalldauer pro Jahr in Summe für alle Ausfälle. Dabei wird, statistisch gesehen, nicht\n\ndavon ausgegangen, dass die gesamte tolerierbare Ausfalldauer durch ein einzelnes \nEreignis überschritten wird. Gemäß BCMS könnte jedoch bereits ein zeitkritischer \nGeschäftsprozess, der binnen 6 Stunden wiederanlaufen muss, als schlimmster an­\nzunehmender Fall zu nicht tolerierbaren Auswirkungen für die Institution führen. \nSomit weicht die geforderte Wiederanlaufzeit von der bisher zugesicherten Verfüg­\nbarkeit von 99.9 % ab und verschärft die Anforderungen an die Verfügbarkeit der \nAnwendung in der Art, dass diese nach 4 Stunden wiederanlaufen muss.",
+  "pages": {
+    "start": 29,
+    "end": 33
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

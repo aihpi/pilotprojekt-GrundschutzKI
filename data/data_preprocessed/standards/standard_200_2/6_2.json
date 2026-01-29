@@ -1,0 +1,26 @@
+{
+  "id": "6_2",
+  "header": "6.2 Auswahl und Priorisierung für die Basis-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "6.2",
+      "title": "Auswahl und Priorisierung für die Basis-Absicherung"
+    }
+  ],
+  "content": "Der nächste Schritt besteht darin, den betrachteten Informationsverbund mithilfe der in der Erster­\nfassung identifizierten Prozesse, Anwendungen, IT-Systeme, Kommunikationsverbindungen und \nRäume und den vorhandenen Bausteinen aus dem IT-Grundschutz-Kompendium nachzubilden. Das \nErgebnis ist ein IT-Grundschutz-Modell des Informationsverbunds, das aus verschiedenen, gegebe­\nnenfalls auch mehrfach verwendeten Bausteinen besteht und durch die Verwendung der Bausteine \ndie sicherheitsrelevanten Aspekte des Informationsverbunds beinhaltet.",
+  "pages": {
+    "start": 62,
+    "end": 62
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

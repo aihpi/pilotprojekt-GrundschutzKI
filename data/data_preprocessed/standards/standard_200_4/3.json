@@ -1,0 +1,21 @@
+{
+  "id": "3",
+  "header": "3 Tage",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Tage"
+    }
+  ],
+  "content": "Schlüsselkundschaft be­\ntreuen \n1  \n(gering)\n\n2  \n(mit­\n\ntel)\n\n3 \n(hoch)\n\n3 \n(hoch)\n\n3  \n(hoch) \n7 Tage\n\nKundschaftsanfragen \nim Kundencenter ent­\ngegennehmen\n\n3  \n(hoch)\n\n3 \n(hoch)\n\n3 \n(hoch)\n\n4 \n(sehr \nhoch\n\n4  \n(sehr \nhoch",
+  "pages": {
+    "start": 179,
+    "end": 179
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

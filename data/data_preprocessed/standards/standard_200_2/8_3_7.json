@@ -1,0 +1,26 @@
+{
+  "id": "8_3_7",
+  "header": "8.3.7 Einbindung externer Dienstleister",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.3.7",
+      "title": "Einbindung externer Dienstleister"
+    }
+  ],
+  "content": "Viele Institutionen setzen externe oder interne Dienstleister ein, um Geschäftsprozesse ganz oder \nteilweise durch diese durchführen zu lassen. Grundsätzlich kann die Einbindung externer Dienstleister \nauf viele Arten erfolgen, z. B. in Form von Personal, das temporär eingesetzt wird, oder in Form von \nAuslagerungen von IT-Systemen.\n\nBereits im Vorfeld der Einbindung externer Dienstleister müssen die Aufgaben im Bereich der Infor­\nmationssicherheit abgegrenzt und die Schnittstellen genau festgelegt werden. Aufgaben können an \nexterne Dienstleister ausgelagert werden, die Verantwortung für die Informationssicherheit verbleibt \njedoch immer bei der auslagernden Institution.\n\nEs muss geklärt sein, welche sicherheitsrelevanten Aufgaben durch den externen Dienstleister und \nwelche durch das eigene Sicherheitsmanagement abgedeckt werden. Folgende Fragen sollten vor der \nEinbindung externer Dienstleister grundlegend geregelt werden:\n\n•  Welche Geschäftsprozesse, welche IT-Systeme oder welche Dienstleistungen sollen an einen exter­\nnen Dienstleister ausgelagert werden?\n\n•  Welchen Schutzbedarf haben die Zielobjekte, die durch einen externen Dienstleister oder im Out­\nsourcing verarbeitet werden?\n\n•  Auf welche Zielobjekte und welche Informationen hat der externe Dienstleister Zugriff? Hier muss \neinerseits berücksichtigt werden, welche Zielobjekte und Informationen im Fokus der Dienstleis­\ntungserbringung stehen, aber andererseits auch, auf welche Zielobjekte und Informationen die \nDienstleister zugreifen könnten, wie z. B. Reinigungskräfte auf Informationen in Büroräumen.\n\nSofern sich eine Institution für die Einbindung externer Dienstleister entscheidet, müssen neben \nvertraglichen Rahmenbedingungen ebenfalls die Voraussetzungen für die Umsetzung der Anforde­\nrungen des IT-Grundschutzes erfüllt werden. Generell muss die Modellierung der Bausteine ge­\ntrennt für die eigene Institution und für jeden externen Dienstleister durchgeführt werden. Die Vor­\ngehensweise der Modellierung erfolgt wie in Kapitel 8.3.4 „Zuordnung von Bausteinen“ beschrie­\nben.\n\nAuch bei der Einbindung externer Dienstleister muss es zu jedem Zeitpunkt für die auslagernde Insti­\ntution möglich sein, die Risiken im Bereich der Informationssicherheit zu identifizieren und zu kontrol­\nlieren. Informationen und Geschäftsprozesse müssen immer auf einem vergleichbaren Niveau gemäß \nden Sicherheitszielen der Institution geschützt werden, auch wenn externe Dienstleister (oder wie­\nderum deren Dienstleister) diese ganz oder in Teilen verarbeiten. Des Weiteren ist eine hohe Ereignis­\ntransparenz erforderlich, d. h., es muss Mechanismen geben, die gewährleisten, dass Gefährdungen \nund Risiken, die Auswirkungen auf die Dienstleistungen haben könnten, erkannt und entsprechend \nkommuniziert werden.",
+  "pages": {
+    "start": 144,
+    "end": 145
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

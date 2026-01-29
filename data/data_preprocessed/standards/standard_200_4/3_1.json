@@ -1,0 +1,21 @@
+{
+  "id": "3_1",
+  "header": "3.1 Übernahme der Verantwortung durch die Leitungs-",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "3.1",
+      "title": "Übernahme der Verantwortung durch die Leitungs-"
+    }
+  ],
+  "content": "### ebene (R+AS)\n\nDie Institutionsleitung ist für das zielgerichtete und ordnungsgemäße Funktionieren der \nInstitution und damit auch für die Aufrechterhaltung des Geschäftsbetriebs in Notfällen \nverantwortlich. Sie ist die Instanz, welche die Entscheidung über den Umgang mit Risi­\nken trifft und die entsprechenden Ressourcen zur Verfügung stellen muss. Die Verant­\nwortung für das BCM verbleibt bei ihr.\n\nDie Institutionsleitung sowie jede einzelne Führungskraft müssen sich sichtbar zu ihrer \nVerantwortung bekennen und Vorbild sein. Die Institutionsleitung muss sich zur Etablie­\nrung, Aufrechterhaltung und Verbesserung eines BCMS anhand der Vorgehensweise \ndieses Standards verpflichten. Idealerweise übernimmt hierzu ein Mitglied der Instituti­\nonsleitung die Rolle als Prozesseigentümer oder -eigentümerin, der oder die für das BCM \nverantwortlich ist. Die operativen Aufgaben im Kontext BCM werden an eine Person de­\nlegiert, die als der oder die Business Continuity Beauftragte (BCB oder BC-Beauf-\ntragte) bezeichnet wird (siehe 3.5 Benennung des oder der BC-Beauftragten). Die Insti­\ntutionsleitung muss darüber hinaus alle Führungskräfte darin unterstützen, sodass die\n\nFührungskräfte in ihren Bereichen effektiv und effizient zur Etablierung, Aufrechterhal­\ntung und Verbesserung beitragen können.\n\nDie Institutionsleitung muss aktiv Informationen über den Status Quo des BCM einfor­\ndern (siehe 14.4 Managementbewertung (AS)). Zudem muss sie das BCM durch Ma­\nnagemententscheidungen so steuern, dass das BCMS angemessen, wirksam und anfor­\nderungsgerecht ist. Darüber hinaus ist es empfehlenswert, dass die Institutionsleitung an \nausgewählten Schulungen, Trainings und Übungen teilnimmt und andere Führungskräf­\nte bei der Ausübung ihrer Vorbildfunktion unterstützt.\n\nSynergiepotenzial\n\nDas BCM weist vielfältige Berührungspunkte zu anderen Disziplinen auf, insbesonde­\nre dem Sicherheits-, dem Informationssicherheits- und dem Risikomanagement. \nWenn die Institutionsleitung auf eine enge Zusammenarbeit mit verwandten Berei­\nchen achtet, können Synergieeffekte, z. B. anhand einer Gesamtsicherheitsstrategie, \nausgenutzt werden. Dies kann dazu beitragen, dass das BCM wirtschaftlicher und \neffektiver umgesetzt wird.",
+  "pages": {
+    "start": 50,
+    "end": 51
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

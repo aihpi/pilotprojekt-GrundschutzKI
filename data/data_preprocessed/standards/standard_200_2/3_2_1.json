@@ -1,0 +1,31 @@
+{
+  "id": "3_2_1",
+  "header": "3.2.1 Ermittlung von Rahmenbedingungen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.2",
+      "title": "Konzeption und Planung des Sicherheitsprozesses"
+    },
+    {
+      "level": 3,
+      "number": "3.2.1",
+      "title": "Ermittlung von Rahmenbedingungen"
+    }
+  ],
+  "content": "Um eine angemessene IS-Strategie festzulegen, müssen alle relevanten Rahmenbedingungen identi­\nfiziert werden. Daher sollte jede Institution ihre wichtigsten Geschäftsprozesse und Fachaufgaben \nsowie deren Bedarf an Informationssicherheit ermitteln. Dazu gehört auch die Analyse der Stakehol­\nder (also der relevanten internen und externen Parteien), von Geschäftszielen, Aufgaben und deren \nAnforderungen an Sicherheit. Die Zusammenhänge zwischen Geschäftsabläufen und den dort verar­\nbeiteten Informationen sowie der eingesetzten Informationstechnik bilden die Basis für die Entschei­\ndung, welches Sicherheitsniveau zum Schutz der Informationen und für die Informationstechnik je­\nweils angemessen ist.\n\nDie Ermittlung von Rahmenbedingungen ist eine wesentliche Grundlage für die weiteren Betrachtun­\ngen der Informationssicherheit, da hierdurch identifiziert werden kann, wo wichtige Hintergrundin­\nformationen fehlen, um die Bedeutung der Informationssicherheit für die Institution korrekt einschät­\nzen zu können. Außerdem wird dadurch ein erstes Self Assessment möglich, da bei der Zusammen­\nstellung der Hintergrundinformationen bereits deutlich wird, wo Konfliktpotenzial liegt und wo \nAktivitäten erforderlich sind.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 21,
+    "end": 22
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

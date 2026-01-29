@@ -1,0 +1,26 @@
+{
+  "id": "13_1",
+  "header": "13.1 Rahmenbedingungen zum Üben im Reaktiv-BCMS (R)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.1",
+      "title": "Rahmenbedingungen zum Üben im Reaktiv-BCMS (R)"
+    }
+  ],
+  "content": "Für das Reaktiv-BCMS müssen die Übungsarten Stabsübung und Alarmierungsübung \nregelmäßig durchgeführt werden. Ferner ist es empfehlenswert, auch die Übungsarten \nPlanbesprechung („Schreibtischtest“) sowie Funktionstest regelmäßig im Reaktiv-\nBCMS durchzuführen.\n\nHinweis\n\nDie zuvor erstellten GFPs wurden voraussichtlich auf theoretischer Basis und anhand \nvon Annahmen erstellt. Erst geübte und getestete Pläne lassen jedoch einen Rück­\nschluss auf die tatsächliche Funktionsfähigkeit der GFPs zu. Aus diesem Grund ist es \nempfehlenswert, frühzeitig Planbesprechungen für GFPs einzuplanen, auch wenn \ndiese noch nicht im ersten BCMS-Zyklus vollständig umgesetzt werden können.",
+  "pages": {
+    "start": 255,
+    "end": 255
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

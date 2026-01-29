@@ -1,0 +1,26 @@
+{
+  "id": "15_2",
+  "header": "15.2 Ableitung von Korrektur- und Verbesserungsmaßnahmen (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "14",
+      "title": "Leistungsüberprüfung und Berichterstattung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "15.2",
+      "title": "Ableitung von Korrektur- und Verbesserungsmaßnahmen (R+AS)"
+    }
+  ],
+  "content": "### maßnahmen (R+AS)\n\nAnhand des BCM-Maßnahmenplans sollte der oder die BCB alle Korrektur- und Verbes­\nserungsmaßnahmen dokumentieren. Um die Korrektur- oder Verbesserungsmaßnahmen \nerfolgreich planen und umsetzen zu können, müssen die folgenden Inhalte pro Maß­\nnahme ermittelt und dokumentiert werden:\n\n• \nBeschreibung des Korrekturbedarfs bzw. der Verbesserungsmöglichkeit\n\n• \nBeschreibung der Ursache des Korrekturbedarfs bzw. der Verbesserungsmöglichkeit\n\n• \nBeschreibung der Korrektur- oder Verbesserungsmaßnahmen, die angemessen und \ndazu geeignet sind, die Korrekturbedarfe bzw. Verbesserungsmöglichkeiten umzu­\nsetzen\n\n• \nUmsetzungsstatus der Korrektur- oder Verbesserungsmaßnahme(n)\n\n• \nFür die Umsetzung zuständige Stellen\n\n• \nbenötigten Ressourcen (finanziell, personell und zeitlich)\n\nFür jede Korrektur- und Verbesserungsmaßnahme sollte zudem der Fertigstellungstermin \ndokumentiert werden. Ferner ist es empfehlenswert, die folgenden Inhalte im Maßnah­\nmenplan zusätzlich zu dokumentieren.\n\n• \nEindeutige Kennung der Korrektur- oder Verbesserungsmaßnahmen\n\n• \nPriorisierung der Maßnahme\n\n• \nDokumentation relevanter Umsetzungsdetails\n\nHinweis\n\nÜblicherweise behandeln Korrektur- und Verbesserungsmaßnahmen einzelne Teil­\nprozesse des BCMS sowie der BC-Planung. Bei taktischen oder strategischen Korrek­\ntur- und Verbesserungsmaßnahmen kann es jedoch notwendig sein, grundsätzlich \nzurück in die Initiierungsphase des BCMS zu gehen, da die Korrektur- oder Verbesse­\nrungsmaßnahmen sich auch auf alle weiteren Teilprozesse des BCMS auswirken \nkönnen. Dies kann etwa der Fall sein, wenn im Rahmen der Maßnahmen die Rah­\nmenbedingungen und Ziele des BCMS neu definiert werden müssen.",
+  "pages": {
+    "start": 303,
+    "end": 303
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

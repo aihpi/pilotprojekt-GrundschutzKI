@@ -1,0 +1,26 @@
+{
+  "id": "4_6",
+  "header": "4.6 Bereichs- und Projekt-Sicherheitsbeauftragte bzw. Beauftragter für IT-Sicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.6",
+      "title": "Bereichs- und Projekt-Sicherheitsbeauftragte bzw. Beauftragter für IT-Sicherheit"
+    }
+  ],
+  "content": "4.6 \nBereichs- und Projekt-Sicherheitsbeauftragte bzw. Beauftragter für \nIT-Sicherheit\n\nBei großen Institutionen kann es erforderlich sein, in den verschiedenen Bereichen eigene Sicherheits­\nbeauftragte einzusetzen.\n\nBereichs-Sicherheitsbeauftragter\n\nDer Bereichs-Sicherheitsbeauftragte ist für alle Sicherheitsbelange der Geschäftsprozesse, Anwen­\ndungen und IT-Systeme in seinem Bereich (z. B. Abteilung oder Außenstelle) verantwortlich. Je nach \nGröße des zu betreuenden Bereiches kann die Aufgabe des Bereichs-Sicherheitsbeauftragten von \neiner Person übernommen werden, die bereits mit ähnlichen Aufgaben betraut ist, z. B. dem Be­\nreichs-Beauftragten (falls vorhanden). Auf jeden Fall ist bei der Auswahl des Bereichs-Sicherheitsbe­\nauftragten darauf zu achten, dass er die Aufgaben, Gegebenheiten und Arbeitsabläufe in dem von \nihm zu betreuenden Bereich gut kennt.\n\nBeauftragter für IT-Sicherheit\n\nIn großen Institutionen kann es auch einen Beauftragten für die IT-Sicherheit geben, der für die Si­\ncherheit der IT zuständig ist. Der ISB gestaltet das Informationssicherheitsmanagement und erstellt die \ngenerellen Sicherheitsziele und -vorgaben, ein Beauftragter für die IT-Sicherheit sorgt dafür, dass diese \ntechnisch umgesetzt werden. Ein Beauftragter für die IT-Sicherheit ist somit typischerweise im IT-Be­\ntrieb tätig, während der ISB unmittelbar der Leitungsebene zuarbeitet.\n\nProjekt-Sicherheitsbeauftragter\n\nFür große Projekte sollte ein Projekt-Sicherheitsbeauftragter benannt werden, um sowohl den Sicher­\nheitsbedarf innerhalb des Projektes zu klären als auch die sichere Einbindung der Projektergebnisse in \ndie Geschäftsprozesse der Institution zu ermöglichen. Der Projekt-Sicherheitsbeauftragter kann ein \nMitarbeiter des Projektes oder ein Mitglied des IS-Management-Teams sein. Die Verantwortung für die \nInformationssicherheit liegt immer beim Projektleiter bzw. bei der Leitungsebene. Der ISB bzw. der \nProjekt-Sicherheitsbeauftragte unterstützt die Projektleitung in Fragen der Informationssicherheit. \nDementsprechend müssen auch die erforderlichen Ressourcen für die Informationssicherheit vonsei­\nten der Projektleitung eingeplant und bereitgestellt werden.\n\nDie verschiedenen Geschäftsprozesse, Anwendungen und IT-Systeme einer Institution haben oft ver­\nschiedene Sicherheitsanforderungen, die unter Umständen in spezifischen Sicherheitsleitlinien zu­\nsammengefasst sind und unterschiedlicher Sicherheitsmaßnahmen bedürfen. Ähnliches trifft für \nden Projekt-Sicherheitsbeauftragten zu, mit dem Unterschied, dass es sich bei den Aufgaben um \nprojektspezifische, nicht jedoch um IT-systemspezifische handelt.\n\nAls Aufgaben der Projekt-, IT- bzw. Bereichs-Sicherheitsbeauftragten sind die folgenden festzuhalten:\n\n•  die Vorgaben des ISB umsetzen,\n\n•  die Sicherheitsmaßnahmen gemäß der IT-System-Sicherheitsleitlinie oder anderer spezifischer Si­\ncherheitsleitlinien umsetzen,\n\n•  projekt- oder IT-systemspezifische Informationen zusammenfassen und an den ISB weiterleiten,\n\n•  als Ansprechpartner der Mitarbeiter vor Ort dienen,\n\n•  an der Auswahl der Sicherheitsmaßnahmen zur Umsetzung der spezifischen Sicherheitsleitlinien \nmitwirken,\n\n•  Information über Schulungs- und Sensibilisierungsbedarf von Beschäftigten ermitteln,\n\n•  Protokolldateien regelmäßig kontrollieren und auswerten sowie\n\n• eventuell auftretende sicherheitsrelevante Zwischenfälle an den ISB melden.\n\nFolgende Qualifikationen sollten vorhanden sein:\n\n•  detaillierte IT-Kenntnisse, da diese die Gespräche mit Mitarbeitern vor Ort erleichtern und bei der \nSuche nach Sicherheitsmaßnahmen für die speziellen IT-Systeme von Nutzen sind, sowie\n\n•  Kenntnisse im Projektmanagement, die bei der Organisation von Benutzerbefragungen und der \nErstellung von Plänen zur Umsetzung und der Kontrolle von Sicherheitsmaßnahmen hilfreich \nsind.",
+  "pages": {
+    "start": 44,
+    "end": 45
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

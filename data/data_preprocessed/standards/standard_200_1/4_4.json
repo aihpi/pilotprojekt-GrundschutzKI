@@ -1,0 +1,21 @@
+{
+  "id": "4_4",
+  "header": "4.4 Kontinuierliche Verbesserung des Sicherheitsprozesses",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "4.4",
+      "title": "Kontinuierliche Verbesserung des Sicherheitsprozesses"
+    }
+  ],
+  "content": "Die Ergebnisse der Erfolgskontrolle müssen konsequent zu angemessenen Korrekturen genutzt wer­\nden. Dies kann bedeuten, dass die Sicherheitsziele, die Sicherheitsstrategie und/oder das Sicherheits­\nkonzept geändert werden müssen und die Sicherheitsorganisation den Erfordernissen angepasst wer­\nden sollte. Unter Umständen erscheint es sinnvoll, grundlegende Änderungen an Geschäftsprozessen \noder der IT-Landschaft vorzunehmen sowie Geschäftsprozesse aufzugeben oder auszulagern, wenn \nz. B. deren sicherer Betrieb mit den zur Verfügung stehenden Ressourcen nicht länger gewährleistet \nwerden kann. Wenn größere Veränderungen vorgenommen und umfangreiche Verbesserungen um­\ngesetzt werden, schließt sich der Management-Kreislauf wieder durch den erneuten Beginn der Pla­\nnungsphase.\n\nDie Einhaltung eines bestimmten Sicherheitsniveaus erfordert stets finanzielle, personelle und zeitli­\nche Ressourcen, die von der Leitungsebene ausreichend bereitgestellt werden müssen. Wenn die \nZielvorgaben aufgrund fehlender Ressourcen nicht erfüllt werden können, sind hierfür nicht die mit \nder Umsetzung betrauten Personen verantwortlich, sondern die Vorgesetzten, die unrealistische Ziele \ngesetzt bzw. die erforderlichen Ressourcen nicht zur Verfügung gestellt haben. Um die gesteckten \nZiele nicht zu verfehlen, ist es wichtig, schon bei deren Festlegung eine erste Kosten-Nutzen-Schät­\nzung durchzuführen. Im Laufe des Sicherheitsprozesses sollte dieser Aspekt weiterhin eine entschei­\ndende Rolle spielen, einerseits, um keine Ressourcen zu verschwenden, und andererseits, um die \nnotwendigen Investitionen zur Erreichung des angemessenen Sicherheitsniveaus gewährleisten zu \nkönnen.\n\nOft werden mit der IT-Sicherheit ausschließlich technische Lösungen assoziiert. Diese Sichtweise greift \njedoch zu kurz. Dies ist ein weiterer Grund, statt IT-Sicherheit besser den Begriff Informationssicherheit \nzu verwenden. Vor allem erscheint es aber wichtig, darauf hinzuweisen, dass Investitionen in perso­\nnelle Ressourcen häufig effektiver sind als Investitionen in Sicherheitstechnik. Technik alleine löst somit \nkeine Probleme, sie muss immer in organisatorische Rahmenbedingungen eingebunden sein. Auch \ndie Überprüfung der Wirksamkeit und Eignung von Sicherheitsmaßnahmen muss durch ausreichende \nRessourcen sichergestellt werden.\n\nIn der Praxis fehlt den institutionseigenen Sicherheitsexperten häufig die Zeit, um alle sicherheitsrele­\nvanten Einflussfaktoren und Rahmenbedingungen (z. B. gesetzliche Anforderungen oder technische \nFragen) zu analysieren. Teilweise mangelt es ihnen auch an entsprechenden Grundlagen. Es ist immer \ndann sinnvoll, auf externe Experten zurückzugreifen, wenn Fragen und Probleme nicht mit eigenen \nMitteln zu klären bzw. zu lösen sind. Dies muss von den institutionseigenen Sicherheitsexperten do­\nkumentiert werden, damit die Leitungsebene die erforderlichen Ressourcen bereitstellen kann.\n\nDie Grundvoraussetzung für einen sicheren Betrieb der Informationstechnik ist ein gut funktionieren­\nder Betrieb. Für den Betrieb müssen daher ausreichende Ressourcen zur Verfügung gestellt werden. \nTypische Probleme des Betriebs (knappe Ressourcen, überlastete Administratoren oder eine unstruk­\nturierte und schlecht gewartete IT-Landschaft) müssen in der Regel erst gelöst werden, damit die \neigentlichen Sicherheitsmaßnahmen wirksam und effizient umgesetzt werden können.",
+  "pages": {
+    "start": 25,
+    "end": 27
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

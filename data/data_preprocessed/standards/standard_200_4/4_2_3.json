@@ -1,0 +1,31 @@
+{
+  "id": "4_2_3",
+  "header": "4.2.3 Identifizierung von Schnittstellen (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.2",
+      "title": "Analyse der erweiterten Rahmenbedingungen (AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.2.3",
+      "title": "Identifizierung von Schnittstellen (AS)"
+    }
+  ],
+  "content": "Wie schon in Kapitel 1.2 Zielsetzung und Kapitel 2.4 Abgrenzung und Synergien ange­\ndeutet, kann das BCMS nicht als isoliertes, unabhängiges Managementsystem betrachtet \nwerden. Vielmehr bestehen wechselseitige Abhängigkeiten zu angrenzenden Themen­\nfeldern und Organisationseinheiten. Werden die Schnittstellen frühzeitig identifiziert, so \nkönnen die Qualität der Arbeitsergebnisse verbessert und doppelte Arbeiten vermieden \nwerden. Zudem kann Fehlern vorgebeugt werden, z. B. inkonsistenten oder wider­\nsprüchlichen Aussagen.\n\nDie Schnittstellen und Abhängigkeiten des BCM sind in jeder Institution individuell aus­\ngeprägt. Der BSI-Standard 200-4 setzt daher keine konkreten Schnittstellen voraus, son­\n\ndern stellt in diesem Kapitel allgemeine Beispiele für typische Schnittstellen vor, die in \nvielen Institutionen vorzufinden sind. Ergänzend dazu finden sich in dem gesamten \nStandard Hinweise auf weitere mögliche Schnittstellen und Synergiepotenziale in ent­\nsprechenden Synergiepotenzialboxen.\n\nDas Beispiel in Abbildung 17 zeigt eine Auswahl an typischen Schnittstellen im Überblick.\n\nBeispiel\n\nAbbildung 17: Übersicht über mögliche Schnittstellen eines BCMS\n\nAlle für das BCMS relevanten Schnittstellen müssen ermittelt und dokumentiert werden. \nJede Schnittstelle des BCMS sollte klar definiert und eindeutig beschrieben werden. Als \nAusgangsbasis können die Ergebnisse der Interessengruppenanalyse sowie die Hinweise \naus Kapitel 2.4 Abgrenzung und Synergien verwendet werden. Es ist empfehlenswert, \nfür jede Schnittstelle des BCMS festzulegen, welche gegenseitigen Informationen oder \nLeistungen ausgetauscht und welche der angewendeten Methoden und Verfahren der \nbeiden Disziplinen aufeinander abgestimmt werden. Zudem sollten die Art und die Häu­\nfigkeit eines Austauschs sowie die abzustimmenden Aspekte festgelegt und dokumen­",
+  "pages": {
+    "start": 71,
+    "end": 73
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

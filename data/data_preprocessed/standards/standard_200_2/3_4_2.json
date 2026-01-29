@@ -1,0 +1,31 @@
+{
+  "id": "3_4_2",
+  "header": "3.4.2 Einberufung einer Entwicklungsgruppe für die Sicherheitsleitlinie",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.4",
+      "title": "Erstellung einer Leitlinie zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "3.4.2",
+      "title": "Einberufung einer Entwicklungsgruppe für die Sicherheitsleitlinie"
+    }
+  ],
+  "content": "Falls es innerhalb der Institution bereits ein IS-Management-Team gibt, so sollte dieses die Informati­\nonssicherheitsleitlinie entwickeln bzw. überprüfen und überarbeiten. Danach wird dieser Entwurf der \nBehörden- bzw. Unternehmensleitung zur Genehmigung vorgelegt.\n\nBefindet sich das Informationssicherheitsmanagement erst im Aufbau, so sollte eine Entwicklungs­\ngruppe zur Erarbeitung der Sicherheitsleitlinie eingerichtet werden. Diese Gruppe kann im Laufe des \nSicherheitsprozesses die Funktion des IS-Management-Teams übernehmen. Sinnvollerweise sollten in \ndieser Entwicklungsgruppe Vertreter der IT- bzw. ICS-Anwender, Vertreter des IT- bzw. ICS-Betriebs \nund ein oder mehrere in Sachen Informationssicherheit ausreichend vorgebildete Mitarbeiter mitwir­\nken. Idealerweise sollte zeitweise auch ein Mitglied der Leitungsebene, das die Bedeutung der Infor­\nmationsverarbeitung für die Institution einschätzen kann, hinzugezogen werden.",
+  "pages": {
+    "start": 33,
+    "end": 33
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

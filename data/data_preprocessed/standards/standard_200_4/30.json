@@ -1,0 +1,21 @@
+{
+  "id": "30",
+  "header": "30 Tage",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "30",
+      "title": "Tage"
+    }
+  ],
+  "content": "Arbeitsplatz \nvor Ort\n\nStandard-\nArbeitsplatz \n \n3 \n5 \n5 \n5 \n5\n\nPersonal \nKundencenter \n(KC) Teamlei­\ntende\n\narbeiten  \nmobil \n1 \n2 \n2 \n2 \n2\n\nPersonal \nKundencenter \n(KC) Mitarbei­\ntende\n\n3 \n5 \n5 \n5 \n5\n\nPersonal \nTechnisch Be­\nratende\n\narbeiten  \nmobil \n1 \n2 \n3 \n3 \n3\n\nTabelle 25: Beispiel für Arbeitsplatz- und Personalabhängigkeiten\n\nIm Beispiel wird angenommen, dass die Organisationseinheit über zwei Teamleitende \nund fünf Mitarbeitende im Kundencenter sowie drei technisch Beratende zur Beantwor­\ntung der Kundschaftsanfragen verfügt. Jede dieser Personen verfügt im Normalbetrieb \nüber einen eigenen Arbeitsplatz. Während eines eingeschränkten Notbetriebs werden \ninnerhalb der ersten 24 Stunden zunächst nur ein Teamleiter oder eine Teamleiterin, drei \nMitarbeitende und eine technisch beratende Person benötigt, da die Kundschaftsanfra­\ngen entsprechend kurzfristig quittiert und klassifiziert werden müssen. Die technisch be­\nratende Person hat dann Zeit, die dringendsten Anfragen zu bearbeiten, sodass diese \nfristgerecht beantwortet werden können. Hierbei werden genauso viele Arbeitsplätze \nwie Kundencenter-Mitarbeitende benötigt, da diese nicht mobil arbeiten können. Team­\nleitende und technisch beratende Personen können mobil arbeiten und benötigen daher \nkeine dedizierten Arbeitsplätze vor Ort.\n\nBei informationsbasierten Ressourcenkategorien, d. h. beispielsweise die Ressourcenka­\ntegorien Informationen und IT (Daten), muss zusätzlich die RPO bestimmt werden. Die \nRPO stellt in diesem Zusammenhang eine fachliche Anforderung des Prozesseigentümers \noder der -eigentümerin dar, bis zu welchem Datenstand er oder sie eine Datensicherung \nvoraussetzt, um mit geeigneten Informationen (Daten) im Notbetrieb arbeiten zu kön­\nnen. Die RPO ist unabhängig von der MTPD oder der RTO und muss daher nicht darauf \nabgestimmt werden. Jedoch sollte analog zur RTO auch die RPO konsolidiert werden, \nwenn mehrere Geschäftsprozesse auf dieselbe(n) informationsbasierten Ressour­\ncen(cluster) zurückgreifen (Minimalprinzip). Tabelle 26 greift die Beispiele der Geschäfts­\nprozesse aus Tabelle 21 auf, analog zu Tabelle 24.\n\nBeispiel\n\nRessourcenka­\ntegorie \nRessource \nKonsolidier­\nte RPO \nGeschäftsprozess \nRPO\n\nInformationen \nKundschafts­\ndaten\n\ntransaktions­\ngenau\n\nKundschaftsanfragen \nbearbeiten\n\ntransaktions­\ngenau\n\nInformationen \nKundschafts­\ndaten\n\ntransaktions­\ngenau\n\nSchlüsselkundschaftsbet\nreuung \n2 Tage\n\nTabelle 26: Beispiele für informationsbasierte Ressourcenabhängigkeiten verschiede­\nner Geschäftsprozesse\n\nSynergiepotenzial\n\nOft genügt das Datensicherungsintervall des Normalbetriebs als RPO. Sofern die RPO \nnicht definiert oder nicht bekannt ist, genügt an dieser Stelle die Information, wel­\ncher Datenverlust im Notbetrieb zulässig wäre. Üblicherweise bestehen im IT-Betrieb \nbereits verschiedene Stufen von Datensicherungsintervallen. Für die Angabe der RPO \nist es empfehlenswert, sich auf diese Stufen zu beziehen oder abgestimmt mit dem \nIT-Betrieb diese Stufen zu erweitern.",
+  "pages": {
+    "start": 188,
+    "end": 189
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

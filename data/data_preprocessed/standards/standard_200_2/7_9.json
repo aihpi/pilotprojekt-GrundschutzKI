@@ -1,0 +1,26 @@
+{
+  "id": "7_9",
+  "header": "7.9 Umsetzung und weitere Schritte",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.9",
+      "title": "Umsetzung und weitere Schritte"
+    }
+  ],
+  "content": "Die identifizierten und konsolidierten Sicherheitsmaßnahmen für die Kern-Absicherung müssen im \nAnschluss umgesetzt werden. Was hierbei zu beachten ist, wird in Kapitel 9 Umsetzung der Sicher­\nheitskonzeption ausführlich diskutiert.\n\nZu den Aufgaben eines ISMS gehört es nicht nur, im betrachteten Informationsverbund die Informa­\ntionssicherheit aufrechtzuerhalten, sondern diese sollte auch fortlaufend verbessert werden (siehe \nKapitel 10). Für die Kern-Absicherung bedeutet dies, dass natürlich regelmäßig überprüft werden \nmuss, ob die getroffenen Sicherheitsvorkehrungen noch der aktuellen Gefährdungslage entsprechen. \nDes Weiteren sollte überlegt werden, ob nach der erfolgreichen Absicherung der Kronjuwelen nicht \nauch noch weitere Bereiche der Institution angemessen geschützt werden sollten. Hierfür kann bei­\nspielsweise auf weitere Bereiche die Basis- oder die Standard-Absicherung angewendet werden oder \nauch der Informationsverbund der Kern-Absicherung erweitert werden.",
+  "pages": {
+    "start": 74,
+    "end": 75
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

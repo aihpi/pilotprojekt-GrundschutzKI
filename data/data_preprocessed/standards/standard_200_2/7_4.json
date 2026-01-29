@@ -1,0 +1,26 @@
+{
+  "id": "7_4",
+  "header": "7.4 Strukturanalyse",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.4",
+      "title": "Strukturanalyse"
+    }
+  ],
+  "content": "Für die Erstellung eines Sicherheitskonzepts und insbesondere für die Anwendung des IT-Grund­\nschutz-Kompendiums ist es erforderlich, das Zusammenspiel der Geschäftsprozesse, der Anwendun­\ngen und der vorliegenden Informationstechnik zu analysieren und zu dokumentieren. Aufgrund der \nheute üblichen starken Vernetzung von IT-Systemen bietet sich ein Netztopologieplan als Ausgangs­\nbasis für die weitere technische Analyse an. Die folgenden Aspekte müssen berücksichtigt werden:\n\n•  die für die Kern-Absicherung im eingeschränkten Informationsverbund betriebenen Anwendun­\ngen und die dadurch gestützten Geschäftsprozesse,\n\n•  die organisatorischen und personellen Rahmenbedingungen für diesen Informationsverbund,\n\n•  im Informationsverbund eingesetzte vernetzte und nicht vernetzte IT-Systeme,\n\n•  die Kommunikationsverbindungen zwischen den IT-Systemen und nach außen,\n\n•  die vorhandene Infrastruktur.\n\nDie einzelnen Schritte der Strukturanalyse werden im Detail in Kapitel 8.1 dieses Dokuments in Form \neiner Handlungsanweisung beschrieben.",
+  "pages": {
+    "start": 72,
+    "end": 72
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

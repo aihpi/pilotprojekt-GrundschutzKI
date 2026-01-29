@@ -1,0 +1,26 @@
+{
+  "id": "2_2",
+  "header": "2.2 Managementsystem für die Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "2.2",
+      "title": "Managementsystem für die Informationssicherheit"
+    }
+  ],
+  "content": "Im BSI-Standard 200-2 wird dargestellt, wie ein effizientes Managementsystem für die Informations­\nsicherheit aufgebaut und wie das IT-Grundschutz-Kompendium im Rahmen dieser Aufgabe verwen­\ndet werden kann. Die Vorgehensweisen nach IT-Grundschutz in Kombination mit dem IT-Grund­\nschutz-Kompendium bieten eine systematische Methodik zur Erarbeitung von Sicherheitskonzepten \nund praxiserprobten Sicherheitsmaßnahmen, die in zahlreichen Behörden und Unternehmen erfolg­\nreich eingesetzt werden.\n\nDie Bausteine im IT-Grundschutz-Kompendium werden ständig weiterentwickelt und bedarfsgerecht \num aktuelle Fachthemen ergänzt. Alle Informationen rund um den IT-Grundschutz sind kostenfrei \nüber die Website des BSI abrufbar. Um die internationale Zusammenarbeit von Behörden und Unter­\n\nBSI-Standard 200-2\n\nnehmen zu unterstützen, werden alle Dokumente rund um den IT-Grundschutz auch in englischer \nSprache und in elektronischer Form zur Verfügung gestellt.\n\nImmer mehr Geschäftsprozesse werden über Informations- und Kommunikationstechnik miteinander \nverknüpft. Dies geht einher mit einer steigenden Komplexität der technischen Systeme und mit einer \nhohen Abhängigkeit vom korrekten Funktionieren der Technik. Daher ist ein geplantes und organisier­\ntes Vorgehen aller Beteiligten notwendig, um ein angemessenes und ausreichendes Sicherheitsniveau \ndurchzusetzenundaufrechtzuerhalten.EineVerankerungdiesesProzessesinallen Geschäftsbereichen \nkann nur gewährleistet werden, wenn dieser zur Aufgabe der obersten Leitungs- bzw. Management­\nebene wird. Die oberste Managementebene ist verantwortlich für das zielgerichtete und ordnungsge­\nmäße Funktioniereneiner InstitutionunddamitauchfürdieGewährleistungderInformationssicherheit \nnach innen und außen. Daher muss diese den Sicherheitsprozess initiieren, steuern und kontrollieren. \nDazu gehören strategische Leitaussagen zur Informationssicherheit, konzeptionelle Vorgaben und \nauch organisatorische Rahmenbedingungen sowie ausreichende Ressourcen, um Informationssicher­\nheit innerhalb aller Geschäftsprozesse erreichen zu können.",
+  "pages": {
+    "start": 11,
+    "end": 12
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

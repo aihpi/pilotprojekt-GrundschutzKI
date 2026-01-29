@@ -1,0 +1,31 @@
+{
+  "id": "5_2_2",
+  "header": "5.2.2 Einstufung der Ereignismeldung und Entscheidung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Aufbau der BAO (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.2.2",
+      "title": "Einstufung der Ereignismeldung und Entscheidung (R+AS)"
+    }
+  ],
+  "content": "Die Einstufung und Entscheidung, ob es sich bei dem Schadensereignis um eine Störung, \neinen Notfall oder eine Krise handelt, muss durch eine zentrale Entscheidungsinstanz \ngetroffen werden. Im Gegensatz zu dezentralen Entscheidungsinstanzen verhindert eine \nzentrale Entscheidungsinstanz zeitaufwändige Abstimmungen oder unklare Entschei­\ndungsbefugnisse und ermöglicht so eine schnelle Entscheidungsfindung. Dies ist von ho­\nher Bedeutung, da die Entscheidung über das Ereignis weitreichende Auswirkungen auf \ndas weitere Geschehen der Bewältigung hat. Stellt sich heraus, dass ein Schadensereig­\nnis als Störung bewertet wurde, es sich aber um einen Notfall handelt, ist wahrscheinlich \nwertvolle Zeit verloren gegangen. Deshalb muss die zentrale Entscheidungsinstanz ge­\nschult, erfahren und befugt sein.\n\nGeschult bedeutet, dass die zentrale Entscheidungsinstanz über die erforderliche Sach­\nkenntnis verfügen muss, z. B. um innerhalb der Institution entscheiden zu können, was \neine Störung, was ein Notfall und was eine Krise ist (siehe 4.6 Schulung (R+AS)). Zudem \nmuss die zentrale Entscheidungsinstanz den Alarmierungsprozess kennen.\n\nDie zentrale Entscheidungsinstanz muss auch erfahren sein und einen guten Überblick \nüber die Institution haben, damit sie die Auswirkungen einschätzen kann. In den meisten \nFällen liegen zu einem Schadensereignis nur eingeschränkte Informationen vor. Auch \ndann sollte diese Entscheidungsinstanz entscheidungsfreudig sein.\n\nDas Verständnis der zentralen Entscheidungsinstanz kann darüber hinaus erhöht wer­\nden, indem sie realitätsnahe, praktische Erfahrungen bei Übungen und Tests sammeln \nkann. Wenn außerdem die Entscheidungskriterien verbessert werden, begünstigt dies ei­\nne korrekte Einschätzung von Schadensereignissen. So werden Fehleinschätzungen \ndurch die kontinuierliche Verbesserung des BCMS gesenkt.\n\nZusätzlich muss die zentrale Entscheidungsinstanz entsprechend befugt sein, eigenstän­\ndig die Ereignismeldung einzustufen und eine Entscheidung zu fällen. Dies verkürzt die \nZeitspanne, die bis zum Beginn der Bewältigung verstreicht.\n\nHinweis\n\nAufgrund ihrer Aufgaben, Fähigkeiten und Erfahrungen sind in der Praxis häufig der \noder die Leitende des Stabes oder der oder die BCB geeignete Rollen, um die Ereig­\nnismeldung qualifizieren zu können.\n\nUm die Entscheidung zu vereinfachen und sie transparent zu machen, ist es empfeh­\nlenswert, der zentralen Entscheidungsinstanz eine Checkliste mit Kriterien zur Verfügung \nzu stellen. Auf deren Basis kann eine nachvollziehbare und dokumentierte Entscheidung \nzur Einstufung des Ereignisses getroffen werden. Um Kriterien für einen Notfall (siehe \n4.1 Definition und Abgrenzung (R+AS)) ableiten zu können, können zunächst folgende \nPunkte als Grundlage herangezogen werden:\n\nBeispiel\n\n• \nIst der normale Geschäftsbetrieb der gesamten Institution oder einzelner Teile \nunterbrochen?\n\n• \nSteht ein Ausfall des Geschäftsbetriebs unmittelbar bevor oder ist er absehbar?\n\n• \nErfordert die Bewältigung eine BAO, z. B. für kurze Entscheidungswege und \nschnellen Zugriff auf Spezialisten?\n\nDie Kriterien auf dieser Checkliste können auch vom Stab zu einer ersten Einstufung des \nSchadensereignisses herangezogen werden, falls es im BCMS noch keine konkreteren \nKriterien gibt. Diese kann die Institution dann zu einem späteren Zeitpunkt genauer fest­\nlegen.\n\nDas Ergebnis der Ersteinschätzung kann zwei Ausgänge haben:\n\n1. Das Ereignis wird als Störung eingestuft.\n\nDann sollte das Ereignis als Störung gemeldet und durch die entsprechende Fachab­\nteilung innerhalb der AAO behoben werden. Da ein Schadensereignis jederzeit \ndurch Lageveränderungen eskalieren kann, sollte sich die zentrale Entscheidungs­\ninstanz über den Verlauf der Störungsbeseitigung durch die zuständige Fachabtei­\nlung informieren lassen.\n\n2. Das Ereignis wird als Notfall oder Krise eingestuft.\n\nDann muss die zentrale Entscheidungsinstanz die BAO unverzüglich alarmieren.\n\nIn jedem Fall sollte die zentrale Entscheidungsinstanz die getroffene Entscheidung nach­\nvollziehbar mit den notwendigen Details dokumentieren, z. B. Zeitpunkt und Auswir­\nkung des Ereignisses, Begründung der Entscheidung und Beteiligte an der Entscheidung.\n\nIn der Konstituierung der BAO sollte diese Entscheidung durch den Stab anhand weiterer \nKriterien überprüft und bestätigt oder deeskaliert werden (siehe 5.8 Nacharbeiten und \nDeeskalation (R+AS)).",
+  "pages": {
+    "start": 111,
+    "end": 113
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

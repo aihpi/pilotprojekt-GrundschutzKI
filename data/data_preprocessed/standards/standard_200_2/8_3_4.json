@@ -1,0 +1,26 @@
+{
+  "id": "8_3_4",
+  "header": "8.3.4 Zuordnung von Bausteinen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.3.4",
+      "title": "Zuordnung von Bausteinen"
+    }
+  ],
+  "content": "Die IT-Grundschutz-Modellierung, also die Zuordnung von Bausteinen zu Zielobjekten, sollte in Form \neiner Tabelle mit folgenden Spalten dokumentiert werden:\n\n•  Nummer und Titel des Bausteins\n\n•  Relevanz: Diese Spalte dient der Entscheidung, ob ein Baustein für den zu modellierenden Infor­\nmationsverbund relevant ist oder nicht. Sie liefert einen schnellen Überblick darüber, ob kein Bau­\nstein vergessen wurde.\n\n•  Zielobjekt: Wenn ein Baustein für den Informationsverbund relevant ist, erfolgt über diese Spalte \ndie Zuordnung zum Zielobjekt bzw. einer Zielobjektgruppe.\n\n•  Begründung: In dieser Spalte können Randinformationen und Begründungen für die Modellierung \ndokumentiert werden. Sind Bausteine für den betrachteten Informationsverbund nicht relevant, \nsollte dies hier explizit begründet werden.\n\n•  Ansprechpartner: Der konkrete Ansprechpartner wird nicht im Rahmen der Modellierung, sondern \nerst bei der Planung des eigentlichen Soll-Ist-Vergleichs im IT-Grundschutz-Check ermittelt. Basie­\nrend auf den Rollen und Verantwortlichen, die in den Bausteinen genannten werden, kann hier \njedoch schon eine entsprechende Vorarbeit geleistet werden.",
+  "pages": {
+    "start": 138,
+    "end": 139
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5_5_4",
+  "header": "5.5.4 Protokollierung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.5",
+      "title": "Definition der Geschäftsordnung des Stabs (AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.5.4",
+      "title": "Protokollierung (AS)"
+    }
+  ],
+  "content": "Mit der Protokollierung werden zwei unterschiedliche Zielsetzungen verfolgt: Zum einen \ndient das Protokoll als Nachweis bei einer möglichen späteren Revision oder Ermittlung \nzu den Entscheidungen im Stab. Zum anderen ist das Protokoll die Basis für eine Auswer­\ntung im Nachgang, um Lücken und Verbesserungspotenziale für das BCMS und die Er­\neignisbewältigung identifizieren zu können. Die formalen Anforderungen an die Doku­\nmentation der Bewältigung, insbesondere an die Protokollierung im Stab sollten in der \nGeschäftsordnung des Stabes dokumentiert werden.\n\nGrundsätzlich müssen alle wesentlichen durchgeführten Aktivitäten und Entscheidungen \ndes Stabs protokolliert werden. Die Arbeit im Stab muss so dokumentiert werden, dass \nim Nachhinein nachvollzogen werden kann, auf welcher Grundlage wesentliche Ent­\nscheidungen im Stab getroffen wurden und welche Stabsmitglieder an der Entscheidung \nbeteiligt waren.\n\nProtokolle können in elektronischer Form oder in Papierform erstellt werden. Zur Arbeits-\nerleichterung ist es empfehlenswert, eine Dokumentvorlage oder ein anderes Hilfsmittel \nfür die Protokolle zu entwickeln. Hierbei sollte ein Kompromiss zwischen den Nachweis­\npflichten der Institution, der Nachvollziehbarkeit von Entscheidungen und der Arbeits- \nund Entscheidungsfähigkeit des Stabs gefunden werden. Es ist empfehlenswert, dass \nsich der oder die BCB sowie die Rolleninhabenden Protokollierung und Stabsleitung \nhierüber abstimmen.\n\nHinweis\n\nIn der Praxis hat es sich bewährt, wenn die Rolle Protokollierung die zu dokumentie­\nrenden Sachverhalte proaktiv im Stab erfragt, anstatt nur im Hintergrund zu agieren. \nDadurch können Maßnahmen und Entscheidungen noch einmal im Stab durchdacht \nund eventuelle Fehlerquellen identifiziert werden. Des Weiteren kann so sicherge­\nstellt werden, dass alle wichtigen Informationen im Protokoll enthalten sind und \ndass die Formulierung von kritischen Sachverhalten im Stab abgestimmt wurde.",
+  "pages": {
+    "start": 126,
+    "end": 126
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

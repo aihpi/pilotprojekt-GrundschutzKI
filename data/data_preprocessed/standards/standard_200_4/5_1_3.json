@@ -1,0 +1,31 @@
+{
+  "id": "5_1_3",
+  "header": "5.1.3 Aufbau der situativen Erweiterung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Aufbau der BAO (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.1.3",
+      "title": "Aufbau der situativen Erweiterung (R+AS)"
+    }
+  ],
+  "content": "Zum erweiterten Stab zählen Rollen, die durch ihre Expertise und Ressourcen zur Bewäl­\ntigung beitragen können. Der Personenkreis beschränkt sich normalerweise auf die eige­\nne Institution. Es können beispielsweise Personen aus der AAO in den Stab beordert \nwerden, um besondere Meldepflichten gegenüber Regulatoren wahrzunehmen.\n\nEs können aber auch externe Mitglieder in den Stab aufgenommen werden, beispiels­\nweise Dienstleistende und Beratende. In diesem Fall sollten unter anderem die Punkte \nVertraulichkeit von Informationen sowie Handlungs- und Entscheidungsbefugnisse expli­\nzit geregelt werden.\n\nBeispiel\n\nTypische Beispiele für eine situative Erweiterung:\n\n• \nInformationssicherheitsbeauftragte (ISB)\n\n• \nLeitende der betroffenen Organisationseinheiten\n\n• \nRecht\n\n• \nWerkschutz\n\n• \nFinanzen\n\n• \ninterne und externe Fachberater\n\nDer Stab sollte durch eine Stabsassistenz ergänzt werden. Die Rollen der Stabsassistenz \nentlasten den Stab von organisatorischen Aufgaben und schaffen damit den Freiraum, \ndamit der Stab sich darauf konzentrieren kann, zu handeln und zu entscheiden.\n\nHinweis\n\nJe nach Arbeitsweise im Stab und den individuellen Fähigkeiten der agierenden Per­\nsonen kann es möglich sein, dass eine Person gegebenenfalls mehrere Rollen wahr­\nnimmt. So können beispielsweise in der Praxis die Rolle Visualisierung und die Rolle \nAufgabenkoordinierung sinnvoll miteinander verbunden werden, wenn die jeweili­\ngen Arbeitsphasen zeitlich auseinanderliegen.\n\nDie Stabsassistenz sollte mindestens aus der Rolle Protokollierung und einer weiteren \nPerson (Backoffice) bestehen. Der oder die Protokollierende führt die Nachweise über die \nSchadensbewältigung zusammen und unterstützt damit den Stab, die getroffenen Ent­\nscheidungen und Ereignisse nachzuhalten. Das erstellte Protokoll dient dazu, die Institu­\ntion rechtlich abzusichern, Entscheidungen zu dokumentieren und unmittelbar identifi­\nzierte Verbesserungs- oder Korrekturbedarfe in der Bewältigung nachzuhalten. Weiter­\nführende Informationen zur Protokollierung sind im Kapitel 5.5.4 Protokollierung (AS) \nbeschrieben.\n\nEs ist empfehlenswert, den Stab durch die Rolle Visualisierung zu unterstützen. Die Rol­\nle Visualisierung dient dazu, das Ereignis in Schaubildern darzustellen. Mit Hilfe der \nSchaubilder soll ein möglichst gemeinsames Verständnis der Lage geschaffen werden, \nauch Lagebild genannt (siehe 5.6.2 Lagebeobachtung und -visualisierung (R+AS)). So \nkönnen Lageveränderungen sowie die Maßnahmenumsetzung gut verfolgt werden. Dies \nfördert das Lageverständnis des Stabes und trägt zu einer effizienteren Bewältigung bei.\n\nUm ein strukturiertes Aufgabenmanagement gewährleisten zu können, ist es empfeh­\nlenswert, hierfür eine eigene Rolle Aufgabenkoordinierung zu schaffen. Der oder die \nAufgabenkoordinierende sammelt die verschiedenen Aufträge aus dem Stab. Dies ent­\nlastet andere Rollen des Stabes in komplexen Notfallsituationen.\n\nDer oder die BCB ist eine Rolle in der BC-Vorsorgeorganisation. Es ist aber empfehlens­\nwert, diese Rolle auch in die BAO einzubinden. Dies hat den Vorteil, dass das Wissen \nüber die zeitkritischen Geschäftsprozesse und Ressourcen sowie die BC-Dokumentation \ndem Stab jederzeit direkt zur Verfügung steht und, falls erforderlich, erfragt werden \nkann. Abbildung 23 zeigt ein mögliches Beispiel, in dem der oder die BCB der Stabsassis­\ntenz zugeordnet ist.",
+  "pages": {
+    "start": 100,
+    "end": 101
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3_2_3",
+  "header": "3.2.3 Bestimmung des angemessenen Sicherheitsniveaus der Geschäftsprozesse",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.2",
+      "title": "Konzeption und Planung des Sicherheitsprozesses"
+    },
+    {
+      "level": 3,
+      "number": "3.2.3",
+      "title": "Bestimmung des angemessenen Sicherheitsniveaus der Geschäftsprozesse"
+    }
+  ],
+  "content": "Zur besseren Verständlichkeit der Informationssicherheitsziele kann das angestrebte Sicherheitsni­\nveau für einzelne, besonders hervorgehobene Geschäftsprozesse bzw. Bereiche der Institution in Be­\nzug auf die Grundwerte der Informationssicherheit (Vertraulichkeit, Integrität, Verfügbarkeit) darge­\nstellt werden. Dies ist für die spätere Formulierung der detaillierten Sicherheitskonzeption hilfreich.\n\nNachstehend sind einige beispielhafte Kriterien zur Bestimmung eines angemessenen Sicherheitsni­\nveaus aufgeführt. Anhand derjenigen Aussagen, die am ehesten zutreffen, lässt sich das Sicherheits­\nniveau (normal, hoch oder sehr hoch) einzelner Geschäftsprozesse bzw. Bereiche bestimmen. In dieser \nPhase des Sicherheitsprozesses geht es um die Formulierung der ersten richtungweisenden Aussagen, \ndie in den späteren Phasen als Grundlage dienen werden, und nicht um eine detaillierte Schutzbe­\ndarfsfeststellung.\n\nSehr hoch:\n\n•  Der Schutz vertraulicher Informationen muss unbedingt gewährleistet sein und in sicherheitskriti­\nschen Bereichen strengen Vertraulichkeitsanforderungen genügen. Die Offenlegung besonders \nkritischer oder hoch vertraulicher Information kann zu schweren Folgen für den Weiterbestand \nder Institution führen.\n\n•  Die Informationen müssen im höchsten Maße korrekt sein.\n\n•  Die zentralen Aufgaben der Institution sind ohne IT-Einsatz nicht durchführbar. Knappe Reaktions­\nzeiten für kritische Entscheidungen fordern eine ständige Präsenz der aktuellen Informationen, \nAusfallzeiten sind nicht akzeptabel.\n\n•  Der Schutz personenbezogener Daten muss unbedingt gewährleistet sein. Anderenfalls kann es zu \neiner Gefahr für Leib und Leben oder für die persönliche Freiheit des Betroffenen kommen.\n\nInsgesamt gilt: Der Ausfall der IT oder wesentlicher Geschäftsprozesse oder die Offenlegung bzw. \nManipulation von kritischen Informationen führt zum Zusammenbruch der Institution oder hat \nschwerwiegende Folgen für breite gesellschaftliche oder wirtschaftliche Bereiche.\n\n•  Der Schutz vertraulicher Informationen muss hohen Anforderungen genügen und in sicherheits­\nkritischen Bereichen stärker ausgeprägt sein.\n\n•  Die verarbeiteten Informationen müssen korrekt sein, auftretende Fehler müssen erkennbar und \nvermeidbar sein.\n\n•  In zentralen Bereichen der Institution laufen zeitkritische Vorgänge oder es werden dort Massen­\naufgaben wahrgenommen, die ohne IT-Einsatz nicht zu erledigen sind. Es können nur kurze Aus­\nfallzeiten toleriert werden.\n\n•  Der Schutz personenbezogener Daten muss hohen Anforderungen genügen. Anderenfalls besteht \ndie Gefahr, dass der Betroffene in seiner gesellschaftlichen Stellung oder in seinen wirtschaftlichen \nVerhältnissen erheblich beeinträchtigt wird.\n\nInsgesamt gilt: Im Schadensfall tritt Handlungsunfähigkeit zentraler Bereiche der Institution ein. Schä­\nden haben erhebliche Beeinträchtigungen der Institution selbst oder betroffener Dritter zur Folge.\n\nNormal:\n\n•  Der Schutz von Informationen, die nur für den internen Gebrauch bestimmt sind, muss gewähr­\nleistet sein.\n\n•  Informationen sollten korrekt sein. Kleinere Fehler können toleriert werden. Fehler, die die Aufga­\nbenerfüllung erheblich beeinträchtigen, müssen jedoch erkenn- oder vermeidbar sein.\n\n•  Längere Ausfallzeiten, die zu Terminüberschreitungen führen, sind nicht zu tolerieren.\n\n•  Der Schutz personenbezogener Daten muss gewährleistet sein. Anderenfalls besteht die Gefahr, \ndass der Betroffene in seiner gesellschaftlichen Stellung oder in seinen wirtschaftlichen Verhältnis­\nsen beeinträchtigt wird.\n\nInsgesamt gilt: Schäden haben Beeinträchtigungen der Institution zur Folge.\n\nHinweis:\n\nJede Institution sollte die Formulierungen auf ihre individuellen Gegebenheiten anpassen. Es kann \nauch sinnvoll sein, weitere Kategorien zu definieren, beispielsweise, um Abgrenzungen nach \noben oder unten deutlicher zu machen. Die Sicherheitsziele spiegeln auch wider, welche Sicher­\nheitskultur in einer Institution vorhanden ist, also wie mit Sicherheitsrisiken und -maßnahmen \numgegangen wird.\n\nFür die Formulierung der Informationssicherheitsziele ist die Mitwirkung der Leitungsebene unbedingt \nnotwendig. Zur Bestimmung des angestrebten Sicherheitsniveaus müssen die Ziele der Institution in \nBezug auf ihre Anforderungen zur Sicherheit betrachtet werden, jedoch unter Berücksichtigung der \nTatsache, dass in der Regel begrenzte Ressourcen für die Implementierung von Sicherheitsmaßnah­\nmen zur Verfügung stehen. Aus diesem Grund ist es von besonderer Bedeutung, den tatsächlichen \nBedarf an Verfügbarkeit, Integrität und Vertraulichkeit zu identifizieren, da ein hohes Sicherheitsni­\nveau in der Regel auch mit einem hohen Implementierungsaufwand verbunden ist. Es ist zudem emp­\nfehlenswert, die formulierten Anforderungen zu priorisieren, wenn dies zu diesem Zeitpunkt bereits \nmöglich ist.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 24,
+    "end": 26
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

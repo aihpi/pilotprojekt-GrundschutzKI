@@ -1,0 +1,31 @@
+{
+  "id": "5_2_2",
+  "header": "5.2.2 Dokumentation im Informationssicherheitsprozess",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "5.2",
+      "title": "Informationsfluss im Informationssicherheitsprozess"
+    },
+    {
+      "level": 3,
+      "number": "5.2.2",
+      "title": "Dokumentation im Informationssicherheitsprozess"
+    }
+  ],
+  "content": "Aus zahlreichen Gründen ist die Dokumentation des IS-Prozesses auf allen Ebenen entscheidend für \ndessen Erfolg. Nur durch eine ausreichende Dokumentation\n\n•  werden getroffene Entscheidungen nachvollziehbar,\n\n•  sind Prozesse wiederholbar und standardisierbar,\n\n•  können Schwächen und Fehler erkannt und zukünftig vermieden werden.\n\nAbhängig vom Gegenstand und vom Verwendungszweck einer Dokumentation können folgende \nArten von Dokumentationen unterschieden werden:\n\nDokumente für das Sicherheitsmanagement (Zielgruppe: Sicherheitsmanagement)\n\nIm Rahmen der verschiedenen Aktivitäten des Informationssicherheitsmanagements entstehen Kon­\nzepte, Richtlinien, Berichte und weitere Dokumente. Nur durch eine ausreichende Dokumentation \nwerden getroffene Entscheidungen nachvollziehbar, Handlungen wiederholbar und Schwächen er­\nkannt, sodass diese in Zukunft vermieden werden können.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 55,
+    "end": 56
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

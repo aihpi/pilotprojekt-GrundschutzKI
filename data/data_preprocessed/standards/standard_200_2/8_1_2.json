@@ -1,0 +1,26 @@
+{
+  "id": "8_1_2",
+  "header": "8.1.2 Erfassung der Geschäftsprozesse und der zugehörigen Informationen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.2",
+      "title": "Erfassung der Geschäftsprozesse und der zugehörigen Informationen"
+    }
+  ],
+  "content": "Eine der Hauptaufgaben des Sicherheitsmanagements ist es, der Leitungsebene die Informationssicher­\nheitsrisiken aufzuzeigen und damit Transparenz zu schaffen, wo Entscheidungs- oder Handlungsbedarf \nerforderlich ist. Hierzu muss sich der ISB einen Überblick über die für die Institution wesentlichen Ge­\nschäftsprozesse bzw. Fachaufgaben verschaffen und darstellen, was Informationssicherheitsrisiken \nbzw. IT-Risiken für diese Geschäftsprozesse bedeuten.",
+  "pages": {
+    "start": 80,
+    "end": 81
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

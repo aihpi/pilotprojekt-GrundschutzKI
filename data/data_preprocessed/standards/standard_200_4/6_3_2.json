@@ -1,0 +1,31 @@
+{
+  "id": "6_3_2",
+  "header": "6.3.2 Vorauswahl von Organisationseinheiten anhand eines",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "6.3",
+      "title": "Durchführung des BIA-Vorfilter (R+A)"
+    },
+    {
+      "level": 3,
+      "number": "6.3.2",
+      "title": "Vorauswahl von Organisationseinheiten anhand eines"
+    }
+  ],
+  "content": "### Organigramms (R+A)\n\nVoraussetzung: Ein Organigramm liegt vor und die Organisation ist möglichst hierar­\nchisch gegliedert.\n\nAuf Basis des Organigramms der Institution wird von der höchsten Ebene aus jeweils die \nFrage gestellt:\n\n„Welche der untergeordneten Organisationseinheiten ist zeitkritisch?“\n\nDiese Frage sollte somit zuerst im Rahmen eines Workshops von der Institutionsleitung \nfür alle hierarchisch obersten Organisationseinheiten im Geltungsbereich des BCMS mit \nUnterstützung des oder der BCB beantwortet werden.\n\nDa diese Auswahl in der Regel noch sehr grob sein wird, ist es empfehlenswert, diese \nFragestellung erneut für die nachfolgende Hierarchieebene zu wiederholen, deren über­\ngeordnete Organisationseinheit zeitkritisch ist. Diese Fragestellung kann erneut von der \nInstitutionsleitung selbst im Rahmen eines Workshops geklärt werden oder von den je­\nweiligen verantwortlichen Leitenden der Organisationseinheiten in Abstimmung mit ih­\nren Vorgesetzen.\n\nDieser Schritt könnte so oft wiederholt werden, bis der BIA-Vorfilter bei der untersten \nHierarchieebene des Organigramms angekommen ist, was jedoch den Aufwand erhöht \nund nicht unbedingt eine effektive weitere Einschränkung der Organisationseinheiten \nbedeutet. Der oder die BCB sollte in Abstimmung mit der Institutionsleitung vorab fest­\nlegen, wie viele Hierarchieebenen im Rahmen des BIA-Vorfilters berücksichtigt werden.\n\nDas nachfolgende Beispiel zeigt einen BIA-Vorfilter über alle Hierarchieebenen für eine \nOrganisation mit drei Hierarchieebenen:\n\nBeispiel\n\nAbbildung 29: Beispiel für ein Ergebnis des BIA-Vorfilters anhand eines Organigramms\n\nVorteile: Diese Vorgehensweise ist nahezu universell einsetzbar, da die meisten Institu­\ntionen eine entsprechende hierarchische Organisation haben. Der Untersuchungsbereich \nfür die BIA kann systematisch und sukzessive über mehrere PDCA-Zyklen hinweg vergrö­\nßert werden. Je mehr Betrachtungsstufen untersucht werden, umso genauer wirkt dieser \nFilter, sodass er gut für kleine und große Institutionen geeignet ist.\n\nNachteile: Je genauer zwischen Organisationseinheiten differenziert werden soll, umso \nmehr steigt der Aufwand. Nicht immer lassen sich zeitlich kritische Geschäftsprozesse \nideal auf Organisationseinheiten abbilden.",
+  "pages": {
+    "start": 151,
+    "end": 153
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

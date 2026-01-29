@@ -1,0 +1,21 @@
+{
+  "id": "1_2",
+  "header": "1.2 Zielsetzung",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.2",
+      "title": "Zielsetzung"
+    }
+  ],
+  "content": "Mit dem BSI-Standard 200-3 stellt das BSI ein leicht anzuwendendes und anerkanntes Vorgehen zur \nVerfügung, mit dem Institutionen ihre Informationssicherheitsrisiken angemessen und zielgerichtet \nsteuern können. Das Vorgehen basiert auf den elementaren Gefährdungen, die im IT-Grund­\nschutz-Kompendium beschrieben sind und auf deren Basis auch die IT-Grundschutz-Bausteine erstellt \nwerden.\n\nIn der Vorgehensweise nach IT-Grundschutz wird bei der Erstellung der IT-Grundschutz-Bausteine \nimplizit eine Risikobewertung für Bereiche mit normalem Schutzbedarf vom BSI durchgeführt. Hierbei \nwerden nur solche Gefährdungen betrachtet, die eine so hohe Eintrittshäufigkeit oder so einschnei­\ndende Auswirkungen haben, dass Sicherheitsmaßnahmen ergriffen werden müssen. Typische Ge­\nfährdungen, gegen die sich jeder schützen muss, sind z. B. Schäden durch Feuer, Wasser, Einbrecher, \nSchadsoftware oder Hardware-Defekte. Dieser Ansatz hat den Vorteil, dass Anwender des IT-Grund­\nschutzes für einen Großteil des Informationsverbundes keine individuelle Bedrohungs- und Schwach­\nstellenanalyse durchführen müssen, weil diese bereits vorab vom BSI durchgeführt wurde.\n\nBSI-Standard 200-3",
+  "pages": {
+    "start": 5,
+    "end": 6
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

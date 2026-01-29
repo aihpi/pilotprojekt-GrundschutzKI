@@ -1,0 +1,21 @@
+{
+  "id": "9_3",
+  "header": "9.3 Ermittlung zusätzlicher Gefährdungen",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "9.3",
+      "title": "Ermittlung zusätzlicher Gefährdungen"
+    }
+  ],
+  "content": "Die folgenden Fragestellungen sollten bei der Ermittlung zusätzlicher Gefährdungen berücksichtigt \nwerden:\n\n•  Von welchen Ereignissen aus dem Bereich höhere Gewalt droht besondere Gefahr für den Infor­\nmationsverbund?\n\n•  Welche organisatorischen Mängel müssen vermieden werden, um die Informationssicherheit zu \ngewährleisten?\n\n•  Welche menschlichen Fehlhandlungen können die Sicherheit der Informationen besonders beein­\nträchtigen?\n\n•  Welche speziellen Sicherheitsprobleme können beim jeweils betrachteten Zielobjekt durch techni­\nsches Versagen entstehen?\n\n•  Welche besondere Gefahr droht durch vorsätzliche Angriffe von Außentätern? Damit sind Perso­\nnen gemeint, die nicht der eigenen Institution angehören und auch nicht durch besondere Verein­\nbarungen Zugang zu oder Zugriff auf interne Ressourcen haben.\n\n•  Auf welche Weise können Innentäter durch vorsätzliche Handlungen den ordnungsgemäßen und \nsicheren Betrieb des jeweiligen Zielobjekts beeinträchtigen? Durch vorhandene Zugangs- und Zu­\ngriffsberechtigungen sowie durch Insiderwissen droht hier oft besondere Gefahr.\n\n•  Drohen besondere Gefahren durch Objekte, die nicht dem betrachteten Informationsverbund zu­\nzurechnen sind? Solche externen Objekte können beispielsweise fremde Anwendungen, IT-Syste­\nme oder bauliche Gegebenheiten sein. Die Definition des betrachteten Informationsverbunds dient\n\ndazu, den Untersuchungsgegenstand für die Sicherheitskonzeption festzulegen. Dies darf jedoch \nnicht dazu führen, dass Gefahren, die von außerhalb des betrachteten Informationsverbunds aus­\ngehen, bei der Risikoanalyse vernachlässigt werden. Quellen für diese speziellen Gefährdungen \nsind beispielsweise\n\n•  die Dokumentation des Herstellers,\n\n•  Warn- und Informationsdienste von Computer Emergency Response Teams (CERTs), wie dem des \nBSI unter https://www.cert-bund.de,\n\n•  Publikationen über Schwachstellen im Internet (z. B. Threat Intelligence Feeds) und eigene Bedro­\nhungsanalysen.",
+  "pages": {
+    "start": 50,
+    "end": 51
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

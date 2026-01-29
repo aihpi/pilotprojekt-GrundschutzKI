@@ -1,0 +1,26 @@
+{
+  "id": "8_1_8",
+  "header": "8.1.8 Erfassung der Räume",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.8",
+      "title": "Erfassung der Räume"
+    }
+  ],
+  "content": "Die betrachteten Geschäftsprozesse und Fachaufgaben werden nicht nur auf definierten IT-Systemen \nbetrieben, sondern auch innerhalb der Grenzen der räumlichen Infrastruktur einer Institution. Je nach \nGröße der Institution und abhängig von vielen anderen Faktoren kann sich eine Institution in einem \nallein genutzten Gebäude oder auch nur auf einer Etage befinden. Viele Institutionen nutzen Liegen­\nschaften, die weit verstreut sind oder mit anderen Nutzern geteilt werden müssen. Häufig sind Ge­\nschäftsprozesse und Fachaufgaben auch in fremden Räumlichkeiten angesiedelt, zum Beispiel im \nRahmen von Dienstleistungsverträgen.\n\nIn ein Sicherheitskonzept müssen alle Liegenschaften, innerhalb derer die betrachteten Geschäftspro­\nzesse und Fachaufgaben betrieben werden, einbezogen werden. Dazu gehören Betriebsgelände, Ge­\nbäude, Etagen, Räume sowie die Wegstrecke zwischen diesen. Alle Kommunikationsverbindungen, \ndie über für Dritte zugängliche Gelände verlaufen, müssen als Außenverbindungen behandelt wer­\nden. Dies gilt auch für drahtlose Kommunikationsverbindungen, wenn nicht ausgeschlossen werden \nkann, dass Dritte darauf zugreifen können. Nicht vergessen werden sollten auch Räumlichkeiten, die \naußerhalb der offiziellen Liegenschaften liegen, die aber auch sporadisch oder regelmäßig genutzt \nwerden, um dort Geschäftsprozesse und Fachaufgaben zu bearbeiten. Dazu gehören beispielsweise \nTelearbeitsplätze oder temporär angemietete Arbeitsplätze und Lagerflächen.\n\nFür die weitere Vorgehensweise der Modellierung nach IT-Grundschutz und für die Planung des \nSoll-Ist-Vergleichs ist es hilfreich, eine Übersicht über die Liegenschaften, vor allem die Räume, zu \nerstellen, in denen IT-, ICS- oder IoT-Systeme aufgestellt oder die für deren Betrieb genutzt werden. \nDazu gehören Räume, die ausschließlich dem IT-Betrieb dienen (wie Serverräume, Datenträgerarchi­\nve), solche, in denen unter anderem IT-, ICS- oder IoT-Systeme betrieben werden (wie Büroräume oder \nWerkhallen), aber auch die Wegstrecken, über die Kommunikationsverbindungen laufen. Wenn \nIT-Systeme statt in einem speziellen Technikraum in einem Schutzschrank untergebracht sind, ist der \nSchutzschrank ebenfalls wie ein Raum zu erfassen.",
+  "pages": {
+    "start": 100,
+    "end": 101
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

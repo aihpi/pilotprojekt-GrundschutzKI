@@ -1,0 +1,26 @@
+{
+  "id": "7_4",
+  "header": "7.4 Aufrechterhaltung der Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "7.4",
+      "title": "Aufrechterhaltung der Informationssicherheit"
+    }
+  ],
+  "content": "Die Schaffung von Informationssicherheit ist kein zeitlich begrenztes Projekt, sondern ein kontinuier­\nlicher Prozess. Die Angemessenheit und Wirksamkeit aller Elemente des Managementsystems für die \nInformationssicherheit müssen regelmäßig überprüft werden. Das bedeutet, dass nicht nur einzelne \nSicherheitsmaßnahmen überprüft werden müssen, sondern auch die Sicherheitsstrategie regelmäßig \nüberdacht werden muss.\n\nDie Umsetzung der Sicherheitsmaßnahmen sollte in regelmäßigen Abständen mithilfe von internen \nAudits ausgewertet werden. Diese dienen auch dazu, die Erfahrungen aus der täglichen Praxis zu­\nsammenzutragen und auszuwerten. Neben Audits ist die Durchführung von Übungen und Sensibili­\nsierungsmaßnahmen notwendig, da nur so festgestellt werden kann, ob alle vorgesehenen Abläufe \nund das Verhalten in Notfallsituationen auch tatsächlich funktionieren. Erkenntnisse über Schwach­\nstellen und Verbesserungsmöglichkeiten müssen ohne Ausnahme zu Konsequenzen in der Sicher­\n\nheitsorganisation führen. Zudem ist es wichtig, zukünftige Entwicklungen sowohl bezüglich der ein­\ngesetzten Technik als auch in Geschäftsprozessen und Organisationsstrukturen frühzeitig zu erken­\nnen, um potenzielle Gefährdungen rechtzeitig identifizieren, Vorkehrungen treffen und Sicherheits­\nmaßnahmen umsetzen zu können. Wenn sich wesentliche Änderungen in Geschäftsprozessen oder \nOrganisationsstrukturen abzeichnen, muss hier das Informationssicherheitsmanagement eingebun­\nden werden. Der ISB muss auch proaktiv tätig werden: Auch wenn die Einbindung des Informations­\nsicherheitsmanagements in den Organisationsverfügungen vorgesehen ist, sollte dieses nicht darauf \nwarten, dass es wie geplant involviert wird, sondern sich rechtzeitig eigenständig in die entsprechen­\nden Prozesse einmischen.\n\nBei allen Audits sollte darauf geachtet werden, dass sie nicht von denjenigen durchgeführt werden, \ndie an der Planung oder Konzeption von Sicherheitsvorgaben beteiligt waren, da es schwierig ist, \neigene Fehler zu finden. Je nach Größe der Institution kann es hilfreich sein, für Audits Externe hin­\nzuzuziehen, um eine gewisse Betriebsblindheit zu vermeiden.\n\nAuch für kleine und mittlere Institutionen ist die Aufrechterhaltung der Informationssicherheit ein \nwichtiger Punkt. Die Audits werden zwar weniger umfangreich als in großen Institutionen sein, dürfen \naber auf keinen Fall unterbleiben. Im Rahmen der jährlichen Managementbewertung muss von der \nobersten Leitungsebene auch überprüft werden, ob es neue gesetzliche Vorgaben gibt, die beachtet \nwerden müssen, oder ob sich sonstige Rahmenbedingungen geändert haben.",
+  "pages": {
+    "start": 30,
+    "end": 31
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

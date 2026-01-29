@@ -1,0 +1,26 @@
+{
+  "id": "10_1",
+  "header": "10.1 Überprüfung des Informationssicherheitsprozesses auf allen Ebenen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "10.1",
+      "title": "Überprüfung des Informationssicherheitsprozesses auf allen Ebenen"
+    }
+  ],
+  "content": "Die Überprüfung des Informationssicherheitsprozesses ist unabdingbar, damit einerseits Fehler und \nSchwachstellen erkannt und abgestellt werden können und andererseits der IS-Prozess in Bezug auf \nseine Effizienz optimiert werden kann. Ziel dabei ist unter anderem die Verbesserung der Praxistaug­\nlichkeit von Strategie, Maßnahmen und organisatorischen Abläufen. Die wesentlichen Aspekte, die \ndabei betrachtet werden müssen, werden im Folgenden dargestellt.\n\nZur Effizienzprüfung und Verbesserung des Informationssicherheitsprozesses sollten Verfahren und \nMechanismen eingerichtet werden, die einerseits die Realisierung der beschlossenen Maßnahmen \nund andererseits ihre Wirksamkeit und Effizienz überprüfen.\n\nDie Informationssicherheitsstrategie sollte daher auch Leitaussagen zur Messung der Zielerreichung \nmachen, dabei sollte mindestens definiert werden:\n\n•  Welche Ziele in welcher Form und sinnvoller Anzahl überwacht oder gemessen werden (WAS),\n\n•  Wer für die Überwachung oder Messung der zuvor festgelegten Punkte verantwortlich ist (WER),\n\n•  Wann und wie häufig die Ergebnisse auszuwerten sind (WANN).\n\nGrundsätzlich sollte sich die Überprüfung des Informationssicherheitsprozesses auf eine sinnvolle An­\nzahl von Zielen beschränken. Beispiele für Methoden können sein:\n\n•  Definition, Dokumentation und Auswertung von Kennzahlen (z. B. Aktualität des Virenschutzes \nund Anzahl detektierter Schadsoftware usw.)\n\n•  Detektion, Dokumentation und Auswertung von Sicherheitsvorfällen\n\n•  Durchführung von Übungen und Tests zur Simulation von Sicherheitsvorfällen und Dokumentation \nder Ergebnisse (z. B. Back-up-Wiederherstellung)\n\n•  interne und externe Audits, Datenschutzkontrollen\n\n•  Zertifizierung nach festgelegten Sicherheitskriterien (z. B. ISO 27001 auf Basis von IT-Grundschutz)\n\nDie erfolgreiche Umsetzung von Sicherheitsmaßnahmen sollte regelmäßig überprüft werden. Grund­\nsätzlich ist dabei wichtig, dass Prüfungen und Audits nicht von denjenigen durchgeführt werden, die \ndie jeweiligen Sicherheitsvorgaben entwickelt haben, und dass die Leitung der Institution über den \naus den Audits abgeleiteten Stand der Informationssicherheit informiert wird.",
+  "pages": {
+    "start": 164,
+    "end": 165
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

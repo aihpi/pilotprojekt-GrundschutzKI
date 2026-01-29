@@ -1,0 +1,26 @@
+{
+  "id": "2_1_2",
+  "header": "2.1.2 Ausgewählte BSI-Publikationen und Standards zur Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.1",
+      "title": "Überblick über Normen und Standards zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "2.1.2",
+      "title": "Ausgewählte BSI-Publikationen und Standards zur Informationssicherheit"
+    }
+  ],
+  "content": "IT-Grundschutz\n\nDie Methodik des BSI zur Informationssicherheit ist seit 1994 der IT-Grundschutz. Der IT-Grundschutz \nist eine ganzheitliche Vorgehensweise, um für Institutionen aller Arten und Größen eine angemessene \nInformationssicherheit umzusetzen. Mit der Kombination aus den IT-Grundschutz-Vorgehensweisen \nzur Basis-, Standard- und Kern-Absicherung, die im BSI-Standard 200-2 IT-Grundschutz-Methodik \nbeschrieben sind, und dem IT-Grundschutz-Kompendium, in dem für die verschiedensten Einsatzum­\ngebungen Sicherheitsanforderungen enthalten sind, bietet der IT-Grundschutz ein effizientes und \neffektives Handwerkszeug, um adäquate Maßnahmen zum sicheren Umgang mit Informationen \nfür eine Institution auszuwählen und anzupassen. Der IT-Grundschutz ist von Anfang an darauf aus­\ngelegt worden, dass er von den Anwendern modular an verschiedene Einsatzumgebungen angepasst \nwerden kann. Dazu wird er vom BSI auch kontinuierlich aktualisiert und erweitert.\n\nPolitische Rahmenbedingungen wie das IT-Sicherheitsgesetz, das sehr dynamische Themengebiet der \nInformationssicherheit sowie die zunehmend professionelleren Cyberangriffe haben den Ausschlag \ndafür gegeben, den IT-Grundschutz erneut grundlegend zu modernisieren. Mit den vorliegenden \nBSI-Standards 200-1 bis 200-3 sind hieraus weitere Vorgehensweisen hervorgegangen, die einen ab­\ngestuften Einstieg in ein Sicherheitsmanagement ermöglichen. Ergänzt werden diese durch IT-Grund­\nschutz-Bausteine, die im IT-Grundschutz-Kompendium zusammengefasst sind. Die Abbildung 1 ver­\nanschaulicht die Gliederung der IT-Grundschutz-Dokumente.\n\nAbbildung 1: Übersicht über BSI-Publikationen zum Sicherheitsmanagement\n\nDas IT-Grundschutz-Kompendium ist modular aufgebaut und enthält Prozess- und Systembausteine \nfür typische Geschäftsprozesse, Anwendungen, Systeme, Kommunikationsverbindungen und Räu­\nme. Die auf die Rahmenbedingungen der eigenen Institution zutreffenden Bausteine können nach \nBedarf eingesetzt werden. Im IT-Grundschutz werden alle Bereiche betrachtet, die in Institutionen \nvorzufinden sind. Dazu gehören neben Organisation und Personal auch IT-Betrieb, aber auch Produk­\ntion und Fertigung mit Industrial Control Systems (ICS) ebenso wie Komponenten aus dem Bereich \nInternet of Things (IoT).\n\nJeder Baustein enthält eine kurze Beschreibung der Thematik und des Ziels, das mit der Umsetzung \ndes Bausteins erreicht werden soll, sowie eine Abgrenzung zu anderen Bausteinen, die einen ähnli­\nchen thematischen Bezug haben. Des Weiteren gibt es einen Überblick über die spezifischen Gefähr­\ndungen des betrachteten Themengebietes. Die Sicherheitsanforderungen für die Basis-, Standard-\nund Kern-Absicherung bilden den Schwerpunkt eines jeden Bausteins.\n\nZusätzlich kann es zu den Bausteinen des IT-Grundschutz-Kompendiums Umsetzungshinweise ge­\nben. Diese beschreiben, wie die Anforderungen der Bausteine in der Praxis erfüllt werden können, \nund enthalten dafür passende Sicherheitsmaßnahmen mit detaillierten Beschreibungen, die auf dem \nErfahrungsschatz und den Best Practices des BSI und von IT-Grundschutz-Anwendern basieren.\n\nDie Bausteine des IT-Grundschutz-Kompendiums und die Umsetzungshinweise werden regelmäßig \naktualisiert und erweitert. Daher werden sie als Printversion und zudem auch noch zusätzlich kosten­\nfrei im Internet veröffentlicht.",
+  "pages": {
+    "start": 10,
+    "end": 12
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

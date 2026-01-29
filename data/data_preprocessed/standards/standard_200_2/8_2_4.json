@@ -1,0 +1,26 @@
+{
+  "id": "8_2_4",
+  "header": "8.2.4 Schutzbedarfsfeststellung für IT-Systeme",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.4",
+      "title": "Schutzbedarfsfeststellung für IT-Systeme"
+    }
+  ],
+  "content": "Um den Schutzbedarf eines IT-Systems festzustellen, müssen zunächst die Anwendungen betrachtet \nwerden, die in direktem Zusammenhang mit dem IT-System stehen. Eine Übersicht, welche Anwen­\ndungen für die unterschiedlichen IT-Systeme relevant sind, wurde im Rahmen der Strukturanalyse \n(siehe Kapitel 8.1) ermittelt. Der Schutzbedarf der Geschäftsprozesse und Anwendungen (siehe Ka­\npitel 8.2.3) fließt in die Schutzbedarfsfeststellung für die jeweils betroffenen IT-Systeme ein. Hierbei ist \ndarauf zu achten, dass nicht nur die IT-Systeme berücksichtigt werden, auf denen die jeweilige An­\nwendung installiert ist. Vielmehr ist auch der Datenfluss der Anwendung zu beachten, über den der \nSchutzbedarf der Anwendung auf die dazwischenliegenden Netzkomponenten vererbt wird.\n\nZur Ermittlung des Schutzbedarfs eines IT-Systems müssen nun die möglichen Schäden der relevanten \nAnwendungen in ihrer Gesamtheit betrachtet werden. Die Ergebnisse der Schutzbedarfsfeststellung \nder IT-Systeme sollten wiederum in einer Tabelle festgehalten werden. Darin sollte verzeichnet sein, \nwelchen Schutzbedarf jedes IT-System bezüglich Vertraulichkeit, Integrität und Verfügbarkeit hat. Der \nGesamtschutzbedarf eines IT-Systems leitet sich wiederum aus dem Maximum des Schutzbedarfs be­\nzüglich der drei Grundwerte Vertraulichkeit, Integrität und Verfügbarkeit ab. Ein IT-System ist also \nhochschutzbedürftig, wenn es bezüglich eines oder mehrerer Grundwerte den Schutzbedarf „hoch“",
+  "pages": {
+    "start": 114,
+    "end": 115
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

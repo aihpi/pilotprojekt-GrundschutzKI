@@ -1,0 +1,21 @@
+{
+  "id": "2_5",
+  "header": "2.5 Überblick über Normen und Standards",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.5",
+      "title": "Überblick über Normen und Standards"
+    }
+  ],
+  "content": "### ITIL\n\nITIL (Information Technology Infrastructure Library) wird von AXELOS herausgegeben, \ngepflegt und weiterentwickelt (siehe [ITIL]). ITIL erläutert, wie Institutionen anhand von \nTechnologien und Werkzeugen das Servicemanagement digital transformieren können. \nSie berücksichtigt aktuelle Trends wie Agile Softwareentwicklung, DevOps und Lean IT-\nManagement.",
+  "pages": {
+    "start": 36,
+    "end": 39
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

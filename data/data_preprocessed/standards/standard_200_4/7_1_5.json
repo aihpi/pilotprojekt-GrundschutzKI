@@ -1,0 +1,31 @@
+{
+  "id": "7_1_5",
+  "header": "7.1.5 Vorbereitung der BIA-Hilfsmittel (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "6.5",
+      "title": "Systematische Erweiterung des GP-Umfangs im Rahmen des Aufbau-BCMS (A)"
+    },
+    {
+      "level": 3,
+      "number": "7.1.5",
+      "title": "Vorbereitung der BIA-Hilfsmittel (R+AS)"
+    }
+  ],
+  "content": "### Übersicht zu Schadenskategorien und Schadensszenarien\n\nUm eine vergleichbare Bewertung des Schadenspotenzials zu erhalten, ist es empfeh­\nlenswert, die Schadensszenarien und Ausprägungen je Schadenskategorie den Kontakt­\npersonen vorzulegen. Wie in Tabelle 16 dargestellt, sollte den Kontaktpersonen ein ent­\nsprechendes Hilfsmittel schriftlich zur Verfügung gestellt werden, z. B. in Form einer BIA-\nAnweisung oder einer Präsentation.",
+  "pages": {
+    "start": 173,
+    "end": 175
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2_4",
+  "header": "2.4 Elemente des IT-Grundschutzes",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "2.4",
+      "title": "Elemente des IT-Grundschutzes"
+    }
+  ],
+  "content": "Ein fundiertes und gut funktionierendes Sicherheitsmanagement ist die unerlässliche Basis für die \nzuverlässige und kontinuierliche Umsetzung von Sicherheitsmaßnahmen in einer Institution. Daher \nfindet sich neben der ausführlichen Behandlung in diesem Dokument im IT-Grundschutz-Kompendi­\num ein Baustein Sicherheitsmanagement. Dies dient sowohl dazu, eine einheitliche Methodik bei der \nAnwendung des IT-Grundschutzes zu erreichen, als auch dazu, das Sicherheitsmanagement seiner",
+  "pages": {
+    "start": 12,
+    "end": 13
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "13_6_2",
+  "header": "13.6.2 Durchführung einer Stabsübung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.6",
+      "title": "Stabsübung (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.6.2",
+      "title": "Durchführung einer Stabsübung"
+    }
+  ],
+  "content": "Auch bei einer guten Vorbereitung können oft nicht alle Eventualitäten vorhergesehen \nwerden. Daher können Stabsübungen auch für die Übungsleitung herausfordernd sein. \nEs ist die Aufgabe der Übungsleitung, das Übungsszenario unter Beachtung der Ziele \nund der Zeitplanung zu steuern. Insbesondere ist es hilfreich, darauf zu achten, dass die \nvorbereiteten Einlagen durch die Unterstützungsrollen geeignet in den Übungsverlauf \neingespielt werden. Die Übungsleitung kann jederzeit entscheiden, dass eine Einlage \nfrüher, später oder überhaupt nicht eingespielt wird, wenn sich dies positiv auf den \nÜbungsverlauf auswirkt.\n\nIn der Regel beginnen Stabsübungen mit einer Ausgangslage und einer damit verbunde­\nnen Lagefeststellung des Stabes (auch Konstituierung in 5.5.1 Konstituierung und Auflö­\nsung der BAO (AS) genannt). In dieser Lagefeststellung verschafft sich der Stab ein erstes \nLagebild und stellt in der Regel fest, dass sich die Institution in einem Notfall oder einer \nKrise befindet und ruft diesen bzw. diese aus. Diese Zeit, die bis zum Ausrufen des Not­\nfalls oder der Krise vergeht, ist ein essenzieller Bestandteil der BAO-Reaktionszeit neben \nder Detektions- und Alarmierungszeit (siehe 7 Business-Impact-Analyse (R+AS)). Daher \nwird empfohlen, diese Zeit zu messen und in Kombination mit der Alarmierungszeit mit \nder BAO-Reaktionszeit zu vergleichen (siehe 13.10.2 Zusätzliche Aspekte zur Auswer­\ntung einer Alarmierungsübung).\n\nDie Übungsleitung sollte den Übungsablauf koordinieren. Hierfür ist es empfehlenswert, \ndass die Übungsleitung das Recht besitzt, von der Zeitplanung abzuweichen oder die \nÜbung abzubrechen. Es ist hilfreich, wenn sich alle Teilnehmenden während der Übung \nstets an die geltenden Übungsregeln und -künstlichkeiten halten, ohne jedoch ihren kre­\nativen Handlungsraum zu beschränken.\n\nDer oder die Übungsprotokollierende muss den Übungsverlauf und die Übungsergebnis­\nse dokumentieren. Hilfestellungen zu Inhalten des Protokolls geben die folgenden Bei­\nspiele. Die Rolle Übungsprotokollierung unterscheidet sich von der Rolle des oder der \nProtokollierenden des Stabes.\n\nBeispiele für Inhalte des Protokolls zum Übungsverlauf\n\n• \nNotizen zum beobachteten Ablauf der Übung\n\n• \nHinweise von Teilnehmenden als Input für die Übungsauswertung\n\n• \nErreichung oder Nicht-Erreichung von Übungszielen\n\n• \nverwendete Dokumente, Werkzeuge, Ressourcen\n\n• \nerkannte Korrekturbedarfe oder Verbesserungsmöglichkeiten\n\nWerden Beobachtende eingesetzt, können diese notieren, was gut funktioniert hat und \nwas noch optimierbar ist. Dabei wird empfohlen, Personen als Beobachtende einzuset­\nzen, die viel Wissen zum BCM der Institution besitzen. Die Übungsprotokollierenden und \nÜbungsbeobachtenden müssen sich während der Übungsdurchführung neutral verhal­\nten und dürfen nicht in das Geschehen eingreifen. Erst in der Auswertung der Übung \nsollten die Übungsprotokollierenden und Übungsbeobachtenden aktiv in die Auswer­\ntungsrunde einbezogen werden. Die Übung muss durch die Übungsleitung offiziell be­\nendet werden. Ein offizielles Ende ist zum einen wichtig, damit alle an der Übung Betei­\nligten wissen, dass die Übungsregeln nicht mehr gelten, insbesondere die Regelungen \nzur Außenkommunikation. Zum anderen können Übungen sehr emotional werden und \ndie Teilnehmenden können sich stark in das Szenario hineinversetzen. Ein klares \nÜbungsende trägt dazu bei, dass Emotionen abflauen und alle Teilnehmenden das \ndurchlebte Szenario abschließen können.",
+  "pages": {
+    "start": 275,
+    "end": 276
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

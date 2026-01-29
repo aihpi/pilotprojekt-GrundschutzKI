@@ -1,0 +1,26 @@
+{
+  "id": "6_4",
+  "header": "6.4 Realisierung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "6.4",
+      "title": "Realisierung"
+    }
+  ],
+  "content": "In diesem Kapitel wird beschrieben, wie für die Basis-Absicherung aus den Anforderungen die Sicher­\nheitsmaßnahmen abgeleitet und wie diese dann geplant, durchgeführt, begleitet und überwacht \nwerden können. Es liegen die Ergebnisse des IT-Grundschutz-Checks, also des Soll-Ist-Vergleichs, vor.\n\nGenerell müssen für die Basis-Absicherung alle identifizierten Basis-Anforderungen erfüllt werden. \nAuch für die Erfüllung der Basis-Anforderungen stehen in der Regel nur beschränkte Ressourcen an \nGeld und Personal zur Verfügung. Das primäre Ziel der nachfolgend beschriebenen Schritte ist es \ndaher, eine möglichst effiziente Erfüllung der vorgesehenen Basis-Anforderungen zu erreichen (eine \nvollständige Beschreibung für alle IT-Grundschutz-Vorgehensweisen ist im Kapitel 9 „Umsetzung der \nSicherheitskonzeption“ zu finden):\n\n•  Sichtung der Untersuchungsergebnisse \nIn einer Gesamtsicht sollten zuerst die fehlenden oder nur teilweise erfüllten Basis-Anforderungen \nausgewertet werden.\n\n•  Konsolidierung der Basis-Anforderungen \nIn diesem Schritt werden zunächst die noch zu erfüllenden Basis-Anforderungen konsolidiert.\n\n•  Kosten- und Aufwandsschätzung \nEs sollte für jede zu erfüllende Basis-Anforderung festgehalten werden, welche Investitionskosten \nund welcher Personalaufwand dafür notwendig sind.\n\n•  Festlegung der Umsetzungsreihenfolge der Basis-Anforderungen \nWenn das vorhandene Budget oder die personellen Ressourcen nicht ausreichen, um die fehlenden \nBasis-Anforderungen sofort erfüllen zu können, muss eine Umsetzungsreihenfolge festgelegt wer­\nden.\n\n•  Festlegung der Aufgaben und der Verantwortung \nEs muss festgelegt werden, wer bis wann welche Basis-Anforderungen erfüllen muss.\n\n•  Realisierungsbegleitende Basis-Anforderungen \nÜberaus wichtig ist es, notwendige realisierungsbegleitende Basis-Anforderungen, wie beispiels­\nweise Schulungen, rechtzeitig zu konzipieren und für die Realisierung mit einzuplanen.",
+  "pages": {
+    "start": 66,
+    "end": 66
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

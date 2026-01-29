@@ -1,0 +1,26 @@
+{
+  "id": "3_3",
+  "header": "3.3 Geltungsbereich (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "3.3",
+      "title": "Geltungsbereich (R+AS)"
+    }
+  ],
+  "content": "Vor dem Aufbau eines BCMS muss die Institutionsleitung festlegen, welcher Bereich der \nInstitution abgesichert werden soll. Dabei müssen die Zielsetzung und insbesondere die \ndamit verbundenen regulatorischen Anforderungen und gegebenenfalls weitere Anfor­\nderungen an das BCMS berücksichtigt werden. Dieser Bereich, auch Geltungsbereich des \nBCMS genannt, kann die gesamte Institution umfassen oder nur einzelne Standorte, \nTeilbereiche, Produkte oder Services. Solche eingeschränkten Geltungsbereiche werden \nentweder durch organisatorische oder technische Strukturen vorgegeben, z. B. gemein­\nsame Gebäude oder Produktionsstraßen, oder durch gemeinsame Geschäftsprozesse, \nz. B. die Produktion. Der Geltungsbereich umfasst die Gesamtheit von infrastrukturellen, \norganisatorischen, personellen und technischen Komponenten, die der Aufgabenerfül­\nlung dienen. Der Geltungsbereich des BCMS muss zur Zielsetzung des BCMS und den\n\nAnforderungen passen. Zudem sollten die betrachteten Geschäftsprozesse komplett im \nGeltungsbereich enthalten sein.\n\nEs kann auch sinnvoll sein, mehrere BCMS für mehrere kleinere Geltungsbereiche zu \nentwickeln. So könnte eine Institution beschließen, zunächst für einen kleinen Bereich \nmit besonders zeitkritischen oder regulierten Geschäftsprozessen ein Standard-BCMS \numzusetzen. In den restlichen Bereichen der Institution kann anschließend ein Reaktiv-\nBCMS aufgebaut werden, damit auch für diese Bereiche eine grundlegende Geschäfts­\nfortführung möglich ist, die über eine reine Krisenbehandlung im Rahmen der BAO hin­\nausgeht.\n\nEs sollten nicht nur technische, sondern auch organisatorische Aspekte bei der Abgren­\nzung des Geltungsbereichs berücksichtigt werden, damit die Verantwortung und die Zu­\nständigkeiten eindeutig festgelegt werden können. Die im Geltungsbereich liegenden \nGeschäftsprozesse sollten explizit benannt werden.\n\nBeispiele\n\n• \nEin Automobilzulieferer mit einem einzigen Standort legt fest, dass der Gel­\ntungsbereich des BCMS das gesamte Unternehmen umfasst, da die meisten Ge­\nschäftsprozesse zur Produktion von Autoteilen dienen und weil bei Lieferverzug \nhohe Vertragsstrafen drohen.\n\n• \nEin IT-Dienstleister, der für die öffentliche Verwaltung tätig ist, begrenzt den \nGeltungsbereich des BCMS auf ein bestimmtes Fachverfahren, das von Behör­\nden und Organisationen mit Sicherheitsaufgaben (BOS) zum Informationsaus­\ntausch genutzt wird.\n\n• \nEine Institution mit mehreren Standorten legt fest, dass der Geltungsbereich des \nBCMS zunächst nur den Hauptstandort umfasst und nicht die Nebenstandorte.\n\n• \nEin Unternehmen aus dem produzierenden Gewerbe legt fest, dass der Gel­\ntungsbereich des BCMS initial nur die Produktion und das Lager beinhaltet. An­\ndere Unternehmensbereiche wie Einkauf, Buchhaltung, Marketing, Vertrieb etc. \nwerden bewusst zurückgestellt.\n\n• \nEin Konzern mit global verteilten und unabhängig agierenden Tochtergesell­\nschaften legt je Tochtergesellschaft ein eigenes BCMS mit jeweils eigenem  \nGeltungsbereich fest. Hierbei erstellt der Konzern zentrale Vorgaben an die ein­\nzelnen BCMS der Tochtergesellschaften, damit diese nicht zu unterschiedlich \naufgebaut werden. Dies kann beispielsweise erreicht werden, indem BCM-\nMindestanforderungen innerhalb einer gemeinsamen Konzern- bzw. Gruppen­\nrichtlinie auf übergeordneter Ebene formuliert werden.\n\nIn jedem Fall muss der Geltungsbereich anhand nachvollziehbarer Kriterien in sich abge­\nschlossen sein. Die Grenzen des Geltungsbereichs müssen klar definiert sein. Falls Teile \nder betrachteten Geschäftsprozesse organisatorisch von externen Institutionen oder Per­\nsonen abhängig sind, beispielsweise im Rahmen von Outsourcing, sollten diese Schnitt­",
+  "pages": {
+    "start": 56,
+    "end": 58
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

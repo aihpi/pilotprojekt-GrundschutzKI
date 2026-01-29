@@ -1,0 +1,26 @@
+{
+  "id": "8_2_9",
+  "header": "8.2.9 Schlussfolgerungen aus den Ergebnissen der Schutzbedarfsfeststellung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.9",
+      "title": "Schlussfolgerungen aus den Ergebnissen der Schutzbedarfsfeststellung"
+    }
+  ],
+  "content": "Die bei der Schutzbedarfsfeststellung erzielten Ergebnisse bieten einen Anhaltspunkt für die weitere \nVorgehensweise der Sicherheitskonzeption. Für den Schutz, der von den in den IT-Grundschutz-Bau­\nsteinen beschriebenen Sicherheitsanforderungen ausgeht, wird bezüglich der Schutzbedarfskatego­\nrien Folgendes angenommen:\n\nSchutzwirkung von Sicherheitsanforderungen nach IT-Grundschutz\n\nSchutzbedarfskategorie „normal“ \nSicherheitsanforderungen nach IT-Grundschutz sind im \nAllgemeinen ausreichend und angemessen.\n\nSchutzbedarfskategorie „hoch“ \nSicherheitsanforderungen nach IT-Grundschutz liefern \neine Standard-Absicherung, sind aber unter Umständen \nalleine nicht ausreichend. Weitergehende Maßnahmen \nsollten auf Basis einer Risikoanalyse ermittelt werden.\n\nSchutzbedarfskategorie „sehr hoch“ \nSicherheitsanforderungen nach IT-Grundschutz liefern \neine Standard-Absicherung, reichen aber alleine im All­\ngemeinen nicht aus. Die erforderlichen zusätzlichen Si­\ncherheitsmaßnahmen müssen individuell auf der Grund­\nlage einer Risikoanalyse ermittelt werden.\n\nTabelle 5: Schutzwirkung von Sicherheitsanforderungen nach IT-Grundschutz\n\nAußer bei hohem oder sehr hohem Schutzbedarf muss eine Risikoanalyse auch dann durchgeführt \nwerden, wenn die Objekte des betrachteten Informationsverbunds\n\n•  mit den existierenden Bausteinen des IT-Grundschutzes nicht hinreichend abgebildet (modelliert) \nwerden können oder\n\n•  in Einsatzszenarien (Umgebung, Anwendung) betrieben werden, die im Rahmen des IT-Grund­\nschutzes nicht vorgesehen sind.\n\nAusführliche Informationen zur Risikoanalyse finden sich in Kapitel 8.5.\n\nBereiche mit unterschiedlichem Schutzbedarf\n\nBei der Schutzbedarfsfeststellung zeigt sich häufig, dass es Bereiche innerhalb des betrachteten Infor­\nmationsverbunds gibt, in denen Informationen verarbeitet werden, die einen hohen oder sehr hohen \nSchutzbedarf haben. Auch wenn nur wenige, herausgehobene Daten besonders schutzbedürftig \nsind, führt die starke Vernetzung und Kopplung von IT-Systemen, ICS- und sonstigen Geräten und \nAnwendungen schnell dazu, dass sich der höhere Schutzbedarf nach dem Maximumprinzip auf an­\ndere Bereiche überträgt.",
+  "pages": {
+    "start": 130,
+    "end": 131
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

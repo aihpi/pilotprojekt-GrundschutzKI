@@ -1,0 +1,26 @@
+{
+  "id": "8_1_3",
+  "header": "8.1.3 Erfassung der Anwendungen und der zugehörigen Informationen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.3",
+      "title": "Erfassung der Anwendungen und der zugehörigen Informationen"
+    }
+  ],
+  "content": "Ausgehend von jedem Geschäftsprozess bzw. jeder Fachaufgabe, die im Informationsverbund ent­\nhalten ist, müssen in dieser Phase die damit zusammenhängenden Anwendungen und die damit \nverarbeiteten Informationen identifiziert werden. Anwendungen dienen der IT-technischen Unter­\nstützung von Geschäftsprozessen und Fachaufgaben in Behörden und Unternehmen.\n\nDie geeignete Granularität für die betrachteten Anwendungen muss in jeder Institution individuell \ngewählt werden. Ziel sollte dabei sein, eine optimale Transparenz und Effizienz bei der Strukturanalyse \nund der Schutzbedarfsfeststellung zu erreichen. Auch die im IT-Grundschutz-Kompendium betrach­\nteten Bausteine aus der Schicht der Anwendungen können für diesen Schritt Aufschluss geben.\n\nZur weiteren Reduzierung des Aufwands kann die Strukturanalyse des Informationsverbunds auf die \nAnwendungen und Informationen beschränkt werden, die für die betrachteten Geschäftsprozesse \noder Fachaufgaben erforderlich sind. Dabei sollte darauf geachtet werden, dass zumindest diejenigen \nAnwendungen und Informationen berücksichtigt werden, die aufgrund der Anforderungen der be­\ntrachteten Geschäftsprozesse oder Fachaufgaben ein Mindestniveau an\n\n• Geheimhaltung (Vertraulichkeit) oder\n\n• Korrektheit und Unverfälschtheit (Integrität) oder\n\n• Verfügbarkeit\n\nerfordern.\n\nBei der Erfassung der Anwendungen sollten auch die Benutzer bzw. die für die Anwendung Verant­\nwortlichen sowie die für den Geschäftsprozess Verantwortlichen befragt werden, wie sie das erfor­\nderliche Sicherheitsniveau einschätzen.\n\nAufgrund der steigenden Komplexität von Anwendungen ist es jedoch oft für die Fachverantwortli­\nchen nicht klar, welche Abhängigkeiten zwischen einem Geschäftsprozess oder einer Fachaufgabe zu \neiner konkreten Anwendung bestehen. Es sollte also für jede einzelne Fachaufgabe festgestellt wer­\nden, welche Anwendungen für ihre Abwicklung notwendig sind und auf welche Daten dabei zuge­\ngriffen wird. In einer gemeinsamen Sitzung der Fachabteilung, der Verantwortlichen der einzelnen \nAnwendungen und der unterstützenden IT-Abteilung können diese Abhängigkeiten erfasst werden. \nBeispielsweise können Bestellungen nicht abschließend bearbeitet werden, wenn keine Informatio­\nnen über den Lagerbestand zur Verfügung stehen.\n\nFalls abweichend von der hier vorgeschlagenen Reihenfolge zuerst die IT-Systeme erfasst wurden, ist \nes häufig hilfreich, die Anwendungen an erster Stelle orientiert an den IT-Systemen zusammenzutra­\ngen. Aufgrund ihrer Breitenwirkung sollte dabei mit den Servern begonnen werden. Um ein möglichst \nausgewogenes Bild zu bekommen, kann anschließend diese Erhebung aufseiten der Clients und Ein­\nzelplatz-Systeme vervollständigt werden. Abschließend sollte noch festgestellt werden, welche Netz­\nkoppelelemente welche Anwendungen unterstützen. Für die Erfassung der Anwendungen auf einem \nStandard-Client hat sich in der Praxis bewährt, seitens der unterstützenden IT-Abteilung die Stan­\ndard-Software der Clients als Paket zu betrachten. So wird die Standard-Software nicht vergessen. \nOftmals wird diese als selbstverständlich angesehen und deren Anwendung wird in Interviews nicht \nmehr explizit genannt (z. B. die E-Mail-Anwendung oder Bürokommunikation).\n\nAusgehend von den Anwendungen können die zugehörigen Geschäftsprozesse auch im Nachgang \nerfasst werden (siehe Kapitel 8.1.2). Der Verantwortliche und die Benutzer der Anwendung sollten \nebenfalls erfasst werden, um Ansprechpartner für Sicherheitsfragen leichter identifizieren bzw. be­\ntroffene Benutzergruppen schnell erreichen zu können.",
+  "pages": {
+    "start": 82,
+    "end": 83
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

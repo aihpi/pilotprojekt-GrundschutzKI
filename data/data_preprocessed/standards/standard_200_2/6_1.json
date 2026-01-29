@@ -1,0 +1,26 @@
+{
+  "id": "6_1",
+  "header": "6.1 Festlegung des Geltungsbereichs für die Basis-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "6.1",
+      "title": "Festlegung des Geltungsbereichs für die Basis-Absicherung"
+    }
+  ],
+  "content": "Bei der Erstellung einer Sicherheitskonzeption muss als Erstes festgelegt werden, welchen Bereich der \nInstitution sie abdecken soll (Geltungsbereich).\n\nDer Geltungsbereich kann die gesamte Institution umfassen oder auch nur einzelne Bereiche. Auf \njeden Fall muss der Geltungsbereich klar abgegrenzt und sinnvoll in sich abgeschlossen sein, mit we­\nnigen, eindeutig definierten Schnittstellen. So könnte eine Institution beispielsweise für eine neu hin­\nzugekommene Abteilung mit ihren Geschäftsprozessen und Assets zunächst die Basis-Absicherung \numsetzen. Vertiefende Informationen zur Abgrenzung des Geltungsbereichs sind im Kapitel 3.4.3 \nFestlegung des Geltungsbereichs und Inhalt der Sicherheitsleitlinie zu finden.\n\nInformationsverbund\n\nDer Geltungsbereich für die Erstellung der Sicherheitskonzeption wird im Folgenden „Informations­\nverbund“ genannt. Ein Informationsverbund umfasst die Gesamtheit von infrastrukturellen, organi­\nsatorischen, personellen und technischen Komponenten, die der Aufgabenerfüllung in einem be­\nstimmten Anwendungsbereich der Informationsverarbeitung dienen. Ein Informationsverbund kann \ndabei als Ausprägung die gesamte Informationsverarbeitung einer Institution oder auch einzelne Be­\nreiche umfassen, die nach organisatorischen oder technischen Strukturen (z. B. Abteilungsnetz) oder \ngemeinsamen Geschäftsprozessen bzw. Anwendungen (z. B. Personalinformationssystem) geglie­\ndert sind. Für die Erstellung der Sicherheitskonzeption werden auf Grundlage der bereits während \nder Vorarbeiten erfolgten Ersterfassung (siehe Kapitel 3.2.4 Ersterfassung der Prozesse, Anwendun­\ngen und IT-Systeme) die relevanten Bestandteile des betrachteten Informationsverbunds identifiziert.",
+  "pages": {
+    "start": 62,
+    "end": 62
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

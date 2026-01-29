@@ -1,0 +1,26 @@
+{
+  "id": "4_4",
+  "header": "4.4 Dokumentation (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.4",
+      "title": "Dokumentation (R+AS)"
+    }
+  ],
+  "content": "Eine angemessene Dokumentation ermöglicht es, getroffene Entscheidungen nachzu­\nvollziehen, Handlungen zu wiederholen sowie Managementsysteme zu überprüfen und \nzu zertifizieren. Zusätzlich können Korrekturbedarfe und Verbesserungsmöglichkeiten \nbesser nachverfolgt werden. Dieser Standard gibt eine grundlegende Dokumentenstruk­\ntur für ein BCMS vor. Die geforderten Dokumente werden in den folgenden Unterkapi­\nteln sowie den Kapiteln zu den entsprechenden BCM-Prozessschritten beschrieben, in \ndenen die Dokumente eingesetzt werden. Ferner werden unter den Hilfsmitteln zu die­\nsem Standard entsprechende Dokumentvorlagen mit Beispieltexten zur Verfügung ge­\nstellt.\n\nIm Aufbau- und Standard-BCMS stellt die Dokumentation sicher, dass \nden berechtigten Interessengruppen der Zugang zu relevanten Informatio­\nnen möglich ist. Um diesen Ansprüchen gerecht zu werden, bedarf es im \nAufbau- und Standard-BCMS einer Dokumentenlenkung. Die Dokumenten­\nlenkung beinhaltet Vorgaben, wie die Dokumente gestaltet, überarbeitet \nund freigegeben werden (siehe 4.4.2 Festlegung von Dokumentinformatio­\nnen). Ziel ist es, dass die Inhalte jedes Dokuments für die relevanten Perso­\nnen verfügbar, aktuell und in angemessener Qualität vorliegen (siehe 4.4.3 \nÜberprüfung und Aktualisierung von Dokumenten).\n\nAbbildung 20: BCM-Prozessschritte zur Dokumentation im Standard-BCMS\n\nSynergiepotenzial\n\nDie Dokumentenlenkung ist üblicherweise als Bestandteil des Qualitätsmanagement­\nsystems definiert. Die Vorgaben aus diesem BSI-Standard können mit den instituti­\nonsspezifisch geltenden Anforderungen abgestimmt werden. Alternativ kann auf die \nRegelungen zur Dokumentenlenkung gemäß BSI-Standard 200-2 zurückgegriffen \nwerden. Mitunter müssen auch branchenspezifische, regulatorische Anforderungen \nan die Dokumentenlenkung berücksichtigt werden, z. B. die „Schriftlich fixierte Ord­\nnung“ im Finanzsektor.",
+  "pages": {
+    "start": 81,
+    "end": 82
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

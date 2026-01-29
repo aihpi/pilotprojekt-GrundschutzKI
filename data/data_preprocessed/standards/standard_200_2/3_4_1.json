@@ -1,0 +1,31 @@
+{
+  "id": "3_4_1",
+  "header": "3.4.1 Verantwortung der Behörden- bzw. Unternehmensleitung für die Sicherheitsleitlinie",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.4",
+      "title": "Erstellung einer Leitlinie zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "3.4.1",
+      "title": "Verantwortung der Behörden- bzw. Unternehmensleitung für die Sicherheitsleitlinie"
+    }
+  ],
+  "content": "Mit der Leitlinie zur Informationssicherheit wird dokumentiert, welche strategische Position die Insti­\ntutionsleitung zur Erreichung der Informationssicherheitsziele auf allen Ebenen der Organisation ein­\nnimmt.\n\nDa die Sicherheitsleitlinie ein zentrales Strategiepapier für die Informationssicherheit einer Institution \ndarstellt, muss sie so gestaltet sein, dass sich alle adressierten Organisationseinheiten mit ihrem Inhalt \nidentifizieren können. An ihrer Erstellung sollten daher möglichst viele Bereiche beteiligt werden. Jede \nInstitution muss letztendlich aber selbst entscheiden, welche Abteilungen und Hierarchieebenen an \nder Formulierung der Sicherheitsleitlinie mitwirken.\n\nEs empfiehlt sich bei der Erarbeitung der Sicherheitsleitlinie, das Fachwissen der folgenden Organisa­\ntionseinheiten zu nutzen: Fachverantwortliche für wichtige Anwendungen, IT-Betrieb, Sicherheit (In­\nformations-, IT- und Infrastruktur-Sicherheit), Datenschutzbeauftragter, Produktion und Fertigung, \nPersonalabteilung, Personalvertretung, Revision, Vertreter für Finanzfragen, Rechtsabteilung.",
+  "pages": {
+    "start": 33,
+    "end": 33
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

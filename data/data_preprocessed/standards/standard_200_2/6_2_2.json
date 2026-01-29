@@ -1,0 +1,26 @@
+{
+  "id": "6_2_2",
+  "header": "6.2.2 Reihenfolge der Baustein-Umsetzung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "6.2.2",
+      "title": "Reihenfolge der Baustein-Umsetzung"
+    }
+  ],
+  "content": "Um grundlegende Risiken abzudecken und eine ganzheitliche Informationssicherheit aufzubauen, \nmüssen die essenziellen Sicherheitsanforderungen frühzeitig erfüllt und entsprechende Sicherheits­\nmaßnahmen umgesetzt werden. Daher wird im IT-Grundschutz eine Reihenfolge für die umzusetzen­\nden Bausteine vorgeschlagen.\n\nIm IT-Grundschutz-Kompendium wird im Kapitel Schichtenmodell und Modellierung beschrieben, \nwann ein einzelner Baustein sinnvollerweise eingesetzt werden soll und auf welche Zielobjekte er \nanzuwenden ist. Zudem sind die Bausteine danach gekennzeichnet, ob sie vor- oder nachrangig um­\ngesetzt werden sollten.\n\nDiese Kennzeichnung zeigt nur die sinnvolle zeitliche Reihenfolge für die Umsetzung der jeweiligen \nAnforderungen der Bausteine auf und stellt keine Gewichtung der Bausteine untereinander dar. \nGrundsätzlich müssen alle für den jeweiligen Informationsverbund relevanten Bausteine des IT-Grund­\nschutz-Kompendiums umgesetzt werden.\n\nDie Kennzeichnung der Bausteine stellt des Weiteren nur eine Empfehlung dar, in welcher Reihenfolge \ndie verschiedenen Bausteine sinnvoll umgesetzt werden könnten. Jede Institution kann hier eine ab­\nweichende, für sich sinnvolle Reihenfolge festlegen.",
+  "pages": {
+    "start": 63,
+    "end": 63
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "13_10_3",
+  "header": "13.10.3 Ergebnisvorstellung und Festlegung der Folgeschritte",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.10",
+      "title": "Auswertung und Nachbereitung von Übungen (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.10.3",
+      "title": "Ergebnisvorstellung und Festlegung der Folgeschritte"
+    }
+  ],
+  "content": "### (AS)\n\nUm das BCMS aufrechtzuerhalten und kontinuierlich verbessern zu können, muss regel­\nmäßig überprüft werden, ob das BCMS angemessen, wirksam und effizient ist. Anhand \nder Leistungsüberprüfung kann festgestellt werden, ob die jeweiligen Vorgaben des \nBCMS eingehalten und Ziele des BCMS erreicht werden. Außerdem werden Korrektur­\nbedarfe und Verbesserungsmöglichkeiten sowie Abweichungen zu den definierten Vor­\ngaben im BCM aufgedeckt, die durch die Korrektur und Verbesserung des BCMS be­\nhandelt werden (siehe Kapitel 15 Aufrechterhaltung und Verbesserung (R+AS)). Die Insti­\ntutionsleitung erhält durch die Berichte aus der Leistungsüberprüfung die Möglichkeit, \npotenzielle Fehlentwicklungen zu identifizieren und proaktiv darauf reagieren zu kön­\nnen. Je nach gewählter BC-Strategie kann es zudem erforderlich sein, neben dem eige­\nnen BCMS, die BC-Fähigkeiten von zeitkritischen Dienstleistungsunternehmen zu über­\nwachen und zu bewerten, insbesondere, wenn zeitkritische Lieferketten abzusichern \nsind. Abbildung 55 gibt einen Überblick über die notwendigen Schritte zur Leistungs­\nüberprüfung und Berichterstattung.\n\nAbbildung 55: BCM-Prozessschritte zur Leistungsüberprüfung",
+  "pages": {
+    "start": 286,
+    "end": 287
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

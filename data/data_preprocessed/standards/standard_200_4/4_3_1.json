@@ -1,0 +1,31 @@
+{
+  "id": "4_3_1",
+  "header": "4.3.1 Institutionsleitung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.3",
+      "title": "Definition der BC-Aufbauorganisation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.3.1",
+      "title": "Institutionsleitung (R+AS)"
+    }
+  ],
+  "content": "Die Institutionsleitung trägt die Gesamtverantwortung für das BCM. Sie muss folgende \nAufgaben wahrnehmen:\n\n• \nFestlegen der Ziele und Rahmenbedingungen des BCM\n\n• \nBenennen des oder der BCB\n\n• \nBereitstellen der angemessenen personellen, zeitlichen und finanziellen Ressourcen\n\n• \nSicherstellen, dass der oder die BCB sein direktes Vorspracherecht wahrnehmen \nkann\n\n• \nSicherstellen, dass BCM in alle relevanten Geschäftsprozesse und Projekte integriert \nwird\n\n• \nInformieren des oder der BCB über grundlegende Strategie- oder Organisationsän­\nderungen\n\n• \nBetonen der Wichtigkeit des BCM allen Mitarbeitenden gegenüber\n\n• \nMotivation und Aufforderung aller Mitarbeitenden, zu einem effektiven BCMS und \ndessen Verbesserung beizutragen",
+  "pages": {
+    "start": 79,
+    "end": 79
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

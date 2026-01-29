@@ -1,0 +1,21 @@
+{
+  "id": "1_1",
+  "header": "1.1 Versionshistorie",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.1",
+      "title": "Versionshistorie"
+    }
+  ],
+  "content": "Der BSI-Standard 200-3 löst den BSI-Standard 100-3 ab.\n\nStand \nVersion \nÄnderungen\n\nOktober 2016 \nCD 1.0 \nNeukonzeption basierend auf BSI-Standard 100-3\n\n• Risikoanalyse auf die elementaren Gefährdungen umgestellt\n\n• Einführung Matrix-Ansatz zur Bewertung von Risiken\n\n• Einführung Risikoappetit und Chancenmanagement\n\nOktober 2017 \n1.0 \nEinarbeitung Anwenderkommentare\n\n• Begriffe „Eintrittswahrscheinlichkeit“ und „Handlungsalter­\nnativen“ durch „Eintrittshäufigkeit“ bzw. „Handlungsoptio­\nnen“ ersetzt\n\n• Gegenüberstellung von Begriffen aus ISO/IEC 31000 und dem \nBSI-Standard 200-3\n\n• Kapitel Risikoeinstufung unterteilt in Risikoeinschätzung und \nRisikobewertung\n\n• Ziel des Dokuments auf die Darstellung der Risikoanalyse kon­\nzentriert",
+  "pages": {
+    "start": 5,
+    "end": 5
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_3",
+    "file": "standard_200_3.pdf"
+  }
+}

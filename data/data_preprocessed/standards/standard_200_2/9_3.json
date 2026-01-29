@@ -1,0 +1,26 @@
+{
+  "id": "9_3",
+  "header": "9.3 Festlegung der Umsetzungsreihenfolge der Maßnahmen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "9.3",
+      "title": "Festlegung der Umsetzungsreihenfolge der Maßnahmen"
+    }
+  ],
+  "content": "Kapitel 8.3.3 beschreibt eine Reihenfolge, in der die Bausteine umgesetzt werden sollten, von grund­\nlegenden und übergreifenden Bausteinen bis hin zu solchen, die speziellere Themen abdecken und \ndaher in der zeitlichen Reihenfolge eher nachrangig betrachtet werden können. Diese Reihenfolge \nder Baustein-Umsetzung ist vor allem bei der Basis-Absicherung wichtig. Sie kann aber auch allgemein \nbei der Festlegung der Umsetzungsreihenfolge für die einzelnen Maßnahmen eines Sicherheitskon­\nzepts herangezogen werden.\n\nGrundsätzlich sind als Erstes die aus den Basis-Anforderungen abgeleiteten Maßnahmen umzuset­\nzen, dann die der Standard-Anforderungen. Die zusätzlichen Maßnahmen für den erhöhten Schutz­\nbedarf sollten erst anschließend angepasst und realisiert werden.\n\nWenn das vorhandene Budget oder die personellen Ressourcen nicht ausreichen, um sämtliche noch \nnotwendigen Maßnahmen sofort umsetzen zu können, muss hier eine Priorisierung festgelegt wer­\nden.\n\nDie weitere Umsetzungsreihenfolge orientiert sich daran, was für die jeweilige Institution am sinn­\nvollsten ist. Tipps dazu sind:\n\n•  Die Umsetzungsreihenfolge lässt sich daran festmachen, wann im Lebenszyklus eines Zielobjektes \ndie jeweiligen Maßnahmen umzusetzen sind. Bei neuen Zielobjekten sind beispielsweise Maßnah­\nmen aus den Bereichen Planung und Konzeption vor solchen umzusetzen, bei denen es um den \nsicheren Betrieb geht, während bei schon länger im Informationsverbund vorhandenen Zielobjek­\nten zunächst die Absicherung des Betriebs im Vordergrund stehen sollte.\n\n•  Bei einigen Maßnahmen ergibt sich durch Abhängigkeiten und logische Zusammenhänge eine \nzwingende zeitliche Reihenfolge. So kann eine restriktive Rechtevergabe (Basis-Anforderung) auf \neinem neuen Server nur erfolgen, wenn dieser zunächst sicher installiert wurde (Standard-Anfor­\nderung). Diese Reihenfolge kann mit der Klassifikation in Basis- und Standard-Anforderungen auf\n\nden ersten Blick kollidieren. Dennoch haben Basis-Anforderungen inhaltlich stets Priorität, sofern \nsie bereits erfüllbar sind, im Beispiel etwa bei einem bestehenden Server.\n\n•  Manche Maßnahmen erzielen eine große Breitenwirkung, manche jedoch nur eine einge­\nschränkte lokale Wirkung. Oft ist es sinnvoll, zuerst auf die Breitenwirkung zu achten. Auch \ndaher sollten bevorzugt die Basis-Anforderungen umgesetzt werden, da mit diesen die schnells­\nte Absicherung in der Breite erreicht werden kann. Es lohnt sich aber auch durchaus, die Maß­\nnahmen aus den verschiedenen Bereichen danach zu gewichten, wie schnell sie sich umsetzen \nlassen und welchen Sicherheitsgewinn sie liefern. Sogenannte „Quick Wins“ lassen sich häufig \nim organisatorischen Bereich finden oder durch zentrale Konfigurationseinstellungen errei­\nchen.\n\n•  Es gibt Bausteine, die auf das angestrebte Sicherheitsniveau einen größeren Einfluss haben als \nandere. Maßnahmen eines solchen Bausteins sollten bevorzugt behandelt werden, insbesondere \nwenn hierdurch Schwachstellen in hochschutzbedürftigen Bereichen beseitigt werden. So sollten \nimmer zunächst die Server abgesichert werden (unter anderem durch Umsetzung des Bausteins \nSYS.1.1 Allgemeiner Server) und dann erst die angeschlossenen Clients.\n\n•  Bausteine mit auffallend vielen nicht umgesetzten Anforderungen repräsentieren Bereiche mit vie­\nlen Schwachstellen. Sie sollten ebenfalls bevorzugt behandelt werden.\n\nDie Entscheidung, welche Sicherheitsmaßnahmen ergriffen oder zunächst verschoben werden \nund wo Restrisiken akzeptiert werden können, sollte auch aus juristischen Gründen sorgfältig \ndokumentiert werden. In Zweifelsfällen sollten hierfür weitere Meinungen eingeholt und diese \nebenfalls dokumentiert werden, um in späteren Streitfällen die Einhaltung der erforderlichen Sorg­\nfaltspflicht belegen zu können.\n\nHinweis\n\nBereits einleitend wurde darauf hingewiesen, dass die Erffllung von Anforderungen an fehlen­\nden Ressourcen scheitern kann. Die oben angeffhrten Aspekte ermöglichen eine erste Priori­\nsierung. Bei dieser Vorgehensweise werden jedoch die verbleibenden Restrisiken nicht hinrei­\nchend betrachtet. Wenn Anforderungen aus IT-Grundschutz-Bausteinen nicht erffllt sind, ist es \nempfehlenswert, im Rahmen einer vereinfachten Risikoanalyse die entstandenen Defizite zu \nbetrachten. In diesem Fall kann die in der Risikoanalyse durchzuffhrende Ermittlung von Ge­\nfährdungen entfallen. Dies ist bereits bei der Erstellung der Grundschutz-Bausteine geschehen. \nEs verbleibt somit die Bewertung des Risikos aufgrund der fehlenden Umsetzung von Anforde­\nrungen.",
+  "pages": {
+    "start": 160,
+    "end": 161
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

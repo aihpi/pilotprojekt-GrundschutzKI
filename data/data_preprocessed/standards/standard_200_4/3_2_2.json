@@ -1,0 +1,26 @@
+{
+  "id": "3_2_2",
+  "header": "3.2.2 Entwicklung der Ziele des BCMS (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "3.2.2",
+      "title": "Entwicklung der Ziele des BCMS (R+AS)"
+    }
+  ],
+  "content": "Die Institutionsleitung muss die strategischen Ziele festlegen, die mit dem Aufbau und \ndem Betrieb des BCMS verfolgt werden. So ist es empfehlenswert, bei den Zielen zu be­\nrücksichtigen,\n\n• \nwelche Geschäftsziele geschützt werden sollen,\n\n• \nwelche Arten von Geschäftsunterbrechungen als existenzbedrohend angesehen \nwerden (grobe Vorgaben hinsichtlich Schadenshöhe und zu betrachtenden Scha­\ndensszenarien),\n\n• \nwelche Bereitschaft besteht, Risiken einzugehen (Risikobereitschaft),\n\n• \nin welcher Art und Größenordnung Risiken minimiert werden sollen sowie\n\n• \nwas das primäre Ziel der Bewältigung ist.\n\nDarüber hinaus muss in der Zielsetzung festgelegt werden, dass das BCMS anhand der \nVorgaben des BSI-Standard 200-4 etabliert, aufrechterhalten und verbessert wird.\n\nBeispiel\n\nFolgende Ziele könnten beispielsweise auf strategischer Ebene festgelegt werden:\n\n• \nDie Abwicklung bestehender Aufträge steht im Vordergrund und es wird kein \nNeugeschäft angenommen.\n\n• \nDas BCMS wird anhand des BCM-Prozesses aus dem BSI-Standard 200-4 aufge­\nbaut. Nach zwei Jahren wird ein Aufbau-BCMS erreicht und nach insgesamt \nfünf Jahren ist ein Standard-BCMS etabliert.\n\n• \nAlle Geschäftsprozesse sollen mit mindestens 50 % der Leistungsfähigkeit oder \ndes Durchsatzes auch im Notfall funktionieren.\n\n• \nDas primäre Ziel der Bewältigung ist, die Ausbreitung des Schadens zu verhin­\ndern. Dies hat Priorität vor dem schnellstmöglichen Wiederanlauf.",
+  "pages": {
+    "start": 54,
+    "end": 54
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "13_2",
+  "header": "13.2 Festlegung der Rahmenbedingungen zum Üben (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.2",
+      "title": "Festlegung der Rahmenbedingungen zum Üben (AS)"
+    }
+  ],
+  "content": "### Übungsumfang\n\nDas Üben ist mit zeitlichen, technischen und personellen Aufwänden verbunden. Es ist \ndaher wichtig, dass jede Institution genau abwägt, welche Arten von Übungen für wel­\nchen Zweck und in welchem Umfang sinnvoll sind. Pro Übungsart sollte vorgegeben \nwerden, wie häufig und mit welcher Detailtiefe die Übungen durchgeführt werden sol­\nlen. Dabei kann ein risikoorientierter Ansatz verfolgt werden, d. h. der Übungsumfang \nkann z. B. abhängig von den in der BIA ermittelten RTO differenziert festgelegt werden \n(siehe Tabelle 37).\n\nBeispiel\n\nÜbungsart\n\nGeschätzter \nÜbungs-\numfang\n\nHäufigkeit \nDetailtiefe\n\nPlanbesprechung niedrig \n• zeitnah nach Plan-\n\nerstellung \n• zeitnah nach we­\n\nsentlichen Ände­\nrungen betroffener \nPläne\n\nalle Kapitel (möglicherweise \nverteilt über mehrere Planbe­\nsprechungen)\n\nAS\n\nÜbungsart\n\nHäufigkeit \nDetailtiefe\n\nFunktionstest \nmittel – hoch \n• mindestens jährlich\n\nfür Prozesse und \nRessourcen mit RTO \n< 24 h \n• mindestens alle 3\n\nJahre für Prozesse \nund Ressourcen mit \nRTO < 5 Tage\n\neinzelne Komponente \neinzelne Ressource \nressourcenübergreifend\n\nStabsübung \nniedrig – mittel \n• mindestens jährlich  alle Stabsmitglieder (Kern­\n\nteam) und stabsnahe Unter­\nstützungsfunktionen sowie \nalle Stellvertretenden\n\nTabelle 37: Beispiel für differenzierte Angaben zum Übungsumfang",
+  "pages": {
+    "start": 261,
+    "end": 263
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

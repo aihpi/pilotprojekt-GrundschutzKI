@@ -1,0 +1,26 @@
+{
+  "id": "11_2",
+  "header": "11.2 Erstellung der GFPs (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.2",
+      "title": "Erstellung der GFPs (R+AS)"
+    }
+  ],
+  "content": "In diesem Kapitel wird beschrieben, wie die Inhalte der GFPs erarbeitet werden. Insbe­\nsondere müssen folgende Inhalte im GFP dokumentiert werden:\n\n• \nGeltungsbereich des GFP\n\n• \nZweck und Zielsetzung des GFP\n\n• \nAktivierungsprozess des GFP\n\n• \ndie gesonderten Rechte, Berechtigungen und Pflichten der Mitarbeitenden im Gel­\ntungsbereich des GFP im Notfall\n\n• \nalle zeitkritischen Geschäftsprozesse und deren RTO im Geltungsbereich des GFP\n\n• \ndie identifizierten Abhängigkeiten zu den zeitkritischen Geschäftsprozessen des GFP\n\n• \ndie für die zeitkritischen Geschäftsprozesse des GFP benötigten Ressourcen und de­\nren RTO/RPO\n\n• \norganisatorische Notfallmaßnahmen zur Geschäftsfortführung\n\n• \ndie im Notfall relevanten Kontakte oder Referenzen auf diese\n\nZusätzlich ist es empfehlenswert, die Melde- und Berichtspflichten im Notfall im GFP zu \ndokumentieren:\n\nFalls auf Informationen in anderen Dokumenten verwiesen wird, müssen diese Doku­\nmente im GFP nachvollziehbar referenziert werden. Im GFP muss beschrieben werden, \nwie die relevanten Mitarbeitenden im Notfall alarmiert und informiert werden.",
+  "pages": {
+    "start": 228,
+    "end": 228
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

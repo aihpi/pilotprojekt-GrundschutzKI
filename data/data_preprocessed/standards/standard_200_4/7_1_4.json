@@ -1,0 +1,31 @@
+{
+  "id": "7_1_4",
+  "header": "7.1.4 Planung der BIA-Erhebung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "6.5",
+      "title": "Systematische Erweiterung des GP-Umfangs im Rahmen des Aufbau-BCMS (A)"
+    },
+    {
+      "level": 3,
+      "number": "7.1.4",
+      "title": "Planung der BIA-Erhebung (R+AS)"
+    }
+  ],
+  "content": "Vor Beginn der BIA sollte festgelegt werden, wie die Informationen zur BIA erhoben \nwerden sollen. Hierzu bieten sich verschiedene Formate an, z. B.\n\n• \nSelbstauskunft durch den Prozesseigentümer oder die -eigentümerin anhand eines \npapierbasierten, elektronischen oder toolgestützten Fragebogens,\n\n• \nEinzelinterviews mit verschiedenen Personen (z. B. Leitenden der Organisationsein­\nheiten, Prozesszuständigen oder sonstigen Prozessfachleuten, die Auskunft geben \nkönnen) oder\n\n• \nWorkshops, mit mehreren Personen.\n\nWird die BIA zum ersten Mal durchgeführt, ist es empfehlenswert, diese anhand von \nWorkshops durchzuführen. Der Workshop bietet verschiedene Vorteile gegenüber For­\nmaten, in denen die Kontaktpersonen die Informationen selbstständig erheben, z. B. fol­\ngende:\n\n• \nIm Workshop kann näher erläutert werden, welche Auswirkung die BIA auf spätere \nFolgeschritte im BCM hat, beispielsweise auf die Geschäftsfortführungsplanung.\n\n• \nEs ist hilfreich darauf hinzuweisen, dass die BIA nicht der Organisationsoptimierung \ndient und anhand der Ergebnisse weder Umstrukturierungen, Arbeitsplatzverdich­\ntung oder ähnliches abgeleitet werden können, da die Fragestellungen sich auf ei­\nnen temporären Notbetrieb beziehen.\n\n• \nEs ist hilfreich darauf hinzuweisen, dass die Frage, ob ein Geschäftsprozess zeitkri­\ntisch ist, nicht damit gleichzusetzen ist, ob dieser für die Organisationseinheit wichtig \nist.\n\n• \nDer Workshop lässt Raum für Fragen und gestattet, mögliche Unsicherheiten und \nBedenken der Teilnehmenden auszuräumen.\n\n• \nEs kann sichergestellt werden, dass die Ergebnisse anhand der Dokumentvorlage BIA \neinheitlich erhoben werden.\n\n• \nFehlerhafte oder fehlende Angaben können bereits im Workshop vermieden wer­\nden, sodass Nacharbeiten geringer ausfallen.\n\nEs ist empfehlenswert, dass ein BIA-Workshop durch eine BCM-sachkundige Person mo­\nderiert und darin die BIA-Methodik erläutert wird. Weiter nehmen am BIA-Workshop die \njeweiligen Prozesszuständigen teil sowie eventuell weitere Prozessfachleute, die den Ge­\nschäftsprozess im Detail kennen. Die Anzahl der BIA-Workshops kann sich an der Anzahl \nzu berücksichtigender Geschäftsprozesse ausrichten.\n\nWurde die BIA bereits häufiger durchgeführt oder sind die Kontaktpersonen mit der BIA-\nMethodik vertraut, können diese Kontaktpersonen die BIA auch selbstständig durchfüh­\nren. Der oder die BCB oder die BCKs können in diesem Fall für Rückfragen zur Verfü­\ngung stehen. Dann ist es empfehlenswert, dass der oder die BCB oder die BCKs die BIA \nzwecks Qualitätssicherung auswerten (siehe 7.3 Auswertung (R+AS)).\n\nDarüber hinaus ist es empfehlenswert, den maximal erwünschten Gesamtzeitraum der \nBIA inklusive Nachbereitung und Auswertung festzulegen, damit die personellen und \nzeitlichen Ressourcen darauf ausgerichtet werden können (siehe 4.5 Ressourcenplanung \n(R+AS)).",
+  "pages": {
+    "start": 172,
+    "end": 173
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

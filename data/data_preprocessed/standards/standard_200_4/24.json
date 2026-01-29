@@ -1,0 +1,21 @@
+{
+  "id": "24",
+  "header": "24 Stun­",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "24",
+      "title": "Stun­"
+    }
+  ],
+  "content": "### Festlegung des Notbetriebsniveaus (MBCO)\n\nUm im folgenden Schritt die für einen Notbetrieb zwingend erforderlichen Prozess- und \nRessourcenabhängigkeiten ermitteln zu können, muss vorab festgelegt werden, welches \nNotbetriebsniveau ein zeitkritischer Geschäftsprozess erreichen soll. Hierzu genügt eine \nstichpunktartige Beschreibung, welche Aktivitäten des Geschäftsprozesses innerhalb des \nNotbetriebs aufrechterhalten werden sollen und welche Aktivitäten zurückgestellt wer­\nden können (Priorisierung). Je nach Aufgaben- oder Geschäftszweck ist auch eine pro­\nzentuale Angabe des Notbetriebsniveaus möglich, z. B. im produzierenden Gewerbe.\n\nTabelle 23 greift das Beispiel aus Tabelle 22 auf und erweitert dieses um das Notbe­\ntriebsniveau zu den einzelnen Prozessen. Aus Platzgründen ist die Bewertung und Be­\ngründung des Schadenspotenzials ausgeblendet.\n\nGeschäftsprozess \n~ Notbetriebsniveau\n\nKundschaftsanfragen \nbeantworten \n~\n\nIm Notbetrieb werden nur Prio-1- und Prio-2-Fragen innerhalb \nder üblichen Frist beantwortet. Alle anderen Fragen werden zu­\nrückgestellt.\n\nKundschaftsanfrage \nim Kundencenter \nentgegennehmen\n\n~\n\nIm Notbetrieb werden nur Anfragen per E-Mail entgegenge­\nnommen. Es wird eine längere Reaktionszeit von einem Tag ge­\nwährt. Die Telefonhotline wird über eine Bandansage bedient, \ndie über die längere Reaktionszeit und die Möglichkeit des  \nE-Mail-Supports informiert.\n\nTabelle 23: Beispiel eines dokumentierten Notbetriebsniveaus\n\nZudem kann es hilfreich sein, nicht nur den Zielzustand des Notbetriebsniveaus zu be­\nschreiben, sondern auch mögliche kurz- und langfristige Ziele, beispielsweise: „Was soll \nin den ersten Stunden, Tagen oder im Notbetrieb erreicht werden?“ Wenn das Notbe­\ntriebsniveau über einen zeitlichen Verlauf betrachtet wird, kann die Information dabei \nhelfen, den Ressourcenbedarf im Notbetrieb zeitlich differenziert zu erheben.\n\nDieser Prozessschritt der BIA ist abgeschlossen, wenn\n\n• \ndie Geschäftsprozesse im GP-Umfang hinsichtlich ihres Schadenspotenzials bewertet \nwurden,\n\n• \ndie Geschäftsprozesse im GP-Umfang anhand der Kriterien mit einer MTPD versehen \nsind,\n\n• \ndie MTPD je zeitkritischem Geschäftsprozess begründet wurde,\n\n• \nfür zeitkritische Geschäftsprozesse die jeweilige RTO definiert ist sowie\n\n• \nfür zeitkritische Geschäftsprozesse das erforderliche Notbetriebsniveau definiert \nwurde.",
+  "pages": {
+    "start": 179,
+    "end": 182
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

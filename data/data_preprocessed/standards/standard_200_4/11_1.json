@@ -1,0 +1,26 @@
+{
+  "id": "11_1",
+  "header": "11.1 Vorbereitung der GFPs (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.1",
+      "title": "Vorbereitung der GFPs (R+AS)"
+    }
+  ],
+  "content": "Eine effektive Vorbereitung der GFPs ist die Voraussetzung dafür, dass\n\n• \ndie GFPs effizient, vergleichbar und valide erstellt werden können,\n\n• \ndie Teilnehmenden optimal auf die Fragestellungen vorbereitet werden,\n\n• \ndie Verfügbarkeit der Pläne im Notfall gewährleistet ist sowie\n\n• \nim Notfall die Leser die GFPs gut lesen und schnell anwenden können.\n\nEs ist empfehlenswert, dass die Vorbereitung durch die Rolle BCB erfolgt, da diese über \ndas notwendige Fachwissen zum BCM-Prozess verfügt und diesen zeitlich steuert. Der \noder die BCB kann vorbereitende Tätigkeiten ganz oder teilweise an weitere Rollen im \nBCM delegieren, z. B. an lokale BCBs, BCKs oder ein BC-Vorsorgeteam (siehe 4.3 Defini­\ntion der BC-Aufbauorganisation (R+AS)). Die Aufgaben in der Vorbereitung der GFPs \nwerden in den nachfolgenden Unterkapiteln näher erläutert.",
+  "pages": {
+    "start": 224,
+    "end": 224
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

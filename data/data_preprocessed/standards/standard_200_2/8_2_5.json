@@ -1,0 +1,26 @@
+{
+  "id": "8_2_5",
+  "header": "8.2.5 Schutzbedarfsfeststellung für ICS-Systeme",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.5",
+      "title": "Schutzbedarfsfeststellung für ICS-Systeme"
+    }
+  ],
+  "content": "Im Bereich industrieller Steuerungsanlagen muss der Schutzbedarf aller ICS-Systeme festgestellt wer­\nden. Die ICS-Systeme wurden bereits in Kapitel 8.1.6 erfasst.\n\nBei der Feststellung des Schutzbedarfes für die ICS-Systeme muss berücksichtigt werden, dass nicht \nper se alle Objekte einem sehr hohen Schutzbedarf unterliegen. In enger Abstimmung ist es sinnvoll, \nmit den Verantwortlichen der ICS-Systeme in einem Gespräch die Schutzbedarfsfeststellung durch­\nzuführen, da diese wissen, welche ICS-Geräte welche Anforderungen an Vertraulichkeit, Integrität \nund Verfügbarkeit haben. Der Schutzbedarf leitet sich hierbei aus dem Anwendungszweck der indu­\nstriellen Steuerungsanlage ab.\n\nDabei sollte berücksichtigt werden, dass ICS-Systeme für verschiedene Aufgaben verwendet werden \nkönnen. So kann in einer Produktionsstraße im Wechsel ein für ein Unternehmen wichtiges umsatz­\nstarkes Produkt produziert werden und ein weniger umsatzstarkes Produkt. Bei der Feststellung des \nSchutzbedarfs müssen diese Abhängigkeiten beachtet werden (Maximumprinzip).\n\nFür die Definition des Schutzbedarfes kann es sinnvoll sein, die für alle weiteren Schutzbedarfsfest­\nstellungen definierten Klassifikationen zu übernehmen. Darüber hinaus können die Schutzbedarfska­\ntegorien entsprechend angepasst formuliert werden.\n\nBeispiel: RECPLAST GmbH\n\nFür ein IT-System aus einer Büroumgebung liegt eine Ausfallzeit von bis zu 30 Stunden im normalen \nBereich. Diese Ausfallzeit kann auch für den Betrieb von ICS-Systemen sinnvoll sein, möglicherweise \nist es jedoch erforderlich, die Ausfallzeit für die ICS-Geräte im normalen Schutzbedarf auf zwölf bis 24 \nStunden zu reduzieren.\n\nDer Schutzbedarf für jedes ICS-System wird bezüglich Vertraulichkeit, Integrität und Verfügbarkeit \nermittelt. Der Gesamtschutzbedarf der ICS-Systeme leitet sich nach dem Maximumprinzip bezüglich \nder drei Grundwerte der Vertraulichkeit, Integrität und Verfügbarkeit ab.\n\nDie Festlegungen des Schutzbedarfs von ICS-Systeme müssen kurz begründet werden, damit die \nEntscheidungen für Dritte nachvollziehbar sind.\n\nBSI-Standard 200-2\n\nA.2 Schutzbedarfsfeststellung der RECPLAST GmbH\n\nBezeich­\nnung\n\nBeschreibung des Ziel­\nobjektes / der Gruppe\nder Zielobjekte \nPlattform /\nBaustein \nVertraulich­\nkeit \nBegründung für die\nVertraulichkeit \nIntegrität \nBegründung für\ndie Integrität \nVerfügbar­\nkeit \nBegründung für\ndie Verfügbarkeit\n\nS100 \nSPS \nSPS \nnormal\n\nDer Quellcode enthält\nnur wenige vertrauliche\nInformationen. Der Zu­\ngriff auf den Quellcode\nist auf befugte Personen\nbeschränkt. \nsehr hoch\n\nDie Konfigurations­\ndaten müssen je­\nderzeit korrekt sein. hoch\n\nDie SPSen müssen\njederzeit verfügbar\nsein. Bei Nichtver­\nfügbarkeit kann die\nProduktion nicht\nweiterlaufen.\n\nS101 \nSCADA \nSCADA / HMI \nnormal\n\nDer Quellcode enthält\nnur wenige vertrauliche\nInformationen. Der Zu­\ngriff auf den Quellcode\nist auf befugte Perso­\nnen beschränkt. \nhoch\n\nDie verarbeiteten\nInformationen müs­\nsen korrekt und\nvollständig vorhan­\nden sein. \nhoch\n\nOhne den Server\nkönnen keine Infor­\nmationen in der\nProduktion verar­\nbeitet werden.\n\nS103 \nServer für Betriebsdaten­\nerfassung \nServer unter\nUnix \nnormal \nMaximumprinzip \nsehr hoch\n\nDie Betriebsdaten\nmüssen zu jeder Zeit\nkorrekt vorhanden\nsein \nhoch\n\nEin Ausfall der Be­\ntriebsdatensteue­\nrung ist bis 7 Stun­\nden tolerierbar, da\nes einen entspre­\nchenden Puffer in\nder Produktion gibt.\n\nS104 \nServer für Betriebsdaten­\nerfassung \nServer unter\nUnix \nnormal \nMaximumprinzip \nsehr hoch\n\nDie Betriebsdaten\nmüssen zu jeder Zeit\nkorrekt vorhanden\nsein \nhoch\n\nEin Ausfall der Be­\ntriebsdatensteue­\nrung ist bis 7 Stun­\nden tolerierbar, da\nes einen entspre­\nchenden Puffer in\nder Produktion gibt.\n\nAbbildung 22: Auszug aus der Schutzbedarfsfeststellung der RECPLAST GmbH (ICS-Systeme)",
+  "pages": {
+    "start": 119,
+    "end": 121
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

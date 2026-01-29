@@ -1,0 +1,31 @@
+{
+  "id": "3_4_4",
+  "header": "3.4.4 Bekanntgabe der Sicherheitsleitlinie",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.4",
+      "title": "Erstellung einer Leitlinie zur Informationssicherheit"
+    },
+    {
+      "level": 3,
+      "number": "3.4.4",
+      "title": "Bekanntgabe der Sicherheitsleitlinie"
+    }
+  ],
+  "content": "Es ist wichtig, dass die Behörden- bzw. Unternehmensleitung ihre Zielsetzungen und Erwartungshal­\ntungen durch Bekanntgabe der Sicherheitsleitlinie unterstreicht und den Stellenwert sowie die Bedeu­\ntung der Informationssicherheit in der gesamten Institution verdeutlicht. Alle Mitarbeiter sollten daher \ndie Inhalte der Sicherheitsleitlinie kennen und nachvollziehen können. Neuen Mitarbeitern sollte die \nSicherheitsleitlinie erläutert werden, bevor sie Zugang zur Informationsverarbeitung erhalten.\n\nDa die Verantwortung der Behörden- bzw. Unternehmensleitung in Bezug auf die Sicherheitsleitlinie \nentscheidend ist, sollte die Leitlinie schriftlich fixiert sein. Die Behörden- bzw. Unternehmensleitung \nsollte ihr formell zugestimmt haben. Die Inhalte der Sicherheitsleitlinie sollten also innerhalb der In­\nstitution nicht nur bekannt sein, sondern auf diese sollte auch möglichst einfach zuzugreifen sein, z. B. \nim Intranet der Institution. Wenn die Leitlinie vertrauliche Aussagen enthält, sollten diese in einer \nAnlage abgespeichert werden, die deutlich als vertraulich gekennzeichnet ist.\n\nSchließlich sollten alle Mitarbeiter darauf aufmerksam gemacht werden, dass nicht nur bei der Auf­\ngabenerfüllung allgemein, sondern auch bei der Erfüllung der Aufgabe „Informationssicherheit“ von \njedem Mitarbeiter ein engagiertes, kooperatives sowie verantwortungsbewusstes Handeln erwartet \nwird.\n\nDie Leitlinie zur Informationssicherheit sollte in regelmäßigen Abständen auf ihre Aktualität hin über­\nprüft und gegebenenfalls angepasst werden. Hierbei sollte beispielsweise überlegt werden, ob sich \nGeschäftsziele oder Aufgaben und damit Geschäftsprozesse geändert haben, ob wesentliche IT-Ver­\nfahren oder ICS-Komponenten geändert worden sind, ob die Organisationsstruktur neu ausgerichtet \nwurde oder ob neue IT- oder ICS-Systeme eingeführt worden sind. Bei den häufig rasanten Entwick­\nlungen im Bereich der ITeinerseits und der Sicherheitslage andererseits empfiehlt es sich, die Sicher­\nheitsleitlinie spätestens alle zwei Jahre erneut zu überdenken.\n\nAktionspunkte zu 3.4 Erstellung einer Sicherheitsleitlinie\n\n• Auftrag der Leitungsebene zur Erarbeitung einer Sicherheitsleitlinie einholen\n\n• Entwicklungsgruppe für die Sicherheitsleitlinie einberufen\n\n• Geltungsbereich und Inhalte festlegen\n\n• Inkraftsetzung der Sicherheitsleitlinie durch die Leitungsebene veranlassen\n\n• Sicherheitsleitlinie bekannt geben\n\n• Sicherheitsleitlinie regelmäßig überprüfen und gegebenenfalls aktualisieren\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 34,
+    "end": 36
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

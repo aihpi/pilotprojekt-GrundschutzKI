@@ -1,0 +1,26 @@
+{
+  "id": "12_3",
+  "header": "12.3 Qualitätssicherung und Freigabe der WAPs (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "12.3",
+      "title": "Qualitätssicherung und Freigabe der WAPs (AS)"
+    }
+  ],
+  "content": "Um sicherzustellen, dass alle Vorgaben zur Wiederanlaufplanung eingehalten wurden, \nsollten die erstellten WAPs formal qualitätsgesichert werden. Dabei sollten die folgenden \nAspekte berücksichtigt werden:\n\n• \nVollständigkeit: Bilden die Inhalte der erstellten WAPs alle vorgegebenen Punkte \nab? Wurden alle relevanten Inhalte der BIA innerhalb der WAPs erfasst und sind die­\nse aktuell? Wurden Maßnahmen über alle Phasen beschrieben? Unvollständige \nWAPs können dazu führen, dass diese im Notfall nicht oder nur begrenzt einsetzbar \nsind.\n\n• \nPlausibilität: Sind die beschriebenen Maßnahmen widerspruchsfrei und die ge­\ntroffenen Annahmen für die Institution realistisch?\n\n• \nAktualität: Sind die referenzierten Dokumente in der jeweils aktuellen Version hin­\nterlegt? Wurden die relevanten Kontaktpersonen auf Basis einer aktuellen Kontakt­\nliste dokumentiert?\n\nHinweis\n\nDie Qualitätssicherung dient zu diesem Zeitpunkt lediglich dazu, sicherzustellen, dass \ndie Vorgaben eingehalten wurden. Ob die in den WAPs beschriebenen Notfallmaß­\nnahmen angemessen, vollständig und wirksam sind, kann erst anhand von Übungen \nund Tests ermittelt werden (siehe Kapitel 13 Üben und Testen (R+AS)).\n\nNachdem die WAPs qualitätsgesichert wurden, müssen diese offiziell freigegeben wer­\nden. Dies kann beispielsweise durch die Leitungen der für die Ressourcen zuständigen \nOrganisationseinheiten erfolgen. Dieser Schritt signalisiert, dass der Plan offiziell in einem \nNotfall verwendet werden kann.\n\nNachdem die WAPs erstellt, qualitätsgesichert und freigegeben sind, ist wesentlich \ntransparenter, in welchem Maße die BC-Strategien und -Lösungen anwendbar sind und \nwelcher tatsächliche Ressourcenbedarf für die Notfallmaßnahmen erforderlich ist. Es ist \ndaher empfehlenswert, dass der oder die BCB die aktualisierten Informationen der Insti­\ntutionsleitung und dem Risikomanagement mitteilt. Hierdurch kann der Institutionslei­\ntung ein realistischeres Bild über die Risikosituation vermittelt werden, als es zu einem \nfrüheren Zeitpunkt möglich war. Können die identifizierten Probleme mit einfachen Mit­\nteln gelöst werden, dann ist es empfehlenswert, diese im Maßnahmenplan aufzuneh­\nmen und zeitnah umzusetzen.",
+  "pages": {
+    "start": 249,
+    "end": 249
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "9_6",
+  "header": "9.6 Risikobehandlung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "30",
+      "title": "Tage"
+    },
+    {
+      "level": 2,
+      "number": "9.6",
+      "title": "Risikobehandlung (AS)"
+    }
+  ],
+  "content": "### und -Lösungen (AS)\n\nDie BCM-Risikoanalyse liefert die relevanten Risiken, die durch die zu entwickelnden BC-\nStrategien vermieden oder reduziert werden sollen. Mithilfe von BC-Strategien muss die \nInstitutionsleitung für den gesamten Geltungsbereich des BCMS strategisch festlegen, \nwie sie die BC-Planung der zeitkritischen Ressourcen und Geschäftsprozesse gestalten \nund umsetzen lassen möchte. Die Institution muss geeignete BC-Strategien definieren, \ndie den Handlungsbedarf aus der BCM-Risikoanalyse und der BIA abdecken. Sie kann zu \ndiesem Zweck für jede in der BIA identifizierte Ressourcenkategorie Schwerpunkte vor­\ngeben.\n\nAufgrund dieser BC-Strategien wird später die BC-Planung der zeitkritischen Ressourcen \nund Geschäftsprozesse entwickelt. Die BC-Planung kann auf unterschiedliche Art und \nWeise erfolgen. Findet die BC-Planung je Organisationseinheit separat statt, sind erfah­\nrungsgemäß höhere Koordinationsaufwände, höhere Gesamtkosten oder gar wider­\nsprüchliche BC-Planungen zu erwarten. Insofern ist es wichtig, übergreifend nach Lö­\nsungen zu suchen, die zudem zu der Ausrichtung der Institution passen.\n\nHinweis\n\nFür mögliche Beispiele von BC-Strategien kann das Hilfsmittel BC-Strategievorschläge \ngenutzt werden. Zusätzlich kann der oder die BCB weitere Geschäftsprozess- und \nRessourcenzuständige der Institution hinzuziehen.\n\nWelche BC-Strategien für die Institution am besten geeignet sind, hängt jedoch nicht \nausschließlich von den Anforderungen an die BC-Planung ab. So sollte berücksichtigt \nwerden, welche Ziele die Institution im Allgemeinen verfolgt, welche rechtlichen und re­\ngulatorischen Vorgaben auf die Institution wirken und ob die angestrebten BC-Strate-\ngien technisch, baulich, personell und organisatorisch überhaupt in der Institution umge­\nsetzt werden können. BC-Strategien können auch Chancen für den Normalbetrieb gene­\nrieren, die ebenfalls mitberücksichtigt werden können.\n\nBC-Strategien zu entwickeln ist umso bedeutender, wenn bislang keine einheitliche BC-\nPlanung bestand oder im Rahmen eines Reaktiv-BCMS ausschließlich bestehende Maß­\nnahmen und Lösungen des Normalbetriebs genutzt wurden. Die BC-Strategien können \nin diesem Fall dabei unterstützen, die BC-Planung effektiver und effizienter zu gestalten \nsowie die individuelle Risikosituation zu berücksichtigen.",
+  "pages": {
+    "start": 207,
+    "end": 209
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

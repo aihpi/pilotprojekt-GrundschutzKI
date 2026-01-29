@@ -1,0 +1,31 @@
+{
+  "id": "6_3_3",
+  "header": "6.3.3 Vorauswahl von Produkten oder Services (R+A)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "6.4",
+      "title": "Konsolidierung und Vorstellung der Ergebnisse (R+A)"
+    },
+    {
+      "level": 3,
+      "number": "6.3.3",
+      "title": "Vorauswahl von Produkten oder Services (R+A)"
+    }
+  ],
+  "content": "Voraussetzung: Ein Produkt- oder Service-Katalog liegt vor.\n\nAusgehend von einer Übersicht aller Produkte oder Services entscheidet die Institutions­\nleitung in einem Workshop anhand der Frage:\n\n„Welche Produkte und Services sind zeitkritisch?“\n\nBeispiel\n\nAbbildung 30: Beispiel für ein Ergebnis des BIA-Vorfilters anhand von Produkten oder Services\n\nVorteile: Diese Vorgehensweise ermöglicht eine sehr schnelle Entscheidung mit weni­\ngen Workshops. Die Entscheidungsgrundlage, d. h. die Zeitkritikalität von Produkten und \nServices, ist aus fachlicher Sicht ideal dazu geeignet, um bei Ausfall einen möglichen \nSchaden z. B. im produzierenden Gewerbe und im Dienstleistungssektor zu bewerten. \nDie Vorauswahl enthält primär Wertschöpfungsprozesse. Management- und Support­\nprozesse können hierüber sehr gut herausgefiltert werden.\n\nNachteile: Ein zusätzlicher Aufwand ist erforderlich, um die erforderlichen Geschäfts­\nprozesse für die ausgewählten Produkte und Services im Rahmen der BIA zu identifizie­\nren. Dies kann insbesondere zu einer zu schwachen Filterwirkung führen, wenn unter­\nschiedlich zeitkritische Produkte und Services durch dieselben Geschäftsprozesse er­\nbracht werden. Management- und Supportprozesse können häufig nicht exakt einem \nbestimmten Produkt oder Service zugeordnet werden, sondern dienen übergreifend \nbzw. allgemein dem Fortbestehen der Institution.",
+  "pages": {
+    "start": 153,
+    "end": 153
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

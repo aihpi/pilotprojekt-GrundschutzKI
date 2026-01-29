@@ -1,0 +1,26 @@
+{
+  "id": "2_6",
+  "header": "2.6 Übersicht über den Informationssicherheitsprozess",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "2.6",
+      "title": "Übersicht über den Informationssicherheitsprozess"
+    }
+  ],
+  "content": "Einige der Phasen können auch parallel durchgeführt werden, z. B. kann die Konzeption und Planung \ndes Sicherheitsprozesses gleichzeitig zum Aufbau der Informationssicherheitsorganisation erfolgen. \nIn diesem Fall müssen die vorgezogenen Phasen mit den neuen Ergebnissen zeitnah aktualisiert wer­\nden.\n\nIm Folgenden wird eine kurze Darstellung über die Phasen des Sicherheitsprozesses gegeben.\n\nInitiierung des Sicherheitsprozesses\n\nDie Leitungsebene muss den Sicherheitsprozess initiieren, steuern und kontrollieren. Hierfür sind ei­\nnerseits strategische Leitaussagen zur Informationssicherheit und andererseits organisatorische Rah­\nmenbedingungen erforderlich. Wie ein funktionierender Sicherheitsprozess aufgebaut ist und welche \nOrganisationsstrukturen dafür sinnvoll sind, ist in Kapitel 3 beschrieben.\n\nErstellung der Leitlinie zur Informationssicherheit\n\nEine wesentliche Grundlage für die Ausgestaltung des Sicherheitsprozesses ist die Leitlinie zur Infor­\nmationssicherheit. Sie beschreibt, welche Sicherheitsziele und welches Sicherheitsniveau die Institu­\ntion anstrebt, was die Motivation hierfür ist und mit welchen Maßnahmen und mit welchen Struktu­\nren dies erreicht werden soll. Alle Mitarbeiter sollten daher die Inhalte der Sicherheitsleitlinie kennen \nund nachvollziehen können. Was für die Leitlinie und andere Dokumente im Sicherheitsprozess zu \nbeachten ist, wird in Kapitel 3.4 beschrieben.\n\nAufbau einer geeigneten Organisationsstruktur\n\nFür das Informationssicherheitsmanagement muss eine für Größe und Art der Institution geeignete \nOrganisationsstruktur aufgebaut werden, siehe Kapitel 4.\n\nErstellung einer Sicherheitskonzeption\n\nNachdem ein Informationssicherheitsprozess initiiert wurde und die Sicherheitsleitlinie und Informa­\ntionssicherheitsorganisation definiert wurden, wird die Sicherheitskonzeption für die Institution er­\nstellt. Als Grundlage hierfür finden sich in den Bausteinen des IT-Grundschutz-Kompendiums für ty­\npische Komponenten von Geschäftsprozessen, Anwendungen, IT-Systeme und weitere Objekte ent­\nsprechende Sicherheitsanforderungen nach dem Stand der Technik. Diese sind thematisch in \nBausteine strukturiert, so dass sie modular aufeinander aufsetzen.\n\nAbhängig davon, ob eine Basis-, Standard- oder Kern-Absicherung angestrebt ist, sehen die einzelnen \nAktivitäten zur Erstellung einer Sicherheitskonzeption etwas anders aus, grundsätzlich basieren sie \naber alle auf den Vorarbeiten, die mit der Erstellung des IT-Grundschutz-Kompendiums geleistet wor­\nden sind.\n\nBei Anwendung des IT-Grundschutzes wird ein Soll-Ist-Vergleich zwischen den Sicherheitsanforderun­\ngen aus den relevanten Bausteinen des IT-Grundschutz-Kompendiums und den in der Institution be­\nreits realisierten Maßnahmen durchgeführt. Dabei festgestellte fehlende oder nur unzureichend er­\nfüllte Anforderungen zeigen die Sicherheitsdefizite auf, die es durch die Umsetzung von aus den An­\nforderungen abgeleiteten Maßnahmen zu beheben gilt.\n\nNur bei einem signifikant höheren Schutzbedarf muss zusätzlich eine Risikoanalyse unter Beachtung \nvon Kosten- und Wirksamkeitsaspekten durchgeführt werden. In der Regel reicht es hierbei aus, die \nSicherheitsanforderungen des IT-Grundschutz-Kompendiums durch entsprechende individuelle, qua­\nlitativ höherwertige Maßnahmen zu ergänzen. Hierzu ist im BSI-Standard 200-3 Risikoanalyse auf der \nBasis von IT-Grundschutz (siehe [BSI3]) eine im Vergleich zu traditionellen Risikoanalyse-Methoden \neinfachere Vorgehensweise beschrieben.",
+  "pages": {
+    "start": 16,
+    "end": 17
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

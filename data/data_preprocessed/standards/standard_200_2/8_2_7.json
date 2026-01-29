@@ -1,0 +1,26 @@
+{
+  "id": "8_2_7",
+  "header": "8.2.7 Schutzbedarfsfeststellung für Räume",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.7",
+      "title": "Schutzbedarfsfeststellung für Räume"
+    }
+  ],
+  "content": "Aus den Ergebnissen der Schutzbedarfsfeststellung der Geschäftsprozesse und Anwendungen sowie \nder IT-Systeme, ICS- und sonstigen Geräte sollte abgeleitet werden, welcher Schutzbedarf für die \njeweiligen Liegenschaften bzw. Räume daraus resultiert. Dieser Schutzbedarf leitet sich aus dem \nSchutzbedarf der im jeweiligen Raum installierten Objekte, verarbeiteten Informationen oder der Da­\ntenträger, die in diesem Raum gelagert und benutzt werden, nach dem Maximumprinzip ab. Dabei \nsollten eventuelle Abhängigkeiten und ein möglicher Kumulationseffekt berücksichtigt werden, \nwenn sich in einem Raum eine größere Anzahl von IT-Systemen oder ICS-Geräten, Datenträgern usw. \nbefindet, wie typischerweise bei Serverräumen, Rechenzentren, Werkhallen oder Datenträgerarchi­\nven. Für jede Schutzbedarfseinschätzung sollte eine Begründung dokumentiert werden.\n\nHilfreich ist auch hier eine tabellarische Erfassung der notwendigen Informationen, aufbauend auf der \nbereits vorher erstellten Übersicht über die erfassten Räume.\n\nBSI-Standard 200-2\n\nBeispiel: RECPLAST GmbH\n\nDie folgende Tabelle zeigt einen Auszug aus den Ergebnissen der Schutzbedarfsfeststellung für die Räume der RECPLAST GmbH:\n\nA.2 Schutzbedarfsfeststellung der RECPLAST GmbH\n\nBezeich­\nnung\n\nBeschreibung des\nZielobjektes / der\nGruppe der Ziel­\nobjekte \nPlattform /\nBaustein \nVertrau­\nlichkeit \nBegründung für die\nVertraulichkeit \nIntegri­\ntät \nBegründung für die\nIntegrität \nVerfügbar­\nkeit \nBegründung für die\nVerfügbarkeit\n\nR001 \nBüroräume \nBüroraum \nnormal\n\nIn den Büroräumen ste­\nhen \nausreichend \nab­\nschließbare Schränke zur\nVerfügung. Die Mitarbei­\nter sind angewiesen, ver­\ntrauliche \nInformationen\nnach Arbeitsende zu ver­\nschließen. \nnormal\n\nDie Büroräume können\nverschlossen werden,\nFremde haben keinen\nZutritt \nnormal\n\nR002 \nBesprechungsräume\n\nBespre­\nchungs­\nraum \nnormal\n\nIn den Besprechungsräu­\nmen werden keine Unter­\nlagen aufbewahrt. \nnormal\n\nIn den Besprechungs­\nräumen werden keine\nUnterlagen aufbe­\nwahrt. \nnormal\n\nBesprechungen können\nauch in anderen Räum­\nlichkeiten durchgefürht\nwerden.\n\nR003 \nHäuslicher Arbeitsplatz \nTelearbeit \nnormal\n\nAm häuslichen Arbeits­\nplatz dürfen keine ver­\ntraulichen \nDokumente\nbearbeitet werden. \nnormal\n\nEs dürfen nur Daten am\nhäuslichen Arbeitsplatz\nverarbeitet werden,\nderen Integrität den\nSchutzbedarf normal\nentsprechen. \nnormal\n\nEin Telearbeitsplatz wird\nnur sporadisch genutzt,\nder generelle Arbeits­\nplatz liegt innerhalb der\nRECPLAST in Büroräu­\nmen.\n\nR004 \nMobiler Arbeitsplatz\n\nMobiler\nArbeits­\nplatz \nnormal\n\nMobil dürfen keine ver­\ntraulichen \nDokumente\nbearbeitet werden. \nnormal\n\nEs dürfen nur Daten am\nmobilen \nArbeitsplatz\nverarbeitet werden, de­\nren \nIntegrität \nden \nSchutzbedarf \nnormal \nentsprechen. \nnormal\n\nEin mobiler Arbeitsplatz\nwird nur sporadisch ge­\nnutzt, der generelle Ar­\nbeitsplatz liegt innerhalb\nder RECPLAST in Büro­\nräumen.\n\nAbbildung 24: Auszug aus der Schutzbedarfsfeststellung der RECPLAST GmbH (Räume)",
+  "pages": {
+    "start": 123,
+    "end": 125
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

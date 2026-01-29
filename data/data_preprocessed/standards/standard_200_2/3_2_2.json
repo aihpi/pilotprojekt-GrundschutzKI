@@ -1,0 +1,31 @@
+{
+  "id": "3_2_2",
+  "header": "3.2.2 Formulierung von allgemeinen Informationssicherheitszielen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.2",
+      "title": "Konzeption und Planung des Sicherheitsprozesses"
+    },
+    {
+      "level": 3,
+      "number": "3.2.2",
+      "title": "Formulierung von allgemeinen Informationssicherheitszielen"
+    }
+  ],
+  "content": "Zu Beginn jedes Sicherheitsprozesses sollten die Informationssicherheitsziele sorgfältig bestimmt wer­\nden. Anderenfalls besteht die Gefahr, dass Sicherheitsstrategien und -konzepte erarbeitet werden, die \ndie eigentlichen Anforderungen der Institution verfehlen.\n\nAus den grundsätzlichen Zielen der Institution und den allgemeinen Rahmenbedingungen sollten \ndaher zunächst allgemeine Sicherheitsziele abgeleitet werden. Aus diesen werden später bei der Er­\nstellung des Sicherheitskonzepts und bei der Ausgestaltung der Informationssicherheitsorganisation \nkonkrete Sicherheitsanforderungen bezüglich des Umgangs mit Informationen und mit dem IT-Be­\ntrieb abgeleitet. Mögliche allgemeine Sicherheitsziele einer Institution könnten z. B. sein:\n\n•  Hohe Verlässlichkeit des Handelns, auch in Bezug auf den Umgang mit Informationen (Verfügbar­\nkeit, Integrität, Vertraulichkeit),\n\n•  Gewährleistung des guten Rufs der Institution in der Öffentlichkeit,\n\n•  Erhaltung der in Technik, Informationen, Arbeitsprozesse und Wissen investierten Werte,\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 23,
+    "end": 24
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "8_1_1",
+  "header": "8.1.1 Komplexitätsreduktion durch Gruppenbildung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.1",
+      "title": "Komplexitätsreduktion durch Gruppenbildung"
+    }
+  ],
+  "content": "Die Strukturanalyse liefert wichtige Grunddaten für den gesamten Sicherheitsprozess. Der Informati­\nonsverbund setzt sich meist aus vielen Einzelobjekten zusammen, die bei der Konzeption berücksich­\ntigt werden müssen. Wenn alle logischen und technischen Objekte einzeln erfasst werden, besteht \njedoch die Gefahr, dass die Ergebnisse der Strukturanalyse aufgrund der Datenmenge und der Kom­\nplexität nicht handhabbar sind. Ähnliche Objekte sollten deshalb sinnvoll zu Gruppen zusammenge­\nfasst werden.\n\nBei technischen Komponenten hat eine konsequente Gruppenbildung zudem den Vorteil, dass die \nAdministration wesentlich vereinfacht wird, wenn es nur wenige Grundkonfigurationen gibt. Durch \neine möglichst hohe Standardisierung innerhalb eines Informationsverbunds wird außerdem die Zahl \npotenzieller Sicherheitslücken reduziert und die Sicherheitsmaßnahmen für diesen Bereich können \nohne Unterscheidung verschiedenster Schwachstellen umgesetzt werden. Dies kommt nicht nur \nder Informationssicherheit zugute, sondern spart auch Kosten.\n\nObjekte können dann ein und derselben Gruppe zugeordnet werden, wenn die Objekte alle\n\n•  vom gleichen Typ sind,\n\n•  ähnliche Aufgaben haben,\n\n•  ähnlichen Rahmenbedingungen unterliegen und\n\n• den gleichen Schutzbedarf aufweisen.\n\nBei technischen Objekten bietet sich eine Gruppenbildung außerdem immer dann an, wenn sie\n\n•  ähnlich konfiguriert sind,\n\nBSI-Standard 200-2\n\n• ähnlich in das Netz eingebunden sind (z. B. im gleichen Netzsegment) und\n\n• ähnlichen administrativen und infrastrukturellen Rahmenbedingungen unterliegen,\n\n• ähnliche Anwendungen bedienen und\n\n• den gleichen Schutzbedarf aufweisen.\n\nAufgrund der genannten Voraussetzungen für die Gruppenbildung kann bezüglich der Informations­\nsicherheit davon ausgegangen werden, dass eine Stichprobe aus einer Gruppe in der Regel den Si­\ncherheitszustand der Gruppe repräsentiert.\n\nWichtigstes Beispiel für die Gruppierung von Objekten ist sicherlich die Zusammenfassung von Clients. \nIn der Regel gibt es in einer Institution eine große Anzahl von Clients, die sich jedoch gemäß obigem \nSchema in eine überschaubare Anzahl von Gruppen aufteilen lassen. Auch in produzierenden und ge­\nwerblichen Bereichen ist es empfehlenswert, Objekte zu gruppieren, wenn diese vergleichbar konfigu­\nriert und eingesetzt werden (z. B. Handscanner, Arbeitsplatz-PCs). Dies gilt analog auch für Räume und \nandere Objekte. In großen Informationsverbünden, wo aus Gründen der Redundanz oder des Durch­\nsatzes viele Server die gleiche Aufgabe wahrnehmen, können durchaus auch Server zu Gruppen zusam­\nmengefasst werden.\n\nZunehmend werden IT-Systeme virtualisiert. Da hierbei typischerweise viele virtuelle Maschinen (VMs) \nauf einem Virtualisierungsserver betrieben werden, ist eine sinnvolle Strukturanalyse bei virtualisierten \nInfrastrukturen oder Cloud Computing nur durch geeignete Gruppenbildung möglich. Für die Grup­\npenbildung gelten bei Virtualisierung dieselben Regeln wie für physische Zielobjekte. Prinzipiell kön­\nnen auch solche VMs zu einer Gruppe zusammengefasst werden, die auf verschiedenen physischen \nIT-Systemen laufen, wenn sie ähnliche Aufgaben erfüllen, gleichartig konfiguriert sind und denselben \nSchutzbedarf aufweisen.\n\nIn der Regel bestehen Cloud Computing-Plattformen aus homogenen Hard- und Software-Kompo­\nnenten. Aufgrund der Homogenität kann eine Vielzahl von Aufgaben automatisiert und zentral \ndurchgeführt werden. Eine Gruppenbildung, beispielsweise anhand des Schutzbedarfs, ist beim \nCloud Computing zwingend erforderlich.\n\nDie Teilaufgaben der Strukturanalyse werden nachfolgend beschrieben und durch ein begleitendes \nBeispiel erläutert. Eine ausführliche Version des Beispiels findet sich in den Hilfsmitteln zum IT-Grund­\nschutz auf den einzelnen Webseiten bzw. auf der BSI-Website. Bei allen Teilaufgaben sollten jeweils \nObjekte zu Gruppen zusammengefasst werden, wenn dies sinnvoll und zulässig ist.\n\nAktionspunkte zu 8.1.1 Komplexitätsreduktion durch Gruppenbildung\n\n• Bei allen Teilaufgaben der Strukturanalyse gleichartige Objekte zu Gruppen zusammenfassen\n\n• Typ und Anzahl der jeweils zusammengefassten Objekte vermerken",
+  "pages": {
+    "start": 79,
+    "end": 80
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

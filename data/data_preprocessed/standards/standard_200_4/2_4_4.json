@@ -1,0 +1,26 @@
+{
+  "id": "2_4_4",
+  "header": "2.4.4 BCM und Outsourcing sowie Lieferketten",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.4",
+      "title": "Abgrenzung und Synergien"
+    },
+    {
+      "level": 3,
+      "number": "2.4.4",
+      "title": "BCM und Outsourcing sowie Lieferketten"
+    }
+  ],
+  "content": "Outsourcing und der Bezug von externen Gütern in Lieferketten ist heutzutage in vielen \nInstitutionen gängige Praxis. Im Rahmen des Outsourcings werden Geschäftsprozesse \neiner Institution vollständig oder teilweise durch externe Dienstleistungsunternehmen er­\nbracht und somit nicht mehr ausschließlich durch die Institution selbst.\n\nHierzu können zuliefernde und dienstleistende Institutionen selbst wieder auf Zuliefernde \nund Dienstleistungsunternehmen zurückgreifen. Dadurch entsteht eine Lieferkette \n(engl. supply chain).\n\nHinweis\n\nGrundversorger wie Strom-, Wasser- oder Gasanbieter werden im Kontext dieses \nStandards nicht als zuliefernde Institutionen einer Lieferkette verstanden, da die üb­\nlichen BC-Strategien zur Absicherung einer Lieferkette auf diese oftmals nicht ange­\nwendet werden können. Sie werden in diesem Standard als benötigte Ressource in­\nnerhalb der Business-Impact-Analyse und Risikoanalyse betrachtet. Geeignete BC-\nStrategien berücksichtigen den Ausfall eines Grundversorgers als Standortausfall.\n\nUm sicherzustellen, dass mögliche Ausfallrisiken des Geschäftsbetriebes vermieden oder \nreduziert werden können, ist es erforderlich, BCM-Anforderungen an das Dienstleis­\ntungsunternehmen zu stellen. Dazu ist es notwendig, das Thema Outsourcing von zeit­\nkritischen Dienstleistungen auch im BCMS zu verankern und Schnittstellen zu zeitkriti­\nschen Dienstleistungsunternehmen zu etablieren.\n\nSowohl das Outsourcing als auch Lieferketten gehen für die Institution mit der Heraus­\nforderung einher, die externe Leistungserbringung steuern und kontrollieren zu müssen. \nIn der Regel kann jedoch nur das Dienstleistungsunternehmen sicherstellen, dass der un­\nterbrechungsfreie Geschäftsbetrieb seiner Leistung gewährleistet wird. Die beziehende \nInstitution hat darauf keine oder nur begrenzte Einflussmöglichkeiten.\n\nSofern zeitkritische Geschäftsprozesse von externen Dienstleistungsunternehmen er­\nbracht oder unterstützt werden, liegt es daher nicht mehr allein im Einflussbereich der \ngüter- oder leistungsbeziehenden Institution, angemessen auf Notfälle zu reagieren und \ndiese zu bewältigen. Notfälle auf Seiten von Dienstleistungsunternehmen wirken sich \nmeistens unmittelbar auf den Geschäftsbetrieb der leistungsbeziehenden Institution aus \nund daher ist es wichtig, die zeitkritische Dienstleistung angemessen abzusichern. Fol­\ngende Sicherungsmaßnahmen sind möglich:\n\n• \ndie relevanten Ressourcen und Geschäftsprozesse von Dienstleistungsunternehmen \nin die eigene Notfallbewältigung mit einbinden und beide aufeinander abstimmen\n\n• \nauf geeignete andere Dienstleistungsunternehmen zurückgreifen\n\n• \ndie Fähigkeit gewährleisten, die Dienstleistung umgehend wieder in der eigenen In­\nstitution zu erbringen\n\nDie BC-Strategien für einen Ausfall eines Dienstleistungsunternehmenswerden für zeit­\nkritische Dienstleistungsunternehmen im Rahmen des Prozessschritts 10 Business-\nContinuity-Strategien und -Lösungen (AS) ausgewählt. Hier ist es essenziell, dass das an­\ngestrebte Leistungsniveau des oder der Dienstleistenden in einem Notfall dem Anspruch \nder leistungsbeziehenden Institution gerecht wird. Da hier viele Aspekte wichtig sind, \nwerden ausführliche Hilfestellungen zu den einzelnen BC-Strategien im Bereich Outsour­\ncing im Hilfsmittel BC-Strategievorschläge gegeben.",
+  "pages": {
+    "start": 35,
+    "end": 36
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

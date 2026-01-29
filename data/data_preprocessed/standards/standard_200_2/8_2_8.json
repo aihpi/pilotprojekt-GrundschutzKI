@@ -1,0 +1,26 @@
+{
+  "id": "8_2_8",
+  "header": "8.2.8 Schutzbedarfsfeststellung für Kommunikationsverbindungen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.8",
+      "title": "Schutzbedarfsfeststellung für Kommunikationsverbindungen"
+    }
+  ],
+  "content": "Nachdem die Schutzbedarfsfeststellung für die betrachteten Geschäftsprozesse, Anwendungen, \nIT-Systeme, ICS- und sonstigen Geräte und Räume abgeschlossen wurde, wird nun der Schutzbedarf \nbezüglich der Vernetzungsstruktur erarbeitet. Grundlage für die weiteren Überlegungen ist der in \nKapitel 8.1.4 Netzplanerhebung erarbeitete Netzplan des zu untersuchenden Informationsverbunds.\n\nUm die Entscheidungen vorzubereiten, auf welchen Kommunikationsstrecken kryptografische Sicher­\nheitsmaßnahmen eingesetzt werden sollten, welche Strecken redundant ausgelegt sein sollten und \nüber welche Verbindungen Angriffe durch Innen- und Außentäter zu erwarten sind, müssen die Kom­\nmunikationsverbindungen analysiert werden. Hierbei werden folgende Kommunikationsverbindun­\ngen als kritisch gewertet:\n\n•  Kommunikationsverbindungen, die Außenverbindungen darstellen, d. h. die in oder über unkon­\ntrollierte Bereiche führen (z. B. ins Internet oder über öffentliches Gelände). Dazu können auch \ndrahtlose Kommunikationsverbindungen gehören, da es hierbei schwierig ist, zu verhindern, dass \nauf diese von öffentlichem Gelände aus zugegriffen wird. Bei Außenverbindungen besteht die \nGefahr, dass durch externe Angreifer Penetrationsversuche auf das zu schützende System vorge­\nnommen oder Schadprogramme eingespielt werden können. Darüber hinaus könnten unter Um­\nständen Innentäter über eine solche Verbindung vertrauliche Informationen nach außen übertra­\ngen. Auch in Bezug auf den Grundwert Verfügbarkeit sind Außenverbindungen oft besonders \ngefährdet. Es darf nicht vergessen werden, Außenverbindungen für die Fernadministration mit \nzu erfassen.\n\n•  Kommunikationsverbindungen, über die hochschutzbedürftige Informationen übertragen wer­\nden, wobei dies sowohl Informationen mit einem hohen Anspruch an Vertraulichkeit wie auch \nIntegrität oder Verfügbarkeit sein können. Diese Verbindungen können das Angriffsziel vorsätzli­\nchen Abhörens oder vorsätzlicher Manipulation sein. Darüber hinaus kann der Ausfall einer sol­\nchen Verbindung die Funktionsfähigkeit wesentlicher Teile des Informationsverbunds beeinträch­\ntigen.\n\n•  Kommunikationsverbindungen, die im produzierenden Bereich eingesetzt werden, müssen im \nNetzplan ebenfalls erfasst werden. Dazu gehören (z. B. bei einer Netztrennung) die Kommunika­\ntionsverbindungen zwischen den Netzen.\n\nBei der Erfassung der kritischen Kommunikationsverbindungen kann wie folgt vorgegangen werden. \nZunächst werden sämtliche „Außenverbindungen“ als kritische Verbindungen identifiziert und er­\nfasst. Anschließend werden sämtliche Verbindungen untersucht, die von einem IT-System oder einer \nGruppe von IT-Systemen mit hohem oder sehr hohem Schutzbedarf ausgehen. Dabei werden dieje­\nnigen Verbindungen identifiziert, über die hochschutzbedürftige Informationen übertragen werden. \nDanach werden die Verbindungen untersucht, über die diese hochschutzbedürftigen Daten weiter­\n\nBSI-Standard 200-2\n\ngeleitet werden. Abschließend sind die Kommunikationsverbindungen zu identifizieren, über die der­\nlei Informationen nicht übertragen werden dürfen. Zu erfassen sind dabei:\n\n• die Verbindungsstrecke,\n\n• ob es sich um eine Außenverbindung handelt und\n\n• ob hochschutzbedürftige Informationen übertragen werden und ob der Schutzbedarf aus der Ver­\n\ntraulichkeit, Integrität oder Verfügbarkeit resultiert.\n\nDie Entscheidungen, welche Kommunikationsverbindungen als kritisch zu betrachten sind, sollten \ntabellarisch dokumentiert oder grafisch im Netzplan hervorgehoben werden.\n\nBeispiel: RECPLAST GmbH\n\nFür das Unternehmen RECPLAST GmbH ergeben sich die Kommunikationsverbindungen, die im Netz­\nplan im Kapitel 8.1.4 Netzplanerhebung dargestellt wurden. Diese wurden bei der RECPLAST auf­\ngrund von ähnlichen Anforderungen gruppiert und sowohl in der Strukturanalyse als auch in der \nSchutzbedarfsfeststellung beschrieben und bewertet. Anhand der folgenden Tabellen können die \noben dargestellten Kommunikationsverbindungen nachvollzogen werden:",
+  "pages": {
+    "start": 125,
+    "end": 127
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

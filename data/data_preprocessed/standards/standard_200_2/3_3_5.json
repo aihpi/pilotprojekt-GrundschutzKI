@@ -1,0 +1,31 @@
+{
+  "id": "3_3_5",
+  "header": "3.3.5 Managemententscheidung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.3",
+      "title": "Entscheidung für Vorgehensweise"
+    },
+    {
+      "level": 3,
+      "number": "3.3.5",
+      "title": "Managemententscheidung"
+    }
+  ],
+  "content": "Der von der Leitungsebene benannte Verantwortliche für Informationssicherheit muss basierend auf \nden ermittelten Rahmenbedingungen, den formulierten Sicherheitszielen und dem angestrebten Si­\ncherheitsniveau einen Vorschlag erarbeiten, wie die weiteren Schritte zur Erreichung der kurzfristigen \nsowie der langfristigen Sicherheitsziele aussehen sollten. Das Management muss auf dieser Grundla­\nge entscheiden, für welche Bereiche der Institution welche Vorgehensweise zu deren Absicherung \ngewählt werden soll.\n\nEs sollte anschließend dokumentiert werden, für welchen Bereich mit welchem Zeitplan eine Basis-, \nStandard- bzw. Kern-Absicherung umgesetzt werden soll. Die entsprechenden Geltungsbereiche des \nInformationsverbunds müssen festgelegt werden.\n\nDie folgende Übersicht zeigt die wichtigsten Vor- und Nachteile der einzelnen Vorgehensweisen auf.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 31,
+    "end": 32
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

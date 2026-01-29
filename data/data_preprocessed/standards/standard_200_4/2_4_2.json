@@ -1,0 +1,26 @@
+{
+  "id": "2_4_2",
+  "header": "2.4.2 BCM und ITSCM",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.4",
+      "title": "Abgrenzung und Synergien"
+    },
+    {
+      "level": 3,
+      "number": "2.4.2",
+      "title": "BCM und ITSCM"
+    }
+  ],
+  "content": "In den meisten Institutionen ist der überwiegende Teil der zeitkritischen Geschäftspro­\nzesse unmittelbar davon abhängig, dass die eingesetzte Informations- und Kommunika­\ntionstechnik wie vorgesehen funktioniert. Die Aufgabe des IT-Service Continuity Mana­\ngements (ITSCM) besteht darin, Risiken für den Ausfall des IT-Betriebs frühzeitig zu er­\nkennen und effektive Gegenmaßnahmen zu etablieren. So sollen zeitkritische IT-Services \nund deren zugrundliegenden IT-Systeme und IT-Ressourcen auch in einem IT-Notfall auf­\nrechterhalten werden oder rasch wiederanlaufen können. Analog zum BCM nutzt das \nITSCM dazu einen eigenen Management-Zyklus (PDCA – siehe auch ISO 27031 (siehe \n[27031]).\n\nDieser Standard setzt kein ITSCM voraus und beschreibt daher Aufgaben, die gegebe­\nnenfalls schon im ITSCM durchgeführt werden. Zu diesen Aufgaben gehören alle Aspek­\nte, um die Ressource IT abzusichern. Auf Basis der Anforderungen des BCM plant, im­\nplementiert und überprüft das ITSCM verschiedene präventive und reaktive IT-Notfall-\nmaßnahmen, die baulicher, technischer, organisatorischer und personeller Natur sein \nkönnen. Das ITSCM unterstützt das BCM, indem es sicherstellt, dass die benötigten IT-\nRessourcen die Wiederanlaufanforderungen einhalten. Darüber hinaus sorgt das ITSCM \nmittels Datensicherungskonzepten dafür, dass der Datenverlust in einem Notfall auf ein \nakzeptables Minimum reduziert wird.\n\nNicht jede größere IT-Störung (Major Incident) und nicht jeder größere IT-Notfall müssen \nautomatisch als Notfall im Kontext des BCM gewertet werden. Da jedoch aus einem Ma­\njor Incident gemäß ITSCM leicht eine nicht tolerierbare Geschäftsunterbrechung entste­\nhen kann, ist es von enormer Bedeutung, dass die Prozesse zur Detektion und Behand­\nlung des Major Incidents nahtlos in die Alarmierung und Eskalation des Notfalls sowie \ndie Notfallbewältigung übergehen (siehe Hilfsmittel Weiterführende Aspekte zur Bewäl­\ntigung). Hierzu bedarf es entsprechender Schnittstellen zwischen dem ITSCM und dem \nBCM.\n\nBeispiel\n\nIn einer vollständig redundant aufgebauten IT-Umgebung fällt ein redundantes Ser­\nvercluster in Folge eines Hardwaredefektes aus. Aufgrund von Failover-Lösungen \nläuft der Betrieb ohne Unterbrechung über das verbleibende Servercluster weiter. Es \nhandelt sich hierbei zwar aufgrund des Ausfalls der Redundanz um einen IT-Notfall, \njedoch nicht unbedingt um einen Notfall im Sinne des BCM, da kein zeitkritischer\n\nGeschäftsprozess unterbrochen ist. Die BAO sowie der oder die BC-Beauftragte \nwerden über den Vorfall informiert und beobachten diesen weiter. Der Vorfall wird \nals IT-Notfall im Rahmen der Möglichkeiten des ITSCMs behoben. Ein aktiver Eingriff \nder BAO des BCMS ist nicht erforderlich.\n\nZahlreiche mögliche Ausfälle erfordern eine enge Zusammenarbeit zwischen dem BCM \nund dem ITSCM. Um sich optimal darauf vorbereiten zu können, sollten daher die für \ndas BCM und das ITSCM entwickelten Verfahren und Strukturen aufeinander abge­\nstimmt sein. Dies betrifft z. B.\n\n• \nRollen der BAO des BCM, sodass keine separaten Stabsstrukturen zwischen BCM \nund ITSCM entstehen,\n\n• \nAlarmierungs- und Eskalationsverfahren,\n\n• \nInformationsflüsse im (IT-)Notfall und in der Krise,\n\n• \nAufgabenmanagement im (IT-)Notfall und in der Krise,\n\n• \n(IT-)Notfallpläne,\n\n• \nVermeidung separater (IT-)Notfall- und Krisenkommunikationsverfahren von BCM \nund ITSCM,\n\n• \nSchulungen, Trainings, (IT-)Notfall- und Krisenübungen sowie\n\n• \ntechnische Infrastrukturen für die (IT-)Notfall- und Krisenbewältigung.\n\nHinweis\n\nWie ein ITSCM unter Berücksichtigung der BCM-Anforderungen anhand eines Plan-\nDo-Check-Act-Zyklus aufgebaut, betrieben und weiterentwickelt werden kann, wird \nunter anderem in der ISO-Norm 27031 erläutert (siehe [27031]).",
+  "pages": {
+    "start": 33,
+    "end": 34
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

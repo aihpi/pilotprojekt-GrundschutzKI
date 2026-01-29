@@ -1,0 +1,26 @@
+{
+  "id": "9_3",
+  "header": "9.3 Erstellung einer Gefährdungsübersicht (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "30",
+      "title": "Tage"
+    },
+    {
+      "level": 2,
+      "number": "9.3",
+      "title": "Erstellung einer Gefährdungsübersicht (AS)"
+    }
+  ],
+  "content": "Um eine Gefährdungsübersicht zu erstellen, kann in der BCM-Risikoanalyse analog zum \nBSI-Standard 200-3 vorgegangen werden. Die Risikoanalyse gemäß BSI-Standard 200-3 \ngreift auf eine Liste von elementaren Gefährdungen zurück, die als Ausgangsbasis zur \nRisikoeinstufung dient. Diese beinhalten bereits die üblichen Kombinationen aus Bedro­\nhungen und Schwachstellen.\n\nFür das BCM besteht die Besonderheit, dass aus dieser Liste nur jene Gefährdungen als \nrelevant betrachtet werden, die sich auf das Schutzziel Verfügbarkeit beziehen. Gefähr­\ndungen, die sich nur auf andere Schutzziele auswirken, wie z. B. Gefährdungen, die die \nVertraulichkeit oder Integrität beeinträchtigen, werden innerhalb des BCM nicht direkt \nbehandelt. Das BCM wird in der Regel beispielsweise keine Vorkehrungen treffen, um \nden Verlust der Vertraulichkeit oder Integrität präventiv zu verhindern. Dies gehört in der \nRegel zu den Aufgabengebieten des ISMS. Demgegenüber kann aber ein Verlust der \nVertraulichkeit oder Integrität auch zu einem Verlust der Verfügbarkeit führen, sodass \nzumindest diese Form der Auswirkung auch im Rahmen der Risikoanalyse betrachtet \nwerden sollte, wenn noch kein ISMS erfolgreich etabliert wurde.\n\nTabelle 30 gibt am Beispiel ausgewählter, elementarer Gefährdungen ein mögliches Bei­\nspiel wieder, wie für das BCM relevante Gefährdungen selektiert werden können, falls \nein ISMS etabliert ist.\n\nG0-Gefährdung gem. BSI 200-3 \nVerfügbarkeit Vertraulichkeit \nIntegrität\n\nG0.01 Feuer \nX \n \nX\n\n… \n… \n… \n…\n\nG0.13 Abfangen kompromittierender \nStrahlung \n \nX\n\nG0.14 Ausspähen von Informatio­\nnen/Spionage \n \nX\n\n… \n… \n… \n…\n\nG0.24 Zerstörung von Geräten oder Da­\ntenträgern \nX\n\n… \n… \n… \n…\n\nLegende\n\nRelevant \nNicht relevant\n\nTabelle 30: Ausgewählte elementare Gefährdungen des BSI mit Bezug auf das \nSchutzziel Verfügbarkeit (Beispiel)\n\nFerner ist es empfehlenswert, die Gefährdungen vorab den Ressourcenkategorien zuzu­\nordnen. Dadurch kann der Aufwand weiter minimiert werden, da nur eine Teilmenge al­\nler Gefährdungen je Ressourcenkategorie betrachtet werden muss. Die Relevanz der Ge­\nfährdungen kann über folgende Stufen beschrieben werden (siehe BSI-Standard 200-3, \nKapitel 4.1 Elementare Gefährdungen):\n\n• \nDirekt relevant bedeutet hier, dass die jeweilige Gefährdung auf das betrachtete \nZielobjekt einwirken kann und deshalb im Rahmen der Risikoanalyse behandelt wer­\nden muss.\n\n• \nIndirekt relevant meint hier, dass die jeweilige Gefährdung zwar auf das betrach­\ntete Zielobjekt einwirken kann, in ihrem Schadenspotenzial aber nicht über andere \n(allgemeinere) Gefährdungen hinausgeht. In diesem Fall muss die jeweilige Gefähr­\ndung für dieses Zielobjekt nicht gesondert im Rahmen der Risikoanalyse behandelt \nwerden.\n\n• \nNicht relevant heißt hier, dass die jeweilige Gefährdung nicht auf das betrachtete \nZielobjekt einwirken kann und deshalb für dieses Zielobjekt im Rahmen der Risiko­\nanalyse nicht behandelt werden muss.\n\nTabelle 31 gibt einige Beispiele für sinnvolle Zuordnungen wieder. Die Relevanz von Ge­\nfährdungen muss jedoch individuell für die Institution festgelegt werden.\n\nG0-Gefährdung gem. \nBSI 200-3 \nIT \nDienstleis­\n\ntung \nGebäude \nPersonal \n…\n\n… \n… \n… \n… \n… \n…\n\nG0.08 Ausfall oder Stö­\nrung der Stromversorgung\n\nDirekt rele­\n\nvant \nNicht relevant \nDirekt rele­\n\nvant\n\nNicht rele­\n\nvant \n…\n\n… \n… \n… \n… \n… \n…\n\nG0.10 Ausfall oder Stö­\nrung von Versorgungsnet­\nzen\n\nIndirekt re­\n\nlevant \nNicht relevant \nDirekt rele­\n\nvant\n\nNicht rele­\n\nvant \n…\n\nG0.11 Ausfall oder Stö­\nrung von Dienstleistungs­\nunternehmen\n\nIndirekt re­\n\nlevant \nDirekt relevant \nNicht rele­\n\nvant\n\nNicht rele­\n\nvant \n…\n\n… \n… \n… \n… \n… \n…\n\nG0.33 Personalausfall \nIndirekt re­\n\nlevant \nNicht relevant \nNicht rele­\n\nvant\n\nDirekt rele­\n\nvant \n…\n\n… \n… \n… \n… \n… \n…\n\nTabelle 31: Zuordnung der Gefährdungen zu den Ressourcenkategorien (Beispiele)\n\nDarüber hinaus ist es empfehlenswert, dass die Risikofachleute für die (gruppierten) Ziel­\nobjekte anhand der tatsächlichen Bedrohungen und Schwachstellen mögliche weitere \nGefährdungen identifizieren, beispielsweise mit der Delphi-Methode.",
+  "pages": {
+    "start": 201,
+    "end": 203
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

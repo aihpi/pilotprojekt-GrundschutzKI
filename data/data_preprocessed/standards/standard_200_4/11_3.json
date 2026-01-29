@@ -1,0 +1,26 @@
+{
+  "id": "11_3",
+  "header": "11.3 Qualitätssicherung und Freigabe der GFPs (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.3",
+      "title": "Qualitätssicherung und Freigabe der GFPs (R+AS)"
+    }
+  ],
+  "content": "### (AS)\n\nDie Wiederanlaufplanung konkretisiert anhand der festgelegten BC-Strategien und  \n-Lösungen, wie ausgefallene Ressourcen in einen Notbetrieb gebracht werden können. \nDie Wiederanlaufplanung muss für alle zeitkritischen Ressourcen erstellt und dokumen­\ntiert werden. Gegebenenfalls wird dies durch ITSCM, Facility Management etc. bereits \nabgedeckt.\n\nDie Wiederherstellungsplanung hat zum Ziel, einen Zustand zu erreichen, in dem der \nNormalbetrieb wieder möglich ist. Ausgefallene Ressourcen können unter anderem neu \nbeschafft, Ersatzteile eingesetzt oder Komponenten neu installiert und konfiguriert wer­\nden. Die Bedingungen und Maßnahmen zur Wiederherstellung sind von vielen Faktoren \nabhängig, z. B. von der Art der Ressource, welche Schäden an den Ressourcen entstan­\nden sind und welche Mittel zu ihrer Wiederherstellung zur Verfügung stehen.\n\nAbbildung 49 stellt den Wiederanlauf und die Wiederherstellung anhand einer stark ver­\neinfachten, schematischen Darstellung der Notfallbewältigung gegenüber. Die Wieder­\nherstellung kann prinzipiell parallel oder nach dem Wiederanlauf starten. In der Praxis ist \nes auch möglich, dass die vollständige Wiederherstellung aus dem Wiederanlauf heraus \nerfolgt, z. B. wenn eine Ersatzressource die Hauptressource vollständig ersetzt und an­\nschließend im Normalbetrieb weiter eingesetzt wird.\n\nAbbildung 49: Darstellung der Phasen für den Wiederanlauf und die Wiederherstellung\n\nHinweis\n\nDer englische Begriff „Recovery“ wird im deutschsprachigen Raum häufig mit „Wie­\nderherstellung“ und im technischen Umfeld gelegentlich mit „Wiederanlauf“ über­\nsetzt. Je nach Informationsquelle definiert der festgelegte Begriff die Wiederauf­\nnahme unterbrochener Tätigkeiten entweder mit einer festgelegten Mindestkapazi­",
+  "pages": {
+    "start": 239,
+    "end": 242
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

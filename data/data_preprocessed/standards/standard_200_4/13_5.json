@@ -1,0 +1,26 @@
+{
+  "id": "13_5",
+  "header": "13.5 Planbesprechung (R optional +AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.5",
+      "title": "Planbesprechung (R optional +AS)"
+    }
+  ],
+  "content": "In Planbesprechungen werden einzelne Pläne der Notfallbewältigung, insbesondere die \nGeschäftsfortführungspläne, gemeinsam mit den Anwendenden auf fachliche Plausibili­\ntät der Inhalte und der getroffenen Annahmen überprüft. Ziel der Planbesprechung ist \nes, die jeweiligen Pläne anhand eines Szenarios theoretisch durchzuspielen, um Korrek­\nturbedarfe und Verbesserungsmöglichkeiten festzustellen.\n\nUm die Planbesprechungen für die Teilnehmenden greifbarer zu gestalten, können die \nProblemstellungen auch anhand fiktiver Lagen erörtert werden. Die beschriebenen Maß­\nnahmen sollten in der Planbesprechung durch die Anwendenden dahingehend beurteilt \nwerden, ob diese auch in einer Stresssituation verständlich, plausibel, vollständig und ak­\ntuell sind. Planbesprechungen sind vor allem dazu geeignet, Abhängigkeiten aufzude­\ncken oder notwendige Voraussetzungen von Maßnahmen zu erkennen und bewusst zu \nmachen. Darüber hinaus können Planbesprechungen eingesetzt werden, um die Teil­\nnehmenden zu sensibilisieren.",
+  "pages": {
+    "start": 268,
+    "end": 268
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

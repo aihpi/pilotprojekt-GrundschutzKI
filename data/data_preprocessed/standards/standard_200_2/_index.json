@@ -1,0 +1,928 @@
+{
+  "document": "standard_200_2",
+  "source_file": "standard_200_2.pdf",
+  "parsed_at": "2026-01-26T15:00:22.587446",
+  "chunk_count": 184,
+  "chunks": [
+    {
+      "id": "chunk_page_1",
+      "header": null,
+      "file": "chunk_page_1.json"
+    },
+    {
+      "id": "1_1",
+      "header": "1.1 Versionshistorie",
+      "file": "1_1.json"
+    },
+    {
+      "id": "1_2",
+      "header": "1.2 Zielsetzung",
+      "file": "1_2.json"
+    },
+    {
+      "id": "1_3",
+      "header": "1.3 Adressatenkreis",
+      "file": "1_3.json"
+    },
+    {
+      "id": "1_5",
+      "header": "1.5 Aufbau des BSI-Standards 200-2",
+      "file": "1_5.json"
+    },
+    {
+      "id": "2",
+      "header": "2 Informationssicherheitsmanagement mit IT-Grundschutz",
+      "file": "2.json"
+    },
+    {
+      "id": "2_1",
+      "header": "2.1 Ganzheitliches Konzept",
+      "file": "2_1.json"
+    },
+    {
+      "id": "2_2",
+      "header": "2.2 Managementsystem für die Informationssicherheit",
+      "file": "2_2.json"
+    },
+    {
+      "id": "2_3",
+      "header": "2.3 Verantwortung für die Informationssicherheit",
+      "file": "2_3.json"
+    },
+    {
+      "id": "2_4",
+      "header": "2.4 Elemente des IT-Grundschutzes",
+      "file": "2_4.json"
+    },
+    {
+      "id": "2",
+      "header": "2 Informationssicherheitsmanagement mit IT-Grundschutz",
+      "file": "2.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 Übersicht über den Informationssicherheitsprozess",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 Übersicht über den Informationssicherheitsprozess",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2",
+      "header": "2 Informationssicherheitsmanagement mit IT-Grundschutz",
+      "file": "2.json"
+    },
+    {
+      "id": "2_6",
+      "header": "2.6 Übersicht über den Informationssicherheitsprozess",
+      "file": "2_6.json"
+    },
+    {
+      "id": "2",
+      "header": "2 Informationssicherheitsmanagement mit IT-Grundschutz",
+      "file": "2.json"
+    },
+    {
+      "id": "2_7",
+      "header": "2.7 Anwendung des IT-Grundschutz-Kompendiums",
+      "file": "2_7.json"
+    },
+    {
+      "id": "2",
+      "header": "2 Informationssicherheitsmanagement mit IT-Grundschutz",
+      "file": "2.json"
+    },
+    {
+      "id": "3_1",
+      "header": "3.1 Übernahme von Verantwortung durch die Leitungsebene",
+      "file": "3_1.json"
+    },
+    {
+      "id": "3_1",
+      "header": "3.1 Übernahme von Verantwortung durch die Leitungsebene",
+      "file": "3_1.json"
+    },
+    {
+      "id": "3_2",
+      "header": "3.2 Konzeption und Planung des Sicherheitsprozesses",
+      "file": "3_2.json"
+    },
+    {
+      "id": "3_2_1",
+      "header": "3.2.1 Ermittlung von Rahmenbedingungen",
+      "file": "3_2_1.json"
+    },
+    {
+      "id": "3_2",
+      "header": "3.2 Konzeption und Planung des Sicherheitsprozesses",
+      "file": "3_2.json"
+    },
+    {
+      "id": "3_2_2",
+      "header": "3.2.2 Formulierung von allgemeinen Informationssicherheitszielen",
+      "file": "3_2_2.json"
+    },
+    {
+      "id": "3_2",
+      "header": "3.2 Konzeption und Planung des Sicherheitsprozesses",
+      "file": "3_2.json"
+    },
+    {
+      "id": "3_2_3",
+      "header": "3.2.3 Bestimmung des angemessenen Sicherheitsniveaus der Geschäftsprozesse",
+      "file": "3_2_3.json"
+    },
+    {
+      "id": "3_2",
+      "header": "3.2 Konzeption und Planung des Sicherheitsprozesses",
+      "file": "3_2.json"
+    },
+    {
+      "id": "3_2_4",
+      "header": "3.2.4 Ersterfassung der Prozesse, Anwendungen und IT-Systeme",
+      "file": "3_2_4.json"
+    },
+    {
+      "id": "3_3",
+      "header": "3.3 Entscheidung für Vorgehensweise",
+      "file": "3_3.json"
+    },
+    {
+      "id": "3_3_1",
+      "header": "3.3.1 Basis-Absicherung",
+      "file": "3_3_1.json"
+    },
+    {
+      "id": "3_3_2",
+      "header": "3.3.2 Kern-Absicherung",
+      "file": "3_3_2.json"
+    },
+    {
+      "id": "3_3_3",
+      "header": "3.3.3 Standard-Absicherung",
+      "file": "3_3_3.json"
+    },
+    {
+      "id": "3_3_4",
+      "header": "3.3.4 Festlegung des Geltungsbereichs",
+      "file": "3_3_4.json"
+    },
+    {
+      "id": "3_3_5",
+      "header": "3.3.5 Managemententscheidung",
+      "file": "3_3_5.json"
+    },
+    {
+      "id": "3_4",
+      "header": "3.4 Erstellung einer Leitlinie zur Informationssicherheit",
+      "file": "3_4.json"
+    },
+    {
+      "id": "3_4",
+      "header": "3.4 Erstellung einer Leitlinie zur Informationssicherheit",
+      "file": "3_4.json"
+    },
+    {
+      "id": "3_4_1",
+      "header": "3.4.1 Verantwortung der Behörden- bzw. Unternehmensleitung für die Sicherheitsleitlinie",
+      "file": "3_4_1.json"
+    },
+    {
+      "id": "3_4_2",
+      "header": "3.4.2 Einberufung einer Entwicklungsgruppe für die Sicherheitsleitlinie",
+      "file": "3_4_2.json"
+    },
+    {
+      "id": "3_4_3",
+      "header": "3.4.3 Festlegung des Geltungsbereichs und Inhalt der Sicherheitsleitlinie",
+      "file": "3_4_3.json"
+    },
+    {
+      "id": "3_4",
+      "header": "3.4 Erstellung einer Leitlinie zur Informationssicherheit",
+      "file": "3_4.json"
+    },
+    {
+      "id": "3_4_4",
+      "header": "3.4.4 Bekanntgabe der Sicherheitsleitlinie",
+      "file": "3_4_4.json"
+    },
+    {
+      "id": "4_1",
+      "header": "4.1 Integration der Informationssicherheit in organisationsweite Abläufe und Prozesse",
+      "file": "4_1.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Aufbau der Informationssicherheitsorganisation",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_2",
+      "header": "4.2 Aufbau der Informationssicherheitsorganisation",
+      "file": "4_2.json"
+    },
+    {
+      "id": "4_3",
+      "header": "4.3 Aufgaben, Verantwortungen und Kompetenzen in der IS-Organisation",
+      "file": "4_3.json"
+    },
+    {
+      "id": "4_4",
+      "header": "4.4 Der Informationssicherheitsbeauftragte",
+      "file": "4_4.json"
+    },
+    {
+      "id": "4_5",
+      "header": "4.5 Das IS-Management-Team",
+      "file": "4_5.json"
+    },
+    {
+      "id": "4_6",
+      "header": "4.6 Bereichs- und Projekt-Sicherheitsbeauftragte bzw. Beauftragter für IT-Sicherheit",
+      "file": "4_6.json"
+    },
+    {
+      "id": "4_7",
+      "header": "4.7 Der ICS-Informationssicherheitsbeauftragte (ICS-ISB)",
+      "file": "4_7.json"
+    },
+    {
+      "id": "4_8",
+      "header": "4.8 IS-Koordinierungsausschuss",
+      "file": "4_8.json"
+    },
+    {
+      "id": "4_9",
+      "header": "4.9 Der Datenschutzbeauftragte",
+      "file": "4_9.json"
+    },
+    {
+      "id": "4_11",
+      "header": "4.11 Einbindung externer Sicherheitsexperten",
+      "file": "4_11.json"
+    },
+    {
+      "id": "5_1",
+      "header": "5.1 Klassifikation von Informationen",
+      "file": "5_1.json"
+    },
+    {
+      "id": "5_2",
+      "header": "5.2 Informationsfluss im Informationssicherheitsprozess",
+      "file": "5_2.json"
+    },
+    {
+      "id": "5_2",
+      "header": "5.2 Informationsfluss im Informationssicherheitsprozess",
+      "file": "5_2.json"
+    },
+    {
+      "id": "5_2_1",
+      "header": "5.2.1 Berichte an die Leitungsebene",
+      "file": "5_2_1.json"
+    },
+    {
+      "id": "5_2_2",
+      "header": "5.2.2 Dokumentation im Informationssicherheitsprozess",
+      "file": "5_2_2.json"
+    },
+    {
+      "id": "5_2",
+      "header": "5.2 Informationsfluss im Informationssicherheitsprozess",
+      "file": "5_2.json"
+    },
+    {
+      "id": "5_2_3",
+      "header": "5.2.3 Anforderungen an die Dokumentation",
+      "file": "5_2_3.json"
+    },
+    {
+      "id": "5_2",
+      "header": "5.2 Informationsfluss im Informationssicherheitsprozess",
+      "file": "5_2.json"
+    },
+    {
+      "id": "5_2_4",
+      "header": "5.2.4 Informationsfluss und Meldewege",
+      "file": "5_2_4.json"
+    },
+    {
+      "id": "5_2",
+      "header": "5.2 Informationsfluss im Informationssicherheitsprozess",
+      "file": "5_2.json"
+    },
+    {
+      "id": "6",
+      "header": "6 Erstellung einer Sicherheitskonzeption nach Basis-Absicherung",
+      "file": "6.json"
+    },
+    {
+      "id": "6_2",
+      "header": "6.2 Auswahl und Priorisierung für die Basis-Absicherung",
+      "file": "6_2.json"
+    },
+    {
+      "id": "6_1",
+      "header": "6.1 Festlegung des Geltungsbereichs für die Basis-Absicherung",
+      "file": "6_1.json"
+    },
+    {
+      "id": "6_2",
+      "header": "6.2 Auswahl und Priorisierung für die Basis-Absicherung",
+      "file": "6_2.json"
+    },
+    {
+      "id": "6_2_1",
+      "header": "6.2.1 Modellierung nach IT-Grundschutz",
+      "file": "6_2_1.json"
+    },
+    {
+      "id": "6",
+      "header": "6 Erstellung einer Sicherheitskonzeption nach Basis-Absicherung",
+      "file": "6.json"
+    },
+    {
+      "id": "6_2_2",
+      "header": "6.2.2 Reihenfolge der Baustein-Umsetzung",
+      "file": "6_2_2.json"
+    },
+    {
+      "id": "6_2_3",
+      "header": "6.2.3 Zuordnung von Bausteinen",
+      "file": "6_2_3.json"
+    },
+    {
+      "id": "6_2_4",
+      "header": "6.2.4 Ermittlung konkreter Maßnahmen aus Anforderungen",
+      "file": "6_2_4.json"
+    },
+    {
+      "id": "6_3",
+      "header": "6.3 IT-Grundschutz-Check für Basis-Absicherung",
+      "file": "6_3.json"
+    },
+    {
+      "id": "6",
+      "header": "6 Erstellung einer Sicherheitskonzeption nach Basis-Absicherung",
+      "file": "6.json"
+    },
+    {
+      "id": "6_4",
+      "header": "6.4 Realisierung",
+      "file": "6_4.json"
+    },
+    {
+      "id": "6_5",
+      "header": "6.5 Auswahl einer folgenden Vorgehensweise",
+      "file": "6_5.json"
+    },
+    {
+      "id": "6",
+      "header": "6 Erstellung einer Sicherheitskonzeption nach Basis-Absicherung",
+      "file": "6.json"
+    },
+    {
+      "id": "7_1",
+      "header": "7.1 Die Methodik der Kern-Absicherung",
+      "file": "7_1.json"
+    },
+    {
+      "id": "7",
+      "header": "7 Erstellung einer Sicherheitskonzeption nach Kern-Absicherung",
+      "file": "7.json"
+    },
+    {
+      "id": "7_2",
+      "header": "7.2 Festlegung des Geltungsbereichs für die Kern-Absicherung",
+      "file": "7_2.json"
+    },
+    {
+      "id": "7_3",
+      "header": "7.3 Identifikation und Festlegung der kritischen Assets (Kronjuwelen)",
+      "file": "7_3.json"
+    },
+    {
+      "id": "7_3",
+      "header": "7.3 Identifikation und Festlegung der kritischen Assets (Kronjuwelen)",
+      "file": "7_3.json"
+    },
+    {
+      "id": "7",
+      "header": "7 Erstellung einer Sicherheitskonzeption nach Kern-Absicherung",
+      "file": "7.json"
+    },
+    {
+      "id": "7_4",
+      "header": "7.4 Strukturanalyse",
+      "file": "7_4.json"
+    },
+    {
+      "id": "7_5",
+      "header": "7.5 Schutzbedarfsfeststellung",
+      "file": "7_5.json"
+    },
+    {
+      "id": "7",
+      "header": "7 Erstellung einer Sicherheitskonzeption nach Kern-Absicherung",
+      "file": "7.json"
+    },
+    {
+      "id": "7_6",
+      "header": "7.6 Modellierung: Auswahl und Anpassung von Anforderungen",
+      "file": "7_6.json"
+    },
+    {
+      "id": "7_8",
+      "header": "7.8 Risikoanalyse und weiterführende Sicherheitsmaßnahmen",
+      "file": "7_8.json"
+    },
+    {
+      "id": "7_9",
+      "header": "7.9 Umsetzung und weitere Schritte",
+      "file": "7_9.json"
+    },
+    {
+      "id": "7",
+      "header": "7 Erstellung einer Sicherheitskonzeption nach Kern-Absicherung",
+      "file": "7.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1",
+      "header": "8.1 Strukturanalyse",
+      "file": "8_1.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1_1",
+      "header": "8.1.1 Komplexitätsreduktion durch Gruppenbildung",
+      "file": "8_1_1.json"
+    },
+    {
+      "id": "8_1_2",
+      "header": "8.1.2 Erfassung der Geschäftsprozesse und der zugehörigen Informationen",
+      "file": "8_1_2.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1_3",
+      "header": "8.1.3 Erfassung der Anwendungen und der zugehörigen Informationen",
+      "file": "8_1_3.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1_4",
+      "header": "8.1.4 Netzplanerhebung",
+      "file": "8_1_4.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1_5",
+      "header": "8.1.5 Erhebung der IT-Systeme",
+      "file": "8_1_5.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1_6",
+      "header": "8.1.6 Erhebung der ICS-Systeme",
+      "file": "8_1_6.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_1_8",
+      "header": "8.1.8 Erfassung der Räume",
+      "file": "8_1_8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2",
+      "header": "8.2 Schutzbedarfsfeststellung",
+      "file": "8_2.json"
+    },
+    {
+      "id": "8_2_1",
+      "header": "8.2.1 Definition der Schutzbedarfskategorien",
+      "file": "8_2_1.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_2",
+      "header": "8.2.2 Vorgehen bei der Schutzbedarfsfeststellung",
+      "file": "8_2_2.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_3",
+      "header": "8.2.3 Schutzbedarfsfeststellung für Geschäftsprozesse und Anwendungen",
+      "file": "8_2_3.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_4",
+      "header": "8.2.4 Schutzbedarfsfeststellung für IT-Systeme",
+      "file": "8_2_4.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_5",
+      "header": "8.2.5 Schutzbedarfsfeststellung für ICS-Systeme",
+      "file": "8_2_5.json"
+    },
+    {
+      "id": "8_2_6",
+      "header": "8.2.6 Schutzbedarfsfeststellung für sonstige Geräte",
+      "file": "8_2_6.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_7",
+      "header": "8.2.7 Schutzbedarfsfeststellung für Räume",
+      "file": "8_2_7.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_8",
+      "header": "8.2.8 Schutzbedarfsfeststellung für Kommunikationsverbindungen",
+      "file": "8_2_8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_2_9",
+      "header": "8.2.9 Schlussfolgerungen aus den Ergebnissen der Schutzbedarfsfeststellung",
+      "file": "8_2_9.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_3",
+      "header": "8.3 Modellierung eines Informationsverbunds",
+      "file": "8_3.json"
+    },
+    {
+      "id": "8_3_1",
+      "header": "8.3.1 Das IT-Grundschutz-Kompendium",
+      "file": "8_3_1.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_3_2",
+      "header": "8.3.2 Modellierung eines Informationsverbunds: Auswahl von Bausteinen",
+      "file": "8_3_2.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_3_3",
+      "header": "8.3.3 Reihenfolge der Baustein-Umsetzung",
+      "file": "8_3_3.json"
+    },
+    {
+      "id": "8_3_4",
+      "header": "8.3.4 Zuordnung von Bausteinen",
+      "file": "8_3_4.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_3_5",
+      "header": "8.3.5 Modellierung bei Virtualisierung und Cloud-Systemen",
+      "file": "8_3_5.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_3_6",
+      "header": "8.3.6 Anpassung der Baustein-Anforderungen",
+      "file": "8_3_6.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_3_7",
+      "header": "8.3.7 Einbindung externer Dienstleister",
+      "file": "8_3_7.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_4",
+      "header": "8.4 IT-Grundschutz-Check",
+      "file": "8_4.json"
+    },
+    {
+      "id": "8_4_1",
+      "header": "8.4.1 Organisatorische Vorarbeiten für den IT-Grundschutz-Check",
+      "file": "8_4_1.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_4_2",
+      "header": "8.4.2 Durchführung des Soll-Ist-Vergleichs",
+      "file": "8_4_2.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8_4_3",
+      "header": "8.4.3 Dokumentation der Ergebnisse",
+      "file": "8_4_3.json"
+    },
+    {
+      "id": "8_5",
+      "header": "8.5 Risikoanalyse",
+      "file": "8_5.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "8",
+      "header": "8 Erstellung einer Sicherheitskonzeption nach Standard-Absicherung",
+      "file": "8.json"
+    },
+    {
+      "id": "9_1",
+      "header": "9.1 Sichtung der Untersuchungsergebnisse",
+      "file": "9_1.json"
+    },
+    {
+      "id": "9_2",
+      "header": "9.2 Kosten- und Aufwandsschätzung",
+      "file": "9_2.json"
+    },
+    {
+      "id": "9_3",
+      "header": "9.3 Festlegung der Umsetzungsreihenfolge der Maßnahmen",
+      "file": "9_3.json"
+    },
+    {
+      "id": "9_3",
+      "header": "9.3 Festlegung der Umsetzungsreihenfolge der Maßnahmen",
+      "file": "9_3.json"
+    },
+    {
+      "id": "9_4",
+      "header": "9.4 Festlegung der Aufgaben und der Verantwortung",
+      "file": "9_4.json"
+    },
+    {
+      "id": "9_5",
+      "header": "9.5 Realisierungsbegleitende Maßnahmen",
+      "file": "9_5.json"
+    },
+    {
+      "id": "10_1",
+      "header": "10.1 Überprüfung des Informationssicherheitsprozesses auf allen Ebenen",
+      "file": "10_1.json"
+    },
+    {
+      "id": "10_1",
+      "header": "10.1 Überprüfung des Informationssicherheitsprozesses auf allen Ebenen",
+      "file": "10_1.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit",
+      "file": "10.json"
+    },
+    {
+      "id": "10_1_1",
+      "header": "10.1.1 Überprüfung anhand von Kennzahlen",
+      "file": "10_1_1.json"
+    },
+    {
+      "id": "10_1_2",
+      "header": "10.1.2 Bewertung des ISMS mithilfe eines Reifegradmodells",
+      "file": "10_1_2.json"
+    },
+    {
+      "id": "5",
+      "header": "5 Zusätzlich zum Reifegrad 4 wird das ISMS regelmäßig verbessert.",
+      "file": "5.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit",
+      "file": "10.json"
+    },
+    {
+      "id": "10_1_3",
+      "header": "10.1.3 Überprüfung der Umsetzung der Sicherheitsmaßnahmen",
+      "file": "10_1_3.json"
+    },
+    {
+      "id": "10_1_4",
+      "header": "10.1.4 Zertifizierung nach ISO 27001 auf Basis von IT-Grundschutz",
+      "file": "10_1_4.json"
+    },
+    {
+      "id": "10_2",
+      "header": "10.2 Eignung der Informationssicherheitsstrategie",
+      "file": "10_2.json"
+    },
+    {
+      "id": "10",
+      "header": "10 Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit",
+      "file": "10.json"
+    },
+    {
+      "id": "10_3",
+      "header": "10.3 Übernahme der Ergebnisse in den Informationssicherheitsprozess",
+      "file": "10_3.json"
+    },
+    {
+      "id": "10_3",
+      "header": "10.3 Übernahme der Ergebnisse in den Informationssicherheitsprozess",
+      "file": "10_3.json"
+    },
+    {
+      "id": "11",
+      "header": "11 Zertifizierung nach ISO 27001 auf der Basis von IT-Grundschutz",
+      "file": "11.json"
+    },
+    {
+      "id": "11",
+      "header": "11 Zertifizierung nach ISO 27001 auf der Basis von IT-Grundschutz",
+      "file": "11.json"
+    },
+    {
+      "id": "12_1",
+      "header": "12.1 Erläuterungen zu den Schadensszenarien",
+      "file": "12_1.json"
+    },
+    {
+      "id": "12_2",
+      "header": "12.2 Literaturverzeichnis",
+      "file": "12_2.json"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5_5_1",
+  "header": "5.5.1 Konstituierung und Auflösung der BAO (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.5",
+      "title": "Definition der Geschäftsordnung des Stabs (AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.5.1",
+      "title": "Konstituierung und Auflösung der BAO (AS)"
+    }
+  ],
+  "content": "Die Konstituierung und Auflösung der BAO markiert den jeweiligen Übergang vom \nNormal- in den Notbetrieb und vom Notbetrieb in den Normalbetrieb. Die Konstituierung \nder BAO schließt sich dem Alarmierungs- und Eskalationsprozess unmittelbar an (siehe \n5.2 Detektion, Alarmierung und Eskalation (R+AS)).\n\nIn der Geschäftsordnung des Stabes sollte daher auf Basis des Alarmierungsprozesses \nkonkret geregelt werden, welche Einzelschritte in der Startphase der Bewältigung erfor­\nderlich sind, damit die Stabsarbeit im Notfall zeitnah aufgenommen werden kann. Insbe­\nsondere sollten Kriterien festgelegt werden, die der Stab nutzt, um final darüber zu ent­\nscheiden, ob ein Notfall oder eine Krise vorliegt.",
+  "pages": {
+    "start": 122,
+    "end": 123
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

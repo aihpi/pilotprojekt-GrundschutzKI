@@ -1,0 +1,31 @@
+{
+  "id": "13_5_2",
+  "header": "13.5.2 Durchführung einer Planbesprechung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.5",
+      "title": "Planbesprechung (R optional +AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.5.2",
+      "title": "Durchführung einer Planbesprechung"
+    }
+  ],
+  "content": "Die Planbesprechung hat die Form einer durch die Übungsleitung moderierten Bespre­\nchung mit Leitfragen zur konstruktiven Diskussion der folgenden Aspekte:\n\nVollständigkeit: Sind die Angaben zu den zeitkritischen Geschäftsprozessen, den Ab­\nhängigkeiten zu anderen Geschäftsprozessen sowie den Ressourcen vollständig? Sind die \nNotfallmaßnahmen ausführlich genug beschrieben, um einen sachkundigen Dritten in \ndie Lage zu versetzen, die zeitkritischen Geschäftsprozesse in einem Notbetrieb wieder­\naufzunehmen, die Aufgaben im Notbetrieb zu priorisieren und wieder in den Normalbe­\ntrieb zurückzuführen?\n\nPlausibilität: Sind die beschriebenen Maßnahmen widerspruchsfrei und im geforderten \nZeitraum (RTO) realistisch umsetzbar? Sind die Angaben innerhalb des GFP sowie die be­\nschriebenen Abhängigkeiten zu anderen GFP oder WAP plausibel dargestellt?\n\nAktualität: Sind die Angaben zu den zeitkritischen Geschäftsprozessen, den Abhängig­\nkeiten zu anderen Geschäftsprozessen sowie Ressourcen aktuell? Sind die referenzierten \nDokumente in der jeweils aktuellen Version hinterlegt? Wurden die relevanten Kontakt­\npersonen auf Basis einer aktuellen Kontaktliste dokumentiert?",
+  "pages": {
+    "start": 269,
+    "end": 270
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

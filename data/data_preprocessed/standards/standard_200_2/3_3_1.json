@@ -1,0 +1,31 @@
+{
+  "id": "3_3_1",
+  "header": "3.3.1 Basis-Absicherung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.3",
+      "title": "Entscheidung für Vorgehensweise"
+    },
+    {
+      "level": 3,
+      "number": "3.3.1",
+      "title": "Basis-Absicherung"
+    }
+  ],
+  "content": "Die Basis-Absicherung verfolgt das Ziel, als Einstieg in den IT-Grundschutz zunächst eine breite, grund­\nlegende Erst-Absicherung über alle relevanten Geschäftsprozesse bzw. Fachverfahren einer Institution \nhinweg zu erlangen. Diese Vorgehensweise ist für Institutionen empfehlenswert, bei denen folgende \nPunkte zutreffen:\n\n•  Die Umsetzung von Informationssicherheit steht noch am Anfang, d. h. die Informationssicherheit \nhat bisher nur einen niedrigen Reifegrad erreicht.\n\n•  Die Geschäftsprozesse weisen kein deutlich erhöhtes Gefährdungspotenzial bezüglich der Infor­\nmationssicherheit auf.\n\n•  Das angestrebte Sicherheitsniveau ist normal.\n\n•  Es sind keine Assets vorhanden, deren Diebstahl, Zerstörung oder Kompromittierung einen exis­\ntenzbedrohenden Schaden für die Institution bedeutet.\n\n•  Kleinere Sicherheitsvorfälle können toleriert werden – also solche, die zwar Geld kosten oder an­\nderweitig Schaden verursachen, aber in der Summe nicht existenzbedrohend sind.\n\nMit der Basis-Absicherung können zeitnah zunächst die wichtigsten Sicherheitsanforderungen um­\ngesetzt werden, um darauf aufbauend zu einem späteren Zeitpunkt das Sicherheitsniveau weiter zu \nerhöhen, indem beispielsweise alle Bereiche mit der Standard-Absicherung oder kritische Geschäfts­\nprozesse mit der Kern-Absicherung geschützt werden.",
+  "pages": {
+    "start": 29,
+    "end": 29
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

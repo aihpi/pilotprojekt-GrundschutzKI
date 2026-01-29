@@ -1,0 +1,26 @@
+{
+  "id": "5_1",
+  "header": "5.1 Aufbau der BAO (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Aufbau der BAO (R+AS)"
+    }
+  ],
+  "content": "In einer Allgemeinen Aufbauorganisation (AAO) sind Abstimmungswege häufig kom­\nplex, wodurch kurzfristige Entscheidungen in Notfällen und Krisen oftmals nicht zeitge­\nrecht getroffen werden können. Eine zielgerichtete und rasche Bewältigung erfordert \ndaher eine besondere Aufbauorganisation (BAO).\n\nBeispiel\n\nAbbildung 22: Beispiel verschiedener Rollen in einer BAO\n\nAbbildung 22 erläutert ein Beispiel verschiedener Rollen einer BAO in den drei Ebenen \nstrategisch, taktisch und operativ, wie sie im Rahmen dieses Standards definiert sind:\n\n• \nDie Strategische Ebene legt die Ziele und Prioritäten in der Bewältigung fest.\n\n• \nDie Taktische Ebene analysiert die Lage, beschließt dahingehend Maßnahmen und \nüberwacht, ob diese umgesetzt wurden und wirksam sind.\n\n• \nDie Operative Ebene setzt die beschlossenen Maßnahmen um und meldet den Er­\nfolg oder die Wirkung der umgesetzten Maßnahmen an die taktische Ebene.\n\nHinweis\n\nIn anderen Standards, z. B. zur öffentlichen Gefahrenabwehr, haben die Ebenen ei­\nne andere Bedeutung. Daher ist es im Zusammenspiel mit anderen Stäben stets \nempfehlenswert, zu prüfen, wie die Begriffe strategisch, taktisch und operativ belegt \nsind, falls sie benutzt werden.\n\nDie BAO hat zum Ziel, komplexe Notfall- und Krisensituationen koordiniert zu bearbeiten \nund dabei alle relevanten Schnittstellen geeignet zu bedienen. Üblicherweise wird die \nBAO durch einen Stab geleitet, der komplexe Situationen beurteilen und geeignete \nMaßnahmen ableiten kann. Dieser agiert außerhalb der im Normalbetrieb etablierten \nOrganisationsform, z. B. der Linien- oder Matrixorganisation. Dadurch kann sichergestellt \nwerden, dass komplexe und damit langwierige Entscheidungs- und Abstimmungswege \nvermieden werden, die in der Praxis häufig in der AAO vorkommen. Der Stab hat dabei \ninnerhalb eines vorher festgelegten Rahmens Entscheidungsgewalt.\n\nAnalog zur Definition der BC-Vorsorgeorganisation müssen die Rollen der BAO, zusam­\nmen mit ihren Aufgaben, Rechten und Pflichten im Vorfeld festgelegt werden (siehe 4.3 \nDefinition der BC-Aufbauorganisation (R+AS)). Für jede definierte Rolle der BAO kann \nder oder die BCB eine Besetzung vorschlagen. Für jedes Stabsmitglied sollte mindestens \nein oder eine Stellvertretende benannt werden, da der Stab ad hoc und bei Bedarf über \neinen längeren Zeitraum handlungsfähig sein muss.",
+  "pages": {
+    "start": 96,
+    "end": 97
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

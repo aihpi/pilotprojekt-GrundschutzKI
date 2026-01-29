@@ -1,0 +1,26 @@
+{
+  "id": "4_5",
+  "header": "4.5 Das IS-Management-Team",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.5",
+      "title": "Das IS-Management-Team"
+    }
+  ],
+  "content": "Das IS-Management-Team unterstützt den Informationssicherheitsbeauftragten, indem es übergrei­\nfende Maßnahmen in der Gesamtorganisation koordiniert, Informationen zusammenträgt und Kon­\ntrollaufgaben durchführt. Die genaue Ausprägung hängt von der Größe der jeweiligen Institution, \ndem angestrebten Sicherheitsniveau und den vorhandenen Ressourcen ab. Im Extremfall besteht das \nIS-Management-Team nur aus zwei Personen, dem Informationssicherheitsbeauftragten, dem in die­\nsem Fall sämtliche Aufgaben im Sicherheitsprozess obliegen, und seinem Stellvertreter.\n\nAufgaben des IS-Management-Teams sind insbesondere:\n\n•  Informationssicherheitsziele und -strategien zu bestimmen sowie die Leitlinie zur Informationssi­\ncherheit zu entwickeln,\n\n•  die Umsetzung der Sicherheitsleitlinie zu überprüfen,\n\n•  den Sicherheitsprozess zu initiieren, zu steuern und zu kontrollieren,\n\n•  bei der Erstellung des Sicherheitskonzepts mitzuwirken,\n\n•  zu überprüfen, ob die im Sicherheitskonzept geplanten Sicherheitsmaßnahmen wie beabsichtigt \nfunktionieren sowie geeignet und wirksam sind,\n\n•  die Schulungs- und Sensibilisierungsprogramme für Informationssicherheit zu konzipieren sowie\n\n•  die Fachverantwortlichen, den IT-Betrieb, die Bereichs-ISBs, eventuell den ICS-ISB und die Leitungs­\nebene in Fragen der Informationssicherheit zu beraten.\n\nZusammensetzung des Teams\n\nUm seine Aufgaben erfüllen zu können, sollte sich das IS-Management-Team aus Personen zusam­\nmensetzen, die über Kenntnisse in Informationssicherheit und technische Kenntnisse über die in der \nInstitution eingesetzten IT-, ICS- und IoT-Systeme verfügen sowie Erfahrungen mit Organisation und \nVerwaltung haben. Darüber hinaus sollte das IS-Management-Team die unterschiedlichen Aufgaben­\nbereiche und Geschäftsprozesse einer Institution kennen. In großen Institutionen ist es sinnvoll, wenn \ndie verschiedenen Fachbereiche einer Institution jeweils einen Vertreter im IS-Management-Team ha­\nben. Diese Person übernimmt die Vertretung im IS-Management-Team neben ihren Fachaufgaben, \nbringt die Expertise aus dem Fachbereich ein und wird dadurch gleichzeitig Ansprechpartner für Si­\ncherheitsfragen der Mitarbeiter aus diesem Bereich.\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 43,
+    "end": 44
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

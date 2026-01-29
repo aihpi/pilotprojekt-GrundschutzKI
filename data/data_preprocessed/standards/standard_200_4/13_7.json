@@ -1,0 +1,26 @@
+{
+  "id": "13_7",
+  "header": "13.7 Stabsrahmenübung (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.7",
+      "title": "Stabsrahmenübung (AS)"
+    }
+  ],
+  "content": "Stabsrahmenübungen im BCM stellen eine erweiterte Form der Stabsübung dar (siehe \n13.6 Stabsübung (R+AS)). Alle Anforderungen an Stabsübungen müssen daher auch für \nStabsrahmenübungen erfüllt sein. Stabsrahmenübungen dienen dazu, neben der Stabs­\narbeit auch die Zusammenarbeit und Kommunikation zwischen dem Stab und weiteren \nTeams zu überprüfen und zu üben. Bei diesen Teams kann es sich um Unterstüt­\nzungsteams handeln, z. B. zur NuK-Kommunikation. Es kann auch gemeinsam mit ope­\nrativen Einheiten der Institution geübt werden, wie etwa mit einer zeitkritischen Organi­\nsationseinheit, mit der IT-Abteilung oder mit dem Facility Management. Gleiches gilt für \nmögliche extern Beteiligte oder Fachleute, welche die Übung beispielsweise als neutrale \nBeobachtende begleiten sollen.\n\nWenn in der Institution noch keine größere Übungserfahrung vorhanden ist, können die \nRollen, die nicht stabsnah sind, zunächst simuliert werden. Beschlossene Maßnahmen \ndes Stabs werden somit nicht ausgeführt.\n\nInnerhalb der Stabsrahmenübung wird durch den Stab entschieden und angewie­\nsen, dass betroffene Organisationseinheiten einen Ausweichstandort beziehen sol­\nlen. Weitere beteiligte Rollen innerhalb der Stabsrahmenübung, die die betroffenen \nOrganisationseinheiten repräsentieren, führen dies jedoch nicht real aus, sondern \ngeben nur simuliert die Rückmeldung, dass der Ausweichstandort bezogen wurde.\n\nMit steigender Übungserfahrung sollten Stabsrahmenübungen einen immer stärkeren \nrealen Bezug erhalten. So können Stabsrahmenübungen z. B. mit Funktionstests (siehe \n13.9 Funktionstest (R optional +AS)) kombiniert werden, um realitätsnah zu üben und \ndamit Erkenntnisse zu gewinnen, die mit Simulationen alleine nicht erlangt werden kön­\nnen.\n\nSynergiepotenzial\n\nIn Stabsrahmenübungen können insbesondere komplexe Szenarien geübt werden, \ndie einen fließenden Übergang der Zuständigkeiten beinhalten oder es erforderlich \nmachen, dass unterschiedliche (Sicherheits-)Disziplinen zusammen agieren. Dies ist \nzum Beispiel bei Cyberangriffen der Fall, die zunächst vom Incident Management der \nIT behandelt und wahrgenommen werden, bevor sie als schwerwiegender Sicher­\nheitsvorfall durch die Informationssicherheit koordiniert werden. Wenn der Ge­\nschäftsbetrieb durch den Cyberangriff massiv beeinträchtigt wird, ist zusätzlich dazu \neine Abstimmung zwischen der Informationssicherheit, der IT und dem sich konstitu­\nierenden Stab erforderlich, sobald der Not- oder Krisenfall ausgerufen wird. Auch \nwenn Cybersicherheitsvorfälle nicht per se durch BCM abgedeckt werden, kann es \ndaher sinnvoll sein, ein solches Szenario im Stab zu üben. Stabsrahmenübungen \nkönnen dann sachdienliche Hinweise über die Entscheidungshierarchien geben und \ndie Zuständigkeiten oder Lücken in Zuständigkeitsbereichen transparent machen.\n\nHinweis\n\nWenn die Übungserfahrung der Institution es zulässt, können Stabsrahmenübungen \nauch sehr realistisch und mit externer Beteiligung wie z. B. Aufsichtsbehörden, Feu­\nerwehr, THW oder Statisten erfolgen. Je nach Ausmaß kann diese Übungsart in eine \n„Vollübung“ übergehen.",
+  "pages": {
+    "start": 276,
+    "end": 277
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

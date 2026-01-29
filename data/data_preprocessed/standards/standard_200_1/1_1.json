@@ -1,0 +1,21 @@
+{
+  "id": "1_1",
+  "header": "1.1 Versionshistorie",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.1",
+      "title": "Versionshistorie"
+    }
+  ],
+  "content": "Der BSI-Standard 200-1 löst den BSI-Standard 100-1 ab.\n\nStand \nVersion \nÄnderungen\n\nApril 2017 \nCD 1.0 \nAktualisierung basierend auf BSI-Standard 100-1 \n• Anpassungen an Fortschreibung der ISO-Normen\n\n• Anpassungen an BSI-Standard 200-2 \n(IT-Grundschutz-Methodik)\n\nOktober 2017 \nV 1.0 \nAnwenderkommentare eingearbeitet \n• im Wesentlichen sprachliche Präzisierungen\n\n• Unterscheidung zwischen Norm und Standard",
+  "pages": {
+    "start": 5,
+    "end": 5
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

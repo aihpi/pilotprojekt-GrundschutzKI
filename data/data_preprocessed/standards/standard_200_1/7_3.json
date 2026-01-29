@@ -1,0 +1,26 @@
+{
+  "id": "7_3",
+  "header": "7.3 Umsetzung der Leitlinie zur Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "7.3",
+      "title": "Umsetzung der Leitlinie zur Informationssicherheit"
+    }
+  ],
+  "content": "Um die gesetzten Sicherheitsziele zu erreichen, muss zunächst ein Sicherheitskonzept erstellt werden. \nZur besseren Übersichtlichkeit wird in einem eigenen Kapitel dargestellt, wie ein Sicherheitskonzept \ngeplant, umgesetzt und das Informationssicherheitsniveau aufrechterhalten und verbessert werden \nkann. Die Ergebnisse der Überprüfung der Sicherheitsmaßnahmen gehen dann in die Erfolgskontrolle \ndes Sicherheitsprozesses ein und werden von der Leitungsebene bewertet.",
+  "pages": {
+    "start": 30,
+    "end": 30
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

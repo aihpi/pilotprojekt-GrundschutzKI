@@ -1,0 +1,26 @@
+{
+  "id": "7_8",
+  "header": "7.8 Risikoanalyse und weiterführende Sicherheitsmaßnahmen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "7",
+      "title": "Erstellung einer Sicherheitskonzeption nach Kern-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "7.8",
+      "title": "Risikoanalyse und weiterführende Sicherheitsmaßnahmen"
+    }
+  ],
+  "content": "Die Erfüllung der Standard-Anforderungen nach IT-Grundschutz bietet im Normalfall einen angemes­\nsenen und ausreichenden Schutz. Bei einem hohen oder sehr hohen Schutzbedarf, wie er im Rahmen \nder Kern-Absicherung regelmäßig auftritt, ist zu prüfen, ob sich zusätzliche Sicherheitsanforderungen \nergeben und damit zusätzliche oder ersatzweise höherwertige Sicherheitsmaßnahmen erforderlich \nsind. Dies gilt auch, wenn besondere Einsatzbedingungen vorliegen oder wenn Komponenten ver­\nwendet werden, die nicht mit den existierenden Bausteinen des IT-Grundschutz-Kompendiums abge­\nbildet werden können. Dann ist zu entscheiden, ob für die jeweils betroffenen Bereiche eine Risiko­\nanalyse durchgeführt werden muss, um angemessene Sicherheitsmaßnahmen zu identifizieren.\n\nEine Methode für Risikoanalysen ist die im BSI-Standard 200-3 Risikoanalyse auf der Basis von \nIT-Grundschutz beschriebene Vorgehensweise. In Kapitel 8.5 wird diese Methode überblicksartig dar­\ngestellt. Die erfolgreiche Durchführung einer Risikoanalyse hängt entscheidend von den Fachkennt­\nnissen des Projektteams ab. Daher ist es häufig sinnvoll, fachkundiges externes Personal hinzuzuzie­\nhen.",
+  "pages": {
+    "start": 74,
+    "end": 74
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

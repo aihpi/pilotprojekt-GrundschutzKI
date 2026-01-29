@@ -1,0 +1,21 @@
+{
+  "id": "3_1",
+  "header": "3.1 Komponenten eines Managementsystems für Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "3.1",
+      "title": "Komponenten eines Managementsystems für Informationssicherheit"
+    }
+  ],
+  "content": "Abbildung 3: Strategie zur Informationssicherheit als zentrale Komponente des ISMS\n\nDie Sicherheitsstrategie dient der Orientierung für die Planung des weiteren Vorgehens, um die ge­\nsetzten Sicherheitsziele zu erreichen. Die Strategie wird von der Leitungsebene vorgegeben und ba­\nsiert auf den Geschäftszielen des Unternehmens bzw. dem Auftrag der Behörde. Sicherheitsorgani­\nsation und Sicherheitskonzept sind dabei die Werkzeuge des Managements zur Umsetzung ihrer Si­\ncherheitsstrategie.\n\nDie Abbildungen 3 und 4 machen diesen Zusammenhang deutlich. Die Kernaspekte der Sicherheits­\nstrategie werden in der Leitlinie zur Informationssicherheit dokumentiert. Die Sicherheitsleitlinie ist \nvon zentraler Bedeutung, da sie das sichtbare Bekenntnis der Leitungsebene zu ihrer Strategie ent­\nhält.\n\nAbbildung 4: Umsetzung der Sicherheitsstrategie mithilfe des Sicherheitskonzepts und einer \nSicherheitsorganisation",
+  "pages": {
+    "start": 16,
+    "end": 17
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

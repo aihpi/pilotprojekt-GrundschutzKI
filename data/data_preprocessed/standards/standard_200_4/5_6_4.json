@@ -1,0 +1,31 @@
+{
+  "id": "5_6_4",
+  "header": "5.6.4 Ausstattung des Stabsraums (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.6",
+      "title": "Herstellung der Fähigkeit zur Stabsarbeit (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.6.4",
+      "title": "Ausstattung des Stabsraums (R+AS)"
+    }
+  ],
+  "content": "### Kommunikationsausstattung\n\nEs ist empfehlenswert, den Besprechungsraum des Stabs weitgehend frei von Kommuni­\nkationsausstattung zu halten oder durch eine gezielte Moderation sicher zu stellen, dass \nin Besprechungsphasen die Mitglieder nicht durch ihre Kommunikationsmittel abgelenkt",
+  "pages": {
+    "start": 134,
+    "end": 135
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

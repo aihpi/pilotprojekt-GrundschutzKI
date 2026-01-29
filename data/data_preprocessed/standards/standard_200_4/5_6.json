@@ -1,0 +1,26 @@
+{
+  "id": "5_6",
+  "header": "5.6 Herstellung der Fähigkeit zur Stabsarbeit (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.6",
+      "title": "Herstellung der Fähigkeit zur Stabsarbeit (R+AS)"
+    }
+  ],
+  "content": "### Battlebox\n\nIm Rahmen der Stabsarbeit greifen die verschiedenen Rollen auf unterschiedliche Pläne, \nChecklisten und Hilfsmittel zurück, insbesondere auf das Notfallhandbuch. Sämtliche für \nden Notfall relevante BCM-Dokumentation sollte daher einerseits im Stabsraum und an­\ndererseits zentral zugänglich vorgehalten werden. So bleibt sie auch verfügbar, falls z. B. \nder Stabsraum, die Dokumentation an sich oder das Notfall-Laptop physisch zerstört \nsind. Diese doppelte Vorhaltung kann z. B. durch weitere physische oder digitale Kopien \nerfolgen. Hierbei ist es wichtig, auf Aktualität und die Anforderungen der Informations­\nsicherheit und des Datenschutzes zu achten. So müssen papierhafte Dokumente bei je­\nder Aktualisierung der Dokumentation neu ausgedruckt und an den Ablageorten ausge­\ntauscht werden. Andererseits sind sie auch ohne Vorhandensein von Strom oder IT ver­\nfügbar und einsetzbar. Elektronische Informationen haben wiederum den Vorteil, dass \nsie schneller aktualisiert bzw. ausgetauscht werden können. Ergänzend zur oben ge­\nnannten BCM-Dokumentation kann es hilfreich sein, eine Checkliste im Stabsraum zu \nhinterlegen, die erläutert, wie die Materialien und die Technik in Betrieb genommen und \ngenutzt werden. Zusätzlich dazu können die Checklisten im Anhang des Notfallhand­\nbuchs hinterlegt werden, damit im Bedarfsfall eine Kopie verfügbar ist.\n\nBeispiel\n\nDie Checkliste „Einrichtung des Stabsraums“ kann im Detail beschreiben, welche Tä­\ntigkeiten erforderlich sind und wer dafür zuständig ist.\n\nMögliche Tätigkeiten können sein:\n\n• \nRaum aufschließen und lüften\n\n• \nVisualisierungsflächen vorbereiten, z. B. Maßnahmenverfolgung oder Ereignis­\nzeitstrahl\n\n• \nTische und Stühle U-förmig in Richtung Visualisierungsflächen aufstellen\n\n• \nNamenskarten entsprechend dem Sitzplan aufstellen\n\n• \nBCM-Dokumentation sortiert nach den Rollen im Raum verteilen\n\n• \nKommunikationsmittel und Technik auf Einsatzfähigkeit testen\n\n• \nVerpflegung und Getränke bereitstellen",
+  "pages": {
+    "start": 135,
+    "end": 137
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "13_8_1",
+  "header": "13.8.1 Vorbereitung einer Alarmierungsübung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.8",
+      "title": "Alarmierungsübung (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.8.1",
+      "title": "Vorbereitung einer Alarmierungsübung"
+    }
+  ],
+  "content": "### Notfallszenario\n\nEin ausführliches Szenario ist für diese Übungsart nicht unbedingt notwendig. Eine ein­\nfache Ausgangslage, die während des Tests kommuniziert wird, ist vollkommen ausrei­\nchend.\n\nEinfache Ausgangslage für eine Alarmierungsübung:\n\n„Übungsalarm! Ausfall von IT-Systemen durch Brand im Serverraum. Übungsalarm!“\n\nDer oder die BCB sollte in seiner Jahresplanung darauf achten, dass über einen festge­\nlegten Zeitraum alle definierten Alarmierungswege getestet werden.",
+  "pages": {
+    "start": 280,
+    "end": 281
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

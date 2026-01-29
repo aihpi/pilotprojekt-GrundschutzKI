@@ -1,0 +1,31 @@
+{
+  "id": "5_6_5",
+  "header": "5.6.5 Freigabe durch die Institutionsleitung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.6",
+      "title": "Herstellung der Fähigkeit zur Stabsarbeit (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.6.5",
+      "title": "Freigabe durch die Institutionsleitung (R+AS)"
+    }
+  ],
+  "content": "Die erarbeiteten, abgestimmten und dokumentierten Entscheidungen und Vorgaben zur \nStabsarbeit sowie die zur Alarmierung und Eskalation (siehe 5.2 Detektion, Alarmierung \nund Eskalation (R+AS)) sollten der Institutionsleitung vorgestellt und durch diese freige­\ngeben werden. Dies stellt sicher, dass die Institutionsleitung Einfluss auf diese wichtigen \nAspekte der Notfallbewältigung nehmen und die erforderlichen personellen und finanzi­\nellen Ressourcen freigeben kann. Insbesondere die zentrale Entscheidungsinstanz im \nAlarmierungsprozess muss durch die Institutionsleitung freigegeben werden, da sie \nHandlungs- und Entscheidungsbefugnisse auf den Stab übertragen kann, die im Nor­\nmalbetrieb der Institutionsleitung vorbehalten sind. Anschließend müssen die hierfür er­\nforderlichen Maßnahmen umgesetzt und im Maßnahmenplan nachverfolgt werden (sie­\nhe 15.1 Vorbereitung eines BCM-Maßnahmenplans (R+AS)).",
+  "pages": {
+    "start": 137,
+    "end": 137
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

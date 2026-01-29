@@ -1,0 +1,26 @@
+{
+  "id": "3_2",
+  "header": "3.2 Konzeption und Planung des Sicherheitsprozesses",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.2",
+      "title": "Konzeption und Planung des Sicherheitsprozesses"
+    }
+  ],
+  "content": "In dieser frühen Phase des Informationssicherheitsprozesses geht es nicht um eine detaillierte Betrach­\ntung aller Anwendungen und IT-Systeme oder eine aufwendige Risikoanalyse. Wichtig ist, eine Über­\nsicht zu haben, welche Sicherheitsanforderungen aufgrund der Geschäftsprozesse oder Fachverfah­\nren an die Informationstechnik gestellt werden. Zum Beispiel sollten sich nach der Bestimmung des \nangestrebten Sicherheitsniveaus die nachfolgenden Fragen beantworten lassen:\n\n•  Welche Informationen sind in Bezug auf Vertraulichkeit, Integrität und Verfügbarkeit besonders \nkritisch für die Institution?\n\n•  Welche kritischen Aufgaben der Institution können ohne Unterstützung durch IT nicht, nur unzu­\nreichend oder mit erheblichem Mehraufwand ausgeführt werden?\n\n•  Welche Auswirkungen können absichtliche oder ungewollte Sicherheitszwischenfälle haben?\n\n•  Werden mit der eingesetzten IT Informationen verarbeitet, deren Vertraulichkeit besonders zu \nschützen ist?\n\n•  Welche wesentlichen Entscheidungen der Institution beruhen auf Vertraulichkeit, Integrität und \nVerfügbarkeit von Informationen und IT-Systemen?\n\n•  Welche organisatorischen oder gesetzlichen Anforderungen (z. B. Datenschutz) haben besondere \nMaßnahmen zur Folge?\n\nDie Beschreibungen des angestrebten Sicherheitsniveaus sollten auf das jeweilige Umfeld angepasst \nsein. Kurze Begründungen sind für die Motivation darauf aufbauender Maßnahmen hilfreich. Diese \nkönnte beispielsweise für ein Krankenhaus heißen: „In der Röntgenabteilung ist ein sehr hohes Infor­\nmationssicherheitsniveau notwendig, weil von der korrekten Funktion der IT-Systeme Menschenleben \nabhängen.“",
+  "pages": {
+    "start": 26,
+    "end": 26
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

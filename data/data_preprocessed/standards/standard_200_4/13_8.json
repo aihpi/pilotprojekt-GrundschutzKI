@@ -1,0 +1,26 @@
+{
+  "id": "13_8",
+  "header": "13.8 Alarmierungsübung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.8",
+      "title": "Alarmierungsübung (R+AS)"
+    }
+  ],
+  "content": "Die Alarmierungsübung zielt darauf ab, Fehlerquellen und Schwächen in der Alarmie­\nrung der BAO zu identifizieren, die Wirksamkeit von Alarmierungsverfahren festzustellen \nund die BAO-Reaktionszeit konkreter verifizieren zu können. Eine erfolgreiche Alarmie­\nrung ist Grundlage für die weitere Bewältigung und es ist daher empfehlenswert, diese \nschnellstmöglich zu üben. Anhand von Alarmierungsübungen sollte getestet werden, ob \ndie organisatorischen und technischen Maßnahmen eine Alarmierung im erforderlichen \nZeitraum (auch außerhalb der üblichen Geschäftszeiten) sicherstellen. Ausgehend von \neiner Information einer Meldestelle wird über die zentrale Entscheidungsinstanz eine \nAlarmierungsmeldung und infolgedessen die Alarmierungskette ausgelöst und nachver­\nfolgt. Innerhalb der Alarmierungsübung sollten die Reaktionszeiten ermittelt und doku­\nmentiert werden. Alarmierungsübungen können in technikorientierte Tests und anwen­\ndungsorientierte Übungen unterschieden werden.\n\nIn technikorientierten Tests wird überprüft, ob die Kommunikationsmittel und -ver-\nfahren, die im Notfall eingesetzt werden, funktionsfähig sind. In anwendungsorientierten \nÜbungen werden die vorhandene Alarmierungsdokumentation sowie organisatorischen\n\nRegelungen, z. B. die Erreichbarkeit und Verfügbarkeit der relevanten Rolleninhabenden \nund der Stellvertretungen, überprüft. Darüber hinaus kann die Geschwindigkeit der Re­\naktion getestet und eingeübt werden.\n\nAnwendungsorientierte Alarmierungsübungen setzen voraus, dass ein abgestimmter \nAlarmierungspfad mit aktuellen Kontaktdaten vorliegt und die zu nutzenden Kommuni­\nkationswege und -mittel zwischen den Teilnehmenden organisatorisch und technisch \nfestgelegt, dokumentiert, umgesetzt und funktionstüchtig sind.",
+  "pages": {
+    "start": 279,
+    "end": 280
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "6_5",
+  "header": "6.5 Auswahl einer folgenden Vorgehensweise",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "6.5",
+      "title": "Auswahl einer folgenden Vorgehensweise"
+    }
+  ],
+  "content": "Informationssicherheit muss gelebt werden. Um das Sicherheitsniveau aufrechtzuerhalten und kon­\ntinuierlich verbessern zu können, müssen nicht nur die erforderlichen Sicherheitsmaßnahmen umge­\nsetzt und fortlaufend aktualisiert werden, sondern auch der gesamte Prozess der Informationssicher­\nheit muss regelmäßig auf seine Wirksamkeit und Effizienz hin überprüft werden.\n\nDie Basis-Absicherung ist eine IT-Grundschutz-Vorgehensweise für den Einstieg, um zunächst zeitnah \ndie wichtigsten Sicherheitsempfehlungen für den ausgewählten Einsatzbereich identifizieren und um­\nsetzen zu können. Ziel ist es daher, mittelfristig ein vollständiges Sicherheitskonzept gemäß der Stan­",
+  "pages": {
+    "start": 66,
+    "end": 67
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

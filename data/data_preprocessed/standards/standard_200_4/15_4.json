@@ -1,0 +1,26 @@
+{
+  "id": "15_4",
+  "header": "15.4 Weiterentwicklung des Reaktiv-BCMS (R)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "14",
+      "title": "Leistungsüberprüfung und Berichterstattung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "15.4",
+      "title": "Weiterentwicklung des Reaktiv-BCMS (R)"
+    }
+  ],
+  "content": "Nachdem alle Schritte des BCM-Prozesses innerhalb des Reaktiv-BCMS durchlaufen wur­\nden, ist die Institution grundsätzlich in der Lage, auf Notfälle zu reagieren und diese mit \nHilfe der BAO sowie der Geschäftsfortführungspläne zu bewältigen. Jedoch wurden \nhierbei wesentliche Schritte zurückgestellt. Infolgedessen ist es sehr wahrscheinlich, dass \nim BCM der Institution echte Lücken in der BC-Planung bestehen.\n\nIn dem BIA-Vorfilter wurde der Analysebereich auf die zeitkritischsten Organisationsein­\nheiten begrenzt. Damit besteht für die ausgegrenzten Organisationseinheiten das Risiko, \nunzureichend im BCM abgesichert zu sein. Zusätzlich basieren die Geschäftsfortfüh­\nrungspläne im Wesentlichen auf den bereits vorhandenen Möglichkeiten. Folgerichtig \nkönnen auch die im Soll-Ist-Vergleich identifizierten Handlungsbedarfe nur über Anpas­\nsungen der Geschäftsabläufe und „Quick-Fixes“ behandelt werden. Auch hier werden \nwahrscheinlich Lücken im Reaktiv-BCMS bestehen bleiben:\n\n• \nEs fehlen systematische BC-Strategien, die den geordneten Wiederanlauf aller zeit­\nkritischen Ressourcen entsprechend der Handlungsbedarfe garantieren.\n\n• \nDie Wiederanlauffähigkeit zeitkritischer Ressourcen kann nur bedingt überprüft \nwerden, da komplexe Übungs- und Testarten im Reaktiv-BCMS nicht vorgesehen \nsind.\n\n• \nIm Reaktiv-BCMS werden Maßnahmen zur Notfallvorsorge nicht näher betrachtet.\n\nDie genannten Schritte konnten in einem ersten PDCA-Zyklus des Reaktiv-BCMS bewusst \nzurückgestellt werden, um schnell konkrete Resultate mit Fokus auf die Notfallbewälti­\ngung zu erzielen. Jedoch können für die weitere Entwicklung des BCMS die beschriebe­\nnen Lücken nicht toleriert werden, da von einem immanenten Risiko eines unzureichend \nabgesicherten Geschäftsbetriebs ausgegangen werden muss. Daher muss in einem fina­\nlen Schritt die Weiterentwicklung des BCMS festgelegt werden. Die nachfolgenden Kapi­\ntel beschreiben die empfohlene Vorgehensweise, mittels derer die Weiterentwicklung \ndes BCMS durchgeführt wird. In Abbildung 57 sind die hierfür erforderlichen Schritte in \neiner Übersicht dargestellt:\n\nAbbildung 57: BCM-Prozessschritte zur Weiterentwicklung des Reaktiv-BCMS",
+  "pages": {
+    "start": 304,
+    "end": 305
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

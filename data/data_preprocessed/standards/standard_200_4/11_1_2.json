@@ -1,0 +1,31 @@
+{
+  "id": "11_1_2",
+  "header": "11.1.2 Erstellung einer GFP-Dokumentvorlage",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.1",
+      "title": "Vorbereitung der GFPs (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "11.1.2",
+      "title": "Erstellung einer GFP-Dokumentvorlage"
+    }
+  ],
+  "content": "Um die Geschäftsfortführung im Notfall zu erleichtern, sollte der oder die BCB sicherstel­\nlen, dass die GFPs einheitlich aufgebaut und nachvollziehbar dokumentiert sind. Hierzu \nsollte eine GFP-Dokumentvorlage erstellt werden. Die nachfolgenden Aspekte müssen \ndarin berücksichtigt werden:\n\nDer Geltungsbereich beschreibt den organisatorischen und räumlichen Bereich, in wel­\nchem die Maßnahmen und Verfahren eines GFP gelten. Die Beschreibung des Geltungs­\nbereichs stellt sicher, dass der GFP sowie die darin beschriebenen Maßnahmen aus­\nschließlich in dem für ihn vorgesehenen Umfeld eingesetzt werden. Es könnte z. B. vor­\nkommen, dass die beschriebenen Maßnahmen nicht in anderen Organisationseinheiten \noder Standorten eingesetzt werden können oder den dort notwendigen Maßnahmen \nwidersprechen.\n\nIn der Zielstellung des GFP muss beschrieben werden, was durch den GFP erreicht \nwerden soll und was explizit nicht durch den GFP forciert wird. Die Beschreibung der \nZielstellung stellt sicher, dass der GFP nur zu seinem gedachten Zweck eingesetzt wird \nund nicht etwa im Rahmen des Normalbetriebs zweckentfremdet oder mit anderen \nThemen vermischt wird.\n\nDer Aktivierungsprozess, die gesonderten Rechte und Pflichten der Mitarbeiten­\nden sowie die besonderen Melde- und Berichtspflichten werden in Kapitel 11.2.1 \nFestlegung übergreifender Maßnahmen (R+AS) näher erläutert.\n\nInnerhalb des GFP müssen alle zeitkritischen Geschäftsprozesse einer Organisations­\neinheit sowie deren MTPD und RTO dokumentiert werden. Die Dokumentation hat zum \nZiel, dem Stab im Notfall eine Übersicht über die zeitkritischen Geschäftsprozesse im Gel­\ntungsbereich sowie deren MTPD und RTO zu verschaffen. Die Auflistung schafft Transpa­\nrenz über die bestehenden zeitkritischen Geschäftsprozesse sowie über die zeitliche Rei­\nhenfolge, in welcher diese wieder in einem Notbetrieb anlaufen müssen.\n\nZusätzlich müssen die identifizierten Abhängigkeiten zwischen zeitkritischen Ge­\nschäftsprozessen dokumentiert werden. Hierunter fallen auch prozessuale Abhängig­\nkeiten, die etwa zwischen Organisationseinheiten bestehen. Dadurch ist es möglich, im \nNotfall schnell festzustellen, welche Geschäftsprozesse durch einen vor- oder nachgela­\ngerten oder parallelen Prozessausfall betroffen sind. Die Tätigkeiten im Notbetrieb kön­\nnen so leichter institutionsweit priorisiert werden.\n\nAlle zeitkritischen Ressourcen der betrachteten Organisationseinheit sowie die identi­\nfizierten RTAs und RTOs sowie die RPOs und RPAs müssen innerhalb des GFP dokumen­\ntiert werden. Aufgeteilt nach möglichem Ressourcenausfall müssen innerhalb des GFP \nNotfallmaßnahmen abgeleitet werden, wie die Organisationseinheit mit den im Rahmen \nder Wiederanlaufplanung bereitgestellten Ressourcen arbeitet. Die Notfallmaßnahmen \nzielen darauf ab, die Geschäftsprozesse bei Ausfall der Ressourcen innerhalb der RTO auf \ndem vorgegebenen Notbetriebsniveau fortzuführen.\n\nInnerhalb des GFP müssen sämtliche internen sowie externen Kontakte dokumentiert \nwerden, die im Rahmen der Geschäftsfortführung relevant sind, vor allem im Notfall er­\nreichbare Telefonnummern. Dies sind z. B. die Kontaktdaten von Mitarbeitenden aus an­\nderen Fachbereichen, von internen oder externen Fachleuten sowie von innerhalb der \nOrganisationseinheit benötigten Dienstleistungsunternehmen. Die Dokumentation der \nrelevanten Kontakte ermöglicht einen schnellen Zugriff auf die entsprechenden Stellen \nsowie eine Unabhängigkeit von anderen, möglicherweise nicht verfügbaren Kontakt-\nQuellen wie digitalen Telefonbüchern. Sofern die Kontakt-Informationen bereits ausfall­\n\nsicher an anderer Stelle dokumentiert sind, genügt es, im GFP die Kontakt-Informationen \nzu referenzieren und im Notfall verfügbar zu machen.\n\nInnerhalb des GFP sollten alle zur Geschäftsfortführung relevanten Dokumente sowie \nihre jeweiligen Ablageorte notiert werden. Mögliche Dokumente sind etwa Prozessbe­\nschreibungen oder Handlungsanweisungen. In einem Notfall kann durch die zielgerichte­\nten Verweise schnell auf die relevante Information in den jeweiligen Dokumenten zuge­\ngriffen werden. Voraussetzung ist, dass die für die Notfallbewältigung benötigten Do­\nkumente schnell zu erfassen sind und konkrete Notfallmaßnahmen leicht daraus \nabgeleitet werden können. Es muss sichergestellt werden, dass die Ablageorte entspre­\nchend dem Schutzbedarf abgesichert und auch im Notfall zugänglich sind.\n\nHinweis\n\nSofern für die Geschäftsfortführung auf Informationen in anderen Dokumenten zu­\nrückgegriffen werden soll, ist es empfehlenswert, dass alle im GFP aufgeführten Do­\nkumente am Ende des GFP noch einmal in einer Gesamtliste der benötigten Doku­\nmente namentlich aufgeführt werden. Zusätzlich sollte dann je Dokument der jewei­\nlige Ablageort referenziert werden.",
+  "pages": {
+    "start": 225,
+    "end": 227
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

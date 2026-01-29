@@ -1,0 +1,31 @@
+{
+  "id": "8_2_1",
+  "header": "8.2.1 Definition der Schutzbedarfskategorien",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "8.2",
+      "title": "Schutzbedarfsfeststellung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.1",
+      "title": "Definition der Schutzbedarfskategorien"
+    }
+  ],
+  "content": "Da der Schutzbedarf meist nicht quantifizierbar ist, beschränkt sich der IT-Grundschutz somit auf eine \nqualitative Aussage, indem der Schutzbedarf in drei Kategorien unterteilt wird:\n\nSchutzbedarfskategorien\n\n„normal“ \nDie Schadensauswirkungen sind begrenzt und überschaubar.\n\n„hoch“ \nDie Schadensauswirkungen können beträchtlich sein.\n\n„sehr hoch“ \nDie Schadensauswirkungen können ein existenziell bedrohliches, katastrophales \nAusmaß erreichen.\n\nHinweis:\n\nEs kann ffr eine Institution auch sinnvoll sein, weitere Kategorien zu definieren. Beispielsweise \nkann eine Abstufung nach unten, z. B. „unkritisch“, eingeffhrt werden. (Diese könnte wie folgt \ndefiniert sein: „Schäden an Ressourcen der Schutzbedarfskategorie ,unkritisch‘ haben keine oder \nnur minimale Beeinträchtigungen der Institution zur Folge.“)",
+  "pages": {
+    "start": 104,
+    "end": 105
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "4_7",
+  "header": "4.7 Der ICS-Informationssicherheitsbeauftragte (ICS-ISB)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.7",
+      "title": "Der ICS-Informationssicherheitsbeauftragte (ICS-ISB)"
+    }
+  ],
+  "content": "Institutionen mit industriellen Steuerungskomponenten (ICS) sollten aufgrund gesetzlicher und orga­\nnisatorischer Maßnahmen einen Verantwortlichen für die Umsetzung von Anforderungen der Infor­\nmationssicherheit für diesen Bereich benennen.\n\nIndustrielle Steuerungssysteme bringen zahlreiche Sicherheitsanforderungen mit sich, die sich grund­\nlegend von denen der allgemeinen Büro-IT unterscheiden. Im ICS-Bereich werden IT-Systeme und \nAnwendungen oftmals über einen sehr langen Zeitraum eingesetzt. Der Lebenszyklus dieser Objekte \nbeträgt häufig mehr als zehn Jahre.\n\nInnerhalb von ICS-Bereichen kommen aber auch vermehrt noch Anwendungen und IT-Systeme aus \ndem Bereich der Büro-IT zum Einsatz. Diese werden jedoch für ihren Anwendungszweck länger als die \nin Büroumgebungen übliche Zeitdauer verwendet.\n\nUm die speziellen Anforderungen im Bereich der industriellen Steuerung abzudecken und um die \nSicherheitsorganisation aus dem Bereich der industriellen Steuerung in das Gesamt-ISMS einzubin­\nden, sollte die Institution einen ICS-Informationssicherheitsbeauftragten (ICS-ISB) benennen. Dieser \nsollte Mitglied im IS-Management-Team sein. Außerdem sollte er im IS-Koordinierungsausschuss (sie­\nhe Kapitel 4.8 IS-Koordinierungsausschuss) vertreten sein. Zwar betrifft das Thema der industriellen \nSteuerung nicht alle Bereiche, aber aufgrund möglicher Veränderungen in der Büro-IT können Syner­\ngien für die produzierenden Bereiche ausgenutzt werden.\n\nJe nach Größe der Institution kann es sinnvoll sein, die Aufgaben für das Gesamt-ISMS und das ISMS \nim ICS-Bereich auf verschiedene personelle Ressourcen aufzuteilen.\n\nDie Sicherheitsorganisation der industriellen Steuerung sollte in die Sicherheitsorganisation der ge­\nsamten Institution eingebunden und entsprechend betrieben werden. Um Synergien zu nutzen und \nFehlplanungen sowie Risiken zu vermeiden, muss eine enge Kooperation zwischen dem ICS-ISB und \ndem ISB stattfinden. Weitere Ansprechpartner innerhalb der Institution sind insbesondere die Mitar­\nbeiter der Haustechnik und die IT-Experten.\n\nWelche Struktur für eine Sicherheitsorganisation im Bereich ICS geeignet ist, hängt stark von den \nvorhandenen Strukturen und eingespielten Prozessen innerhalb einer Institution ab. Grundlegend \nmuss die Kommunikation zwischen allen beteiligten Parteien sichergestellt werden. Alle Parteien müs­\nsen ein grundlegendes Verständnis für die jeweiligen Besonderheiten des anderen Bereichs aufbrin­\ngen. Nur durch ein vorangegangenes Verständnis für die Kultur und Sprache der jeweiligen Bereiche \nkönnen Missverständnisse vermieden werden.\n\nBSI-Standard 200-2\n\nDie Aufgaben des ICS-Informationssi cherheitsbeauftragten sind folgendermaßen festzuhalten:\n\n•  die allgemeingültigen Sicherheitsvorgaben der Informationssicherheitsleitlinie und weiterer Richt­\nlinien im Bereich ICS umsetzen,\n\n•  gemeinsame Ziele aus dem Bereich der industriellen Steuerung und dem Gesamt-ISMS verfolgen \nund Projekte aktiv unterstützen,\n\n•  für den ICS-Bereich Risikoanalysen durchführen, die den Vorgaben des Risikomanagements ent­\nsprechen,\n\n•  Sicherheitsrichtlinien und Konzepte für den ICS-Bereich unter Einbeziehung der Anforderungen \naus Safety und Security erstellen und schulen,\n\n•  eng mit dem Informationssicherheitsbeauftragten kooperieren,\n\n•  als Ansprechpartner für ICS-Sicherheit für die Mitarbeiter vor Ort und in der gesamten Institution \ndienen,\n\n•  ICS-Sicherheitsmaßnahmen erstellen und bei der Umsetzung mitwirken,\n\n•  notwendige Dokumente zur ICS-Sicherheit erstellen und diese kommunizieren,\n\n•  Informationen über Schulungs- und Sensibilisierungsbedarf der Beschäftigten im ICS-Bereich er­\nmitteln und Aktivitäten initiieren sowie\n\n•  Sicherheitsvorfälle im ICS-Bereich zusammen mit dem Informationssicherheitsbeauftragten bear­\nbeiten.\n\nFolgende Qualifikationen sollten beim ICS-ISB vorhanden sein:\n\n•  spezielle Kenntnisse zu den Prozessen innerhalb der Institution und der industriellen Steuerung,\n\n•  ausreichende IT-Kenntnisse, um Fragen der Mitarbeiter vor Ort, der IT-Experten und weiterer Par­\nteien umfassend beantworten zu können,\n\n•  Kenntnisse zu Bedrohungen und Schwachstellen innerhalb der industriellen Steuerung,\n\n•  Kenntnisse zu Gefährdungen für die Büro-IT, die innerhalb des ICS-Bereichs eingesetzt wird,\n\n•  Kenntnisse zum Projektmanagement sowie\n\n•  Kenntnisse zu den Themen Change Management und Notfallmanagement.",
+  "pages": {
+    "start": 45,
+    "end": 46
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

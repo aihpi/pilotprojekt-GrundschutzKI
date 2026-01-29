@@ -1,0 +1,26 @@
+{
+  "id": "12_1_2",
+  "header": "12.1.2 Erstellung einer WAP -Dokumentvorlage (AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 3,
+      "number": "12.1.2",
+      "title": "Erstellung einer WAP -Dokumentvorlage (AS)"
+    }
+  ],
+  "content": "Um den Wiederanlauf im Notfall zu erleichtern, sollte der oder die BCB sicherstellen, \ndass die WAPs einheitlich aufgebaut und nachvollziehbar dokumentiert sind. Hierzu \nkann es hilfreich sein, eine WAP-Dokumentvorlage zu erstellen. Die nachfolgenden As­\npekte müssen darin berücksichtigt werden:\n\nDer Zweck des WAP beschreibt, was durch den WAP erreicht werden soll und was ex­\nplizit nicht durch den WAP forciert wird. Die Beschreibung der Zielstellung stellt sicher, \ndass der WAP nur zu seinem gedachten Zweck eingesetzt wird und nicht etwa im Rah­\nmen des Normalbetriebs zweckentfremdet oder mit anderen Themen vermischt wird \n(siehe auch „Aktivierungsprozess“).\n\nZusätzlich müssen auch der Geltungsbereich und die betrachteten Ressourcen klar \ndokumentiert werden, sodass der WAP eindeutig gegenüber den weiteren WAPs abge­\ngrenzt werden kann.\n\nDer Aktivierungsprozess des WAP muss dokumentiert werden. Dieser beschreibt, wie \nder WAP offiziell aktiviert wird. Die Definition eines eindeutigen Aktivierungsprozesses ist \nnotwendig, da die Maßnahmen des WAP häufig nicht ohne Weiteres rückgängig ge­\nmacht werden können und ein frühzeitiges Auslösen des WAP verhindert werden soll.\n\nInnerhalb des WAP werden alle zum Wiederanlauf relevanten Dokumente sowie ihre \njeweiligen Ablageorte notiert. Mögliche Dokumente sind etwa Betriebshandbücher oder \nHandlungsanweisungen. Für den Fall eines Notfalls kann durch die Verweise schnell auf \ndie relevante Information in den jeweiligen Dokumenten zugegriffen werden. Vorausset­\nzung ist, dass die für die Notfallbewältigung benötigten Dokumente schnell zu erfassen \nsind und konkrete Notfallmaßnahmen leicht daraus abgeleitet werden können. Auch für \nreferenzierte Dokumente muss sichergestellt werden, dass diese im Notfall verfügbar \nsind.\n\nDie Voraussetzungen zum Wiederanlauf der Ressource führen die organisatori­\nschen sowie technischen Bedingungen auf, um die beschriebenen Notfallmaßnahmen \ninitiieren zu können.\n\nDie Notfallmaßnahmen stellen den Hauptteil des WAP dar und beschreiben konkreter \ndie notwendigen Schritte, um die spezifische Ressource wiederanlaufen zu lassen und im \nNotbetrieb fortzuführen.\n\nHinweis\n\nDamit der Aufwand für die Autoren und Autorinnen möglichst geringgehalten wird, \nkönnen die Pläne bereits im Vorfeld mit allgemeinen Informationen versehen wer­\nden. Dazu zählen insbesondere eine kurze Beschreibung der für die Ressource rele­\nvanten BIA-Informationen, z. B. RTO und Notbetriebsniveau, sowie möglicherweise \nbenötigte Dokumente, auf die in der Wiederanlaufplanung referenziert wird.",
+  "pages": {
+    "start": 244,
+    "end": 245
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

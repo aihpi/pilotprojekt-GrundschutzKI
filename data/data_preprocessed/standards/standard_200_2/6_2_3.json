@@ -1,0 +1,26 @@
+{
+  "id": "6_2_3",
+  "header": "6.2.3 Zuordnung von Bausteinen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Erstellung einer Sicherheitskonzeption nach Basis-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "6.2.3",
+      "title": "Zuordnung von Bausteinen"
+    }
+  ],
+  "content": "Die Zuordnung von Bausteinen zu Zielobjekten sollte in Form einer Tabelle mit folgenden Spalten \ndokumentiert werden:\n\n•  Vollständiger Titel des Bausteins (z. B. SYS.3.1 Laptop)\n\n•  Zielobjekt: Dieses kann z. B. die Identifikationsnummer einer Komponente oder einer Gruppe um­\nfassen bzw. der Name eines Gebäudes oder einer Organisationseinheit sein.\n\n•  Ansprechpartner: Diese Spalte dient zunächst nur als Platzhalter. Der Ansprechpartner wird nicht \nim Rahmen der Modellierung, sondern erst bei der Planung des eigentlichen Soll-Ist-Vergleichs im \nIT-Grundschutz-Check ermittelt.\n\n•  Reihenfolge: Es sollte die Umsetzungsreihenfolge (R1, R2, R3) des Bausteins eingetragen werden.\n\n•  Hinweise: In dieser Spalte können Randinformationen und Begründungen für die Modellierung \ndokumentiert werden.",
+  "pages": {
+    "start": 63,
+    "end": 63
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

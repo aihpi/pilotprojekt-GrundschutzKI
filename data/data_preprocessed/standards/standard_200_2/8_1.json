@@ -1,0 +1,26 @@
+{
+  "id": "8_1",
+  "header": "8.1 Strukturanalyse",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "8.1",
+      "title": "Strukturanalyse"
+    }
+  ],
+  "content": "Die Strukturanalyse dient der Vorerhebung von Informationen, die für die weitere Vorgehensweise in \nder Erstellung eines Sicherheitskonzepts nach IT-Grundschutz benötigt werden. Dabei geht es um die \nErfassung der Bestandteile (Geschäftsprozesse, Informationen, Anwendungen, IT- und ICS-Systeme, \nRäume, Kommunikationsnetze), die zur Betrachtung des Geltungsbereichs benötigt werden.\n\nHinweis:\n\nHäufig sind die Geschäftsprozesse noch nicht, nicht durchgängig oder nicht aktuell erfasst. Dann \nmfssen zuerst die relevanten Geschäftsprozesse identifiziert werden, z. B. durch eine Auswer­\ntung von Geschäftsverteilungsplänen, Aufgabenbeschreibungen oder anderen organisationsbe­\nschreibenden Papieren.\n\nDazu müssen die für die Institution wesentlichen Geschäftsprozesse sowie die geschäftskritischen Infor­\nmationen und Anwendungen ermittelt und die betroffenen IT-, ICS- oder IoT-Systeme, Räume und Netze \nerfasst werden. Die klassische Vorgehensweise ist, zuerst die Anwendungen und ausgehend davon die \nweiteren betroffenen Objekte zu ermitteln. Dieser Ansatz hat den Nachteil, dass es häufig schwierig ist,",
+  "pages": {
+    "start": 78,
+    "end": 79
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

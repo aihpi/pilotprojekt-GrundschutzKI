@@ -1,0 +1,26 @@
+{
+  "id": "4_8",
+  "header": "4.8 IS-Koordinierungsausschuss",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "4.8",
+      "title": "IS-Koordinierungsausschuss"
+    }
+  ],
+  "content": "Der IS-Koordinierungsausschuss ist in der Regel keine Dauereinrichtung in einer Institution, sondern \nwird bei Bedarf (z. B. zur Planung größerer Projekte) einberufen. Er hat die Aufgabe, das Zusammen­\nspiel zwischen dem IS-Management-Team, den Fachverantwortlichen, dem Sicherheitsbeauftragten \nund der Behörden- bzw. Unternehmensleitung zu koordinieren.\n\nEbenso wie den IS-Koordinierungsausschuss gibt es in vielen Institutionen einen IT-Koordinierungs­\nausschuss. Auch dieser ist keine Dauereinrichtung, sondern seine Aufgabe besteht darin, das Zusam­\nmenspiel zwischen den Vertretern der IT-Anwender, dem ISB und der Behörden- bzw. Unternehmens­\nleitung zu koordinieren.\n\nEs bietet sich an, die beiden Koordinierungsausschüsse, insoweit dies möglich ist, zusammenarbeiten \nzu lassen und sie auch personell weitgehend identisch zu besetzen.\n\nDer IS-Koordinierungsausschuss sollte die unterschiedlichen Aufgabenbereiche einer Institution wi­\nderspiegeln. Im IS-Koordinierungsausschuss sollten mindestens folgende Rollen vertreten sein: ein \nIT-Verantwortlicher, der Informationssicherheitsbeauftragte und Vertreter der Anwender. Da häufig \nauch personenbezogene Daten betroffen sind, sollte der Datenschutzbeauftragte ebenfalls Mitglied \ndes IS-Koordinierungsausschusses sein. Wenn die Institution einen ICS-Informationssicherheitsbeauf­\ntragten hat, sollte auch dieser im IS-Koordinierungsausschuss vertreten sein. Gibt es in der Institution \nbereits ein ähnliches Gremium, könnten dessen Aufgaben entsprechend erweitert werden. Um die \nBedeutung der Informationssicherheit zu unterstreichen, ist es jedoch ratsam, einen IS-Koordinie­\nrungsausschuss einzurichten und diesen regelmäßig einzuberufen.",
+  "pages": {
+    "start": 46,
+    "end": 47
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

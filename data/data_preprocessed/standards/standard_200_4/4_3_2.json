@@ -1,0 +1,31 @@
+{
+  "id": "4_3_2",
+  "header": "4.3.2 Der oder die BC-Beauftragte (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.3",
+      "title": "Definition der BC-Aufbauorganisation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.3.2",
+      "title": "Der oder die BC-Beauftragte (R+AS)"
+    }
+  ],
+  "content": "Der oder die BCB ist für den Aufbau, den Betrieb und die kontinuierliche Verbesserung \ndes BCMS zuständig. Er oder sie muss die Institutionsleitung bei sämtlichen Aspekten, \ndie für das BCM relevant sind, unterstützen und beraten. Maßgeblich für die Tätigkeit \nsind die Ziele und Rahmenbedingungen, die der oder die BCB durch die Institutionslei­\ntung erhält. Der oder die BCB hat folgende Aufgaben:\n\n• \nDefinition von Methoden, Vorgaben und Rollen im BCM\n\n• \nfachliche Begleitung der Teilschritte im BCM-Prozess\n\n• \nÜberwachung der Umsetzung von Vorgaben und Einhaltung der Methoden im \nBCM-Prozess\n\n• \nKoordination und Überwachung der Umsetzung von Verbesserungsmaßnahmen\n\n• \nregelmäßige Berichterstattung an die Institutionsleitung und gegebenenfalls weitere \nAdressaten (z. B. Aufsicht oder Revision) zum Status im BCM\n\nFür geografisch verteilte Institutionen kann es sinnvoll sein, neben einem oder einer glo­\nbalen BCB weitere lokale BCB einzusetzen, welche die länderspezifischen Anforderungen \nkennen und die BCM-Vorgaben entsprechend anpassen können. Die Institution muss si­\ncherstellen, dass die globalen und lokalen Vorgaben zum BCM einander nicht widerspre­\nchen.",
+  "pages": {
+    "start": 79,
+    "end": 80
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

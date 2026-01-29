@@ -1,0 +1,26 @@
+{
+  "id": "3_4",
+  "header": "3.4 Erstellung einer Leitlinie zur Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "3.4",
+      "title": "Erstellung einer Leitlinie zur Informationssicherheit"
+    }
+  ],
+  "content": "•  Beschreibung der für die Umsetzung des Informationssicherheitsprozesses etablierten Organisati­\nonsstruktur.\n\nZusätzlich können z. B. noch folgende Aussagen hinzukommen:\n\n•  Zur Motivation können einige, für die Geschäftsprozesse wichtige Gefährdungen, thematisiert und \ndie wichtigsten gesetzlichen Regelungen und sonstige wichtige Rahmenbedingungen (wie ver­\ntragliche Vereinbarungen) genannt werden.\n\n•  Die wesentlichen Aufgaben und Zuständigkeiten im Sicherheitsprozess sollten aufgezeigt werden \n(insbesondere für das IS-Management-Team, den IS-Beauftragten, die Mitarbeiter und den IT-Be­\ntrieb, ausführliche Informationen zu den einzelnen Rollen finden sich in Kapitel 4 Organisation des \nSicherheitsprozesses. Außerdem sollten die Organisationseinheiten oder Rollen benannt werden, \ndie als Ansprechpartner für Sicherheitsfragen fungieren.\n\n•  Programme zur Förderung der Informationssicherheit durch Schulungs- und Sensibilisierungsmaß­\nnahmen können angekündigt werden.\n\nAbbildung 2: Inhalte der Sicherheitsleitlinie",
+  "pages": {
+    "start": 34,
+    "end": 34
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

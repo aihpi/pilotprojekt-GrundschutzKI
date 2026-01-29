@@ -1,0 +1,26 @@
+{
+  "id": "9_2",
+  "header": "9.2 Kosten- und Aufwandsschätzung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "9.2",
+      "title": "Kosten- und Aufwandsschätzung"
+    }
+  ],
+  "content": "Da das Budget zur Umsetzung von Sicherheitsmaßnahmen praktisch immer begrenzt ist, sollte für \njede zu realisierende Maßnahme festgehalten werden, welche Investitionskosten und welcher Perso­\nnalaufwand dafür benötigt werden. Hierbei sollte zwischen einmaligen und wiederkehrenden Inves­\ntitionskosten bzw. Personalaufwand unterschieden werden. An dieser Stelle zeigt sich häufig, dass \nEinsparungen bei technischen oder infrastrukturellen Sicherheitsmaßnahmen dazu führen, dass sie \neinen hohen fortlaufenden Personaleinsatz verursachen. Umgekehrt führen Einsparungen beim Per­\nsonal schnell zu kontinuierlich immer größeren werden Sicherheitsdefiziten.\n\nIn diesem Zusammenhang ist zu ermitteln, ob alle im ersten Zug aus den Anforderungen abgelei­\nteten Maßnahmen wirtschaftlich umsetzbar sind. Falls es Maßnahmen gibt, die nicht wirtschaftlich \nsind, sollten Überlegungen angestellt werden, durch welche Ersatzmaßnahmen die Anforderungen \ndennoch erfüllt werden könnten. Auch bei Informationssicherheit führen häufig viele Wege zum \nZiel. Oftmals gibt es verschiedene Optionen, Anforderungen mit geeigneten Maßnahmen zu erfül­\nlen. Falls keine angemessene Maßnahme gefunden werden kann, muss das entstehende Restrisiko \nsowie die Entscheidung dokumentiert werden. Basis-Anforderungen müssen im Normalfall immer \nerfüllt werden, die Akzeptanz eines Restrisikos ist aufgrund ihrer elementaren Natur nicht vorgese­\nhen.\n\nStehen die geschätzten Ressourcen für Kosten- und Personaleinsatz zur Verfügung, muss üblicher­\nweise noch eine Entscheidung herbeigeführt werden, wie viele Ressourcen für die Umsetzung der \nSicherheitsmaßnahmen tatsächlich eingesetzt werden sollen. Hierfür bietet es sich an, der Leitungs­\nebene die Ergebnisse der Sicherheitsuntersuchung darzustellen. Geordnet nach Schutzbedarf soll­\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 159,
+    "end": 160
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

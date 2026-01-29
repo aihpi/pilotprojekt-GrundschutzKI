@@ -1,0 +1,26 @@
+{
+  "id": "7_3",
+  "header": "7.3 Auswertung (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "30",
+      "title": "Tage"
+    },
+    {
+      "level": 2,
+      "number": "7.3",
+      "title": "Auswertung (R+AS)"
+    }
+  ],
+  "content": "Nachdem die BIA durchgeführt wurde, müssen die Ergebnisse im Rahmen der BIA-\nAuswertung qualitätsgesichert und zusammengefasst werden. Um ein einheitlich hohes \nQualitätsniveau der BIA-Ergebnisse sicherzustellen, müssen die BIA-Ergebnisse dahinge­\nhend überprüft werden, ob diese vollständig, korrekt und nachvollziehbar sind. Es ist \nempfehlenswert, zu überprüfen, ob sämtliche notwendigen Informationen erhoben so­\nwie die Schadensanalyse formal korrekt vorgenommen wurde und ob die Begründung \nder Schadensanalyse plausibel erscheint. Zusätzlich ist es hilfreich zu prüfen, ob die RTO \nder Ressourcen korrekt aus der MTPD der zeitkritischen Prozesse abgeleitet wurde. Falls \neinzelne Ergebnisse nicht plausibel oder inkorrekt erscheinen, sollte Rücksprache mit den \nKontaktpersonen gehalten und die Ergebnisse gemeinsam abgestimmt werden. Nach­\ndem die Ergebnisse qualitätsgesichert wurden, sollten die Einzelergebnisse zu einer Ge­\nsamtübersicht der zeitkritischen Geschäftsprozesse und Ressourcen zusammengefasst \nwerden. Die Gesamtübersicht sollte mindestens die folgenden Inhalte umfassen:\n\n• \nÜbersicht der zeitkritischen Geschäftsprozesse und zugehörigen Kontaktpersonen,\n\n• \nÜbersicht der Prozessabhängigkeiten sowie\n\n• \nÜbersicht der abhängigen Ressourcen und SpoFs sowie deren RTO bzw. RPO.\n\nDa nun bekannt ist, welche Anforderungen für den Wiederanlauf bestehen, sind die \nnotwendigen Voraussetzungen geschaffen, um zu erfassen, was davon bereits erfüllt \nwird. Anschließend kann mit dem Soll-Ist-Vergleich begonnen werden.\n\nAls Ergebnis der BIA liegen für alle betrachteten zeitkritischen Ressourcen die RTOs (ge­\nforderte Wiederanlaufzeit) sowie gegebenenfalls die RPO (maximal zulässiger Datenver­\nlust) vor. RTO und RPO stellen gewünschte Soll-Werte dar. Die Ressourcenzuständigen \nmüssen im Rahmen des Soll-Ist-Vergleichs die Frage beantworten, ob die RTO der Res­\nsource mit vorhandenen technischen und organisatorischen Maßnahmen erreicht wer­\nden kann. Hierzu muss der RTO die Recovery Time Actual (RTA, deutsch: tatsächliche \nWiederanlaufzeit) gegenübergestellt und die Zeitwerte müssen miteinander verglichen \nwerden. Die RTA einer zeitkritischen Ressource bezeichnet den real erreichbaren Zeit­\nraum ab dem Ausruf des Notfalls bis zu dem Zeitpunkt, an dem eine BC-Lösung für diese \nRessource produktiv gesetzt wird. Analog muss für informationsbasierte Ressourcen \nauch die RPO mit dem Recovery Point Actual (RPA, deutsch: tatsächlicher Datenverlust) \nverglichen werden. Aus Vereinfachungsgründen wird nachfolgend nur bei Abweichun­\ngen im Vorgehen auf die RPO eingegangen. Ansonsten gilt das Vorgehen analog zum \nSoll-Ist-Vergleich der RTO.\n\nDie nachfolgenden Unterkapitel beschreiben die empfohlene Vorgehensweise, mittels \nderer der Soll-Ist-Vergleich durchgeführt wird. In Abbildung 39 sind die hierfür erforder­\nlichen Schritte in einer Übersicht dargestellt.\n\nAbbildung 39: BCM-Prozessschritte des Soll-Ist-Vergleichs",
+  "pages": {
+    "start": 190,
+    "end": 192
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

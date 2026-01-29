@@ -1,0 +1,31 @@
+{
+  "id": "8_3_1",
+  "header": "8.3.1 Das IT-Grundschutz-Kompendium",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "8.3",
+      "title": "Modellierung eines Informationsverbunds"
+    },
+    {
+      "level": 3,
+      "number": "8.3.1",
+      "title": "Das IT-Grundschutz-Kompendium"
+    }
+  ],
+  "content": "Das IT-Grundschutz-Kompendium (siehe [GSK]) kann in der jeweils aktuellen Fassung vom BSI-Web­\nserver heruntergeladen oder beim Bundesanzeiger Verlag erworben werden.\n\nDie IT-Grundschutz-Bausteine\n\nDas IT-Grundschutz-Kompendium enthält für verschiedene Vorgehensweisen, Komponenten und \nIT-Systeme die Gefährdungslage, Sicherheitsanforderungen und weiterführende Informationen, die \njeweils in einem Baustein zusammengefasst sind.",
+  "pages": {
+    "start": 132,
+    "end": 133
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

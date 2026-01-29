@@ -1,0 +1,26 @@
+{
+  "id": "10_1",
+  "header": "10.1 IT-Grundschutz-Methodik",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "6",
+      "title": "Einbindung der Mitarbeiter in den Sicherheitsprozess"
+    },
+    {
+      "level": 2,
+      "number": "10.1",
+      "title": "IT-Grundschutz-Methodik"
+    }
+  ],
+  "content": "Die Beschreibungen eines Managementsystems für Informationssicherheit sind in diesem Dokument \nund auch in den ISO-Normen 27000, 27001 und 27002 sehr generisch gehalten und geben lediglich \neinen Rahmen vor. In der Praxis besteht daher ein großer Gestaltungsspielraum bei der praktischen \nUmsetzung der generischen Vorgaben. Die große Herausforderung besteht darin, in der eigenen In­\nstitution ein ISMS zu etablieren, das nicht nur hilft, die gesteckten Sicherheitsziele zu erreichen, son­\ndern auch noch kostengünstig und somit wirtschaftlich ist.\n\nDabei ist die Frage, wie ein Sicherheitskonzept für die Institution zu erstellen ist, meist am schwie­\nrigsten zu lösen. Die zentralen Arbeitsschritte bei der Erstellung eines Sicherheitskonzepts sind dabei \ndie Risikobeurteilung und die Auswahl der richtigen Sicherheitsmaßnahmen. Der Wahl der Methode \nzur Risikoanalyse kommt dabei eine besondere Bedeutung zu, da die Methodenwahl den Arbeits­\naufwand für die Erstellung des Sicherheitskonzepts entscheidend beeinflusst. Die IT-Grund­\nschutz-Methodik beschreibt unterschiedliche Vorgehensweisen, die für die meisten Anwendungs­\nfälle geeignet sind. Abhängig vom angestrebtem Sicherheitsniveau und der zu sichernden Informa­\ntionen ist ein abgestufter Einstieg in ein Sicherheitsmanagement möglich. Der IT-Grundschutz ist \ndabei im Vergleich zur klassischen quantitativen Risikoanalyse weitaus kostengünstiger sowie seit \nvielen Jahren praxiserprobt. Als Mehrwert wird in der IT-Grundschutz-Methodik nicht nur beschrie­\nben, wie ein ISMS grundsätzlich funktioniert, sondern zusammen mit dem IT-Grundschutz-Kompen­\ndium wird auch geschildert, welche Sicherheitsanforderungen in der Praxis erfüllt werden sollten. \nPraktische Erläuterungen, wie die Anforderungen der Bausteine des IT-Grundschutz-Kompendiums \nerfüllt werden können, sind in den entsprechenden Umsetzungshinweisen zum IT-Grundschutz zu \nfinden.\n\nWie bereits weiter oben erwähnt, umfasst die IT-Grundschutz-Methodik verschiedene Vorgehenswei­\nsen zur Ausgestaltung der Informationssicherheit. Die Anwendung der Vorgehensweise der Basis-Ab­\nsicherung bietet speziell für kleine und mittelständische Institutionen einen ersten Einstieg in die In­\nformationssicherheit und hilft, ein schlankes ISMS („Bonsai-ISMS“) aufzubauen. Anders als bei der \nStandard-Absicherung bilden die Aktionsfelder bei der Basis-Absicherung keinen geschlossenen Zy­\nklus, sondern sind eine Einstiegsvorgehensweise, die mit der Standard-Absicherung fortgeführt wer­\nden kann.\n\nDieses Kapitel gibt eine Einführung in die wesentlichen Elemente der IT-Grundschutz-Methodik und \nzeigt auf, dass ein Vorgehen nach IT-Grundschutz vollständig kompatibel zum Standard ISO/IEC \n27001 (siehe [27001]) ist. Eine ausführliche Darstellung der Vorgehensweisen nach dem IT-Grund­\nschutz kann dem BSI-Standard 200-2 IT-Grundschutz-Methodik (siehe [BSI2]) entnommen werden.\n\nDie IT-Grundschutz-Methodik beschreibt einen Anwendungsansatz für die Etablierung und Aufrecht­\nerhaltung eines Managementsystems für Informationssicherheit, basierend auf den IT-Grund­\nschutz-Vorgehensweisen und dem IT-Grundschutz-Kompendium. Dort werden die hier erwähnten \nThemen ausführlicher und praxisbezogener dargestellt als im vorliegenden Dokument.",
+  "pages": {
+    "start": 40,
+    "end": 40
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

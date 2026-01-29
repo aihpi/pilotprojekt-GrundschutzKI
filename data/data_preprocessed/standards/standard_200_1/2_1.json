@@ -1,0 +1,21 @@
+{
+  "id": "2_1",
+  "header": "2.1 Überblick über Normen und Standards zur Informationssicherheit",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "2.1",
+      "title": "Überblick über Normen und Standards zur Informationssicherheit"
+    }
+  ],
+  "content": "Auf der Basis der ITIL wurde die Norm ISO/IEC 20000 erarbeitet, auf deren Grundlage wiederum ein \nService-Management-System zertifiziert werden kann.\n\nPCI DSS\n\nDer Payment Card Industry Data Security Standard (PCI DSS) wird von einem Konsortium führender \nKreditkartenorganisationen herausgegeben. Er wurde vom PCI Security Standards Council erstellt und \nformuliert Sicherheitsanforderungen bezüglich der Abwicklung von Kreditkartentransaktionen. Die \nAnforderungen des PCI DSS müssen von allen Institutionen umgesetzt werden, die Karteninhaberda­\nten von Kreditkarten speichern, verarbeiten oder übertragen, also z. B. von Händlern, die Kreditkar­\ntenzahlungen akzeptieren, oder von Dienstleistern, die diese im Auftrag weiterverarbeiten.\n\nNIST\n\nDas US-amerikanische National Institute of Standards and Technology (NIST) ist eine Bundesbehörde, \ndie unter anderem für die Entwicklung von Standards zuständig ist. Diese Standards sind für US-Be­\nhörden verpflichtend. In der Reihe Special Publication 800 („NIST SP 800“-Serie) veröffentlicht das \nNIST regelmäßig Dokumente zu einzelnen Themen der Informationssicherheit (Kryptografie, \nCloud-Computing usw.), die nicht nur wertvolle Informationen liefern, sondern auch international \neinen weitreichenden Einfluss auf die Gestaltung der Informationssicherheit haben.\n\nDas Dokument NIST SP 800-53 Security and Privacy Controls for Federal Information Systems and \nOrganizations stellt dabei für den Bereich Sicherheitsmanagement eine große Zahl sogenannter \n„Controls“ zusammen, die dazu eingesetzt werden können, Informationsverbünde zu schützen. \nDie Controls sind nach zusammengehörigen Themen in diverse Bereiche gegliedert (z. B. Schulung \nund Sensibilisierung, Berechtigungsmanagement, Infrastruktursicherheit).\n\nISF – The Standard of Good Practice\n\nDas Information Security Forum (ISF) ist eine unabhängige und weltweit tätige Organisation für Infor­\nmationssicherheit. Das ISF veröffentlicht mit dem Standard of Good Practice (SoGP) einen auf aner­\nkannten Best Practices basierenden Leitfaden zur Informationssicherheit. Der praxisorientierte Leitfa­\nden deckt nach eigenen Angaben die Anforderungen der Standards ISO/IEC 27002, COBIT 5, PCI DSS \n3.1 und NIST Cybersecurity Framework ab. Der SoGP gliedert die verschiedenen Themen in diverse \nBereiche (z. B. Security Governance, Information Risk Assessment usw.).",
+  "pages": {
+    "start": 14,
+    "end": 15
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_1",
+    "file": "standard_200_1.pdf"
+  }
+}

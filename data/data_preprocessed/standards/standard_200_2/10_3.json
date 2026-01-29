@@ -1,0 +1,26 @@
+{
+  "id": "10_3",
+  "header": "10.3 Übernahme der Ergebnisse in den Informationssicherheitsprozess",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Aufrechterhaltung und kontinuierliche Verbesserung der Informationssicherheit"
+    },
+    {
+      "level": 2,
+      "number": "10.3",
+      "title": "Übernahme der Ergebnisse in den Informationssicherheitsprozess"
+    }
+  ],
+  "content": "Die Überprüfungen zu den einzelnen Themen müssen von geeigneten Personen durchgeführt wer­\nden, die die notwendige Kompetenz und Unabhängigkeit gewährleisten können. Vollständigkeits­\nund Plausibilitätskontrollen sollten nicht durch die Ersteller der Konzepte vollzogen werden. Durch­\ngeführte Verbesserungen, Korrekturen und Anpassungen sollten dokumentiert werden.\n\nDie grundsätzliche Vorgehensweise der Institution zur Überprüfung und Verbesserung des Informa­\ntionssicherheitsprozesses sollte in einer entsprechenden Richtlinie dokumentiert und von der Lei­\ntungsebene verabschiedet werden. In der Richtlinie zur Überprüfung und Verbesserung des In­\nformationssicherheitsprozesses sollte insbesondere geregelt werden, wie interne Audits im Be­\nreich der Informationssicherheit durchzuführen sind und wie die Ergebnisse in den Änderungsprozess \neinfließen. Prüfergebnisse und -berichte sind im Allgemeinen als vertraulich zu betrachten und müs­\nsen daher besonders gut geschützt werden.\n\nAktionspunkte zu 10 Aufrechterhaltung und kontinuierliche Verbesserung der Informati­\nonssicherheit\n\n• Grundsätzliche Vorgehensweise der Institution zur Überprüfung und Verbesserung des Informa­\ntionssicherheitsprozesses in einer entsprechenden Richtlinie dokumentieren und der Leitungs­\nebene zur Verabschiedung vorlegen\n\n• Messung der Zielerreichung in die Sicherheitsstrat egie integrieren\n\n• Einhaltung des Realisierungsplans prüfen\n\n• Realisierung der beschlossenen Maßnahmen überprüfen\n\n• Wirksamkeit und Effizienz der beschlossenen Maßnahmen überprüfen\n\n• Prüfen, ob die Sicherheitsmaßnahmen akzeptiert werden, und gegebenenfalls nachbessern\n\n• Rollenkonflikt zwischen Ersteller und Prüfer beachten\n\n• Vertraulichkeit der Untersuchungsergebnisse sicherstellen\n\n• Eignung und Aktualität von Sicherheitszielen, -strategien und -konzeption prüfen\n\n• Angemessenheit der bereitgestellten Ressourcen und die Wirtschaftlichkeit der Sicherheitsstra­\ntegie und der -maßnahmen überprüfen\n\n• Ergebnisse der Überprüfungen in Form von Verbesserungen in den Informationssicherheitspro­\nzess einfließen lassen",
+  "pages": {
+    "start": 170,
+    "end": 171
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

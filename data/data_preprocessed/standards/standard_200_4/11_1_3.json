@@ -1,0 +1,31 @@
+{
+  "id": "11_1_3",
+  "header": "11.1.3 Vorausfüllen der GFPs",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "10",
+      "title": "Business-Continuity-Strategien und -Lösungen (AS)"
+    },
+    {
+      "level": 2,
+      "number": "11.1",
+      "title": "Vorbereitung der GFPs (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "11.1.3",
+      "title": "Vorausfüllen der GFPs"
+    }
+  ],
+  "content": "Es ist empfehlenswert, dass die erstellte GFP-Vorlage mit den bereits bekannten Informa­\ntionen aus BIA und Soll-Ist-Vergleich je Geltungsbereich vorausgefüllt wird. Zu den be­\nreits bekannten Informationen gehören\n\n• \nder Geltungsbereich des GFP,\n\n• \ndie zeitkritischen Geschäftsprozesse in diesem Geltungsbereich,\n\n• \ndie Abhängigkeiten zu diesen zeitkritischen Geschäftsprozessen,\n\n• \ndie MTPD, die RTO und das Notbetriebsniveau jedes gelisteten Geschäftsprozesses \nsowie\n\n• \ndie zeitkritischen Ressourcen mit ihrer jeweiligen RTA, RTO sowie RPA und RPO.\n\nUm ursachenbasiert konkrete Notfallmaßnahmen zu beschreiben, bietet es sich in einem \nGFP an, die relevanten Informationen den Ressourcenkategorien zuzuordnen. Dies er­\nlaubt einen schnellen Zugriff auf die Informationen im Notfall.",
+  "pages": {
+    "start": 227,
+    "end": 227
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

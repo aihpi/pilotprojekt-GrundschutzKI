@@ -1,0 +1,26 @@
+{
+  "id": "8_2_3",
+  "header": "8.2.3 Schutzbedarfsfeststellung für Geschäftsprozesse und Anwendungen",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.2.3",
+      "title": "Schutzbedarfsfeststellung für Geschäftsprozesse und Anwendungen"
+    }
+  ],
+  "content": "Um den Schutzbedarf in den verschiedenen Bereichen eines Informationsverbunds zu bestimmen, \nmuss zunächst der Schutzbedarf der Geschäftsprozesse und der zugehörigen Informationen ermittelt \nwerden. Darauf aufbauend wird daraus der Schutzbedarf der einzelnen Anwendungen, IT-Systeme, \nICS- und sonstigen Geräte, Räume und Kommunikationsverbindungen abgeleitet.\n\nUm den Schutzbedarf der Geschäftsprozesse zu ermitteln, sollte zunächst die Bedeutung der einzel­\nnen Geschäftsprozesse für die Institution beleuchtet werden. Davon ausgehend sollte hinterfragt \nwerden, welche Abhängigkeiten zwischen Geschäftsprozessen und Anwendungen bestehen und \nwie die sich daraus ergebenden Risiken entschärft werden können. Hierzu hat es sich bewährt, mit \nder Fragestellung „Was wäre, wenn...?“ zusammen mit den Anwendern realistische Schadensszena­\nrien zu diskutieren und die zu erwartenden materiellen oder ideellen Schäden zu beschreiben. Oft \nführt dies auch dazu, dass kritische Abhängigkeiten zwischen Geschäftsprozessen und weiteren Ziel­\nobjekten aufgedeckt werden, die vorher nicht im Fokus standen.\n\nAus dem Schutzbedarf der Geschäftsprozesse ergibt sich der Schutzbedarf der Anwendungen, die für \nderen Erledigung eingesetzt werden.\n\nHinweis:\n\nZur Einschätzung des Schutzbedarfs sollten die geeigneten Ansprechpartner gesucht werden, es \nist nicht erforderlich, größere Gruppe von Benutzern zu befragen. Beispielsweise ist es zur Bewer­\ntung des Schutzbedarfs bestimmter zentraler Dienste, wie zum Beispiel DNS oder E-Mail, ausrei­\nchend, den Schutzbedarf durch die Organisationseinheit festlegen zu lassen, die als Dienstanbie­\nter ffr die Institution auftritt (meist die IT-Abteilung oder das Provider-Management). Der Schutz­\nbedarf dieser Dienste ist in der Institution zu kommunizieren. Wird ein höherwertiger \nSchutzbedarf der Dienste durch einzelne Fachabteilungen benötigt, so sind mögliche Lösungen \nzwischen Fachabteilung, Sicherheitsmanagement und dem Betreiber oder Anbieter des Dienstes \nzu erörtern. Ein IT-Dienstleister kann im Regelfall seine Services nicht ffr jede mögliche Schutzbe­\ndarfskategorie bereitstellen. Deshalb wird er seine Dienste mit einer von ihm festgelegten Schutz­\nbedarfseignung anbieten. Der Informationseigentfmer muss bei Nutzung eines Service ffr seinen \nGeschäftsprozess entscheiden, ob die ihm vom IT-Dienstleister angebotene Schutzbedarfseig­\nnung ausreicht oder ob zusätzliche Sicherheitsmaßnahmen infolge höheren Schutzbedarfs um­\ngesetzt werden mfssen.\n\nIn die Schutzbedarfsfeststellung müssen auch die in der Strukturanalyse erfassten Gruppen von Da­\ntenträgern und Dokumenten einbezogen werden.\n\nUm die Ermittlung der möglichen Schäden und Auswirkungen zu vereinfachen, werden im Anhang \ndieses Standards entsprechende Fragestellungen vorgestellt. Diese Anregungen erheben nicht den \nAnspruch auf Vollständigkeit, sie dienen lediglich zur Orientierung. Um die individuelle Aufgabenstel­\nlung und die Situation der Institution zu berücksichtigen, müssen diese Fragen gegebenenfalls ent­\nsprechend ergänzt und angepasst werden.\n\nDie Festlegung des Schutzbedarfs der Geschäftsprozesse und Anwendungen ist eine Entscheidung im \nRahmen des Risikomanagements und hat oft weitreichende Auswirkungen auf das Sicherheitskon­\nzept für den betrachteten Informationsverbund. Der Schutzbedarf der Geschäftsprozesse und An­",
+  "pages": {
+    "start": 110,
+    "end": 111
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

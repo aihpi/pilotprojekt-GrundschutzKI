@@ -1,0 +1,31 @@
+{
+  "id": "13_5_1",
+  "header": "13.5.1 Vorbereitung einer Planbesprechung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.5",
+      "title": "Planbesprechung (R optional +AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.5.1",
+      "title": "Vorbereitung einer Planbesprechung"
+    }
+  ],
+  "content": "Die Vorbereitung einer Planbesprechung kann der oder die BCB prinzipiell selbst über­\nnehmen. Deutlich zielführender ist es jedoch, wenn die Übung durch eine Person aus \nderjenigen Organisationseinheit vorbereitet wird, in deren Zuständigkeitsbereich der Plan \nerstellt wurde. Diese Person kann besser die Arbeitsbelastung und Terminsituation in der \njeweiligen Organisationseinheit einschätzen und so geeignete Zeiträume festlegen, um \ndie Planbesprechung durchzuführen. Zudem sind dieser Person geeignete weitere Mitar­\nbeitende bekannt, die an der Planbesprechung teilnehmen sollen.\n\nHinweis\n\nPlanbesprechungen können jederzeit auch ohne geeignete organisatorische und \ntechnische Grundstrukturen zur Kommunikation und Notfallbewältigung durchge­\nführt werden. Die Pläne werden nur theoretisch innerhalb des jeweils geltenden Be­\nreichs diskutiert und überprüft, jedoch nicht umgesetzt. Daher ist es empfehlens­\nwert, einen Plan gleich nach seiner Erstellung im Rahmen einer Planbesprechung \nweiter zu plausibilisieren und zu vervollständigen. Ein validierter Plan kann dann \nauch Grundlage einer Planbesprechung zur Sensibilisierung sein, z. B. von neuen \nMitarbeitenden.\n\nEs ist sinnvoll, eine Planbesprechung anzukündigen. Die Übungsdauer beträgt typischer­\nweise zwei bis vier Stunden, abhängig vom Umfang des besprochenen Plans. Diese De­\ntails werden, wie beschrieben, im Übungskonzept dokumentiert. Die Übungsziele von \nPlanbesprechungen werden oft „weich“ formuliert.\n\nBeispiel\n\n• \nSensibilisierung und Schaffung eines gemeinsamen Verständnisses bei allen Stellen, \ndie in diesen Plan involviert sind\n\n• \nKlärung von Zuständigkeiten\n\n• \nAufdeckung von internen und externen Abhängigkeiten\n\n• \nÜberprüfung eines Notfallplans auf Schwachstellen, bevor dieser mit großem Auf­\nwand realisiert oder geübt wird\n\nEin individuelles, dynamisch aufgebautes Szenario mit weiteren Einlagen, so wie es bei \nStabsübungen üblich ist, ist für diese Übungsart nicht notwendig. Ein Szenario, das zu \nBeginn der Übung als Ausgangslage kommuniziert wird, ist vollkommen ausreichend zur \nVermittlung der Problemstellung und des Handlungsbedarfs.\n\nSynergiepotenzial\n\nPlanbesprechungen können eine Plattform bilden, um die Notwendigkeit von Infor­\nmationsaustausch und Zusammenarbeit aufzuzeigen und den Aufbau von Ver-\ntrauensnetzen zu initiieren. Ein Beispiel hierfür ist die Abstimmung der eigenen  \nGeschäftsfortführungspläne mit der BC-Planung zeitkritischer Dienstleistungsunter­\nnehmen. Hierbei steht im Fokus, Zielkonflikte zu identifizieren, z. B. ob die verschie­\ndenen Aktivitäten in der Alarmierung sowie Geschäftsfortführung konsistent und \naufeinander abgestimmt sind und für alle Parteien nachvollziehbar dokumentiert \nsind.",
+  "pages": {
+    "start": 268,
+    "end": 269
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

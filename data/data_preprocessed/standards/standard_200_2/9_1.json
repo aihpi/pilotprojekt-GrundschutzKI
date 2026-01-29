@@ -1,0 +1,26 @@
+{
+  "id": "9_1",
+  "header": "9.1 Sichtung der Untersuchungsergebnisse",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 2,
+      "number": "9.1",
+      "title": "Sichtung der Untersuchungsergebnisse"
+    }
+  ],
+  "content": "In einer Gesamtsicht sollte ausgewertet werden, welche Anforderungen aus den IT-Grundschutz-Bau­\nsteinen nicht oder nur teilweise umgesetzt wurden. Dazu bietet es sich an, diese aus den Ergebnissen \ndes IT-Grundschutz-Checks zu extrahieren und in einer Tabelle zusammenzufassen.\n\nDurch Risikoanalysen könnten eventuell weitere zu erfüllende Anforderungen sowie zu realisierende \nMaßnahmen identifiziert worden sein. Diese sollten ebenfalls tabellarisch erfasst werden. Diese zu­\nsätzlichen Anforderungen und Maßnahmen sollten den vorher betrachteten Zielobjekten der Model­\nlierung und den entsprechenden IT-Grundschutz-Bausteinen thematisch zugeordnet werden.\n\nDie zu erfüllenden Anforderungen aus den IT-Grundschutz-Bausteinen müssen passend zu den orga­\nnisatorischen und technischen Gegebenheiten der Institution zu Sicherheitsmaßnahmen konkretisiert \nwerden. Die Umsetzungshinweise des IT-Grundschutzes geben dazu für viele Bausteine und Anfor­\nderungen praxisnahe Empfehlungen. Außerdem sollten alle Anforderungen und alle daraus abgelei­\nteten Sicherheitsmaßnahmen noch einmal daraufhin überprüft werden, ob sie auch geeignet sind: Sie \nmüssen vor den möglichen Gefährdungen wirksam schützen, aber auch in der Praxis tatsächlich um­\nsetzbar sein, dürfen also z. B. nicht die Organisationsabläufe behindern oder andere Sicherheitsmaß­\nnahmen aushebeln. Des Weiteren müssen sie wirtschaftlich sein, siehe unten. In solchen Fällen kann \nes notwendig werden, bestimmte IT-Grundschutz-Anforderungen so anzupassen, dass dieselben Si­\ncherheitsziele erreicht werden. Basis-Anforderungen sind so elementar, dass diese im Normalfall nicht \nersetzt werden können.\n\nUm auch später noch nachvollziehen zu können, wie die konkrete Maßnahmenliste erstellt und ver­\nfeinert wurde, sollte dies geeignet dokumentiert werden.\n\nBeispiele:\n\n•  Bei einer Risikoanalyse wurde festgestellt, dass zusätzlich zu den IT-Grundschutz-Anforderun­\ngen auch eine chipkartengestftzte Authentisierung und lokale Verschlfsselung der Festplat­\nten an Clients der Personaldatenverarbeitung notwendig sind. Diese zusätzlichen Anforderun­\ngen sollten im Sicherheitskonzept ergänzt werden.\n\n•  Im Sicherheitskonzept ffr ein Krankenhaus wurde festgelegt, dass ffr alle IT-Systeme eine \nAuthentifizierung erforderlich ist und ein Time-out nach zehn Minuten erfolgt. Beim IT-Grund­\nschutz-Check stellt sich heraus, dass die Vorgabe zu pauschal und in dieser Form nicht praxis­\ntauglich ist. Daher wird diese jetzt im Sicherheitskonzept differenziert:\n\n•  IT-Systeme im Verwaltungsbereich erfordern eine erneute Authentisierung nach 15 Minu­\nten Inaktivität.\n\n•  Bei IT-Systemen in Bereichen, wo Patienten- und Besucherverkehr herrscht, erfolgt ein \nTime-out nach ffnf Minuten.\n\n•  Bei IT-Systemen in Behandlungsräumen wird die automatische Abmeldung deaktiviert. \nDie Mitarbeiter erhalten die Anweisung, sich nach dem Verlassen der Räume abzumel­\nden.",
+  "pages": {
+    "start": 158,
+    "end": 159
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

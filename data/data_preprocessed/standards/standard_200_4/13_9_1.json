@@ -1,0 +1,31 @@
+{
+  "id": "13_9_1",
+  "header": "13.9.1 Vorbereitung eines Funktionstests",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "12",
+      "title": "Wiederanlauf- und Wiederherstellungsplanung (AS)"
+    },
+    {
+      "level": 2,
+      "number": "13.9",
+      "title": "Funktionstest (R optional +AS)"
+    },
+    {
+      "level": 3,
+      "number": "13.9.1",
+      "title": "Vorbereitung eines Funktionstests"
+    }
+  ],
+  "content": "Eine Voraussetzung für die Funktionstests ist, dass die ressourcenzuständigen Organisa­\ntionseinheiten anhand von Komponententests überprüft haben, ob die einzelnen Res­\nsourcen, die für die Notfallvorsorge oder den Wiederanlauf im Notfall erforderlich sind, \nverfügbar sind und in Betrieb genommen werden können. In Komponententests wird \ngeprüft, ob die Notfallmaßnahmen für einzelne Hardwarekomponenten, wie z. B. Server, \nRouter etc., oder Softwarekomponenten, wie z. B. Applikationen, Services etc., wirksam \nund angemessen sind. Dies erfolgt typischerweise anhand von Tests, die nicht primär im \nBCM liegen, jedoch damit korrespondieren. Es ist daher empfehlenswert, die Planung \nder Komponententest und die des BCM aufeinander abzustimmen. Darunter fallen z. B.:\n\n• \nSchwenktests von IT-Systemen oder Rechenzentren\n\n• \nFailover-Tests von Netzdiensten oder Clustern\n\n• \nWiederanlauf- bzw. Recovery-Tests von IT-Systemen oder einzelnen Komponenten\n\n• \nRestorationstests von Datenbeständen oder Datenbanken\n\n• \nLesbarkeitstests von Datensicherungen\n\n• \nTechnische Betriebstests von Infrastrukturkomponenten, Maschinen oder Anlagen, \ndie zur Notfallvorsorge oder für den Notfall vorgesehen sind\n\nDie Übungsdauer reicht von wenigen Minuten für einen einfachen Funktionstest einzel­\nner Komponenten bis hin zu mehreren Tagen, in denen die Testumgebung für einen \numfangreicheren Funktionstest hergestellt und zurückgebaut wird.\n\nFür Funktionstests sollten folgende Aspekte im Übungskonzept zusätzlich dokumentiert \nwerden:\n\n• \nVoraussetzungen (z. B. eine Testumgebung oder vorab durchgeführte Tests einzel­\nner für den Funktionstest notwendiger Basisressourcen)\n\n• \nRisikoeinschätzung und risikosenkende Maßnahmen\n\nFunktionstests können reale Auswirkungen auf den Geschäftsbetrieb haben und diesen \nunter Umständen sogar unterbrechen, sowohl geplant als auch unbeabsichtigt. Der \nÜbungsautor oder die -autorin muss eine Risikoeinschätzung zum Funktionstest und zu \nden damit verbundenen Auswirkungen durchführen und, falls erforderlich, risikosenken­\nde Maßnahmen ermitteln. Es wird empfohlen, für Funktionstests mit potenziell mögli­\n\nchen Auswirkungen auf den Geschäftsbetrieb eine Freigabe von der Institutionsleitung \neinzuholen. Zudem sollten anhand der Risikoeinschätzung Maßnahmen vorgesehen \nwerden, die einen Abbruch des Funktionstests und eine schnellstmögliche Wiederherstel­\nlung des Ausgangszustands ermöglichen, falls unbeabsichtigte Auswirkungen auftreten. \nDie meisten Funktionstests werden aufgrund des Risikos für den Geschäftsbetrieb ange­\nkündigt, vor allem im Reaktiv-BCMS. Funktionstests finden in der realen Umgebung oder \nin einer gesonderten Testumgebung statt. Bei einer Testumgebung handelt es sich ideal­\nerweise um ein speziell geschaffenes, möglichst realitätsnahes, aber vom Produktionsbe­\ntrieb abgekapseltes Testumfeld. Dies soll verhindern, dass der Geschäftsbetrieb durch die \nFunktionstests eingeschränkt oder gefährdet wird. Falls vor dem Test eine Testumgebung \nvorbereitet werden muss, ist es empfehlenswert, den Funktionstest in der Institution an­\nzukündigen.\n\nHinweis\n\nDie Herstellung und der Rückbau der Testumgebung müssen geplant werden. Die \nPlanung wird am besten von ausgewählten Spezialisten aus Bewältigungsteams \ndurchgeführt. Alle speziell für die Übung geschaffenen Vorkehrungen müssen nach \nÜbungsende rückgängig gemacht werden.\n\nDie Übungsziele von Funktionstests sind in der Regel die praktische Überprüfung reakti­\nver Maßnahmen hinsichtlich ihrer Funktionsfähigkeit.\n\nBeispiel\n\nTypische Übungsziele für Funktionstests sind:\n\n• \ndie Überprüfung von technischen Vorkehrungen und organisatorischen Verfah­\nren, die für den Notfall vorgesehen sind\n\n• \ndie Überprüfung vorhandener Notfallpläne in Gänze oder in Teilen in Bezug auf \nKorrektheit, Aktualität und Vollständigkeit\n\n• \ndas Training der Mitarbeitenden im Umgang mit dem Notfallplan\n\n• \ndie Überprüfung, ob die Zielvorgaben aus dem Notfallplan eingehalten werden \nkönnen",
+  "pages": {
+    "start": 282,
+    "end": 283
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

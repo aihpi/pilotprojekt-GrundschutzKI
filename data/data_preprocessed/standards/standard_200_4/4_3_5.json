@@ -1,0 +1,31 @@
+{
+  "id": "4_3_5",
+  "header": "4.3.5 BC-Vorsorgeteams (optional) (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "4.3",
+      "title": "Definition der BC-Aufbauorganisation (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "4.3.5",
+      "title": "BC-Vorsorgeteams (optional) (R+AS)"
+    }
+  ],
+  "content": "Bei sehr großen Institutionen mit einer Vielzahl von Geschäftsprozessen kann es erfor­\nderlich sein, dass der oder die BCB oder auch die BCKs durch weitere Personen im BCM \nunterstützt werden. Der oder die BCB oder jeweils ein oder eine BCK bildet in diesem \nFall zusammen mit solchen weiteren Personen ein BC-Vorsorgeteam. Die BC-\nVorsorgeteams können temporär oder dauerhaft aufgestellt werden.\n\nDie BC-Vorsorgeteams dienen hauptsächlich dazu, Arbeitslast zu verteilen. Dies kann \nnotwendig sein, um priorisierte BCM-Themen zu behandeln, die in der erforderlichen \nZeit nur von mehreren Personen parallel abgearbeitet werden können.",
+  "pages": {
+    "start": 81,
+    "end": 81
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

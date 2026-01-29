@@ -1,0 +1,31 @@
+{
+  "id": "5_1_5",
+  "header": "5.1.5 Aufbau von Bewältigungsteams (R+AS)",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "3",
+      "title": "Initiierung des BCMS durch die Institutionsleitung (R+AS)"
+    },
+    {
+      "level": 2,
+      "number": "5.1",
+      "title": "Aufbau der BAO (R+AS)"
+    },
+    {
+      "level": 3,
+      "number": "5.1.5",
+      "title": "Aufbau von Bewältigungsteams (R+AS)"
+    }
+  ],
+  "content": "Zur operativen Bewältigung eines Notfalls sollten Notfallbewältigungsteams aufgebaut \nwerden. Da auf diese auch im Krisenfall zurückgegriffen werden kann, werden sie in die­\nsem Standard als Bewältigungsteams bezeichnet.\n\nDie Größe der Teams richtet sich an der Komplexität und der Personalausstattung \nder Institution aus. Gerade in kleinen Institutionen kann es daher möglich sein, dass \nstatt eines Teams nur eine einzelne Person für bestimmte Aktivitäten der Notfallbe­\nwältigung zuständig ist. Nachfolgend wird jedoch zur besseren Verständlichkeit nur \nvon Bewältigungsteams oder Teams gesprochen.\n\nDie Bewältigungsteams erhalten ihre Arbeitsaufträge aus dem Stab und setzen die tech­\nnischen, baulichen oder organisatorischen Maßnahmen zur Notfallbewältigung auf­\ntragsgemäß um. Im Vorfeld festgelegte Bewältigungsteams haben gegenüber ad hoc zu­\nsammengestellten Teams drei Vorteile:\n\n• \nSie können anhand von Trainings und Übungen auf verschiedene Notfallszenarien \nvorbereitet werden.\n\n• \nSie können im Notfall aufgrund des Trainingseffekts in der Regel schneller und ziel­\ngerichteter agieren.\n\n• \nDie Kommunikationswege zwischen Stab und Bewältigungsteams können im Vor­\nfeld festgelegt und erprobt werden.\n\nDie Leitenden der Bewältigungsteams berichten üblicherweise während der Notfallbe­\nwältigung dem Stab in regelmäßigen Abständen. Dazu sammeln alle Leitenden die je­\nweiligen Informationen vor Ort und leiten diese an den Stab weiter. Darüber hinaus ko­\nordinieren und kontrollieren die Leitenden, ob die vom Stab angeordneten Maßnahmen \nvor Ort umgesetzt werden und wirksam sind. In der Praxis haben sich die folgenden Be­\nwältigungsteams bewährt:\n\n• \nIT\n\n• \nPersonal\n\n• \nGebäudeverwaltung\n\n• \nNuK-Kommunikation\n\nEs ist empfehlenswert, diese institutionsspezifisch durch weitere Bewältigungsteams zu \nergänzen. Zum Beispiel können Bewältigungsteams in den zeitkritischsten Organisati­\nonseinheiten etabliert werden, die das Kerngeschäft repräsentieren.\n\nFalls die BAO vor der Absicherung der Geschäftsprozesse aufgebaut wurde, ist es sehr \nempfehlenswert, die genaue Zusammenstellung der Bewältigungsteams nochmals an die \nkonkrete Wiederanlauf- und Geschäftsfortführungsplanung anzupassen.",
+  "pages": {
+    "start": 101,
+    "end": 102
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_4",
+    "file": "standard_200_4.pdf"
+  }
+}

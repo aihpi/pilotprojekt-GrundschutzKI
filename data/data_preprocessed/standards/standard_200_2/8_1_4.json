@@ -1,0 +1,26 @@
+{
+  "id": "8_1_4",
+  "header": "8.1.4 Netzplanerhebung",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "8",
+      "title": "Erstellung einer Sicherheitskonzeption nach Standard-Absicherung"
+    },
+    {
+      "level": 3,
+      "number": "8.1.4",
+      "title": "Netzplanerhebung"
+    }
+  ],
+  "content": "Einen geeigneten Ausgangspunkt für die weitere technische Analyse stellt ein Netzplan (beispielswei­\nse in Form eines Netztopologieplans) dar. Ein Netzplan ist eine grafische Übersicht über die im be­\ntrachteten Bereich der Informations- und Kommunikationstechnik eingesetzten Komponenten und \nderen Vernetzung. Netzpläne oder ähnliche grafische Übersichten sind auch aus betrieblichen Grün­\nden in den meisten Institutionen vorhanden. Im Einzelnen sollte der Plan in Bezug auf die Informati­\nonssicherheit mindestens folgende Objekte darstellen:\n\n•  IT-Systeme, d.h. Client- und Server-Computer, aktive Netzkomponenten (wie Switches, Router, \nWLAN Access Points), Netzdrucker usw.\n\n•  ICS- und IoT-Komponenten mit Netzanschluss, d. h. Clients, Handscanner, Industriedrucker, Gerä­\nte mit speicherprogrammierbarer Steuerung (SPS), Schaltschränke usw.\n\n•  Netzverbindungen zwischen diesen Systemen, d. h. LAN-Verbindungen (wie Ethernet), WLAN, \nBackbone-Techniken (wie ATM) usw.\n\n•  Verbindungen des betrachteten Bereichs nach außen, d. h. Einwahlzugänge über ISDN oder Mo­\ndem, Internetanbindungen über analoge Techniken oder Router, Funkstrecken oder Mietleitungen \nzu entfernten Gebäuden oder Liegenschaften usw.\n\nBSI-Standard 200-2\n\nZu jedem der dargestellten Objekte gehört weiterhin ein Minimalsatz von Informationen, die einem \nzugeordneten Katalog zu entnehmen sind. Für jedes IT-System und sonstige Geräte sollten zumindest\n\n•  eine eindeutige Bezeichnung (beispielsweise der vollständige Hostname oder eine Identifikations­\nnummer),\n\n•  Typ und Funktion (beispielsweise Datenbank-Server für Anwendung X),\n\n•  die zugrunde liegende Plattform (d. h. Hardware-Plattform und Betriebssystem),\n\n•  der Standort (beispielsweise Gebäude- und Raumnummer),\n\n•  der zuständige Administrator,\n\n•  die vorhandenen Kommunikationsschnittstellen (z. B. Internetanschluss, Bluetooth, WLAN Adap­\nter) sowie\n\n•  die Art der Netzanbindung und die Netzadresse\n\nvermerkt sein. Bei Außenanbindungen oder drahtlosen Kommunikationsverbindungen (WLAN, \nUMTS, LTE,...) sollten zusätzlich Details zum externen Netz (z. B. Internet, Geschäftspartner, Name \ndes Providers für die Datenübertragung sowie die Art der Leitung, z. B. MPLS, Leased Line, VPN) auf­\ngenommen werden.\n\nVirtuelle IT-Systeme (virtuelle Switches, virtuelle Server usw.) und virtuelle Netzverbindungen, bei­\nspielsweise virtuelle LANs (VLANs) oder virtuelle private Netze (VPNs), sollten ebenfalls in einem Netz­\nplan dargestellt werden. Hierbei sind virtuelle IT-Systeme gemäß ihrem Typ und Einsatzzweck genauso \nwie physische IT-Systeme zu behandeln. Darüber hinaus muss die Zuordnung von virtuellen IT-Syste­\nmen zu physischen Host-Systemen nachvollziehbar sein. Um die Übersichtlichkeit zu verbessern, ist es \nbei zunehmender Größe eines Netzes sinnvoll, den Netzplan in mehrere Teilnetzpläne aufzuteilen.\n\nEine Cloud-Infrastruktur setzt sich aus einer Vielzahl von Elementen zusammen. Neben den physi­\nschen (mit CPU, Arbeitsspeicher und anderer Hardware) und gegebenenfalls virtuellen Servern zählen \nnoch Netze und Speicherlösungen dazu. Die aufgezählten Bereiche verfügen in der Regel über eine \nVerwaltungssoftware.\n\nFür den Bereich „Netze“ sollten die eingesetzten Netzmanagement-Tools eine automatische Erzeu­\ngung von Netzplänen unterstützen. Neben physischen sollten auch virtuelle IT-Systeme (z. B. virtuelle \nSwitches, virtuelle Router, virtuelle Sicherheitsgateways) automatisch abgebildet werden können.\n\nDer ICS-Bereich kann als eigenständiges Netz betrieben werden. Bei der Erfassung der Netzverbin­\ndungen sollten dabei auch die Schnittstellen erfasst werden (Auflistung der erlaubten und gesperrten \nSchnittstellen). Auch die Internetanbindung aus dem ICS-Bereich heraus sollte erfasst werden. Die \nTrennung der Netze zwischen dem Office-Bereich und dem ICS-Bereich sollte im Netzplan dargestellt \nwerden.\n\nEs empfiehlt sich, Bereiche mit unterschiedlichem Schutzbedarf zu kennzeichnen. Der Netzplan sollte \nmöglichst in elektronischer Form erstellt und gepflegt werden. Hat die Informationstechnik in der \nInstitution einen gewissen Umfang überschritten, bietet es sich an, bei der Erfassung und Pflege des \nNetzplans auf geeignete Hilfsprogramme zurückzugreifen, da die Unterlagen eine erhebliche Kom­\nplexität aufweisen können und einem ständigen Wandel unterzogen sind.\n\nAktualisierung des Netzplans\n\nDa die IT-Struktur in der Regel ständig an die Anforderungen der Institution angepasst wird und die \nPflege des Netzplans entsprechende Ressourcen bindet, ist der Netzplan der Institution nicht immer",
+  "pages": {
+    "start": 87,
+    "end": 89
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

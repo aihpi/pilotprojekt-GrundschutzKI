@@ -1,0 +1,21 @@
+{
+  "id": "1_3",
+  "header": "1.3 Adressatenkreis",
+  "header_hierarchy": [
+    {
+      "level": 2,
+      "number": "1.3",
+      "title": "Adressatenkreis"
+    }
+  ],
+  "content": "Der BSI-Standard 200-2 richtet sich primär an Sicherheitsverantwortliche, -beauftragte, -experten, \n-berater und alle Interessierten, die mit dem Management von Informationssicherheit betraut sind. \nEr ist zugleich eine sinnvolle Grundlage für IT- und ICS-Verantwortliche, Führungskräfte und Projekt­\nmanager, die dafür Sorge tragen, dass Aspekte der Informationssicherheit in ihrer Institution bzw. in \nihren Projekten ausreichend berücksichtigt werden.\n\nDer IT-Grundschutz bietet Institutionen jeder Größe und Sparte eine kosteneffektive und zielführende \nMethode zum Aufbau und zur Umsetzung der für sie angemessenen Informationssicherheit. Der Be­\ngriff „Institution“ wird im folgenden Text für Unternehmen, Behörden und sonstige öffentliche oder \nprivate Organisationen verwendet.\n\nIT-Grundschutz kann sowohl von kleinen als auch großen Institutionen eingesetzt werden. Dabei soll­\nte aber beachtet werden, dass alle Empfehlungen im Kontext der jeweiligen Institution betrachtet \nwerden sollten und an die jeweiligen Rahmenbedingungen angepasst werden müssten.\n\nIm IT-Grundschutz gilt die Voraussetzung, dass die Informations- und Kommunikationstechnik ebenso \nwie die vorhandene industrielle Steuerungs- und Automatisierungstechnik von Fachpersonal admi­\nnistriert wird, dass es also einen IT-Betrieb mit klar definierten Rollen gibt. Dieser kann von einem \neinzelnen Administrator bis hin zu einer oder mehreren IT-Abteilungen reichen. Davon ausgehend \nwerden die verschiedenen Aktivitäten im Sicherheitsprozess beschrieben.\n\nIm BSI-Standard 200-1 Managementsysteme ffr Informationssicherheit (ISMS) wird beschrieben, mit \nwelchen Methoden Informationssicherheit in einer Institution generell initiiert und gesteuert werden \nkann. Der vorliegende BSI-Standard 200-2 bietet konkrete Hilfestellungen, wie ein Managementsys­\ntem für die Informationssicherheit Schritt für Schritt eingeführt werden kann: Im Fokus stehen hier \nsomit einzelne Phasen dieses Prozesses sowie bewährte Best-Practice-Lösungen.\n\nDie IT-Grundschutz-Methodik bietet ein umfangreiches Gerüst für ein ISMS und ist auf die individu­\nellen Rahmenbedingungen einer Institution anzupassen, damit ein geeignetes Managementsystem \nfür die Informationssicherheit aufgebaut werden kann. Für einen kontinuierlichen und effektiven Pro­\nzess der Informationssicherheit ist es entscheidend, eine ganze Reihe von Aktionen durchzuführen. \nHierfür liefern die IT-Grundschutz-Methodik und das IT-Grundschutz-Kompendium zentrale Hinweise \nund praktische Umsetzungshilfen.\n\nDes Weiteren bietet dieser Standard die Möglichkeit einer Zertifizierung an. Damit kann eine Institu­\ntion nicht nur die Umsetzung von IT-Grundschutz, sondern auch die Qualität des eigenen ISMS mit­\nhilfe eines ISO 27001-Zertifikates auf Basis von IT-Grundschutz nachweisen. Das Zertifikat dient zu­\ngleich anderen Institutionen als Kriterium, um sich über den Reifegrad eines ISMS einer anderen In­\nstitution informieren zu können.\n\nEine Zertifizierung nach ISO 27001 auf der Basis von IT-Grundschutz kann auch als Sicherheitsanfor­\nderung für mögliche Kooperationspartner verwendet werden, um das erforderliche Niveau an Infor­\nmationssicherheit bei der anderen Institution zu definieren.\n\nAuch wenn als Grundlage für das ISMS eine andere Methodik angewendet wird, ist es trotzdem \nmöglich, vom IT-Grundschutz zu profitieren. So bietet der IT-Grundschutz auch Lösungsansätze für \neinzelne Aufgabenstellungen, beispielsweise für die Erstellung von Konzepten oder die Durchführung \nvon Revisionen und Zertifizierungen im Bereich der Informationssicherheit. Je nach Anwendungsbe­\nreich bilden bereits einzelne Bausteine, Umsetzungshinweise oder weitere Hilfsmittel, die der \nIT-Grundschutz zur Verfügung stellt, hilfreiche Grundlagen für die Arbeit des Sicherheitsmanage­\nments.",
+  "pages": {
+    "start": 8,
+    "end": 9
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}

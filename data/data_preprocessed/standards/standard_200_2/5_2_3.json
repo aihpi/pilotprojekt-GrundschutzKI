@@ -1,0 +1,31 @@
+{
+  "id": "5_2_3",
+  "header": "5.2.3 Anforderungen an die Dokumentation",
+  "header_hierarchy": [
+    {
+      "level": 1,
+      "number": "2",
+      "title": "Informationssicherheitsmanagement mit IT-Grundschutz"
+    },
+    {
+      "level": 2,
+      "number": "5.2",
+      "title": "Informationsfluss im Informationssicherheitsprozess"
+    },
+    {
+      "level": 3,
+      "number": "5.2.3",
+      "title": "Anforderungen an die Dokumentation"
+    }
+  ],
+  "content": "Eine angemessene Dokumentation des Informationssicherheitsprozesses sollte eine Reihe von Anfor­\nderungen bezüglich Kennzeichnung, Detailtiefe, Aktualisierungen, Medium, Sicherheit und Daten­\nschutz erfüllen. Diese werden nachfolgend detailliert beschrieben.\n\nMindestanforderung an die Kennzeichnung der Dokumente zum Sicherheitsmanagement\n\nDie Dokumente, die im Rahmen des Sicherheitsmanagements erstellt, bearbeitet und verwaltet wer­\nden, müssen aussagekräftig und für die jeweilige Zielgruppe verständlich sein. Es sollte, soweit sinn­\nvoll, ein einheitlicher Aufbau der Dokumente genutzt werden. Dies dient dem besseren Verständnis \nund der einfacheren Handhabung. Die Dokumente müssen so gekennzeichnet sein, dass sie im Be­\ndarfsfall schnell gefunden und zugeordnet werden können. Daher müssen mindestens folgende An­\ngaben vorhanden sein:\n\n•  Eindeutige Bezeichnung (aussagekräftiger Titel),\n\n•  Ersteller / Autor / Dokumenteninhaber,\n\n•  Funktion des Erstellers,\n\n•  Versionsnummer,\n\n•  letzte Überarbeitung, nächste geplante Überarbeitung,\n\n•  freigegeben am / durch,\n\n•  Klassifizierung (vertrauliche Inhalte müssen klassifiziert, als solche gekennzeichnet und die Doku­\nmente sicher verwahrt werden) und\n\n•  berechtigte Rollen (Verteilerkreis).\n\nBSI-Standard 200-2",
+  "pages": {
+    "start": 57,
+    "end": 58
+  },
+  "modal_verben": [],
+  "source": {
+    "document": "standard_200_2",
+    "file": "standard_200_2.pdf"
+  }
+}
