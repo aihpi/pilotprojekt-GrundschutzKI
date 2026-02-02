@@ -16,4 +16,6 @@ dependencies = [
     "qdrant-client>=1.14.1",
     "ragas>=0.2.13",
     "dspy-ai>=2.4.13",
+    "nest-asyncio>=1.6.0",
+    "instructor>=1.14.4",
 ]

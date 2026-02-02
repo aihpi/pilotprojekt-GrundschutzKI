@@ -1,5 +1,5 @@
 version = 1
-revision = 3
+revision = 2
 requires-python = ">=3.12"
 resolution-markers = [
     "python_full_version >= '3.14' and sys_platform == 'win32'",
@@ -2010,11 +2010,13 @@ source = { virtual = "." }
 dependencies = [
     { name = "datasets" },
     { name = "dspy-ai" },
+    { name = "instructor" },
     { name = "ipywidgets" },
     { name = "langchain" },
     { name = "langchain-openai" },
     { name = "litellm" },
     { name = "lxml" },
+    { name = "nest-asyncio" },
     { name = "pandas" },
     { name = "pymupdf" },
     { name = "python-dotenv" },
@@ -2026,11 +2028,13 @@ dependencies = [
 requires-dist = [
     { name = "datasets", specifier = ">=3.2.0" },
     { name = "dspy-ai", specifier = ">=2.4.13" },
+    { name = "instructor", specifier = ">=1.14.4" },
     { name = "ipywidgets", specifier = ">=8.1.5" },
     { name = "langchain", specifier = ">=0.2.16" },
     { name = "langchain-openai", specifier = ">=0.2.8" },
     { name = "litellm", specifier = ">=1.75.8" },
     { name = "lxml", specifier = ">=6.0.2" },
+    { name = "nest-asyncio", specifier = ">=1.6.0" },
     { name = "pandas", specifier = ">=2.2.3" },
     { name = "pymupdf", specifier = ">=1.26.7" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
