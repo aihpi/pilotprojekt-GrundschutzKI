@@ -9,7 +9,8 @@ Scripts for parsing BSI IT-Grundschutz documents into structured JSON format.
 - [Scripts](#scripts)
   - [parse_glossar.py](#parse_glossarpy)
   - [parse_grundschutz.py](#parse_grundschutzpy)
-  - [parse_standards_pdf.py](#parse_standards_pdfpy)
+- [parse_standards_pdf.py](#parse_standards_pdfpy)
+- [gski_pipeline.py](#gski_pipelinepy)
 - [Output Structure](#output-structure)
 - [JSON Schemas](#json-schemas)
 
@@ -218,6 +219,23 @@ data/
     "file": "standard_200_2.pdf"
   }
 }
+```
+
+---
+
+### gski_pipeline.py
+
+Notebook-friendly helpers for embedding preprocessed docs and upserting into Qdrant. The module does **not** do any preprocessing; you pass in docs from your notebook.
+
+**Usage (from Jupyter):**
+```python
+from scripts.gski_pipeline import ingest_docs
+
+docs = [
+    {"id": "REQ-1", "text": "Beispieltext ...", "meta": {"source": "grundschutz.json"}}
+]
+
+ingest_docs(docs, collection_name="grundschutz_json", recreate=True)
 ```
 
 ---
