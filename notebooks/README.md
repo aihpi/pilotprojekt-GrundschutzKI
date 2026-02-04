@@ -3,10 +3,10 @@
 Dieses Verzeichnis enthaelt kurze Jupyter-Notebooks zum Testen von RAG, GraphRAG, Docling und LangGraph.
 
 ## Struktur
-- 01_rag_baseline.ipynb
-- 02_graphrag.ipynb
-- 03_docling_ingestion.ipynb
-- 04_langgraph_flow.ipynb
+- 00_upper_bound.ipynb (Upper-Bound Evaluation mit Real-Context)
+- 01_rag_baseline.ipynb (RAG Baseline: XML, Qdrant, RAGAS)
+- 02_dspy_rag.ipynb (DSPy RAG Experimente)
+- 05_json_preprocessing.ipynb (JSON-Preprocessing + Ingestion)
 
 ## Setup (Beispiel)
 - Python-Umgebung aktivieren
