@@ -1,0 +1,2827 @@
+{
+    "questions":
+    [
+        {
+            "id": 1,
+            "title": "Frage 1",
+            "question": "Welche(n) der folgenden Arten von Audits gibt es im Zertifizierungsprozess? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Überwachungsaudit"
+                },
+                {
+                    "letter": "B",
+                    "text": "Erst-Zertifizierungsaudit"
+                },
+                {
+                    "letter": "C",
+                    "text": "Vorgezogenes Komplettaudit"
+                },
+                {
+                    "letter": "D",
+                    "text": "Re-Zertifizierungsaudit"
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Überwachungsaudit"
+                },
+                {
+                    "letter": "B",
+                    "text": "Erst-Zertifizierungsaudit"
+                },
+                {
+                    "letter": "D",
+                    "text": "Re-Zertifizierungsaudit"
+                }
+            ],
+            "raw": "Welche(n) der folgenden Arten von Audits gibt es im Zertifizierungsprozess? (Mehrere Antworten korrekt)\nA) Überwachungsaudit\nB) Erst-Zertifizierungsaudit\nC) Vorgezogenes Komplettaudit\nD) Re-Zertifizierungsaudit\n\nKorrekt: A, B, D"
+        },
+        {
+            "id": 2,
+            "title": "Frage 2",
+            "question": "In das Notfallvorsorgekonzept sind viele Aspekte aufzunehmen und sind zu berücksichtigen. Welche sind dies u. a.? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es sollten immer direkt zu Beginn des Prozesses einige Notfallübungen durchgeführt werden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Wie die allgemeinen Ziele und Vorgaben der Leitlinie BCMS erreicht werden sollen. Das Notfallvorsorgekonzept enthält eine Be- schreibung aller organisatorischen und konzeptionellen Aspekte des BCMS."
+                },
+                {
+                    "letter": "C",
+                    "text": "Das Notfallvorsorgekonzept beinhaltet alle Dokumente des BCMS, die nicht im Notfall benötigt werden"
+                },
+                {
+                    "letter": "D",
+                    "text": "Die BAO ist unmittelbar einzuberufen."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Wie die allgemeinen Ziele und Vorgaben der Leitlinie BCMS erreicht werden sollen. Das Notfallvorsorgekonzept enthält eine Be- schreibung aller organisatorischen und konzeptionellen Aspekte des BCMS."
+                },
+                {
+                    "letter": "C",
+                    "text": "Das Notfallvorsorgekonzept beinhaltet alle Dokumente des BCMS, die nicht im Notfall benötigt werden"
+                }
+            ],
+            "raw": "In das Notfallvorsorgekonzept sind viele Aspekte aufzunehmen und sind zu berücksichtigen. Welche sind dies u. a.? (Mehrere Antworten korrekt)\n\nA) Es sollten immer direkt zu Beginn des Prozesses einige Notfallübungen durchgeführt werden.\nB) Wie die allgemeinen Ziele und Vorgaben der Leitlinie BCMS erreicht werden sollen. Das Notfallvorsorgekonzept enthält eine Be- schreibung aller organisatorischen und konzeptionellen Aspekte des BCMS.\nC) Das Notfallvorsorgekonzept beinhaltet alle Dokumente des BCMS, die nicht im Notfall benötigt werden\nD) Die BAO ist unmittelbar einzuberufen.\n\nKorrekt: B, C"
+        },
+        {
+            "id": 3,
+            "title": "Frage 3",
+            "question": "Warum ist auch die Umsetzungsplanung wichtig im Gesamtprozess? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Um die Leitungsebene zu beruhigen. Die Umsetzung selbst ist dann nicht mehr so wichtig."
+                },
+                {
+                    "letter": "B",
+                    "text": "Um möglichst zielgerichtet und schnell den Stand der InfoSicherheit im Informationsverbund zu verbessern."
+                },
+                {
+                    "letter": "C",
+                    "text": "Weil bislang nur der \"Status Quo\" festgestellt wurde. Nun müssen die defizitären Anforderungen noch durch Maßnahmen erfüllt werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Um eine möglichst fristgerechte Umsetzung der Maßnahmen sicherstellen zu können."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Um möglichst zielgerichtet und schnell den Stand der InfoSicherheit im Informationsverbund zu verbessern."
+                },
+                {
+                    "letter": "C",
+                    "text": "Weil bislang nur der \"Status Quo\" festgestellt wurde. Nun müssen die defizitären Anforderungen noch durch Maßnahmen erfüllt werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Um eine möglichst fristgerechte Umsetzung der Maßnahmen sicherstellen zu können."
+                }
+            ],
+            "raw": "Warum ist auch die Umsetzungsplanung wichtig im Gesamtprozess? (Mehrere Antworten korrekt)\nA) Um die Leitungsebene zu beruhigen. Die Umsetzung selbst ist dann nicht mehr so wichtig.\nB) Um möglichst zielgerichtet und schnell den Stand der InfoSicherheit im Informationsverbund zu verbessern.\nC) Weil bislang nur der \"Status Quo\" festgestellt wurde. Nun müssen die defizitären Anforderungen noch durch Maßnahmen erfüllt werden.\nD) Um eine möglichst fristgerechte Umsetzung der Maßnahmen sicherstellen zu können.\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 4,
+            "title": "Frage 4",
+            "question": "Welche Aussage(n) zum IT-Grundschutz-Kompendium ist/sind richtig? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Bausteine im IT-Grundschutz-Kompendium sind nach ihrem jeweiligen Fokus in prozess- und systemorientierte Bausteine in insgesamt 10 Schichten aufgeteilt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das IT-Grundschutz-Kompendium besteht aus insgesamt 5 Schichten, die sich wie folgt aufteilen: ISMS, PERS, ORG, SYS, APP."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Umsetzungshinweise zu den einzelnen Bausteinen sind auch Teil des IT-Grundschutz-Kompendiums und geben verpflichtende Vorgaben für die Umsetzung der darin enthaltenen Anforderungen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die prozess- und systemorientierten Bausteine bestehen ggf. wiederum aus weiteren Teilschichten (z.B. SYS.1 Server; SYS.1.2.2 Windows Server 2012)."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Bausteine im IT-Grundschutz-Kompendium sind nach ihrem jeweiligen Fokus in prozess- und systemorientierte Bausteine in insgesamt 10 Schichten aufgeteilt."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die prozess- und systemorientierten Bausteine bestehen ggf. wiederum aus weiteren Teilschichten (z.B. SYS.1 Server; SYS.1.2.2 Windows Server 2012)."
+                }
+            ],
+            "raw": "Welche Aussage(n) zum IT-Grundschutz-Kompendium ist/sind richtig? (Mehrere Antworten korrekt)\nA) Die Bausteine im IT-Grundschutz-Kompendium sind nach ihrem jeweiligen Fokus in prozess- und systemorientierte Bausteine in insgesamt 10 Schichten aufgeteilt.\nB) Das IT-Grundschutz-Kompendium besteht aus insgesamt 5 Schichten, die sich wie folgt aufteilen: ISMS, PERS, ORG, SYS, APP.\nC) Die Umsetzungshinweise zu den einzelnen Bausteinen sind auch Teil des IT-Grundschutz-Kompendiums und geben verpflichtende Vorgaben für die Umsetzung der darin enthaltenen Anforderungen.\nD) Die prozess- und systemorientierten Bausteine bestehen ggf. wiederum aus weiteren Teilschichten (z.B. SYS.1 Server; SYS.1.2.2 Windows Server 2012).\n\nKorrekt: A, D"
+        },
+        {
+            "id": 5,
+            "title": "Frage 5",
+            "question": "Was zählt u.a. zu den Grundwerten der Informationssicherheit gem. der BSI-Standard 200-x? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Verfügbarkeit"
+                },
+                {
+                    "letter": "B",
+                    "text": "Verlässlichkeit"
+                },
+                {
+                    "letter": "C",
+                    "text": "Unzumutbarkeit"
+                },
+                {
+                    "letter": "D",
+                    "text": "Integrität"
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Verfügbarkeit"
+                },
+                {
+                    "letter": "D",
+                    "text": "Integrität"
+                }
+            ],
+            "raw": "Was zählt u.a. zu den Grundwerten der Informationssicherheit gem. der BSI-Standard 200-x? (Mehrere Antworten korrekt)\nA) Verfügbarkeit\nB) Verlässlichkeit\nC) Unzumutbarkeit\nD) Integrität\n\nKorrekt: A, D"
+        },
+        {
+            "id": 6,
+            "title": "Frage 6",
+            "question": "Welche Anteile gehören zu einem Business Continuity Managementsystem (BCMS)? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "BCM-Schutzbedarfsfeststellung"
+                },
+                {
+                    "letter": "B",
+                    "text": "BCM-Vorbemerkungen"
+                },
+                {
+                    "letter": "C",
+                    "text": "BCM-Organisation"
+                },
+                {
+                    "letter": "D",
+                    "text": "BCM-Methoden"
+                }
+            ],
+            "correct":
+            [
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "BCM-Organisation"
+                },
+                {
+                    "letter": "D",
+                    "text": "BCM-Methoden"
+                }
+            ],
+            "raw": "Welche Anteile gehören zu einem Business Continuity Managementsystem (BCMS)? (Mehrere Antworten korrekt)\nA) BCM-Schutzbedarfsfeststellung\nB) BCM-Vorbemerkungen\nC) BCM-Organisation\nD) BCM-Methoden\n\nKorrekt: C, D"
+        },
+        {
+            "id": 7,
+            "title": "Frage 7",
+            "question": "Welchen Zielen dient die Ermittlung von Informationssicherheits-Kennzahlen? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Sie helfen bei der Berichterstattung an das Management."
+                },
+                {
+                    "letter": "B",
+                    "text": "Sie werden nur für das Kostencontrolling erhoben."
+                },
+                {
+                    "letter": "C",
+                    "text": "Sie können als Grundlage für Schulungs- und Sensibilisierungsmaßnahmen dienen, um mögliche Konsequenzen darzustellen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Sie können der Überwachung der Effektivität von Maßnahmen dienen."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Sie helfen bei der Berichterstattung an das Management."
+                },
+                {
+                    "letter": "C",
+                    "text": "Sie können als Grundlage für Schulungs- und Sensibilisierungsmaßnahmen dienen, um mögliche Konsequenzen darzustellen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Sie können der Überwachung der Effektivität von Maßnahmen dienen."
+                }
+            ],
+            "raw": "Welchen Zielen dient die Ermittlung von Informationssicherheits-Kennzahlen? (Mehrere Antworten korrekt)\nA) Sie helfen bei der Berichterstattung an das Management.\nB) Sie werden nur für das Kostencontrolling erhoben.\nC) Sie können als Grundlage für Schulungs- und Sensibilisierungsmaßnahmen dienen, um mögliche Konsequenzen darzustellen.\nD) Sie können der Überwachung der Effektivität von Maßnahmen dienen.\n\nKorrekt: A, C, D"
+        },
+        {
+            "id": 8,
+            "title": "Frage 8",
+            "question": "Welche Vorgehensweise sollte gewählt werden, wenn ein eng begrenzter Bereich (z.B die Forschungsabteilung) schnell nach ISO 27001 auf Basis von IT-Grundschutz zertifiziert werden soll?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Kern-Absicherung"
+                },
+                {
+                    "letter": "B",
+                    "text": "Forschungs-Absicherung"
+                },
+                {
+                    "letter": "C",
+                    "text": "Basis-Absicherung"
+                },
+                {
+                    "letter": "D",
+                    "text": "Grund-Absicherung"
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Kern-Absicherung"
+                }
+            ],
+            "raw": "Welche Vorgehensweise sollte gewählt werden, wenn ein eng begrenzter Bereich (z.B die Forschungsabteilung) schnell nach ISO 27001 auf Basis von IT-Grundschutz zertifiziert werden soll?\nA) Kern-Absicherung\nB) Forschungs-Absicherung\nC) Basis-Absicherung\nD) Grund-Absicherung\n\nKorrekt: A"
+        },
+        {
+            "id": 9,
+            "title": "Frage 9",
+            "question": "Welche Aktionspunkte gehören zur Vorbereitung des IT-Grundschutz-Checks? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Abschlussbericht für das Management."
+                },
+                {
+                    "letter": "B",
+                    "text": "Hausinterne Dokumente wie z.B. erstellte Richtlinien und Konfigurationsvorgaben sichten."
+                },
+                {
+                    "letter": "C",
+                    "text": "Budget- und Raumplanung von der Leitungsebene einfordern."
+                },
+                {
+                    "letter": "D",
+                    "text": "Notwendigkeit der Beteiligung externer Stellen klären."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Hausinterne Dokumente wie z.B. erstellte Richtlinien und Konfigurationsvorgaben sichten."
+                },
+                {
+                    "letter": "D",
+                    "text": "Notwendigkeit der Beteiligung externer Stellen klären."
+                }
+            ],
+            "raw": "Welche Aktionspunkte gehören zur Vorbereitung des IT-Grundschutz-Checks? (Mehrere Antworten korrekt)\nA) Abschlussbericht für das Management.\nB) Hausinterne Dokumente wie z.B. erstellte Richtlinien und Konfigurationsvorgaben sichten.\nC) Budget- und Raumplanung von der Leitungsebene einfordern.\nD) Notwendigkeit der Beteiligung externer Stellen klären.\n\nKorrekt: B, D"
+        },
+        {
+            "id": 10,
+            "title": "Frage 10",
+            "question": "Wann muss von einem Sicherheitsvorfall für eine Institution ausgegangen werden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Immer, wenn eine wichtige Anwendung ausfällt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Immer, wenn eine Leitlinie der Institution nicht befolgt wurde."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Festlegung erfolgt nach Einreichung der Unterlagen durch das BSI."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Institution legt individuell fest, was als Sicherheitsvorfall zu werten ist"
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Die Institution legt individuell fest, was als Sicherheitsvorfall zu werten ist"
+                }
+            ],
+            "raw": "Wann muss von einem Sicherheitsvorfall für eine Institution ausgegangen werden?\nA) Immer, wenn eine wichtige Anwendung ausfällt.\nB) Immer, wenn eine Leitlinie der Institution nicht befolgt wurde.\nC) Die Festlegung erfolgt nach Einreichung der Unterlagen durch das BSI.\nD) Die Institution legt individuell fest, was als Sicherheitsvorfall zu werten ist\n\nKorrekt: D"
+        },
+        {
+            "id": 11,
+            "title": "Frage 11",
+            "question": "Sie möchten nach erfolgreich durchgeführter Basis-Absicherung den nächsten Schritt gehen. Welche möglichen Vorgehen sind nun sinnvoll und entsprechen dem BSI-Standard 200-2? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es besteht die Möglichkeit, auf Grundlage der Basis-Absicherung eine Kern-Absicherung für einen besonders schützenswerten Bereich durchzuführen. Durch die Basis-Absicherung wurde hierfür eine gute Grundlage gelegt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Sie können wählen, ob Sie zunächst noch eine Kern-Absicherung für einen besonders schützenswerten Bereich (und erst später die Standard-Absicherung), oder ob Sie direkt die Standard-Absicherung durchführen möchten."
+                },
+                {
+                    "letter": "C",
+                    "text": "Ein Aufbau zu einer Kern- oder Standard-Absicherung ist in diesem Fall leider nicht möglich. Bei der Basis-Absicherung handelt es sich um eine in sich abgeschlossene Methode um einen einfachen Schutz zu erreichen. Daher muss für eine andere Methode wieder bei Null angefangen werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die bisherige Absicherung kann auf eine Standard-Absicherung ausgeweitet werden, da bereits die gesamte Institution betrachtet wurde. Die Vorgehensweise Kern-Absicherung (Konzentration auf einen besonders schützenswerten Bereich) ist aber nun nicht mehr möglich."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es besteht die Möglichkeit, auf Grundlage der Basis-Absicherung eine Kern-Absicherung für einen besonders schützenswerten Bereich durchzuführen. Durch die Basis-Absicherung wurde hierfür eine gute Grundlage gelegt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Sie können wählen, ob Sie zunächst noch eine Kern-Absicherung für einen besonders schützenswerten Bereich (und erst später die Standard-Absicherung), oder ob Sie direkt die Standard-Absicherung durchführen möchten."
+                }
+            ],
+            "raw": "Sie möchten nach erfolgreich durchgeführter Basis-Absicherung den nächsten Schritt gehen. Welche möglichen Vorgehen sind nun sinnvoll und entsprechen dem BSI-Standard 200-2? (Mehrere Antworten korrekt)\nA) Es besteht die Möglichkeit, auf Grundlage der Basis-Absicherung eine Kern-Absicherung für einen besonders schützenswerten Bereich durchzuführen. Durch die Basis-Absicherung wurde hierfür eine gute Grundlage gelegt.\nB) Sie können wählen, ob Sie zunächst noch eine Kern-Absicherung für einen besonders schützenswerten Bereich (und erst später die Standard-Absicherung), oder ob Sie direkt die Standard-Absicherung durchführen möchten.\nC) Ein Aufbau zu einer Kern- oder Standard-Absicherung ist in diesem Fall leider nicht möglich. Bei der Basis-Absicherung handelt es sich um eine in sich abgeschlossene Methode um einen einfachen Schutz zu erreichen. Daher muss für eine andere Methode wieder bei Null angefangen werden.\nD) Die bisherige Absicherung kann auf eine Standard-Absicherung ausgeweitet werden, da bereits die gesamte Institution betrachtet wurde. Die Vorgehensweise Kern-Absicherung (Konzentration auf einen besonders schützenswerten Bereich) ist aber nun nicht mehr möglich.\n\nKorrekt: A, B"
+        },
+        {
+            "id": 12,
+            "title": "Frage 12",
+            "question": "Welches/Welche Gesetze/Verordnungen nehmen wesentlichen Einfluss auf die Informationssicherheit? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "DSGVO"
+                },
+                {
+                    "letter": "B",
+                    "text": "Waffengesetz"
+                },
+                {
+                    "letter": "C",
+                    "text": "IIoT-Sicherheitsanwendungsgesetz"
+                },
+                {
+                    "letter": "D",
+                    "text": "IT-Sicherheitsgesetz"
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "DSGVO"
+                },
+                {
+                    "letter": "D",
+                    "text": "IT-Sicherheitsgesetz"
+                }
+            ],
+            "raw": "Welches/Welche Gesetze/Verordnungen nehmen wesentlichen Einfluss auf die Informationssicherheit? (Mehrere Antworten korrekt)\nA) DSGVO\nB) Waffengesetz\nC) IIoT-Sicherheitsanwendungsgesetz\nD) IT-Sicherheitsgesetz\n\nKorrekt: A, D"
+        },
+        {
+            "id": 13,
+            "title": "Frage 13",
+            "question": "Welche(r) der nachfolgenden Begriffe ist/sind Bestandteil des BCM-Prozesses gem. BSI-Standard 200-4? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Notfallvorabbefassung"
+                },
+                {
+                    "letter": "B",
+                    "text": "Notfallerörterungsstrategie"
+                },
+                {
+                    "letter": "C",
+                    "text": "Notfallbewältigung"
+                },
+                {
+                    "letter": "D",
+                    "text": "Tests und Übungen"
+                }
+            ],
+            "correct":
+            [
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "Notfallbewältigung"
+                },
+                {
+                    "letter": "D",
+                    "text": "Tests und Übungen"
+                }
+            ],
+            "raw": "Welche(r) der nachfolgenden Begriffe ist/sind Bestandteil des BCM-Prozesses gem. BSI-Standard 200-4? (Mehrere Antworten korrekt)\nA) Notfallvorabbefassung\nB) Notfallerörterungsstrategie\nC) Notfallbewältigung\nD) Tests und Übungen\n\nKorrekt: C, D"
+        },
+        {
+            "id": 14,
+            "title": "Frage 14",
+            "question": "Es gibt eine Vielzahl an Möglichkeiten, die Qualität der Informationssicherheitsmaßnahmen zu prüfen und daraus Rückschlüsse für das Verbesserungspotential zu ziehen. Welche könnten dies sein? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Ein Cyber-Sicherheits-Check"
+                },
+                {
+                    "letter": "B",
+                    "text": "Eine Sicherheitsrevision"
+                },
+                {
+                    "letter": "C",
+                    "text": "Ein Quantitätsaudit"
+                },
+                {
+                    "letter": "D",
+                    "text": "Eine Datenschutz-Folgeabschätzung"
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Ein Cyber-Sicherheits-Check"
+                },
+                {
+                    "letter": "B",
+                    "text": "Eine Sicherheitsrevision"
+                }
+            ],
+            "raw": "Es gibt eine Vielzahl an Möglichkeiten, die Qualität der Informationssicherheitsmaßnahmen zu prüfen und daraus Rückschlüsse für das Verbesserungspotential zu ziehen. Welche könnten dies sein? (Mehrere Antworten korrekt)\nA) Ein Cyber-Sicherheits-Check\nB) Eine Sicherheitsrevision\nC) Ein Quantitätsaudit\nD) Eine Datenschutz-Folgeabschätzung\n\nKorrekt: A, B"
+        },
+        {
+            "id": 15,
+            "title": "Frage 15",
+            "question": "Welche Aussage(n) bezogen auf Informationssicherheit ist/sind korrekt?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Informationssicherheit hat nur den Schutz von Hardware als Ziel."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die Grundwerte der Informationssicherheit sind Verfügbarkeit, Integrität und Vertraulichkeit."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Informationssicherheit betrifft nur elektronisch verarbeitete Informationen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Grundwerte der Informationssicherheit sind Integrität, Transparenz und Vertraulichkeit."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Die Grundwerte der Informationssicherheit sind Verfügbarkeit, Integrität und Vertraulichkeit."
+                }
+            ],
+            "raw": "Welche Aussage(n) bezogen auf Informationssicherheit ist/sind korrekt?\nA) Die Informationssicherheit hat nur den Schutz von Hardware als Ziel.\nB) Die Grundwerte der Informationssicherheit sind Verfügbarkeit, Integrität und Vertraulichkeit.\nC) Die Informationssicherheit betrifft nur elektronisch verarbeitete Informationen.\nD) Die Grundwerte der Informationssicherheit sind Integrität, Transparenz und Vertraulichkeit.\n\nKorrekt: B"
+        },
+        {
+            "id": 16,
+            "title": "Frage 16",
+            "question": "Ist es grundsätzlich möglich einen Informationsverbund, der nach IT-Grundschutz zertifiziert ist, ohne größeren Aufwand auch nach ISO 27001 \"nativ\" zertifizieren zu lassen?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Nein, das sind zwei völlig unterschiedliche Zertifizierungen."
+                },
+                {
+                    "letter": "B",
+                    "text": "Nein, man kann sich immer nur nach einem Standard zertifizieren lassen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Ja, denn der BSI Grundschutz erfüllt die Vorgaben der ISO-Norm (nur andere Dokumentation)."
+                },
+                {
+                    "letter": "D",
+                    "text": "Nur, wenn das BSI im Ausnahmefall zustimmt."
+                }
+            ],
+            "correct":
+            [
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "Ja, denn der BSI Grundschutz erfüllt die Vorgaben der ISO-Norm (nur andere Dokumentation)."
+                }
+            ],
+            "raw": "Ist es grundsätzlich möglich einen Informationsverbund, der nach IT-Grundschutz zertifiziert ist, ohne größeren Aufwand auch nach ISO 27001 \"nativ\" zertifizieren zu lassen?\nA) Nein, das sind zwei völlig unterschiedliche Zertifizierungen.\nB) Nein, man kann sich immer nur nach einem Standard zertifizieren lassen.\nC) Ja, denn der BSI Grundschutz erfüllt die Vorgaben der ISO-Norm (nur andere Dokumentation).\nD) Nur, wenn das BSI im Ausnahmefall zustimmt.\n\nKorrekt: C"
+        },
+        {
+            "id": 17,
+            "title": "Frage 17",
+            "question": "Was bedeutet \"Notbetriebsniveau\"?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Qualität der Mitarbeitenden für den Notbetrieb."
+                },
+                {
+                    "letter": "B",
+                    "text": "Anzahl der IT-Systeme, die für den Notbetrieb benötigt werden"
+                },
+                {
+                    "letter": "C",
+                    "text": "Die erforderliche Leistungsfähigkeit des Notbetriebs."
+                },
+                {
+                    "letter": "D",
+                    "text": "Zu diesem Zeitpunkt muss der Notbetrieb aufgenommen sein."
+                }
+            ],
+            "correct":
+            [
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "Die erforderliche Leistungsfähigkeit des Notbetriebs."
+                }
+            ],
+            "raw": "Was bedeutet \"Notbetriebsniveau\"?\nA) Die Qualität der Mitarbeitenden für den Notbetrieb.\nB) Anzahl der IT-Systeme, die für den Notbetrieb benötigt werden\nC) Die erforderliche Leistungsfähigkeit des Notbetriebs.\nD) Zu diesem Zeitpunkt muss der Notbetrieb aufgenommen sein.\n\nKorrekt: C"
+        },
+        {
+            "id": 18,
+            "title": "Frage 18",
+            "question": "In der Umsetzungsplanung machen Sie sich Gedanken darüber, welche realisierungsbegleitenden Maßnahmen sinnvoll umzusetzen sein könnten. Welche sollten dies sein?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Bei der Umsetzungsplanung geht es nie um begleitende Maßnahmen. Diese werden immer in einem weiteren Schritt nach der Konsolidierung durchgeführt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Es existieren keine realisierungsbegleitenden Maßnahmen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Zunächst einmal geht es darum, die notwendigen Maßnahmen umzusetzen. Erst wenn dies abschließend erfolgt ist, machen Schulungs- und Sensibilisierungsmaßnahmen Sinn."
+                },
+                {
+                    "letter": "D",
+                    "text": "Maßnahmen können nur dann wirkungsvoll umgesetzt werden, wenn die entsprechenden Mitarbeiter auch geschult sind. Daher sollte dies so früh wie möglich begleitend zur Umsetzung passieren."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Maßnahmen können nur dann wirkungsvoll umgesetzt werden, wenn die entsprechenden Mitarbeiter auch geschult sind. Daher sollte dies so früh wie möglich begleitend zur Umsetzung passieren."
+                }
+            ],
+            "raw": "In der Umsetzungsplanung machen Sie sich Gedanken darüber, welche realisierungsbegleitenden Maßnahmen sinnvoll umzusetzen sein könnten. Welche sollten dies sein?\nA) Bei der Umsetzungsplanung geht es nie um begleitende Maßnahmen. Diese werden immer in einem weiteren Schritt nach der Konsolidierung durchgeführt.\nB) Es existieren keine realisierungsbegleitenden Maßnahmen.\nC) Zunächst einmal geht es darum, die notwendigen Maßnahmen umzusetzen. Erst wenn dies abschließend erfolgt ist, machen Schulungs- und Sensibilisierungsmaßnahmen Sinn.\nD) Maßnahmen können nur dann wirkungsvoll umgesetzt werden, wenn die entsprechenden Mitarbeiter auch geschult sind. Daher sollte dies so früh wie möglich begleitend zur Umsetzung passieren.\n\nKorrekt: D"
+        },
+        {
+            "id": 18,
+            "title": "Frage 18",
+            "question": "Welche Aussage(n) bezogen auf die DSGVO bzw. dem Standard-Datenschutzmodell (SDM) ist/sind zutreffend? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es gibt verschiedene Gewährleistungsziele im SDM. Es wird erläutert, wie diese erreicht werden können."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die DSGVO ist immer dann zu betrachten, wenn personenbezogene Informationen verarbeitet werden."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Aufgaben Datenschutz und Informationssicherheit sind in einer Institution immer durch eine Person zu erfüllen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Das Standard-Datenschutz-Modell (SDM) ist eine mögliche Methode, mit der die Umsetzung der DSGVO erfolgen kann."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es gibt verschiedene Gewährleistungsziele im SDM. Es wird erläutert, wie diese erreicht werden können."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die DSGVO ist immer dann zu betrachten, wenn personenbezogene Informationen verarbeitet werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Das Standard-Datenschutz-Modell (SDM) ist eine mögliche Methode, mit der die Umsetzung der DSGVO erfolgen kann."
+                }
+            ],
+            "raw": "Welche Aussage(n) bezogen auf die DSGVO bzw. dem Standard-Datenschutzmodell (SDM) ist/sind zutreffend? (Mehrere Antworten korrekt)\nA) Es gibt verschiedene Gewährleistungsziele im SDM. Es wird erläutert, wie diese erreicht werden können.\nB) Die DSGVO ist immer dann zu betrachten, wenn personenbezogene Informationen verarbeitet werden.\nC) Die Aufgaben Datenschutz und Informationssicherheit sind in einer Institution immer durch eine Person zu erfüllen.\nD) Das Standard-Datenschutz-Modell (SDM) ist eine mögliche Methode, mit der die Umsetzung der DSGVO erfolgen kann.\n\nKorrekt: A, B, D"
+        },
+        {
+            "id": 19,
+            "title": "Frage 19",
+            "question": "Welche Aussage(n), bezogen auf die Modellierung von Prozess-Bausteinen ist/sind korrekt? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Prozess-Bausteine sind nur in rein prozessorientierten Informationsverbünden anzuwenden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Prozess-Bausteine sind immer alle auszuwählen. Hierbei dürfen keine Ausnahmen gemacht werden, da sonst grundlegende Aspekte unberücksichtigt bleiben."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Bausteine der Schicht \"ISMS (Sicherheitsmanagement)\" sowie \"ORP (Organisation und Personal)\" sind gem. IT-Grundschutz-Kompendium immer anzuwenden. Für die Schichten \"CON (Konzepte und Vorgehensweisen)\", \"OPS (Betrieb)\" sowie \"DER (Detektion und Reaktion)\" kann es Ausnahmen geben (wenn z.B. keine Telearbeit stattfindet ist dieser Baustein entbehrlich)."
+                },
+                {
+                    "letter": "D",
+                    "text": "Prozess-Bausteine sind, bis auf einige Ausnahmen, mindestens jeweils einmal für den gesamten Informationsverbund anzuwenden."
+                }
+            ],
+            "correct":
+            [
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "Die Bausteine der Schicht \"ISMS (Sicherheitsmanagement)\" sowie \"ORP (Organisation und Personal)\" sind gem. IT-Grundschutz-Kompendium immer anzuwenden. Für die Schichten \"CON (Konzepte und Vorgehensweisen)\", \"OPS (Betrieb)\" sowie \"DER (Detektion und Reaktion)\" kann es Ausnahmen geben (wenn z.B. keine Telearbeit stattfindet ist dieser Baustein entbehrlich)."
+                },
+                {
+                    "letter": "D",
+                    "text": "Prozess-Bausteine sind, bis auf einige Ausnahmen, mindestens jeweils einmal für den gesamten Informationsverbund anzuwenden."
+                }
+            ],
+            "raw": "Welche Aussage(n), bezogen auf die Modellierung von Prozess-Bausteinen ist/sind korrekt? (Mehrere Antworten korrekt)\nA) Prozess-Bausteine sind nur in rein prozessorientierten Informationsverbünden anzuwenden.\nB) Prozess-Bausteine sind immer alle auszuwählen. Hierbei dürfen keine Ausnahmen gemacht werden, da sonst grundlegende Aspekte unberücksichtigt bleiben.\nC) Die Bausteine der Schicht \"ISMS (Sicherheitsmanagement)\" sowie \"ORP (Organisation und Personal)\" sind gem. IT-Grundschutz-Kompendium immer anzuwenden. Für die Schichten \"CON (Konzepte und Vorgehensweisen)\", \"OPS (Betrieb)\" sowie \"DER (Detektion und Reaktion)\" kann es Ausnahmen geben (wenn z.B. keine Telearbeit stattfindet ist dieser Baustein entbehrlich).\nD) Prozess-Bausteine sind, bis auf einige Ausnahmen, mindestens jeweils einmal für den gesamten Informationsverbund anzuwenden.\n\nKorrekt: C, D"
+        },
+        {
+            "id": 20,
+            "title": "Frage 20",
+            "question": "Die Risikokategorien gem. BSI-Standard 200-3 ergeben sich aus der Eintrittshäufigkeit und der Schadenshöhe. Welche Kategorien schlägt der Standard bei der Eintrittshäufigkeit vor?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "häufig"
+                },
+                {
+                    "letter": "B",
+                    "text": "akzeptabel"
+                },
+                {
+                    "letter": "C",
+                    "text": "grob fahrlässig"
+                },
+                {
+                    "letter": "D",
+                    "text": "extrem niedrig"
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "häufig"
+                }
+            ],
+            "raw": "Die Risikokategorien gem. BSI-Standard 200-3 ergeben sich aus der Eintrittshäufigkeit und der Schadenshöhe. Welche Kategorien schlägt der Standard bei der Eintrittshäufigkeit vor?\nA) häufig\nB) akzeptabel\nC) grob fahrlässig\nD) extrem niedrig\n\nKorrekt: A"
+        },
+        {
+            "id": 21,
+            "title": "Frage 21",
+            "question": "Was sollte bei der Nachbereitung der Sicherheitsvorfallbehandlung dokumentiert/aufbewahrt werden? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Wie die zeitlichen Abläufe der Behandlung waren."
+                },
+                {
+                    "letter": "B",
+                    "text": "Welche Aktionen durchgeführt wurden."
+                },
+                {
+                    "letter": "C",
+                    "text": "Wann bei anderen Firmen das gleiche Problem aufgetreten ist."
+                },
+                {
+                    "letter": "D",
+                    "text": "Relevante Protokolldaten sind aufzubewahren."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Wie die zeitlichen Abläufe der Behandlung waren."
+                },
+                {
+                    "letter": "B",
+                    "text": "Welche Aktionen durchgeführt wurden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Relevante Protokolldaten sind aufzubewahren."
+                }
+            ],
+            "raw": "Was sollte bei der Nachbereitung der Sicherheitsvorfallbehandlung dokumentiert/aufbewahrt werden? (Mehrere Antworten korrekt)\nA) Wie die zeitlichen Abläufe der Behandlung waren.\nB) Welche Aktionen durchgeführt wurden.\nC) Wann bei anderen Firmen das gleiche Problem aufgetreten ist.\nD) Relevante Protokolldaten sind aufzubewahren.\n\nKorrekt: A, B, D"
+        },
+        {
+            "id": 22,
+            "title": "Frage 22",
+            "question": "Welche Vorgaben/Vorschläge gibt es bezogen auf Meldeverfahren/-wege für Sicherheitsvorfälle?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Meldewege sollten ausschließlich online verfügbar sein."
+                },
+                {
+                    "letter": "B",
+                    "text": "Sie sollten aktuell und leicht zugänglich sein"
+                },
+                {
+                    "letter": "C",
+                    "text": "Es sollte für jede Art von Sicherheitsvorfällen eine eigene Meldewegskette existieren."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es sollte immer eine zentrale Stelle hierfür bestimmt werden."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Sie sollten aktuell und leicht zugänglich sein"
+                }
+            ],
+            "raw": "Welche Vorgaben/Vorschläge gibt es bezogen auf Meldeverfahren/-wege für Sicherheitsvorfälle?\nA) Meldewege sollten ausschließlich online verfügbar sein.\nB) Sie sollten aktuell und leicht zugänglich sein\nC) Es sollte für jede Art von Sicherheitsvorfällen eine eigene Meldewegskette existieren.\nD) Es sollte immer eine zentrale Stelle hierfür bestimmt werden.\n\nKorrekt: B"
+        },
+        {
+            "id": 23,
+            "title": "Frage 23",
+            "question": "Welche Aussagen bezogen auf die Überwachungsaudits treffen zu?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Das erste Überwachungsaudit findet frühestens nach 12 Monaten nach der Zertifikatserteilung statt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das erste Überwachungsaudit findet frühestens nach 9 Monaten nach der Zertifikatserteilung statt."
+                },
+                {
+                    "letter": "C",
+                    "text": "Das erste Überwachungsaudit findet frühestens nach 6 Monaten nach der Zertifikatserteilung statt."
+                },
+                {
+                    "letter": "D",
+                    "text": "Das erste Überwachungsaudit findet spätestens nach 9 Monaten nach der Zertifikatserteilung statt."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Das erste Überwachungsaudit findet frühestens nach 9 Monaten nach der Zertifikatserteilung statt."
+                }
+            ],
+            "raw": "Welche Aussagen bezogen auf die Überwachungsaudits treffen zu?\nA) Das erste Überwachungsaudit findet frühestens nach 12 Monaten nach der Zertifikatserteilung statt.\nB) Das erste Überwachungsaudit findet frühestens nach 9 Monaten nach der Zertifikatserteilung statt.\nC) Das erste Überwachungsaudit findet frühestens nach 6 Monaten nach der Zertifikatserteilung statt.\nD) Das erste Überwachungsaudit findet spätestens nach 9 Monaten nach der Zertifikatserteilung statt.\n\nKorrekt: B"
+        },
+        {
+            "id": 24,
+            "title": "Frage 24",
+            "question": "Welche Aussagen, bezogen auf den BSI-Zertifizierungsprozess sind korrekt?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die formale und inhaltliche Überprüfung der Dokumentation muss immer vor Ort beim Antragsteller erfolgen, um sofort Rückfragen zu ermöglichen."
+                },
+                {
+                    "letter": "B",
+                    "text": "Der zertifizierte Auditor erstellt und vergibt nach erfolgreicher Prüfung und Vorlage des Ergebnisses das Zertifikat an den Antragsteller."
+                },
+                {
+                    "letter": "C",
+                    "text": "Während der Umsetzungsprüfung durch den Auditor wird vor Ort u.a. die Korrektheit, und Wirksamkeit der in den Referenzdokumenten beschriebenen Maßnahmen geprüft."
+                },
+                {
+                    "letter": "D",
+                    "text": "Der Audit-Report wird grundsätzlich von der Zertifizierungsstelle des BSI erstellt."
+                }
+            ],
+            "correct":
+            [
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "Während der Umsetzungsprüfung durch den Auditor wird vor Ort u.a. die Korrektheit, und Wirksamkeit der in den Referenzdokumenten beschriebenen Maßnahmen geprüft."
+                }
+            ],
+            "raw": "Welche Aussagen, bezogen auf den BSI-Zertifizierungsprozess sind korrekt?\nA) Die formale und inhaltliche Überprüfung der Dokumentation muss immer vor Ort beim Antragsteller erfolgen, um sofort Rückfragen zu ermöglichen.\nB) Der zertifizierte Auditor erstellt und vergibt nach erfolgreicher Prüfung und Vorlage des Ergebnisses das Zertifikat an den Antragsteller.\nC) Während der Umsetzungsprüfung durch den Auditor wird vor Ort u.a. die Korrektheit, und Wirksamkeit der in den Referenzdokumenten beschriebenen Maßnahmen geprüft.\nD) Der Audit-Report wird grundsätzlich von der Zertifizierungsstelle des BSI erstellt.\n\nKorrekt: C"
+        },
+        {
+            "id": 25,
+            "title": "Frage 25",
+            "question": "Welche Unterstützungsleistungen bietet das BSI zur Entwicklung eines IT-Grundschutz-Profils?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Bereitstellung von Fördermitteln zur Erstellung eines IT-Grundschutz-Profils."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das Auditierung und die Zertifizierung des IT-Grundschutz-Profils."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Bereitstellung eines fachlichen Beraters für das jeweilige Themengebiet."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Moderation von 3 Workshops zur Entwicklung eines IT-Grundschutz-Profils."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Die Moderation von 3 Workshops zur Entwicklung eines IT-Grundschutz-Profils."
+                }
+            ],
+            "raw": "Welche Unterstützungsleistungen bietet das BSI zur Entwicklung eines IT-Grundschutz-Profils?\nA) Die Bereitstellung von Fördermitteln zur Erstellung eines IT-Grundschutz-Profils.\nB) Das Auditierung und die Zertifizierung des IT-Grundschutz-Profils.\nC) Die Bereitstellung eines fachlichen Beraters für das jeweilige Themengebiet.\nD) Die Moderation von 3 Workshops zur Entwicklung eines IT-Grundschutz-Profils.\n\nKorrekt: D"
+        },
+        {
+            "id": 26,
+            "title": "Frage 26",
+            "question": "Was ist/sind die unmittelbare(n) Grundlage(n) für die Zertifizierung nach IT-Grundschutz?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "ISO 27005"
+                },
+                {
+                    "letter": "B",
+                    "text": "ISO 27001"
+                },
+                {
+                    "letter": "C",
+                    "text": "Die DSGVO"
+                },
+                {
+                    "letter": "D",
+                    "text": "ISO 29301"
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "ISO 29301"
+                }
+            ],
+            "raw": "Was ist/sind die unmittelbare(n) Grundlage(n) für die Zertifizierung nach IT-Grundschutz?\nA) ISO 27005\nB) ISO 27001\nC) Die DSGVO\nD) ISO 29301\n\nKorrekt: D"
+        },
+        {
+            "id": 27,
+            "title": "Frage 27",
+            "question": "Welche dieser Bausteine sind vorrangig (R1) umzusetzen? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Allgemeiner Server"
+                },
+                {
+                    "letter": "B",
+                    "text": "ISMS"
+                },
+                {
+                    "letter": "C",
+                    "text": "Auditkonzept"
+                },
+                {
+                    "letter": "D",
+                    "text": "Organisation"
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "ISMS"
+                },
+                {
+                    "letter": "D",
+                    "text": "Organisation"
+                }
+            ],
+            "raw": "Welche dieser Bausteine sind vorrangig (R1) umzusetzen? (Mehrere Antworten korrekt)\nA) Allgemeiner Server\nB) ISMS\nC) Auditkonzept\nD) Organisation\n\nKorrekt: B, D"
+        },
+        {
+            "id": 28,
+            "title": "Frage 28",
+            "question": "Welcher Reifegrad gehört zur Beschreibung \"ISMS ist voll etabliert und dokumentiert\"?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Reifegrad 1"
+                },
+                {
+                    "letter": "B",
+                    "text": "Reifegrad 3"
+                },
+                {
+                    "letter": "C",
+                    "text": "Reifegrad 0"
+                },
+                {
+                    "letter": "D",
+                    "text": "Reifegrad 8"
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Reifegrad 3"
+                }
+            ],
+            "raw": "Welcher Reifegrad gehört zur Beschreibung \"ISMS ist voll etabliert und dokumentiert\"?\nA) Reifegrad 1\nB) Reifegrad 3\nC) Reifegrad 0\nD) Reifegrad 8\n\nKorrekt: B"
+        },
+        {
+            "id": 29,
+            "title": "Frage 29",
+            "question": "Was sind Managementprinzipien eines ISMS? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Erfolgskontrolle im Sicherheitsprozess."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die Berücksichtigung von ökologischer Nachhaltigkeit bei Investitionsentscheidungen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Kontinuierliche Verbesserung."
+                },
+                {
+                    "letter": "D",
+                    "text": "Kommunikation und Wissen."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Erfolgskontrolle im Sicherheitsprozess."
+                },
+                {
+                    "letter": "C",
+                    "text": "Kontinuierliche Verbesserung."
+                },
+                {
+                    "letter": "D",
+                    "text": "Kommunikation und Wissen."
+                }
+            ],
+            "raw": "Was sind Managementprinzipien eines ISMS? (Mehrere Antworten korrekt)\nA) Erfolgskontrolle im Sicherheitsprozess.\nB) Die Berücksichtigung von ökologischer Nachhaltigkeit bei Investitionsentscheidungen.\nC) Kontinuierliche Verbesserung.\nD) Kommunikation und Wissen.\n\nKorrekt: A, C, D"
+        },
+        {
+            "id": 30,
+            "title": "Frage 30",
+            "question": "Welche(r) Begriff(e) trifft/treffen auf das \"IT-Grundschutz-Profil\" am ehesten zu?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Musterszenar für ein Informationssicherheitskonzept."
+                },
+                {
+                    "letter": "B",
+                    "text": "Ein Branchenstandard für die Anwendung des IT-Grundschutzes."
+                },
+                {
+                    "letter": "C",
+                    "text": "Explizite Festlegung für einen ausgewählten Informationsverbund."
+                },
+                {
+                    "letter": "D",
+                    "text": "Pflichtanforderungen für Institutionen mit vordefinierten Aufgaben."
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Musterszenar für ein Informationssicherheitskonzept."
+                }
+            ],
+            "raw": "Welche(r) Begriff(e) trifft/treffen auf das \"IT-Grundschutz-Profil\" am ehesten zu?\nA) Musterszenar für ein Informationssicherheitskonzept.\nB) Ein Branchenstandard für die Anwendung des IT-Grundschutzes.\nC) Explizite Festlegung für einen ausgewählten Informationsverbund.\nD) Pflichtanforderungen für Institutionen mit vordefinierten Aufgaben.\n\nKorrekt: A"
+        },
+        {
+            "id": 31,
+            "title": "Frage 31",
+            "question": "Welche Aufgaben müssen bei der Standard-Absicherung vor Durchführung eines IT-Grundschutz-Checks erledigt werden? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Schutzbedarfsfeststellung."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die \"Kontinuierliche Verbesserung\"."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Festlegung des Geltungsbereiches."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Risikoanalyse."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Schutzbedarfsfeststellung."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Festlegung des Geltungsbereiches."
+                }
+            ],
+            "raw": "Welche Aufgaben müssen bei der Standard-Absicherung vor Durchführung eines IT-Grundschutz-Checks erledigt werden? (Mehrere Antworten korrekt)\nA) Die Schutzbedarfsfeststellung.\nB) Die \"Kontinuierliche Verbesserung\".\nC) Die Festlegung des Geltungsbereiches.\nD) Die Risikoanalyse.\n\nKorrekt: A, C"
+        },
+        {
+            "id": 32,
+            "title": "Frage 32",
+            "question": "Wodurch kann die Informationssicherheit gefährdet werden? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Falsche Anrede bei einer Email"
+                },
+                {
+                    "letter": "B",
+                    "text": "Höhere Gewalt"
+                },
+                {
+                    "letter": "C",
+                    "text": "Organisatorische Mängel"
+                },
+                {
+                    "letter": "D",
+                    "text": "Vorsätzliche Handlungen"
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Höhere Gewalt"
+                },
+                {
+                    "letter": "C",
+                    "text": "Organisatorische Mängel"
+                },
+                {
+                    "letter": "D",
+                    "text": "Vorsätzliche Handlungen"
+                }
+            ],
+            "raw": "Wodurch kann die Informationssicherheit gefährdet werden? (Mehrere Antworten korrekt)\nA) Falsche Anrede bei einer Email\nB) Höhere Gewalt\nC) Organisatorische Mängel\nD) Vorsätzliche Handlungen\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 33,
+            "title": "Frage 33",
+            "question": "Welche Informationen/Inhalte sind in Bausteinen des IT-Grundschutz-Kompendiums enthalten? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Informationen darüber, welche zusätzlichen Bausteine ggf. zu betrachten sind."
+                },
+                {
+                    "letter": "B",
+                    "text": "Detaillierte Informationen zu einer Risikoanalyse gem. BSI-Standard 200-3."
+                },
+                {
+                    "letter": "C",
+                    "text": "Basis-Anforderungen, Kern-Anforderungen und Standard-Anforderungen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Zuständigkeit für den jeweiligen Baustein."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Informationen darüber, welche zusätzlichen Bausteine ggf. zu betrachten sind."
+                },
+                {
+                    "letter": "D",
+                    "text": "Zuständigkeit für den jeweiligen Baustein."
+                }
+            ],
+            "raw": "Welche Informationen/Inhalte sind in Bausteinen des IT-Grundschutz-Kompendiums enthalten? (Mehrere Antworten korrekt)\nA) Informationen darüber, welche zusätzlichen Bausteine ggf. zu betrachten sind.\nB) Detaillierte Informationen zu einer Risikoanalyse gem. BSI-Standard 200-3.\nC) Basis-Anforderungen, Kern-Anforderungen und Standard-Anforderungen.\nD) Zuständigkeit für den jeweiligen Baustein.\n\nKorrekt: A, D"
+        },
+        {
+            "id": 34,
+            "title": "Frage 34",
+            "question": "Welche Anteile gehören zur Struktur eines IT-Grundschutz-Profils?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Liste der zertifizierten Auditoren, die das Profil fachlich zertifizieren können."
+                },
+                {
+                    "letter": "B",
+                    "text": "Der Geltungsbereich (Scope) des IT-Grundschutz-Profils."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Protokolle der Sitzungen, die bei der Erstellung des Profils geschrieben wurden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Liste der IT-Fachleute, die bei dem Aufbau eines ISMS zu diesem Thema unterstützen können."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Der Geltungsbereich (Scope) des IT-Grundschutz-Profils."
+                }
+            ],
+            "raw": "Welche Anteile gehören zur Struktur eines IT-Grundschutz-Profils?\nA) Die Liste der zertifizierten Auditoren, die das Profil fachlich zertifizieren können.\nB) Der Geltungsbereich (Scope) des IT-Grundschutz-Profils.\nC) Die Protokolle der Sitzungen, die bei der Erstellung des Profils geschrieben wurden.\nD) Die Liste der IT-Fachleute, die bei dem Aufbau eines ISMS zu diesem Thema unterstützen können.\n\nKorrekt: B"
+        },
+        {
+            "id": 35,
+            "title": "Frage 35",
+            "question": "Wodurch unterscheiden sich die Begriffe \"Safety\" und \"Security\"? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "\"Safety\" dient primär dem Schutz der Informationen."
+                },
+                {
+                    "letter": "B",
+                    "text": "\"Security\" dient primär dem Schutz der Informationen."
+                },
+                {
+                    "letter": "C",
+                    "text": "\"Safety\" ist ein Begriff, der im Umfeld von Arbeitssicherheit genutzt wird, also z.B. dass Maschinen für den Menschen sicher betrieben werden können."
+                },
+                {
+                    "letter": "D",
+                    "text": "Beide Begriffe bedeuten übersetzt \"Sicherheit\" und sind daher auch nicht unterschiedlich zu bewerten."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "\"Security\" dient primär dem Schutz der Informationen."
+                },
+                {
+                    "letter": "C",
+                    "text": "\"Safety\" ist ein Begriff, der im Umfeld von Arbeitssicherheit genutzt wird, also z.B. dass Maschinen für den Menschen sicher betrieben werden können."
+                }
+            ],
+            "raw": "Wodurch unterscheiden sich die Begriffe \"Safety\" und \"Security\"? (Mehrere Antworten korrekt)\nA) \"Safety\" dient primär dem Schutz der Informationen.\nB) \"Security\" dient primär dem Schutz der Informationen.\nC) \"Safety\" ist ein Begriff, der im Umfeld von Arbeitssicherheit genutzt wird, also z.B. dass Maschinen für den Menschen sicher betrieben werden können.\nD) Beide Begriffe bedeuten übersetzt \"Sicherheit\" und sind daher auch nicht unterschiedlich zu bewerten.\n\nKorrekt: B, C"
+        },
+        {
+            "id": 36,
+            "title": "Frage 36",
+            "question": "Was sollte die Grundlage für einen ersten IT-Grundschutz-Check gem. Standard 200-2 sein?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Das Ergebnis einer Risikoanalyse durch die Institution."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das Ergebnis der Modellierung des betrachteten Informationsverbundes."
+                },
+                {
+                    "letter": "C",
+                    "text": "Nur die Leitlinie zur Informationssicherheit der Institution ist hierfür relevant."
+                },
+                {
+                    "letter": "D",
+                    "text": "Das Ergebnis der Schutzbedarfsfeststellung und der Risikoanalyse."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Das Ergebnis der Modellierung des betrachteten Informationsverbundes."
+                }
+            ],
+            "raw": "Was sollte die Grundlage für einen ersten IT-Grundschutz-Check gem. Standard 200-2 sein?\nA) Das Ergebnis einer Risikoanalyse durch die Institution.\nB) Das Ergebnis der Modellierung des betrachteten Informationsverbundes.\nC) Nur die Leitlinie zur Informationssicherheit der Institution ist hierfür relevant.\nD) Das Ergebnis der Schutzbedarfsfeststellung und der Risikoanalyse.\n\nKorrekt: B"
+        },
+        {
+            "id": 37,
+            "title": "Frage 37",
+            "question": "Wann muss eine Risikoanalyse gem. BSI-Standards explizit durchgeführt werden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Wenn das Zielobjekt über keine BSI Zertifizierung bzw. Zulassung verfügt."
+                },
+                {
+                    "letter": "B",
+                    "text": "Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes nicht ausreichend modelliert werden kann."
+                },
+                {
+                    "letter": "C",
+                    "text": "Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes zwar modelliert werden, jedoch aufgrund seiner besonderen Konfiguration nicht mit anderen Objekten gruppiert werden kann."
+                },
+                {
+                    "letter": "D",
+                    "text": "Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes zwar modelliert werden kann, hat aber den Schutzbedarf \"normal\" in allen Grundwerten."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes nicht ausreichend modelliert werden kann."
+                }
+            ],
+            "raw": "Wann muss eine Risikoanalyse gem. BSI-Standards explizit durchgeführt werden?\nA) Wenn das Zielobjekt über keine BSI Zertifizierung bzw. Zulassung verfügt.\nB) Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes nicht ausreichend modelliert werden kann.\nC) Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes zwar modelliert werden, jedoch aufgrund seiner besonderen Konfiguration nicht mit anderen Objekten gruppiert werden kann.\nD) Wenn das Zielobjekt mit den existierenden Bausteinen des IT-Grundschutzes zwar modelliert werden kann, hat aber den Schutzbedarf \"normal\" in allen Grundwerten.\n\nKorrekt: B"
+        },
+        {
+            "id": 38,
+            "title": "Frage 38",
+            "question": "Die IT-Grundschutz-Modellierung, also die Zuordnung von Bausteinen zu Zielobjekten, sollte dokumentiert werden. Welche Angaben sollten gem. BSI-Standard 200-2 mindestens enthalten sein? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Nummer und Titel des Bausteins."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die Unternehmen, mit denen Sie in Geschäftsbeziehungen stehen, müssen die gleichen Bausteine behandeln wie Ihre Institution."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Anzahl der Anforderungen innerhalb des jeweiligen Bausteins."
+                },
+                {
+                    "letter": "D",
+                    "text": "Eine Begründung, falls ein Baustein als nicht relevant angesehen wird."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Nummer und Titel des Bausteins."
+                },
+                {
+                    "letter": "D",
+                    "text": "Eine Begründung, falls ein Baustein als nicht relevant angesehen wird."
+                }
+            ],
+            "raw": "Die IT-Grundschutz-Modellierung, also die Zuordnung von Bausteinen zu Zielobjekten, sollte dokumentiert werden. Welche Angaben sollten gem. BSI-Standard 200-2 mindestens enthalten sein? (Mehrere Antworten korrekt)\nA) Nummer und Titel des Bausteins.\nB) Die Unternehmen, mit denen Sie in Geschäftsbeziehungen stehen, müssen die gleichen Bausteine behandeln wie Ihre Institution.\nC) Die Anzahl der Anforderungen innerhalb des jeweiligen Bausteins.\nD) Eine Begründung, falls ein Baustein als nicht relevant angesehen wird.\n\nKorrekt: A, D"
+        },
+        {
+            "id": 39,
+            "title": "Frage 39",
+            "question": "Wie lassen sich relevante Gefährdungen im Rahmen der Risikoanalyse charakterisieren? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Relevant sind Gefährdungen dann, wenn sie im vorliegenden Anwendungsfall und Einsatzumfeld besonders schwerwiegend, sind auch wenn sie praktisch nicht vorkommen können."
+                },
+                {
+                    "letter": "B",
+                    "text": "Relevant sind u.a. Gefährdungen dann, wenn sie im vorliegenden Anwendungsfall und Einsatzumfeld realistisch sind."
+                },
+                {
+                    "letter": "C",
+                    "text": "Relevant sind Gefährdungen dann, wenn sie allgemein besonders häufig auftreten können, auch wenn es für das Zielobjekt bzw. den Informationsverbund nicht zutrifft."
+                },
+                {
+                    "letter": "D",
+                    "text": "Relevant sind u.a. Gefährdungen dann, wenn sie bei Eintritt zu einem nennenswerten Schaden führen."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Relevant sind u.a. Gefährdungen dann, wenn sie im vorliegenden Anwendungsfall und Einsatzumfeld realistisch sind."
+                },
+                {
+                    "letter": "D",
+                    "text": "Relevant sind u.a. Gefährdungen dann, wenn sie bei Eintritt zu einem nennenswerten Schaden führen."
+                }
+            ],
+            "raw": "Wie lassen sich relevante Gefährdungen im Rahmen der Risikoanalyse charakterisieren? (Mehrere Antworten korrekt)\nA) Relevant sind Gefährdungen dann, wenn sie im vorliegenden Anwendungsfall und Einsatzumfeld besonders schwerwiegend, sind auch wenn sie praktisch nicht vorkommen können.\nB) Relevant sind u.a. Gefährdungen dann, wenn sie im vorliegenden Anwendungsfall und Einsatzumfeld realistisch sind.\nC) Relevant sind Gefährdungen dann, wenn sie allgemein besonders häufig auftreten können, auch wenn es für das Zielobjekt bzw. den Informationsverbund nicht zutrifft.\nD) Relevant sind u.a. Gefährdungen dann, wenn sie bei Eintritt zu einem nennenswerten Schaden führen.\n\nKorrekt: B, D"
+        },
+        {
+            "id": 40,
+            "title": "Frage 40",
+            "question": "Welche besonderen Vorgaben gibt es für eine Erstzertifizierung nach ISO 27001 auf Basis von IT-Grundschutz?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es erfolgt erst eine Dokumentenprüfung und im Anschluss eine Vor-Ort Prüfung."
+                },
+                {
+                    "letter": "B",
+                    "text": "Es wird zuerst die Prüfung vor Ort durchgeführt. Danach erfolgt die Dokumentenprüfung zum Abgleich."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es muss immer zuerst ein Voraudit durchgeführt werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es erfolgt eine Dokumentenprüfung. Vor-Ort Prüfungen sind eher unüblich."
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es erfolgt erst eine Dokumentenprüfung und im Anschluss eine Vor-Ort Prüfung."
+                }
+            ],
+            "raw": "Welche besonderen Vorgaben gibt es für eine Erstzertifizierung nach ISO 27001 auf Basis von IT-Grundschutz?\nA) Es erfolgt erst eine Dokumentenprüfung und im Anschluss eine Vor-Ort Prüfung.\nB) Es wird zuerst die Prüfung vor Ort durchgeführt. Danach erfolgt die Dokumentenprüfung zum Abgleich.\nC) Es muss immer zuerst ein Voraudit durchgeführt werden.\nD) Es erfolgt eine Dokumentenprüfung. Vor-Ort Prüfungen sind eher unüblich.\n\nKorrekt: A"
+        },
+        {
+            "id": 41,
+            "title": "Frage 41",
+            "question": "Wie lauten gem. \"Leitfaden zur Basis-Absicherung nach IT-Grundschutz\" die 3 Schritte der Basis-Absicherung?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Schutzbedarfsfeststellung, IT-Grundschutz-Check und Risikoanalyse."
+                },
+                {
+                    "letter": "B",
+                    "text": "Initiierung, Organisation und Durchführung des Sicherheitsprozesses."
+                },
+                {
+                    "letter": "C",
+                    "text": "Risikobewertung, Durchführung und Aufbereitung des Sicherheitsprozesses."
+                },
+                {
+                    "letter": "D",
+                    "text": "Risikoanalyse, Schutzbedarfsfeststellung, IT-Grundschutz-Check und Abschluss."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Initiierung, Organisation und Durchführung des Sicherheitsprozesses."
+                }
+            ],
+            "raw": "Wie lauten gem. \"Leitfaden zur Basis-Absicherung nach IT-Grundschutz\" die 3 Schritte der Basis-Absicherung?\nA) Schutzbedarfsfeststellung, IT-Grundschutz-Check und Risikoanalyse.\nB) Initiierung, Organisation und Durchführung des Sicherheitsprozesses.\nC) Risikobewertung, Durchführung und Aufbereitung des Sicherheitsprozesses.\nD) Risikoanalyse, Schutzbedarfsfeststellung, IT-Grundschutz-Check und Abschluss.\n\nKorrekt: B"
+        },
+        {
+            "id": 42,
+            "title": "Frage 42",
+            "question": "Welche Anteile eines Unternehmens können mittels IT-Grundschutz-Profilen abgebildet werden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Ausschließlich Informationsverbünde."
+                },
+                {
+                    "letter": "B",
+                    "text": "Alles, bis hin zu einzelnen Produkten."
+                },
+                {
+                    "letter": "C",
+                    "text": "Nur Informationsverbünde für industrielle Produktionsstätten."
+                },
+                {
+                    "letter": "D",
+                    "text": "Informationsverbünde, Geschäftsprozesse sowie auch Fachaufgaben."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Informationsverbünde, Geschäftsprozesse sowie auch Fachaufgaben."
+                }
+            ],
+            "raw": "Welche Anteile eines Unternehmens können mittels IT-Grundschutz-Profilen abgebildet werden?\nA) Ausschließlich Informationsverbünde.\nB) Alles, bis hin zu einzelnen Produkten.\nC) Nur Informationsverbünde für industrielle Produktionsstätten.\nD) Informationsverbünde, Geschäftsprozesse sowie auch Fachaufgaben.\n\nKorrekt: D"
+        },
+        {
+            "id": 43,
+            "title": "Frage 43",
+            "question": "| Welche Aspekte sind bei der Schadensanalyse im BCMS zu berücksichtigen? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Wegen Unwägbarkeiten sollten finanzielle Auswirkungen immer mit dem Faktor 2,5 berücksichtigt werden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Bei der Bewertung von Schadensverläufen ist ggf. zu beachten, das bestimmte Geschäftsprozesse (z.B. beim Jahresabschluss in der Buchhaltung) zu definierten Zeiten andere Verfügbarkeitsanforderungen haben."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Schadenskategorien sind vergleichbar mit den Schutzbedarfskategorien gem. BSI-Standard 200-2."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es sind die Schadenskategorien für die Institution festzulegen. Üblicherweise wird mit 3 bis 5 Kategorien gearbeitet."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Bei der Bewertung von Schadensverläufen ist ggf. zu beachten, das bestimmte Geschäftsprozesse (z.B. beim Jahresabschluss in der Buchhaltung) zu definierten Zeiten andere Verfügbarkeitsanforderungen haben."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Schadenskategorien sind vergleichbar mit den Schutzbedarfskategorien gem. BSI-Standard 200-2."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es sind die Schadenskategorien für die Institution festzulegen. Üblicherweise wird mit 3 bis 5 Kategorien gearbeitet."
+                }
+            ],
+            "raw": "|\n\nWelche Aspekte sind bei der Schadensanalyse im BCMS zu berücksichtigen? (Mehrere Antworten korrekt)\nA) Wegen Unwägbarkeiten sollten finanzielle Auswirkungen immer mit dem Faktor 2,5 berücksichtigt werden.\nB) Bei der Bewertung von Schadensverläufen ist ggf. zu beachten, das bestimmte Geschäftsprozesse (z.B. beim Jahresabschluss in der Buchhaltung) zu definierten Zeiten andere Verfügbarkeitsanforderungen haben.\nC) Die Schadenskategorien sind vergleichbar mit den Schutzbedarfskategorien gem. BSI-Standard 200-2.\nD) Es sind die Schadenskategorien für die Institution festzulegen. Üblicherweise wird mit 3 bis 5 Kategorien gearbeitet.\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 44,
+            "title": "Frage 44",
+            "question": "In Ihrem Informationsverbund müssen Sie u.a. auch eine Reihe von gleichartigen Clients (Windows 10) modellieren. Welche Aussage(n) treffen in diesem Fall zu?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Da zu jedem Objekt/jeder Objektgruppe immer auch nur jeweils ein Baustein gehört, modellieren Sie den Baustein \"SYS.2.2.3 Clients unter Windows 10\"."
+                },
+                {
+                    "letter": "B",
+                    "text": "Da zu jedem Objekt/jeder Objektgruppe immer auch nur jeweils ein Baustein gehört, modellieren Sie den Baustein \"SYS.2.1 Allgemeiner Client\", um auch bei einem Wechsel des Betriebssystems weiterhin alles abgedeckt zu haben."
+                },
+                {
+                    "letter": "C",
+                    "text": "Da es sich hierbei um eine Gruppe von mehreren Clients handelt, ist ausschließlich der Prozess-Baustein \"OPS.1.1.2 Ordnungsgemäße IT-Administration\" anzuwenden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Sie modellieren für dieses Objekt/diese Objektgruppe sowohl den Baustein \"SYS.2.1 Allgemeiner Client\" als auch den Baustein \"SYS.2.2.3 Clients unter Windows 10\", da diese sich ergänzen."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Sie modellieren für dieses Objekt/diese Objektgruppe sowohl den Baustein \"SYS.2.1 Allgemeiner Client\" als auch den Baustein \"SYS.2.2.3 Clients unter Windows 10\", da diese sich ergänzen."
+                }
+            ],
+            "raw": "In Ihrem Informationsverbund müssen Sie u.a. auch eine Reihe von gleichartigen Clients (Windows 10) modellieren. Welche Aussage(n) treffen in diesem Fall zu?\nA) Da zu jedem Objekt/jeder Objektgruppe immer auch nur jeweils ein Baustein gehört, modellieren Sie den Baustein \"SYS.2.2.3 Clients unter Windows 10\".\nB) Da zu jedem Objekt/jeder Objektgruppe immer auch nur jeweils ein Baustein gehört, modellieren Sie den Baustein \"SYS.2.1 Allgemeiner Client\", um auch bei einem Wechsel des Betriebssystems weiterhin alles abgedeckt zu haben.\nC) Da es sich hierbei um eine Gruppe von mehreren Clients handelt, ist ausschließlich der Prozess-Baustein \"OPS.1.1.2 Ordnungsgemäße IT-Administration\" anzuwenden.\nD) Sie modellieren für dieses Objekt/diese Objektgruppe sowohl den Baustein \"SYS.2.1 Allgemeiner Client\" als auch den Baustein \"SYS.2.2.3 Clients unter Windows 10\", da diese sich ergänzen.\n\nKorrekt: D"
+        },
+        {
+            "id": 45,
+            "title": "Frage 45",
+            "question": "Wie ist mit Anforderungen zu verfahren, die im Rahmen des IT-Grundschutz-Checks mit dem Umsetzungsstand \"nein\" bewertet wurden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es ist nichts zu veranlassen. Es geht nur um die Dokumentation."
+                },
+                {
+                    "letter": "B",
+                    "text": "Solch eine Bewertung ist nicht zulässig. Alle Anforderungen müssen erfüllt sein."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Leitung ist sofort zu informieren. Der Zuständige für diese Maßnahme muss zur Rechenschaft gezogen werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es ist zu bewerten, welche Risiken bis zur Erfüllung der Anforderung noch verbleiben."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Es ist zu bewerten, welche Risiken bis zur Erfüllung der Anforderung noch verbleiben."
+                }
+            ],
+            "raw": "Wie ist mit Anforderungen zu verfahren, die im Rahmen des IT-Grundschutz-Checks mit dem Umsetzungsstand \"nein\" bewertet wurden?\nA) Es ist nichts zu veranlassen. Es geht nur um die Dokumentation.\nB) Solch eine Bewertung ist nicht zulässig. Alle Anforderungen müssen erfüllt sein.\nC) Die Leitung ist sofort zu informieren. Der Zuständige für diese Maßnahme muss zur Rechenschaft gezogen werden.\nD) Es ist zu bewerten, welche Risiken bis zur Erfüllung der Anforderung noch verbleiben.\n\nKorrekt: D"
+        },
+        {
+            "id": 46,
+            "title": "Frage 46",
+            "question": "Was wird mit der Modellierung nach BSI-Standard 200-2 für die Standard-Absicherung bezweckt? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Das Ergebnis der Modellierung ist die Grundlage für die Durchführung der Strukturanalyse sowie für die Erstellung eines Netzplanes."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das IT-Grundschutz-Modell eines noch nicht realisierten Informationsverbundes kann das Ergebnis der Modellierung als ein Entwicklungsplan genutzt werden. Es beschreibt dann, welche Sicherheitsanforderungen bei der Realisierung erfüllt werden müssen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Bei einem realisierten Informationsverbund kann das Ergebnis der Modellierung als ein Prüfplan benutzt werden, um einen Soll-Ist-Vergleich durchzuführen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Modellierung ist die alleinige Grundlage für die Risikoanalysen bei einem Informationsverbund, der bereits seit mehreren Jahren im Betrieb ist."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Das IT-Grundschutz-Modell eines noch nicht realisierten Informationsverbundes kann das Ergebnis der Modellierung als ein Entwicklungsplan genutzt werden. Es beschreibt dann, welche Sicherheitsanforderungen bei der Realisierung erfüllt werden müssen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Bei einem realisierten Informationsverbund kann das Ergebnis der Modellierung als ein Prüfplan benutzt werden, um einen Soll-Ist-Vergleich durchzuführen."
+                }
+            ],
+            "raw": "Was wird mit der Modellierung nach BSI-Standard 200-2 für die Standard-Absicherung bezweckt? (Mehrere Antworten korrekt)\nA) Das Ergebnis der Modellierung ist die Grundlage für die Durchführung der Strukturanalyse sowie für die Erstellung eines Netzplanes.\nB) Das IT-Grundschutz-Modell eines noch nicht realisierten Informationsverbundes kann das Ergebnis der Modellierung als ein Entwicklungsplan genutzt werden. Es beschreibt dann, welche Sicherheitsanforderungen bei der Realisierung erfüllt werden müssen.\nC) Bei einem realisierten Informationsverbund kann das Ergebnis der Modellierung als ein Prüfplan benutzt werden, um einen Soll-Ist-Vergleich durchzuführen.\nD) Die Modellierung ist die alleinige Grundlage für die Risikoanalysen bei einem Informationsverbund, der bereits seit mehreren Jahren im Betrieb ist.\n\nKorrekt: B, C"
+        },
+        {
+            "id": 47,
+            "title": "Frage 47",
+            "question": "Sie erstellen für Ihren Informationsverbund ein IT-Grundschutz-Modell. Was ist bei diesen Arbeiten zu beachten? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Eine Hilfestellung, wann ein Baustein relevant ist, gibt jeweils das Kapitel 1.3 \"Abgrenzung und Modellierung\" des jeweiligen Bausteins."
+                },
+                {
+                    "letter": "B",
+                    "text": "Alle relevanten Bausteine aus dem Kompendium für den Informationsverbund sind dann auch auf alle Objekte des Informationsverbundes anzuwenden."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es ist für jeden einzelnen Baustein aus dem IT-Grundschutz-Kompendium zu prüfen, ob dieser für den Informationsverbund relevant ist oder nicht. Das Ergebnis ist entsprechend zu begründen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Jedes Zielobjekt bekommt maximal einen Baustein zugewiesen."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Eine Hilfestellung, wann ein Baustein relevant ist, gibt jeweils das Kapitel 1.3 \"Abgrenzung und Modellierung\" des jeweiligen Bausteins."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es ist für jeden einzelnen Baustein aus dem IT-Grundschutz-Kompendium zu prüfen, ob dieser für den Informationsverbund relevant ist oder nicht. Das Ergebnis ist entsprechend zu begründen."
+                }
+            ],
+            "raw": "Sie erstellen für Ihren Informationsverbund ein IT-Grundschutz-Modell. Was ist bei diesen Arbeiten zu beachten? (Mehrere Antworten korrekt)\nA) Eine Hilfestellung, wann ein Baustein relevant ist, gibt jeweils das Kapitel 1.3 \"Abgrenzung und Modellierung\" des jeweiligen Bausteins.\nB) Alle relevanten Bausteine aus dem Kompendium für den Informationsverbund sind dann auch auf alle Objekte des Informationsverbundes anzuwenden.\nC) Es ist für jeden einzelnen Baustein aus dem IT-Grundschutz-Kompendium zu prüfen, ob dieser für den Informationsverbund relevant ist oder nicht. Das Ergebnis ist entsprechend zu begründen.\nD) Jedes Zielobjekt bekommt maximal einen Baustein zugewiesen.\n\nKorrekt: A, C"
+        },
+        {
+            "id": 48,
+            "title": "Frage 48",
+            "question": "Welche Aussagen passen zum IT-Grundschutz? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Der IT-Grundschutz verfolgt einen ganzheitlicher Ansatz (Organisation, Personal, Technik und Infrastruktur) für die Informationssicherheit."
+                },
+                {
+                    "letter": "B",
+                    "text": "Der Grundschutz ist die einzige Methode zur Erlangung eines Zertifikats nach ISO 27001."
+                },
+                {
+                    "letter": "C",
+                    "text": "Der Grundschutz darf ausschließlich in Behörden eingesetzt werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Konzentration auf typische Gefährdungen bei den jeweiligen Objekten/Themenfeldern."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Der IT-Grundschutz verfolgt einen ganzheitlicher Ansatz (Organisation, Personal, Technik und Infrastruktur) für die Informationssicherheit."
+                },
+                {
+                    "letter": "D",
+                    "text": "Konzentration auf typische Gefährdungen bei den jeweiligen Objekten/Themenfeldern."
+                }
+            ],
+            "raw": "Welche Aussagen passen zum IT-Grundschutz? (Mehrere Antworten korrekt)\nA) Der IT-Grundschutz verfolgt einen ganzheitlicher Ansatz (Organisation, Personal, Technik und Infrastruktur) für die Informationssicherheit.\nB) Der Grundschutz ist die einzige Methode zur Erlangung eines Zertifikats nach ISO 27001.\nC) Der Grundschutz darf ausschließlich in Behörden eingesetzt werden.\nD) Konzentration auf typische Gefährdungen bei den jeweiligen Objekten/Themenfeldern.\n\nKorrekt: A, D"
+        },
+        {
+            "id": 49,
+            "title": "Frage 49",
+            "question": "Was soll die Leitlinie zum BCMS bewirken? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Absichtserklärung der Institutionsleitung."
+                },
+                {
+                    "letter": "B",
+                    "text": "Umsetzung einer BCM-Kultur in der Institution."
+                },
+                {
+                    "letter": "C",
+                    "text": "Bitte an die Mitarbeitenden, sich mit BCMS zu befassen"
+                },
+                {
+                    "letter": "D",
+                    "text": "Festlegung der wesentlichen Rahmenbedingungen."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Absichtserklärung der Institutionsleitung."
+                },
+                {
+                    "letter": "D",
+                    "text": "Festlegung der wesentlichen Rahmenbedingungen."
+                }
+            ],
+            "raw": "Was soll die Leitlinie zum BCMS bewirken? (Mehrere Antworten korrekt)\nA) Absichtserklärung der Institutionsleitung.\nB) Umsetzung einer BCM-Kultur in der Institution.\nC) Bitte an die Mitarbeitenden, sich mit BCMS zu befassen\nD) Festlegung der wesentlichen Rahmenbedingungen.\n\nKorrekt: A, D"
+        },
+        {
+            "id": 50,
+            "title": "Frage 50",
+            "question": "Unter welchen Umständen kann ein bestehendes Zertifikat ausgesetzt/zurückgezogen werden? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn es Abweichungen und Empfehlungen aus dem Auditbericht gibt, die ohne ausreichende Begründung nicht behoben bzw. beachtet werden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn ein Überwachungsaudit nicht durchgeführt wird."
+                },
+                {
+                    "letter": "C",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn ein Verstoß gegen Auflagen aus der Zertifizierung bekannt werden (beispielsweise ein Verstoß gegen die Verwendungsbedingungen für das Zertifikat, die Nichteinhaltung von Auflagen)."
+                },
+                {
+                    "letter": "D",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn der Antragsteller zusätzlich eine Zertifizierung nach einem anderen Standard vornimmt."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn es Abweichungen und Empfehlungen aus dem Auditbericht gibt, die ohne ausreichende Begründung nicht behoben bzw. beachtet werden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn ein Überwachungsaudit nicht durchgeführt wird."
+                },
+                {
+                    "letter": "C",
+                    "text": "Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn ein Verstoß gegen Auflagen aus der Zertifizierung bekannt werden (beispielsweise ein Verstoß gegen die Verwendungsbedingungen für das Zertifikat, die Nichteinhaltung von Auflagen)."
+                }
+            ],
+            "raw": "Unter welchen Umständen kann ein bestehendes Zertifikat ausgesetzt/zurückgezogen werden? (Mehrere Antworten korrekt)\nA) Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn es Abweichungen und Empfehlungen aus dem Auditbericht gibt, die ohne ausreichende Begründung nicht behoben bzw. beachtet werden.\nB) Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn ein Überwachungsaudit nicht durchgeführt wird.\nC) Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn ein Verstoß gegen Auflagen aus der Zertifizierung bekannt werden (beispielsweise ein Verstoß gegen die Verwendungsbedingungen für das Zertifikat, die Nichteinhaltung von Auflagen).\nD) Das Zertifikat kann ausgesetzt/zurückgezogen werden, wenn der Antragsteller zusätzlich eine Zertifizierung nach einem anderen Standard vornimmt.\n\nKorrekt: A, B, C"
+        },
+        {
+            "id": 51,
+            "title": "Frage 51",
+            "question": "Was wird unter dem Begriff \"Risikotransfer\" verstanden? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Absicherung der finanziellen Auswirkungen durch Abschluss einer Versicherung."
+                },
+                {
+                    "letter": "B",
+                    "text": "Die Übertragung der Verantwortung an die Behörden-/Geschäftsleitung."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Übertragung/Auslagerung der Aufgabe an einen qualifizierten Dienstleister."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Übertragung der Verantwortung auf die IT-Organisation innerhalb der Institution."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Absicherung der finanziellen Auswirkungen durch Abschluss einer Versicherung."
+                },
+                {
+                    "letter": "C",
+                    "text": "Die Übertragung/Auslagerung der Aufgabe an einen qualifizierten Dienstleister."
+                }
+            ],
+            "raw": "Was wird unter dem Begriff \"Risikotransfer\" verstanden? (Mehrere Antworten korrekt)\nA) Die Absicherung der finanziellen Auswirkungen durch Abschluss einer Versicherung.\nB) Die Übertragung der Verantwortung an die Behörden-/Geschäftsleitung.\nC) Die Übertragung/Auslagerung der Aufgabe an einen qualifizierten Dienstleister.\nD) Die Übertragung der Verantwortung auf die IT-Organisation innerhalb der Institution.\n\nKorrekt: A, C"
+        },
+        {
+            "id": 52,
+            "title": "Frage 52",
+            "question": "Was ist unter einer Zertifizierung zu verstehen?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Ein Vorgehen, bei dem Dokumente zur Informationssicherheit automatisiert erstellt werden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Verfahren, mit dessen Hilfe die Einhaltung bestimmter Normen/Standards nachgewiesen wird."
+                },
+                {
+                    "letter": "C",
+                    "text": "Eine Werbemaßnahme des Innenministeriums."
+                },
+                {
+                    "letter": "D",
+                    "text": "Eine Zertifizierung wird durch interne Überprüfung erreicht."
+                }
+            ],
+            "correct":
+            [
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Verfahren, mit dessen Hilfe die Einhaltung bestimmter Normen/Standards nachgewiesen wird."
+                }
+            ],
+            "raw": "Was ist unter einer Zertifizierung zu verstehen?\nA) Ein Vorgehen, bei dem Dokumente zur Informationssicherheit automatisiert erstellt werden.\nB) Verfahren, mit dessen Hilfe die Einhaltung bestimmter Normen/Standards nachgewiesen wird.\nC) Eine Werbemaßnahme des Innenministeriums.\nD) Eine Zertifizierung wird durch interne Überprüfung erreicht.\n\nKorrekt: B"
+        },
+        {
+            "id": 53,
+            "title": "Frage 53",
+            "question": "Sie haben den Grundschutz-Check abgeschlossen und müssen nun die noch zu realisierenden Maßnahmen planen. Was sind mögliche Kriterien für die Umsetzungsplanung? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Alle umzusetzenden Maßnahmen sind grundsätzlich gleich wichtig. Daher entscheidet ausschließlich das zur Verfügung stehende Budget über den Zeitpunkt der Umsetzung."
+                },
+                {
+                    "letter": "B",
+                    "text": "Sie können sich an den Angaben zum Lebenszyklus der Umsetzungshinweise orientieren. Dabei können Sie Erkenntnisse bezüglich der Dringlichkeit der Maßnahmen gewinnen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Sie können prüfen, ob eine Maßnahme eine besonders große Wirkung in der Breite Ihres Informationsverbundes bietet. Ist das der Fall, sollte sie vorrangig umgesetzt werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Sie können sich daran orientieren, wie groß der Einfluss einer umzusetzenden Maßnahme auf die Verbesserung des Sicherheitsniveau ist."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Sie können sich an den Angaben zum Lebenszyklus der Umsetzungshinweise orientieren. Dabei können Sie Erkenntnisse bezüglich der Dringlichkeit der Maßnahmen gewinnen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Sie können prüfen, ob eine Maßnahme eine besonders große Wirkung in der Breite Ihres Informationsverbundes bietet. Ist das der Fall, sollte sie vorrangig umgesetzt werden."
+                },
+                {
+                    "letter": "D",
+                    "text": "Sie können sich daran orientieren, wie groß der Einfluss einer umzusetzenden Maßnahme auf die Verbesserung des Sicherheitsniveau ist."
+                }
+            ],
+            "raw": "Sie haben den Grundschutz-Check abgeschlossen und müssen nun die noch zu realisierenden Maßnahmen planen. Was sind mögliche Kriterien für die Umsetzungsplanung? (Mehrere Antworten korrekt)\nA) Alle umzusetzenden Maßnahmen sind grundsätzlich gleich wichtig. Daher entscheidet ausschließlich das zur Verfügung stehende Budget über den Zeitpunkt der Umsetzung.\nB) Sie können sich an den Angaben zum Lebenszyklus der Umsetzungshinweise orientieren. Dabei können Sie Erkenntnisse bezüglich der Dringlichkeit der Maßnahmen gewinnen.\nC) Sie können prüfen, ob eine Maßnahme eine besonders große Wirkung in der Breite Ihres Informationsverbundes bietet. Ist das der Fall, sollte sie vorrangig umgesetzt werden.\nD) Sie können sich daran orientieren, wie groß der Einfluss einer umzusetzenden Maßnahme auf die Verbesserung des Sicherheitsniveau ist.\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 54,
+            "title": "Frage 54",
+            "question": "Welche Art von Abweichung verhindert gem. der Kriterienbeschreibungen des BSI in der Regel die Erteilung eines Zertifikats?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "geringfügige Abweichung"
+                },
+                {
+                    "letter": "B",
+                    "text": "Empfehlungen des Auditteamleiters"
+                },
+                {
+                    "letter": "C",
+                    "text": "Inakzeptable Abweichungen"
+                },
+                {
+                    "letter": "D",
+                    "text": "Schwerwiegende Abweichung"
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Schwerwiegende Abweichung"
+                }
+            ],
+            "raw": "Welche Art von Abweichung verhindert gem. der Kriterienbeschreibungen des BSI in der Regel die Erteilung eines Zertifikats?\nA) geringfügige Abweichung\nB) Empfehlungen des Auditteamleiters\nC) Inakzeptable Abweichungen\nD) Schwerwiegende Abweichung\n\nKorrekt: D"
+        },
+        {
+            "id": 55,
+            "title": "Frage 55",
+            "question": "Welcher der folgenden Aspekte wird durch das ISMS-Reifegradmodell beurteilt?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Wirksamkeit des ISMS"
+                },
+                {
+                    "letter": "B",
+                    "text": "Servicelevel des Unternehmens"
+                },
+                {
+                    "letter": "C",
+                    "text": "Effizienz der Einzelmaßnahmen"
+                },
+                {
+                    "letter": "D",
+                    "text": "Qualität der Einzelmaßnahmen"
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Wirksamkeit des ISMS"
+                }
+            ],
+            "raw": "Welcher der folgenden Aspekte wird durch das ISMS-Reifegradmodell beurteilt?\nA) Wirksamkeit des ISMS\nB) Servicelevel des Unternehmens\nC) Effizienz der Einzelmaßnahmen\nD) Qualität der Einzelmaßnahmen\n\nKorrekt: A"
+        },
+        {
+            "id": 56,
+            "title": "Frage 56",
+            "question": "Was wird unter dem Begriff \"Risikoappetit\" verstanden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Gibt genau an, welche Risikobehandlungsoption anzuwenden ist."
+                },
+                {
+                    "letter": "B",
+                    "text": "Der Risikoappetit ist individuell festzulegen, die Skalen sind allerdings im Standard verbindlich vorgegeben. Diese dürfen nicht verändert werden, da sonst keine Vergleichbarkeit mit anderen Institutionen möglich ist."
+                },
+                {
+                    "letter": "C",
+                    "text": "Gibt den Bereitschaftsgrad an, bestehende Risiken zu akzeptieren."
+                },
+                {
+                    "letter": "D",
+                    "text": "Der Risikoappetit ist für jede Institutionen anhand des Schutzbedarfes konkret festgelegt. Dieser darf nicht verändert werden."
+                }
+            ],
+            "correct":
+            [
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "Gibt den Bereitschaftsgrad an, bestehende Risiken zu akzeptieren."
+                }
+            ],
+            "raw": "Was wird unter dem Begriff \"Risikoappetit\" verstanden?\nA) Gibt genau an, welche Risikobehandlungsoption anzuwenden ist.\nB) Der Risikoappetit ist individuell festzulegen, die Skalen sind allerdings im Standard verbindlich vorgegeben. Diese dürfen nicht verändert werden, da sonst keine Vergleichbarkeit mit anderen Institutionen möglich ist.\nC) Gibt den Bereitschaftsgrad an, bestehende Risiken zu akzeptieren.\nD) Der Risikoappetit ist für jede Institutionen anhand des Schutzbedarfes konkret festgelegt. Dieser darf nicht verändert werden.\n\nKorrekt: C"
+        },
+        {
+            "id": 57,
+            "title": "Frage 57",
+            "question": "Gem. IT-Grundschutz sind verschiedene Vorgehensweisen möglich. Welche der folgenden Aussagen hierzu ist/sind richtig? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Sie können in einem Informationsverbund zunächst eine Kern-Absicherung durchführen, um Ihre \"Kronjuwelen\" zu schützen. Im Anschluss sollten Sie die Standard-Absicherung anstreben."
+                },
+                {
+                    "letter": "B",
+                    "text": "Für jeden Informationsverbund sollte generell immer die Standard-Absicherung das Ziel sein. In manchen Fällen ist es aber durchaus sinnvoll (z.B. kein ausreichendes Budget), zunächst die Basis- oder Kern-Absicherung durchzuführen, auf deren Grundlage dann später weiter aufgebaut werden kann."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es ist auch möglich, die Basis-Absicherung und die Kern-Absicherung miteinander zu kombinieren. Dieses Vorgehen ist gem. BSI-Standard 200-2 jedoch nicht vorgesehen und damit nicht erlaubt."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Kern-Absicherung darf gem. Standard 200-2 ausschließlich nach einer erfolgten Basis-Absicherung durchgeführt werden. Damit wird sichergestellt, dass für den gesamten Informationsverbund zumindest schon mal ein generelles Schutzniveau erreicht wird. Für eine Kern-Absicherung fehlen ansonsten wichtige Grundlagenanteile"
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Sie können in einem Informationsverbund zunächst eine Kern-Absicherung durchführen, um Ihre \"Kronjuwelen\" zu schützen. Im Anschluss sollten Sie die Standard-Absicherung anstreben."
+                },
+                {
+                    "letter": "B",
+                    "text": "Für jeden Informationsverbund sollte generell immer die Standard-Absicherung das Ziel sein. In manchen Fällen ist es aber durchaus sinnvoll (z.B. kein ausreichendes Budget), zunächst die Basis- oder Kern-Absicherung durchzuführen, auf deren Grundlage dann später weiter aufgebaut werden kann."
+                }
+            ],
+            "raw": "Gem. IT-Grundschutz sind verschiedene Vorgehensweisen möglich. Welche der folgenden Aussagen hierzu ist/sind richtig? (Mehrere Antworten korrekt)\nA) Sie können in einem Informationsverbund zunächst eine Kern-Absicherung durchführen, um Ihre \"Kronjuwelen\" zu schützen. Im Anschluss sollten Sie die Standard-Absicherung anstreben.\nB) Für jeden Informationsverbund sollte generell immer die Standard-Absicherung das Ziel sein. In manchen Fällen ist es aber durchaus sinnvoll (z.B. kein ausreichendes Budget), zunächst die Basis- oder Kern-Absicherung durchzuführen, auf deren Grundlage dann später weiter aufgebaut werden kann.\nC) Es ist auch möglich, die Basis-Absicherung und die Kern-Absicherung miteinander zu kombinieren. Dieses Vorgehen ist gem. BSI-Standard 200-2 jedoch nicht vorgesehen und damit nicht erlaubt.\nD) Die Kern-Absicherung darf gem. Standard 200-2 ausschließlich nach einer erfolgten Basis-Absicherung durchgeführt werden. Damit wird sichergestellt, dass für den gesamten Informationsverbund zumindest schon mal ein generelles Schutzniveau erreicht wird. Für eine Kern-Absicherung fehlen ansonsten wichtige Grundlagenanteile\n\nKorrekt: A, B"
+        },
+        {
+            "id": 58,
+            "title": "Frage 58",
+            "question": "Welche Aussagen sind passende Begriffe für den \"IT-Grundschutz-Check\" gemäß BSI-Standard 200-2? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Als Entwicklungsplan (für zu erfüllende Anforderungen) für den geplanten Informationsverbund."
+                },
+                {
+                    "letter": "B",
+                    "text": "Als Prüfplan für den Umsetzungsstand."
+                },
+                {
+                    "letter": "C",
+                    "text": "Als konsolidierter Auditplan für den ISB."
+                },
+                {
+                    "letter": "D",
+                    "text": "Als Realisierungsabbildungsplan"
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Als Entwicklungsplan (für zu erfüllende Anforderungen) für den geplanten Informationsverbund."
+                },
+                {
+                    "letter": "B",
+                    "text": "Als Prüfplan für den Umsetzungsstand."
+                }
+            ],
+            "raw": "Welche Aussagen sind passende Begriffe für den \"IT-Grundschutz-Check\" gemäß BSI-Standard 200-2? (Mehrere Antworten korrekt)\nA) Als Entwicklungsplan (für zu erfüllende Anforderungen) für den geplanten Informationsverbund.\nB) Als Prüfplan für den Umsetzungsstand.\nC) Als konsolidierter Auditplan für den ISB.\nD) Als Realisierungsabbildungsplan\n\nKorrekt: A, B"
+        },
+        {
+            "id": 59,
+            "title": "Frage 59",
+            "question": "Wie ist die korrekte Reihenfolge der erforderlichen Schritte bei der Standard-Absicherung gem. BSI-Standard 200-2?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Strukturanalyse, Schutzbedarfsfeststellung, Modellierung, IT-Grundschutz-Check, Risikoanalyse."
+                },
+                {
+                    "letter": "B",
+                    "text": "Modellierung, Strukturanalyse, Schutzbedarfsfeststellung, Risikoanalyse, IT-Grundschutz-Check."
+                },
+                {
+                    "letter": "C",
+                    "text": "Risikoanalyse, Modellierung, Strukturanalyse, Schutzbedarfsfeststellung, IT-Grundschutz-Check."
+                },
+                {
+                    "letter": "D",
+                    "text": "Risikoanalyse, Strukturanalyse, Modellierung, Schutzbedarfsfeststellung, IT-Grundschutz-Check."
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Strukturanalyse, Schutzbedarfsfeststellung, Modellierung, IT-Grundschutz-Check, Risikoanalyse."
+                }
+            ],
+            "raw": "Wie ist die korrekte Reihenfolge der erforderlichen Schritte bei der Standard-Absicherung gem. BSI-Standard 200-2?\nA) Strukturanalyse, Schutzbedarfsfeststellung, Modellierung, IT-Grundschutz-Check, Risikoanalyse.\nB) Modellierung, Strukturanalyse, Schutzbedarfsfeststellung, Risikoanalyse, IT-Grundschutz-Check.\nC) Risikoanalyse, Modellierung, Strukturanalyse, Schutzbedarfsfeststellung, IT-Grundschutz-Check.\nD) Risikoanalyse, Strukturanalyse, Modellierung, Schutzbedarfsfeststellung, IT-Grundschutz-Check.\n\nKorrekt: A"
+        },
+        {
+            "id": 60,
+            "title": "Frage 60",
+            "question": "Wodurch wird die Informationssicherheit in der Institution möglicherweise gefährdet? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Durch Ausfall wichtiger Personen ohne ausreichende Vertretungsregelung (z.B. Administratoren)."
+                },
+                {
+                    "letter": "B",
+                    "text": "Durch den Diebstahl eines einzelnen Notebooks der Institution."
+                },
+                {
+                    "letter": "C",
+                    "text": "Dass Mitarbeiter Ihre Büros verlassen, ohne Ihren Arbeitsplatz-Computer zu sperren oder den Raum zu verschließen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Durch die Weitergabe des Passwortes für den privaten Rechner an einen Arbeitskollegen."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "B",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Durch Ausfall wichtiger Personen ohne ausreichende Vertretungsregelung (z.B. Administratoren)."
+                },
+                {
+                    "letter": "B",
+                    "text": "Durch den Diebstahl eines einzelnen Notebooks der Institution."
+                },
+                {
+                    "letter": "C",
+                    "text": "Dass Mitarbeiter Ihre Büros verlassen, ohne Ihren Arbeitsplatz-Computer zu sperren oder den Raum zu verschließen."
+                }
+            ],
+            "raw": "Wodurch wird die Informationssicherheit in der Institution möglicherweise gefährdet? (Mehrere Antworten korrekt)\nA) Durch Ausfall wichtiger Personen ohne ausreichende Vertretungsregelung (z.B. Administratoren).\nB) Durch den Diebstahl eines einzelnen Notebooks der Institution.\nC) Dass Mitarbeiter Ihre Büros verlassen, ohne Ihren Arbeitsplatz-Computer zu sperren oder den Raum zu verschließen.\nD) Durch die Weitergabe des Passwortes für den privaten Rechner an einen Arbeitskollegen.\n\nKorrekt: A, B, C"
+        },
+        {
+            "id": 61,
+            "title": "Frage 61",
+            "question": "Welche der nachfolgenden Aufgaben gehören zum Auditprozess? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Im Rahmen des Zertifizierungsprozesses ist ein Risiko-Plan zu erstellen."
+                },
+                {
+                    "letter": "B",
+                    "text": "Im Rahmen der Zertifizierung wird eine Vor-Ort Prüfung durchgeführt."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es wird zur Vorbereitung der Vor-Ort-Prüfung ein Auditplan erstellt."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Dokumentenprüfung ist eine Aufgabe des Auditteams."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Im Rahmen der Zertifizierung wird eine Vor-Ort Prüfung durchgeführt."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es wird zur Vorbereitung der Vor-Ort-Prüfung ein Auditplan erstellt."
+                },
+                {
+                    "letter": "D",
+                    "text": "Die Dokumentenprüfung ist eine Aufgabe des Auditteams."
+                }
+            ],
+            "raw": "Welche der nachfolgenden Aufgaben gehören zum Auditprozess? (Mehrere Antworten korrekt)\nA) Im Rahmen des Zertifizierungsprozesses ist ein Risiko-Plan zu erstellen.\nB) Im Rahmen der Zertifizierung wird eine Vor-Ort Prüfung durchgeführt.\nC) Es wird zur Vorbereitung der Vor-Ort-Prüfung ein Auditplan erstellt.\nD) Die Dokumentenprüfung ist eine Aufgabe des Auditteams.\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 62,
+            "title": "Frage 62",
+            "question": "Welche Vorgaben gibt es gem. BSI-Standard für den IT-Grundschutz-Check bezüglich der Dokumentation?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Es ist alleinig die Entscheidung der Institution, ob und wie dokumentiert wird."
+                },
+                {
+                    "letter": "B",
+                    "text": "Es muss nicht dokumentiert werden. Hauptsache die Betroffenen wissen Bescheid."
+                },
+                {
+                    "letter": "C",
+                    "text": "Jede Entscheidung ist revisionssicher mindestens 15 Jahre zu hinterlegen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es gibt keine expliziten Vorgaben dafür, wie die Dokumentation genau erfolgen muss. Es muss aber nachvollziehbar dokumentiert werden."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Es gibt keine expliziten Vorgaben dafür, wie die Dokumentation genau erfolgen muss. Es muss aber nachvollziehbar dokumentiert werden."
+                }
+            ],
+            "raw": "Welche Vorgaben gibt es gem. BSI-Standard für den IT-Grundschutz-Check bezüglich der Dokumentation?\nA) Es ist alleinig die Entscheidung der Institution, ob und wie dokumentiert wird.\nB) Es muss nicht dokumentiert werden. Hauptsache die Betroffenen wissen Bescheid.\nC) Jede Entscheidung ist revisionssicher mindestens 15 Jahre zu hinterlegen.\nD) Es gibt keine expliziten Vorgaben dafür, wie die Dokumentation genau erfolgen muss. Es muss aber nachvollziehbar dokumentiert werden.\n\nKorrekt: D"
+        },
+        {
+            "id": 63,
+            "title": "Frage 63",
+            "question": "Was ist bei einer Festlegung von Aufgaben und Verantwortlichkeiten im Rahmen der Maßnahmenplanung zu beachten? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Die Aufgaben müssen von der Anzahl her gerecht auf die Beteiligten verteilt werden."
+                },
+                {
+                    "letter": "B",
+                    "text": "Es ist festzulegen, wer für die Überwachung der Realisierung verantwortlich ist."
+                },
+                {
+                    "letter": "C",
+                    "text": "Sie ist wichtig, um eine fristgerechte Umsetzung der Maßnahmen sicherzustellen zu können."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es ist genau festzulegen, an wen der Vollzug zu melden ist (im Normalfall der ISB)"
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Es ist festzulegen, wer für die Überwachung der Realisierung verantwortlich ist."
+                },
+                {
+                    "letter": "C",
+                    "text": "Sie ist wichtig, um eine fristgerechte Umsetzung der Maßnahmen sicherzustellen zu können."
+                },
+                {
+                    "letter": "D",
+                    "text": "Es ist genau festzulegen, an wen der Vollzug zu melden ist (im Normalfall der ISB)"
+                }
+            ],
+            "raw": "Was ist bei einer Festlegung von Aufgaben und Verantwortlichkeiten im Rahmen der Maßnahmenplanung zu beachten? (Mehrere Antworten korrekt)\nA) Die Aufgaben müssen von der Anzahl her gerecht auf die Beteiligten verteilt werden.\nB) Es ist festzulegen, wer für die Überwachung der Realisierung verantwortlich ist.\nC) Sie ist wichtig, um eine fristgerechte Umsetzung der Maßnahmen sicherzustellen zu können.\nD) Es ist genau festzulegen, an wen der Vollzug zu melden ist (im Normalfall der ISB)\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 64,
+            "title": "Frage 64",
+            "question": "Nach welcher/welchen Norm(en) kann ein ISMS zertifziert werden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "ITIL"
+                },
+                {
+                    "letter": "B",
+                    "text": "ISO 99700"
+                },
+                {
+                    "letter": "C",
+                    "text": "ISO 27001"
+                },
+                {
+                    "letter": "D",
+                    "text": "COBIT 2019"
+                }
+            ],
+            "correct":
+            [
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "C",
+                    "text": "ISO 27001"
+                }
+            ],
+            "raw": "Nach welcher/welchen Norm(en) kann ein ISMS zertifziert werden?\nA) ITIL\nB) ISO 99700\nC) ISO 27001\nD) COBIT 2019\n\nKorrekt: C"
+        },
+        {
+            "id": 65,
+            "title": "Frage 65",
+            "question": "IT-Grundschutz-Profile sollen die Arbeit für die jeweiligen Anwender vereinfachen. Wer darf ein solches IT-Grundschutz-Profil erstellen?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Ausschließlich Hochschulen dürfen diese im Rahmen von Projektarbeiten entwickeln."
+                },
+                {
+                    "letter": "B",
+                    "text": "Nur das BSI ist berechtigt, IT-Grundschutz-Profile zu erstellen."
+                },
+                {
+                    "letter": "C",
+                    "text": "Nur die jeweiligen Branchenverbände (sofern vorhanden) sind berechtigt, entsprechende Profile zu erstellen."
+                },
+                {
+                    "letter": "D",
+                    "text": "Grundsätzlich darf jeder ein IT-Grundschutz-Profil erstellen. In der Regel werden sie durch Gremien oder Anwendergruppen einer Branche beziehungsweise durch Vertreter eines Themenbereichs erstellt."
+                }
+            ],
+            "correct":
+            [
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "D",
+                    "text": "Grundsätzlich darf jeder ein IT-Grundschutz-Profil erstellen. In der Regel werden sie durch Gremien oder Anwendergruppen einer Branche beziehungsweise durch Vertreter eines Themenbereichs erstellt."
+                }
+            ],
+            "raw": "IT-Grundschutz-Profile sollen die Arbeit für die jeweiligen Anwender vereinfachen. Wer darf ein solches IT-Grundschutz-Profil erstellen?\nA) Ausschließlich Hochschulen dürfen diese im Rahmen von Projektarbeiten entwickeln.\nB) Nur das BSI ist berechtigt, IT-Grundschutz-Profile zu erstellen.\nC) Nur die jeweiligen Branchenverbände (sofern vorhanden) sind berechtigt, entsprechende Profile zu erstellen.\nD) Grundsätzlich darf jeder ein IT-Grundschutz-Profil erstellen. In der Regel werden sie durch Gremien oder Anwendergruppen einer Branche beziehungsweise durch Vertreter eines Themenbereichs erstellt.\n\nKorrekt: D"
+        },
+        {
+            "id": 66,
+            "title": "Frage 66",
+            "question": "Bei der Informationssicherheitsstrategie gem. Standard 200-2 sollten Leitaussagen zur Messung der Zielerreichung getroffen werden. Was sollte dabei definiert werden? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Was zu überwachen und zu messen ist."
+                },
+                {
+                    "letter": "B",
+                    "text": "Es sind keine Definitionen erforderlich."
+                },
+                {
+                    "letter": "C",
+                    "text": "Zuständigkeit für die Überwachung und Messung."
+                },
+                {
+                    "letter": "D",
+                    "text": "Hierzu können i.d.R. keine Aussagen getroffen werden, da dies zu individuell ist."
+                }
+            ],
+            "correct":
+            [
+                "A",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Was zu überwachen und zu messen ist."
+                },
+                {
+                    "letter": "C",
+                    "text": "Zuständigkeit für die Überwachung und Messung."
+                }
+            ],
+            "raw": "Bei der Informationssicherheitsstrategie gem. Standard 200-2 sollten Leitaussagen zur Messung der Zielerreichung getroffen werden. Was sollte dabei definiert werden? (Mehrere Antworten korrekt)\nA) Was zu überwachen und zu messen ist.\nB) Es sind keine Definitionen erforderlich.\nC) Zuständigkeit für die Überwachung und Messung.\nD) Hierzu können i.d.R. keine Aussagen getroffen werden, da dies zu individuell ist.\n\nKorrekt: A, C"
+        },
+        {
+            "id": 67,
+            "title": "Frage 67",
+            "question": "Welche BCMS Stufenmodelle gibt es gem. BSI-Standard 200-4? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Ergebnis-BCMS"
+                },
+                {
+                    "letter": "B",
+                    "text": "Reaktiv-BCMS"
+                },
+                {
+                    "letter": "C",
+                    "text": "Aufbau-BCMS"
+                },
+                {
+                    "letter": "D",
+                    "text": "Entwurfs-BCMS"
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Reaktiv-BCMS"
+                },
+                {
+                    "letter": "C",
+                    "text": "Aufbau-BCMS"
+                }
+            ],
+            "raw": "Welche BCMS Stufenmodelle gibt es gem. BSI-Standard 200-4? (Mehrere Antworten korrekt)\nA) Ergebnis-BCMS\nB) Reaktiv-BCMS\nC) Aufbau-BCMS\nD) Entwurfs-BCMS\n\nKorrekt: B, C"
+        },
+        {
+            "id": 68,
+            "title": "Frage 68",
+            "question": "Welche Informationen sollten Sie als ISB im Rahmen Ihrer Tätigkeit betrachten/bewerten? (Mehrere Antworten korrekt)",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Notizen des Chefs zu seiner nächsten privaten Gartenparty."
+                },
+                {
+                    "letter": "B",
+                    "text": "Quartalsberichte des Unternehmens."
+                },
+                {
+                    "letter": "C",
+                    "text": "Besprechungsprotokolle."
+                },
+                {
+                    "letter": "D",
+                    "text": "Informationen im Rahmen von Telefonkonferenzen im Unternehmen."
+                }
+            ],
+            "correct":
+            [
+                "B",
+                "C",
+                "D"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "B",
+                    "text": "Quartalsberichte des Unternehmens."
+                },
+                {
+                    "letter": "C",
+                    "text": "Besprechungsprotokolle."
+                },
+                {
+                    "letter": "D",
+                    "text": "Informationen im Rahmen von Telefonkonferenzen im Unternehmen."
+                }
+            ],
+            "raw": "Welche Informationen sollten Sie als ISB im Rahmen Ihrer Tätigkeit betrachten/bewerten? (Mehrere Antworten korrekt)\nA) Notizen des Chefs zu seiner nächsten privaten Gartenparty.\nB) Quartalsberichte des Unternehmens.\nC) Besprechungsprotokolle.\nD) Informationen im Rahmen von Telefonkonferenzen im Unternehmen.\n\nKorrekt: B, C, D"
+        },
+        {
+            "id": 69,
+            "title": "Frage 69",
+            "question": "Was wird unter einem Systemaudit verstanden?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Systemaudits prüfen die Normkonformität eines Managementsystems."
+                },
+                {
+                    "letter": "B",
+                    "text": "Systemaudit ist ein anderer Begriff für Penetration-Test."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es werden nur IT-Systeme geprüft."
+                },
+                {
+                    "letter": "D",
+                    "text": "Hier wird der Umsetzungsstand der Bausteine/Anforderungen aus der Schicht \"SYS\" gem. IT-Grundschutz-Kompendium überprüft."
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Systemaudits prüfen die Normkonformität eines Managementsystems."
+                }
+            ],
+            "raw": "Was wird unter einem Systemaudit verstanden?\nA) Systemaudits prüfen die Normkonformität eines Managementsystems.\nB) Systemaudit ist ein anderer Begriff für Penetration-Test.\nC) Es werden nur IT-Systeme geprüft.\nD) Hier wird der Umsetzungsstand der Bausteine/Anforderungen aus der Schicht \"SYS\" gem. IT-Grundschutz-Kompendium überprüft.\n\nKorrekt: A"
+        },
+        {
+            "id": 70,
+            "title": "Frage 70",
+            "question": "Welche Besonderheiten sind beim IT-Grundschutz-Check zu beachten, wenn die Institution sich zunächst im Rahmen der IT-Grundschutz-Vorgehensweise für die Kern-Absicherung entschieden hat?",
+            "options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Von den relevanten Bausteinen sind in der Regel alle Anforderungen zu betrachten, da bei der Kernabsicherung die \"Kronjuwelen\" des Unternehmens geschützt werden. Diese haben normalerweise einen hohen Schutzbedarf."
+                },
+                {
+                    "letter": "B",
+                    "text": "Es müssen nur die Anforderungen im jeweiligen Baustein betrachtet werden, die gesondert als Kern-Anforderung gekennzeichnet sind."
+                },
+                {
+                    "letter": "C",
+                    "text": "Es sind alle Anforderungen in den Kern-Bausteinen zu betrachten."
+                },
+                {
+                    "letter": "D",
+                    "text": "Da in der Regel kein hoher Schutzbedarf vorliegt (sonst hätte man die Standard-Absicherung gewählt) sind die Anforderungen für erhöhten Schutzbedarf nicht relevant."
+                }
+            ],
+            "correct":
+            [
+                "A"
+            ],
+            "correct_options":
+            [
+                {
+                    "letter": "A",
+                    "text": "Von den relevanten Bausteinen sind in der Regel alle Anforderungen zu betrachten, da bei der Kernabsicherung die \"Kronjuwelen\" des Unternehmens geschützt werden. Diese haben normalerweise einen hohen Schutzbedarf."
+                }
+            ],
+            "raw": "Welche Besonderheiten sind beim IT-Grundschutz-Check zu beachten, wenn die Institution sich zunächst im Rahmen der IT-Grundschutz-Vorgehensweise für die Kern-Absicherung entschieden hat?\nA) Von den relevanten Bausteinen sind in der Regel alle Anforderungen zu betrachten, da bei der Kernabsicherung die \"Kronjuwelen\" des Unternehmens geschützt werden. Diese haben normalerweise einen hohen Schutzbedarf.\nB) Es müssen nur die Anforderungen im jeweiligen Baustein betrachtet werden, die gesondert als Kern-Anforderung gekennzeichnet sind.\nC) Es sind alle Anforderungen in den Kern-Bausteinen zu betrachten.\nD) Da in der Regel kein hoher Schutzbedarf vorliegt (sonst hätte man die Standard-Absicherung gewählt) sind die Anforderungen für erhöhten Schutzbedarf nicht relevant.\n\nKorrekt: A"
+        }
+    ],
+    "count": 71
+}
